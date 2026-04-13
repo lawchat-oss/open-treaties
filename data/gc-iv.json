@@ -1,0 +1,1123 @@
+{
+  "treaty": "日內瓦第四公約",
+  "treaty_zh": "日內瓦第四公約",
+  "treaty_en": "Geneva Convention (IV) Relative to the Protection of Civilian Persons in Time of War",
+  "total_articles": 159,
+  "preamble_zh": "1949年4月21日至8月12日簽署公約之各國政府全權代表出席在日內瓦舉行之外交會議，訂立了《關於戰時保護平民之日內瓦公約》，並於 1949年8月12日頒佈新的公約。議定條款如下：",
+  "preamble_en": "The undersigned Plenipotentiaries of the Governments represented at the Diplomatic Conference held at Geneva from April 21 to August 12, 1949, for the purpose of establishing a Convention for the Protection of Civilian Persons in Time of War, have agreed as follows:\n\n=Part I: General Provisions=",
+  "articles": [
+    {
+      "article": "一",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "各締約國承諾在一切情況下尊重本公約並保證本公約之被尊重。",
+      "content_en": "The High Contracting Parties undertake to respect and to ensure respect for the present Convention in all circumstances."
+    },
+    {
+      "article": "二",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "於平時應予實施之各項規定之外，本公約適用於兩個或兩個以上締約國間所發生之一切經過宣戰的戰爭或任何其他武裝衝突，即使其中一國不承認有戰爭狀態。\n\n凡在一締約國的領土一部或全部被占領之場合，即使此項占領未遇武裝抵抗，亦適用本公約。\n\n衝突之一方雖非締約國，其他曾簽訂本公約之國家於其相互關係上，仍應受本公約之拘束。 設若上述非締約國接受並援用本公約之規定時，則締約各國對該國之關係，亦應受本公約之拘束。",
+      "content_en": "In addition to the provisions which shall be implemented in peace-time, the present Convention shall apply to all cases of declared war or of any other armed conflict which may arise between two or more of the High Contracting Parties, even if the state of war is not recognized by one of them.\n\nThe Convention shall also apply to all cases of partial or total occupation of the territory of a High Contracting Party, even if the said occupation meets with no armed resistance.\n\nAlthough one of the Powers in conflict may not be a party to the present Convention, the Powers who are parties thereto shall remain bound by it in their mutual relations. They shall furthermore be bound by the Convention in relation to the said Power, if the latter accepts and applies the provisions thereof."
+    },
+    {
+      "article": "三",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "在一締約國之領土內發生非國際性的武裝衝突之場合，衝突之各方最低限度應遵守下列規定：\n\n（一）不實際參加戰事之人員，包括放下武器之武裝部隊人員及因病、傷、拘留、或其他原因而失去戰鬥力之人員在內，在一切情況下應予以人道待遇，不得基於種族、膚色 、宗教或信仰、性別、出身或財力或其他類似標準而有所歧視。\n\n因此，對於上述人員，不論何時何地，不得有下列行為：\n\n（甲）對生命與人身施以暴力，特別如各種謀殺、殘傷肢體、虐待及酷刑；\n\n（乙）作為人質；\n\n（丙）損害個人尊嚴，特別如侮辱與降低身份的待遇；\n\n（丁）未經具有文明人類所認為必需之司法保障的正規組織之法庭之宣判而遽行判罪及執行死刑。\n\n（二）傷者、病者應予收集與照顧。\n\n公正的人道主義團體，如紅十字國際委員會，得向衝突之各方提供服務。\n\n衝突之各方應進而努力，以特別協定之方式，使本公約之其他規定得全部或部分發生效力。\n\n上述規定之適用不影響衝突各方之法律地位。",
+      "content_en": "In the case of armed conflict not of an international character occurring in the territory of one of the High Contracting Parties, each Party to the conflict shall be bound to apply, as a minimum, the followingprovisions:# Persons taking no active part in the hostilities, including members of armed forces who have laid down their arms and those placed hors de combat by sickness, wounds, detention, or any other cause, shall in all circumstances be treated humanely, without any adverse distinction founded on race, colour, religion or faith, sex, birth or wealth, or any other similar criteria. To this end the following acts are and shall remain prohibited at any time and in any place whatsoever with respect to the above-mentioned persons:#* violence to life and person, in particular murder of all kinds, mutilation, cruel treatment and torture;#* taking of hostages;#* outrages upon personal dignity, in particular humiliating and degrading treatment;#* the passing of sentences and the carrying out of executions without previous judgment pronounced by a regularly constituted court, affording all the judicial guarantees which are recognized as indispensable by civilized peoples.# The wounded and sick shall be collected and cared for.\n\nAn impartial humanitarian body, such as the International Committee of the Red Cross, may offer its services to the Parties to the conflict.\n\nThe Parties to the conflict should further endeavour to bring into force, by means of special agreements, all or part of the other provisions of the present Convention.\n\nThe application of the preceding provisions shall not affect the legal status of the Parties to the conflict."
+    },
+    {
+      "article": "四",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "在衝突或占領之場合，於一定期間內及依不論何種方式，處於非其本國之衝突之一方或占領國手中之人，即為受本公約保護之人。\n\n不受本公約拘束之國家之人民即不受本公約之保護。 凡在交戰國領土內之中立國人民及共同作戰國人民，在其本國尚有通常外交使節駐在控制彼等之國家時，不得認為被保護人。\n\n惟本公約第二部之各項規定，如第十三條所劃定，其適用範圍較廣。\n\n凡受１９４９年８月１２日改善戰地武裝部隊傷者病者境遇之日內瓦公約，或１９４９年８月１２日改善海上武裝部隊傷者病者及遇船難者境遇之日內瓦公約，或１９４９年８ 月１２日關於戰俘待遇之日內瓦公約保護之人，不得認為本公約意義內之被保護人。",
+      "content_en": "Persons protected by the Convention are those who, at a given moment and in any manner whatsoever, find themselves, in case of a conflict or occupation, in the hands of a Party to the conflict or Occupying Power of which they are not nationals.\n\nNationals of a State which is not bound by the Convention are not protected by it. Nationals of a neutral State who find themselves in the territory of a belligerent State, and nationals of a co-belligerent State, shall not be regarded as protected persons while the State of which they are nationals has normal diplomatic representation in the State in whose hands they are.\n\nThe provisions of Part II are, however, wider in application, as defined in Article 13.\n\nPersons protected by the Geneva Convention for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field of 12 August 1949, or by the Geneva Convention for the Amelioration of the Condition of Wounded, Sick and Shipwrecked Members of Armed Forces at Sea of 12 August 1949, or by the Geneva Convention relative to the Treatment of Prisoners of War of 12 August 1949, shall not be considered as protected persons within the meaning of the present Convention."
+    },
+    {
+      "article": "五",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "凡衝突之一方深信在其領土內之個別被保護人確有危害該國安全之活動之嫌疑，或從事該項活動，而本公約之各項權利與特權若為該個人行使將有害該國安全 時，該個人即不得要求此等權利與特權。\n\n在占領地內個別被保護人如系因間諜或破壞分子，或因確有危害占領國安全之活動嫌疑而被拘留者，在絕對的軍事安全有此要求之情況下，其人應即認為喪失在 本公約下之通訊權。\n\n惟在每種情形下，此等人仍應受人道待遇，且在受審判時，不應剝奪本公約規定之公平正常的審判之權利。 又應斟酌個別情況儘早在合於該國或占領國之安全時給予彼等以被保護人依本公約所享有之全部權利與特權。",
+      "content_en": "Where in the territory of a Party to the conflict, the latter is satisfied that an individual protected person is definitely suspected of or engaged in activities hostile to the security of the State, such individual person shall not be entitled to claim such rights and privileges under the present Convention as would, if exercised in the favour of such individual person, be prejudicial to the security of such State.\n\nWhere in occupied territory an individual protected person is detained as a spy or saboteur, or as a person under definite suspicion of activity hostile to the security of the Occupying Power, such person shall, in those cases where absolute military security so requires, be regarded as having forfeited rights of communication under the present Convention.\n\nIn each case, such persons shall nevertheless be treated with humanity and, in case of trial, shall not be deprived of the rights of fair and regular trial prescribed by the present Convention. They shall also be granted the full rights and privileges of a protected person under the present Convention at the earliest date consistent with the security of the State or Occupying Power, as the case may be."
+    },
+    {
+      "article": "六",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "本公約應於第二條所述之任何衝突或占領開始時適用。\n\n在衝突各方之領土內，本公約之適用，於軍事行動全面結束時應即停止。\n\n本公約在占領地內之適用，於軍事行動全面結束後一年應即停止；惟占領國於占領期間在該國於占領地內行使政府職權之限度內，應受本公約下列各條規定之拘束： 第一至十二、二十七、二十九至三十四、四十七、四十九、五十一、五十二、五十三、五十九、六十一至七十七、 一百四十三條。\n\n被保護人之釋放、遣返、或安置，若在上述各期限以後實現者，則在其實現之期間，彼等仍應繼續享受本公約之利益。",
+      "content_en": "The present Convention shall apply from the outset of any conflict or occupation mentioned in Article 2.\n\nIn the territory of Parties to the conflict, the application of the present Convention shall cease on the general close of military operations.\n\nIn the case of occupied territory, the application of the present Convention shall cease one year after the general close of military operations; however, the Occupying Power shall be bound, for the duration of the occupation, to the extent that such Power exercises the functions of government in such territory, by the provisions of the following Articles of the present Convention: 1 to 12, 27, 29 to 34, 47, 49, 51, 52, 53, 59, 61 to 77, 143.\n\nProtected persons whose release, repatriation or re-establishment may take place after such dates shall meanwhile continue to benefit by the present Convention."
+    },
+    {
+      "article": "七",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "於第十一、十四、十五、十七、三十六、一百零八、一百零九、一百三十二、一百三十三及一百四十九各條明文規定之 協定之外，各締約國對其認為需另作規定之一切事項，得訂立特別協定。 是項特別協定不得對於本公約關於被保護人所規定之境遇有不利的影響，亦不得限制本公約所賦予彼等之權利。\n\n除在上述或後訂之協定中有相反之明文規定，或衝突之一方對彼等採取更優待之措施外，被保護人在本公約對其適用期間應繼續享受是項協定之利益。",
+      "content_en": "In addition to the agreements expressly provided for in Articles 11, 14, 15, 17, 36, 108, 109, 132, 133 and 149, the High Contracting Parties may conclude other special agreements for all matters concerning which they may deem it suitable to make separate provision. No special agreement shall adversely affect the situation of protected persons, as defined by the present Convention, not restrict the rights which it confers upon them.\n\nProtected persons shall continue to have the benefit of such agreements as long as the Convention is applicable to them, except where express provisions to the contrary are contained in the aforesaid or in subsequent agreements, or where more favourable measures have been taken with regard to them by one or other of the Parties to the conflict."
+    },
+    {
+      "article": "八",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "在任何情況下，被保護人不得放棄本公約或上條所述之特別協定--如其訂有是項協定--所賦予彼等權利之一部或全部。",
+      "content_en": "Protected persons may in no circumstances renounce in part or in entirety the rights secured to them by the present Convention, and by the special agreements referred to in the foregoing Article, if such there be."
+    },
+    {
+      "article": "九",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "本公約之適用應與保護國合作並受其監察。 保護國之責任為維護衝突各方之利益。 為此目的，保護國在其外交或領事人員之外，得自其本國國民或其他中立國國民中指派代表。 上述代表應經其執行任務所在國之認可。\n\n衝突各方對於保護國之代表之工作應盡最大可能予以便利。\n\n保護國之代表在任何情況下不得逾越本公約所畀予之任務。 彼等尤須顧及其執行任務所在國之安全上迫切的必要。",
+      "content_en": "The present Convention shall be applied with the cooperation and under the scrutiny of the Protecting Powers whose duty it is to safeguard the interests of the Parties to the conflict. For this purpose, the Protecting Powers may appoint, apart from their diplomatic or consular staff, delegates from amongst their own nationals or the nationals of other neutral Powers. The said delegates shall be subject to the approval of the Power with which they are to carry out their duties.\n\nThe Parties to the conflict shall facilitate to the greatest extent possible the task of the representatives or delegates of the Protecting Powers.\n\nThe representatives or delegates of the Protecting Powers shall not in any case exceed their mission under the present Convention.\n\nThey shall, in particular, take account of the imperative necessities of security of the State wherein they carry out their duties."
+    },
+    {
+      "article": "十",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "本公約之規定並不妨礙紅十字國際委員會或其他公正的人道主義組織，在有關衝突各方之同意之條件下，從事保護與救濟平民之人道主義活動。",
+      "content_en": "The provisions of the present Convention constitute no obstacle to the humanitarian activities which the International Committee of the Red Cross or any other impartial humanitarian organization may, subject to the consent of the Parties to the conflict concerned, undertake for the protection of civilian persons and for their relief."
+    },
+    {
+      "article": "十一",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "各締約國得隨時同意將根據本公約應由保護國負擔之任務，委託於具有公允與效能之一切保證之組織。\n\n當受本公約保護之人，不拘為何原因，不能享受或已停止享受保護國或本條第一款所規定之組織的活動之利益時，則拘留國應請一中立國或此種組織擔任依照本公約 應由衝突各方指定之保護國所執行之任務。\n\n若保護不能依此布置，則拘留國應在本條之規定之約束下，請求或接受一人道主義組織，如紅十字國際委員會，提供服務，以擔任依本公約由保護國執行之人道主義的任務 。\n\n任何中立國或任何組織經有關國家邀請或自願提供服務而執行任務時，在行為上須對本公約所保護之人員所依附之衝突一方具有責任感，並須充分保證能執行其所負之任務，且能 公允執行之。\n\n各國間訂立特別協定，如其中一國因軍事關係，特別是因其領土之大部或全部被占領，以致該國與其他一國或其盟國談判之自由受限制，即或是暫時的，本 公約上列規定不得因該項特別協定而有所減損。\n\n凡本公約中提及保護國，亦適用於本條所指之代替組織。\n\n凡中立國人民處於占領地或交戰國領土內而其本國並無通常外交代表駐在該國時，本條各項規定應對彼等適用。",
+      "content_en": "The High Contracting Parties may at any time agree to entrust to an international organization which offers all guarantees of impartiality and efficacy the duties incumbent on the Protecting Powers by virtue of the present Convention.\n\nWhen persons protected by the present Convention do not benefit or cease to benefit, no matter for what reason, by the activities of a Protecting Power or of an organization provided for in the first paragraph above, the Detaining Power shall request a neutral State, or such an organization, to undertake the functions performed under the present Convention by a Protecting Power designated by the Parties to a conflict.\n\nIf protection cannot be arranged accordingly, the Detaining Power shall request or shall accept, subject to the provisions of this Article, the offer of the services of a humanitarian organization, such as the International Committee of the Red Cross, to assume the humanitarian functions performed by Protecting Powers under the present Convention.\n\nAny neutral Power or any organization invited by the Power concerned or offering itself for these purposes, shall be required to act with a sense of responsibility towards the Party to the conflict on which persons protected by the present Convention depend, and shall be required to furnish sufficient assurances that it is in a position to undertake the appropriate functions and to discharge them impartially.\n\nNo derogation from the preceding provisions shall be made by special agreements between Powers, except the amelioration of wounded who's nation does not follow the present Convention, which is restricted, even temporarily. in its freedom to negotiate with the other Power or its allies by reason of military events, more particularly where the whole, or a substantial part, of the territory of the said Power is occupied.\n\nWhenever in the present Convention mention is made of a Protecting Power, such mention applies to substitute organizations in the sense of the present Article.\n\nThe provisions of this Article shall extend and be adapted to cases of nationals of a neutral State who are in occupied territory or who find themselves in the territory of a belligerent State in which the State of which they are nationals has not normal diplomatic representation."
+    },
+    {
+      "article": "十二",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "保護國認為於被保護人之利益適宜時，尤其遇衝突各方對於本公約之適用與解釋意見有分歧時，應從事斡旋以期解決分歧。\n\n為此目的，各保護國得應一方之請求，或主動向衝突各方建議，可能在適當選擇之中立領土召開代表會議，被保護人之負責當局代表尤須參加。 衝突各方對於為此目的而提出之建議負有實行之義務。 各保護國得於必要時，提請衝突各方同意，特邀一中立國人員或紅十字國際委員會委派之人員參加此項會議。",
+      "content_en": "In cases where they deem it advisable in the interest of protected persons, particularly in cases of disagreement between the Parties to the conflict as to the application or interpretation of the provisions of the present Convention, the Protecting Powers shall lend their good offices with a view to settling the disagreement.\n\nFor this purpose, each of the Protecting Powers may, either at the invitation of one Party or on its own initiative, propose to the Parties to the conflict a meeting of their representatives, and in particular of the authorities responsible for protected persons, possibly on neutral territory suitably chosen. The Parties to the conflict shall be bound to give effect to the proposals made to them for this purpose. The Protecting Powers may, if necessary, propose for approval by the Parties to the conflict a person belonging to a neutral Power, or delegated by the International Committee of the Red Cross, who shall be invited to take part in such a meeting."
+    },
+    {
+      "article": "十三",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "本公約第二部之規定，涉及衝突各國之全部人民，尤不得基於種族、國籍、宗教或政治意見而有所歧視，各規定之目的在於減輕戰爭所致之痛苦。",
+      "content_en": "The provisions of Part II cover the whole of the populations of the countries in conflict, without any adverse distinction based, in particular, on race, nationality, religion or political opinion, and are intended to alleviate the sufferings caused by war."
+    },
+    {
+      "article": "十四",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "各締約國在平時，衝突各方在戰事開始後，得在其領土內，並於必要時在占領地內，設立醫院及安全地帶與處所，加以適當的組織，使能保護傷者、病者、老者、十五歲以下兒童、孕婦、及七歲以下兒童之母親，俾免受戰爭影響。\n\n在戰事開始時及其進行中，有關各方得締結協定互相承認所設立之地帶與處所。各該國得為此目的實施本公約所附協定草案之規定，連同其所認為必要之修改。\n\n為便於醫院與安全地帶及處所之設立及承認，應請保護國及紅十字國際委員會從事斡旋。",
+      "content_en": "In time of peace, the High Contracting Parties and, after the outbreak of hostilities, the Parties thereto, may establish in their own territory and, if the need arises, in occupied areas, hospital and safety zones and localities so organized as to protect from the effects of war, wounded, sick and aged persons, children under fifteen, expectant mothers and mothers of children under seven.\n\nUpon the outbreak and during the course of hostilities, the Parties concerned may conclude agreements on mutual recognition of the zones and localities they have created. They may for this purpose implement the provisions of the Draft Agreement annexed to the present Convention, with such amendments as they may consider necessary.\n\nThe Protecting Powers and the International Committee of the Red Cross are invited to lend their good offices in order to facilitate the institution and recognition of these hospital and safety zones and localities."
+    },
+    {
+      "article": "十五",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "任何衝突之一方，得直接或通過一中立國或人道主義組織，向其敵方建議在作戰區域內設立中立化地帶，保護下列人等免受戰爭之影響，不加歧視：\n\n（甲）傷、病戰鬥員或非戰鬥員；\n\n（乙）不參加戰事及雖居住在該地帶內而不從事軍事性工作之平民。\n\n如有關各國對於擬議之中立化地帶之地理位置、管理、食物供給及監督均予同意，應由衝突各方之代表簽定一書面協定，該協定應規定該地帶之中立化之開始及期限。",
+      "content_en": "Any Party to the conflict may, either direct or through a neutral State or some humanitarian organization, propose to the adverse Party to establish, in the regions where fighting is taking place, neutralized zones intended to shelter from the effects of war the following persons, withoutdistinction:* wounded and sick combatants or non-combatants;* civilian persons who take no part in hostilities, and who, while they reside in the zones, perform no work of a military character.\n\nWhen the Parties concerned have agreed upon the geographical position, administration, food supply and supervision of the proposed neutralized zone, a written agreement shall be concluded and signed by the representatives of the Parties to the conflict. The agreement shall fix the beginning and the duration of the neutralization of the zone."
+    },
+    {
+      "article": "十六",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "傷者、病者、弱者以及孕婦應為特別保護與尊重之對象。\n\n在軍事的考慮許可時，衝突各方對於尋覓死者、傷者，協助遇船難者及其他冒嚴重危險之人，及保護彼等免遭搶動及虐待所採取之各項步驟應予以便利。",
+      "content_en": "The wounded and sick, as well as the infirm, and expectant mothers, shall be the object of particular protection and respect.\n\nAs far as military considerations allow, each Party to the conflict shall facilitate the steps taken to search for the killed and wounded, to assist the shipwrecked and other persons exposed to grave danger, and to protect them against pillage and ill-treatment."
+    },
+    {
+      "article": "十七",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "衝突各方應盡力締結局部協定以便將被包圍地區內之傷者、病者、弱者、老者、幼童及產婦撤出，及使送往該地區之一切宗教之牧師、醫務人員、醫療設備得以通過。",
+      "content_en": "The Parties to the conflict shall endeavour to conclude local agreements for the removal from besieged or encircled areas, of wounded, sick, infirm, and aged persons, children and maternity cases, and for the passage of ministers of all religions, medical personnel and medical equipment on their way to such areas."
+    },
+    {
+      "article": "十八",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "凡為照顧傷者、病者、弱者及產婦而組織之民用醫院，在任何環境下，不得為攻擊之目標，而應隨時受衝突各方之尊重與保護。\n\n衝突各方之國家，對所有民用醫院應發給證書，證明各該醫院系民用醫院且其所占用之建築物並未作依第十九條應剝奪其保護之任何用途。\n\n各民用醫院均應標以１９４９年８月１２日改善戰地武裝部隊傷者病者境遇之日內瓦公約第三十八條所規定之標誌，惟須經各該國認可。\n\n在軍事的考慮許可之限度內，衝突各方應採取必要步驟，使標明民用醫院之特殊標誌能為敵方陸、空及海軍清晰望見，以避免任何敵對行動之可能。\n\n鑑於醫院臨近軍事目標不免遭受危險，故建議上述醫院之位置應儘量遠離該項目標。",
+      "content_en": "Civilian hospitals organized to give care to the wounded and sick, the infirm and maternity cases, may in no circumstances be the object of attack but shall at all times be respected and protected by the Parties to the conflict.\n\nStates which are Parties to a conflict shall provide all civilian hospitals with certificates showing that they are civilian hospitals and that the buildings which they occupy are not used for any purpose which would deprive these hospitals of protection in accordance with Article 19.\n\nCivilian hospitals shall be marked by means of the emblem provided for in Article 38 of the Geneva Convention for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field of 12 August 1949, but only if so authorized by the State.\n\nThe Parties to the conflict shall, in so far as military considerations permit, take the necessary steps to make the distinctive emblems indicating civilian hospitals clearly visible to the enemy land, air and naval forces in order to obviate the possibility of any hostile action.\n\nIn view of the dangers to which hospitals may be exposed by being close to military objectives, it is recommended that such hospitals be situated as far as possible from such objectives."
+    },
+    {
+      "article": "十九",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "民用醫院應得之保護不得停止，除非此項醫院越出其人道主義任務之外，用以從事有害於敵方之行為。惟如經給予相當警告，並按個別情形規定合理時限而警告仍被忽視時，始得停止保護。\n\n如有武裝部隊傷病人員在前項醫院療養，或由該項戰鬥員卸下之小型武器及彈藥尚未繳交主管機關之事實，不得視為有害敵方之行動。",
+      "content_en": "The protection to which civilian hospitals are entitled shall not cease unless they are used to commit, outside their humanitarian duties, acts harmful to the enemy. Protection may, however, cease only after due warning has been given, naming, in all appropriate cases, a reasonable time limit and after such warning has remained unheeded.\n\nThe fact that sick or wounded members of the armed forces are nursed in these hospitals, or the presence of small arms and ammunition taken from such combatants and not yet been handed to the proper service, shall not be considered to be acts harmful to the enemy."
+    },
+    {
+      "article": "二十",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "經常專門從事民用醫院工作及管理之人，包括從事搜尋、移送、運輸與照顧傷病平民、弱者及產婦之人員，均應受尊重與保護。\n\n上述人員在占領地及軍事行動地帶內執行任務時，應有證明其地位之身份證，上貼本人像片，並軋有負責當局之鋼印，並應有在左臂佩帶加蓋印章之防水臂章，以資識別。此項臂章應由國家頒發，並須有１９４９年８月１２日改善戰地武裝部隊傷者病者境遇之日內瓦公約第三十八條所規定之標誌。\n\n其他從事民用醫院工作及管理之人員，若擔任此類任務時，應受尊重與保護，並按照本條所規定之條件，佩帶臂章。彼等之身份證上應註明其擔任之任務。\n\n各醫院之管理當局應隨時備有上述各項工作人員之最近名單，以供本國或占領國主管當局之用。",
+      "content_en": "Persons regularly and solely engaged in the operation and administration of civilian hospitals, including the personnel engaged in the search for, removal and transporting of and caring for wounded and sick civilians, the infirm and maternity cases shall be respected and protected.\n\nIn occupied territory and in zones of military operations, the above personnel shall be recognizable by means of an identity card certifying their status, bearing the photograph of the holder and embossed with the stamp of the responsible authority, and also by means of a stamped, water-resistant armlet which they shall wear on the left arm while carrying out their duties. This armlet shall be issued by the State and shall bear the emblem provided for in Article 38 of the Geneva Convention for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field of 12 August 1949.\n\nOther personnel who are engaged in the operation and administration of civilian hospitals shall be entitled to respect and protection and to wear the armlet, as provided in and under the conditions prescribed in this Article, while they are employed on such duties. The identity card shall state the duties on which they are employed.\n\nThe management of each hospital shall at all times hold at the disposal of the competent national or occupying authorities an up-to-date list of such personnel."
+    },
+    {
+      "article": "二十一",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "凡運送傷病平民、弱者、產婦之陸地運輸車隊，陸地醫院列車或海上之特備船隻，均應與第十八條所規定之醫院受同樣之尊重與保護，此項車船，經各該國同意後，應標以１９４９年８月１２日改善戰地武裝部隊傷者病者境遇之日內瓦公約第三十八條所規定之特殊標誌。",
+      "content_en": "Convoys of vehicles or hospital trains on land or specially provided vessels on sea, conveying wounded and sick civilians, the infirm and maternity cases, shall be respected and protected in the same manner as the hospitals provided for in Article 18, and shall be marked, with the consent of the State, by the display of the distinctive emblem provided for in Article 38 of the Geneva Convention for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field of 12 August 1949."
+    },
+    {
+      "article": "二十二",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "凡專為移送傷病平民、弱者、產婦或運輸醫務人員、醫療設備之飛機，在有關衝突各方所特別約定之高度、時間、航線飛行時，應不受攻擊而予以尊重。\n\n此項飛機得標以１９４９年８月１２日改善戰地武裝部隊傷者病者境遇之日內瓦公約第三十八條所規定之特殊標誌。\n\n除非另有協定，飛越敵方領土或敵人占領地均所禁止。\n\n此項飛機應服從降落命令。如被令降落，而需要檢查時，則經過檢查後，該機載其乘員得繼續飛行。",
+      "content_en": "Aircraft exclusively employed for the removal of wounded and sick civilians, the infirm and maternity cases or for the transport of medical personnel and equipment, shall not be attacked, but shall be respected while flying at heights, times and on routes specifically agreed upon between all the Parties to the conflict concerned.\n\nThey may be marked with the distinctive emblem provided for in Article 38 of the Geneva Convention for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field of 12 August 1949.\n\nUnless agreed otherwise, flights over enemy or enemy occupied territory are prohibited.\n\nSuch aircraft shall obey every summons to land. In the event of a landing thus imposed, the aircraft with its occupants may continue its flight after examination, if any."
+    },
+    {
+      "article": "二十三",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "各締約國對於純為另一締約國平民使用之醫療與醫院供應品，或宗教禮拜所需物品之一切裝運物資，均應許其自由通過，即使該另一締約國為其敵國。對於供十五歲以下兒童、孕婦與產婦使用之主要食物、衣服及滋補劑之裝運，亦應同樣許其自由通過。\n\n締約國允許上款所述裝運物資之自由通過之義務，以該國深信並無嚴重理由足以引起下列之恐懼為條件：\n\n（甲）該項裝運物資可自其目的地改運他處：\n\n（乙）管制可能無效，或\n\n（丙）由於上述各項物資代替當由敵方供給或生產之物品，或使生產此類物品所需之材料，工作或設備得以騰出，而可能予敵方軍事努力或經濟以確定之利益。\n\n凡允許本條第一款所述裝運物資通過之國家，得要求在該項物資分發於受惠人時，應以由保護國就地監督為允許之條件。\n\n上述裝運物資應儘速轉送，而允許此等物資自由通過之國家應有權規定準許該項通過之技術方面的辦法。",
+      "content_en": "Each High Contracting Party shall allow the free passage of all consignments of medical and hospital stores and objects necessary for religious worship intended only for civilians of another High Contracting Party, even if the latter is its adversary. It shall likewise permit the free passage of all consignments of essential foodstuffs, clothing and tonics intended for children under fifteen, expectant mothers and maternity cases.\n\nThe obligation of a High Contracting Party to allow the free passage of the consignments indicated in the preceding paragraph is subject to the condition that this Party is satisfied that there are no serious reasonsfor fearing:* that the consignments may be diverted from their destination,* that the control may not be effective, or* that a definite advantage may accrue to the military efforts or economy of the enemy through the substitution of the above-mentioned consignments for goods which would otherwise be provided or produced by the enemy or through the release of such material, services or facilities as would otherwise be required for the production of such goods.\n\nThe Power which allows the passage of the consignments indicated in the first paragraph of this Article may make such permission conditional on the distribution to the persons benefited thereby being made under the local supervision of the Protecting Powers.\n\nSuch consignments shall be forwarded as rapidly as possible, and the Power which permits their free passage shall have the right to prescribe the technical arrangements under which such passage is allowed."
+    },
+    {
+      "article": "二十四",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "衝突各方應採取必要措施，俾十五歲以下兒童因受戰爭影響成為孤兒或與家庭分離者，不致無人照管，並使彼等之扶養，宗教與教育之進行，在一切情形下均獲便利。彼等之教育，應儘可能委託於具有相似的文化傳統之人。\n\n衝突各方應便利衝突期間此種兒童收容於中立國，此事應經保護國--如其有保護國--之同意，並有遵守第一款所述原則之適當保證。\n\n衝突各方並應盡力設法使十二歲以下兒童均佩帶身份牌，或用其他方式，以資識別。",
+      "content_en": "The Parties to the conflict shall take the necessary measures to ensure that children under fifteen, who are orphaned or are separated from their families as a result of the war, are not left to their own resources, and that their maintenance, the exercise of their religion and their education are facilitated in all circumstances. Their education shall, as far as possible, be entrusted to persons of a similar cultural tradition.\n\nThe Parties to the conflict shall facilitate the reception of such children in a neutral country for the duration of the conflict with the consent of the Protecting Power, if any, and under due safeguards for the observance of the principles stated in the first paragraph.\n\nThey shall, furthermore, endeavour to arrange for all children under twelve to be identified by the wearing of identity discs, or by some other means."
+    },
+    {
+      "article": "二十五",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "衝突各方之領土內或其占領地內所有人們，應能將純屬個人性質的消息通知其在任何地方之家人，並接獲其家人之此類消息。此項通訊應迅速傳遞，不得有不當之遲延。\n\n如由於環境影響，難於或不可能由普通郵政互遞家庭信件時，有關衝突各方應向中立媒介接洽，如第一百四十條所規定之中央事務所，並與之商定如何在可能最好的情況下保證其義務之履行，尤應取得各國紅十字（紅新月、紅獅與日）會之合作。\n\n如衝突各方認為有限制家庭通訊之必要，該項限制只應限於能容任擇二十五字之標準信紙之強制使用，及將寄發此項格式之信件每月限為一份。",
+      "content_en": "All persons in the territory of a Party to the conflict, or in a territory occupied by it, shall be enabled to give news of a strictly personal nature to members of their families, wherever they may be, and to receive news from them. This correspondence shall be forwarded speedily and without undue delay.\n\nIf, as a result of circumstances, it becomes difficult or impossible to exchange family correspondence by the ordinary post, the Parties to the conflict concerned shall apply to a neutral intermediary, such as the Central Agency provided for in Article 140, and shall decide in consultation with it how to ensure the fulfilment of their obligations under the best possible conditions, in particular with the cooperation of the National Red Cross (Red Crescent, Red Lion and Sun) Societies.\n\nIf the Parties to the conflict deem it necessary to restrict family correspondence, such restrictions shall be confined to the compulsory use of standard forms containing twenty-five freely chosen words, and to the limitation of the number of these forms despatched to one each month."
+    },
+    {
+      "article": "二十六",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "衝突各方對於因戰爭致與家庭離散之人所為之調查，以期在可能時與其家庭重新聯繫或團聚者，應給予便利。衝突各方尤應鼓勵從事此項任務之組織之工作，但須此項組織能為其所接受並遵照其安全規則。",
+      "content_en": "Each Party to the conflict shall facilitate enquiries made by members of families dispersed owing to the war, with the object of renewing contact with one another and of meeting, if possible. It shall encourage, in particular, the work of organizations engaged on this task provided they are acceptable to it and conform to its security regulations."
+    },
+    {
+      "article": "二十七",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "被保護人之人身、榮譽、家庭權利、宗教信仰與儀式、風俗與習慣，在一切情形下均應予以尊重。無論何時，被保護人均須受人道待遇，並應受保護，特別使其免受一切暴行，或暴行的威脅及侮辱與公眾好奇心的煩擾。\n\n婦女應受特別保護以免其榮譽受辱，尤須防止強姦、強迫為娼或任何形式的非禮之侵犯。\n\n衝突各方對在其權力下之被保護人，在不妨有關其健康狀況、年齡、性別之各項規定之條件下，應同樣待遇之，尤不得基於種族、宗教或政治意見而有所歧視。\n\n但衝突各方對被保護人得採取由於戰爭而有必要之管制及安全之措施。",
+      "content_en": "Protected persons are entitled, in all circumstances, to respect for their persons, their honour, their family rights, their religious convictions and practices, and their manners and customs. They shall at all times be humanely treated, and shall be protected especially against all acts of violence or threats thereof and against insults and public curiosity.\n\nWomen shall be especially protected against any attack on their honour, in particular against rape, enforced prostitution, or any form of indecent assault.\n\nWithout prejudice to the provisions relating to their state of health, age and sex, all protected persons shall be treated with the same consideration by the Party to the conflict in whose power they are, without any adverse distinction based, in particular, on race, religion or political opinion.\n\nHowever, the Parties to the conflict may take such measures of control and security in regard to protected persons as may be necessary as a result of the war."
+    },
+    {
+      "article": "二十八",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "對於被保護人不得利用其安置於某點或某地區以使該處免受軍事攻擊。",
+      "content_en": "The presence of a protected person may not be used to render certain points or areas immune from military operations."
+    },
+    {
+      "article": "二十九",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "在衝突一方對於權力下之被保護人所受該國人員之待遇，該國均應負責，不論此項人員所負之個人責任如何。",
+      "content_en": "The Party to the conflict in whose hands protected persons may be, is responsible for the treatment accorded to them by its agents, irrespective of any individual responsibility which may be incurred."
+    },
+    {
+      "article": "三十",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "被保護人應有向保護國、紅十字國際委員會、彼等所在國之紅十字（紅新月、紅獅與日）會，或能予以協助之任何組織提出申請之各種便利。\n\n上述各組織應由當局在根據軍事或安全的考慮所定之範圍內，予以上述目的所需之各種便利。\n\n於第一百四十三條所規定之保護國及紅十字國際委員會代表之訪問之外，各拘留國或占領國對於以給予被保護人精神協助或物資救濟為目的之其他組織的代表之訪問被保護人，應儘量予以便利。",
+      "content_en": "Protected persons shall have every facility for making application to the Protecting Powers, the International Committee of the Red Cross, the National Red Cross (Red Crescent, Red Lion and Sun) Society of the country where they may be, as well as to any organization that might assist them.\n\nThese several organizations shall be granted all facilities for that purpose by the authorities, within the bounds set by military or security considerations.\n\nApart from the visits of the delegates of the Protecting Powers and of the International Committee of the Red Cross, provided for by Article 143, the Detaining or Occupying Powers shall facilitate, as much as possible, visits to protected persons by the representatives of other organizations whose object is to give spiritual aid or material relief to such persons."
+    },
+    {
+      "article": "三十一",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "對被保護人不得施以身體上或精神上之強迫，尤其不得藉以從彼等或第三者取得情報。",
+      "content_en": "No physical or moral coercion shall be exercised against protected persons, in particular to obtain information from them or from third parties."
+    },
+    {
+      "article": "三十二",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "各締約國特別同意禁止各該國採取任何足以使其手中之被保護人遭受身體痛苦或消滅之措施。此項禁令不僅適用於謀殺、酷刑、體刑、殘傷肢體及非為治療被保護人所必需之醫學或科學實驗，並適用於文武人員施行之其他任何殘酷措施。",
+      "content_en": "The High Contracting Parties specifically agree that each of them is prohibited from taking any measure of such a character as to cause the physical suffering or extermination of protected persons in their hands. This prohibition applies not only to murder, torture, corporal punishments, mutilation and medical or scientific experiments not necessitated by the medical treatment of a protected person, but also to any other measures of brutality whether applied by civilian or military agents."
+    },
+    {
+      "article": "三十三",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "被保護人無論男女不得因非本人所犯之行為而受懲罰。集體懲罰及一切恫嚇恐怖手段，均所禁止。\n\n禁止掠奪。\n\n禁止對被保護人及其財產採取報復行為。",
+      "content_en": "No protected person may be punished for an offence he or she has not personally committed. Collective penalties and likewise all measures of intimidation or of terrorism are prohibited.\n\nPillage is prohibited.\n\nReprisals against protected persons and their property are prohibited."
+    },
+    {
+      "article": "三十四",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "禁止作為人質。",
+      "content_en": "The taking of hostages is prohibited."
+    },
+    {
+      "article": "三十五",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一切被保護人，在衝突開始時，或衝突進行中，希望離境者，除非其離去有違所在國之國家利益，均應有權離境。此等人之離境申請應按照正常規定之手續予以決定，此項決定並應儘速為之。凡獲准離境之人得自行準備必須之旅費並攜帶相當數量之個人物品。\n\n如上述任何人之離境請求被拒絕時，彼應有權請求拘留國所指定之主管法庭或行政審議機關對此項拒絕從速重新考慮。\n\n除非安全理由所不許或關係人反對，一經保護國代表之請求，應即告以不准離境之理由，並應儘速檢送不准離境之人的全體名單。",
+      "content_en": "All protected persons who may desire to leave the territory at the outset of, or during a conflict, shall be entitled to do so, unless their departure is contrary to the national interests of the State. The applications of such persons to leave shall be decided in accordance with regularly established procedures and the decision shall be taken as rapidly as possible. Those persons permitted to leave may provide themselves with the necessary funds for their journey and take with them a reasonable amount of their effects and articles of personal use.\n\nIf any such person is refused permission to leave the territory, he shall be entitled to have refusal reconsidered, as soon as possible by an appropriate court or administrative board designated by the Detaining Power for that purpose.\n\nUpon request, representatives of the Protecting Power shall, unless reasons of security prevent it, or the persons concerned object, be furnished with the reasons for refusal of any request for permission to leave the territory and be given, as expeditiously as possible, the names of all persons who have been denied permission to leave."
+    },
+    {
+      "article": "三十六",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "依上條獲准之離境，應在關於安全、衛生、保健及食物方面之妥善條件下實行之。一切有關離境之費用，自拘留國領土內之出境地點起，應由出境人目的地之國家擔負，若出境人被收容於中立國，則該項費用應由受益人之本國負擔。此項移動之施行細則，必要時，得由有關國家以特別協定決定之。\n\n前項規定不得影響衝突各方間所訂關於交換及遣返在敵方手中之人民之特別協定。",
+      "content_en": "Departures permitted under the foregoing Article shall be carried out in satisfactory conditions as regards safety, hygiene, sanitation and food. All costs in connection therewith, from the point of exit in the territory of the Detaining Power, shall be borne by the country of destination, or, in the case of accommodation in a neutral country, by the Power whose nationals are benefited. The practical details of such movements may, if necessary, be settled by special agreements between the Powers concerned.\n\nThe foregoing shall not prejudice such special agreements as may be concluded between Parties to the conflict concerning the exchange and repatriation of their nationals in enemy hands."
+    },
+    {
+      "article": "三十七",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "凡被保護人在候審期間，或因受有剝奪自由之判決而被禁閉者，在其禁閉期間應受人道待遇。\n\n一經釋放，彼等即得依照以上各條請求離境。",
+      "content_en": "Protected persons who are confined pending proceedings or serving a sentence involving loss of liberty, shall during their confinement be humanely treated.\n\nAs soon as they are released, they may ask to leave the territory in conformity with the foregoing Articles."
+    },
+    {
+      "article": "三十八",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "除本公約，尤其第二十七及四十一兩條所准許之特別辦法外，各被保護人之地位，在原則上應繼續按照和平時期有關外國人之規章，予以規定，在任何情形下，應予以下列權利：\n\n（一）應能領受送來之個人或集體救濟物品；\n\n（二）如其健康情形有此需要，應獲得與有關國家之人民同等之醫藥照顧與住院待遇；\n\n（三）應獲准舉行其宗教儀式，並接受其本教牧師之精神協助；\n\n（四）如居住於特別冒戰爭危險之區域時，應與有關國家之人民同樣獲准遷出該區域；\n\n（五）十五歲以下兒童、孕婦、及七歲以下兒童之母親，應與有關國家之人民受同等之優惠待遇。",
+      "content_en": "With the exception of special measures authorized by the present Convention, in particularly by Article 27 and 41 thereof, the situation of protected persons shall continue to be regulated, in principle, by the provisions concerning aliens in time of peace. In any case, the followingrights shall be granted to them:# they shall be enabled to receive the individual or collective relief that may be sent to them.# they shall, if their state of health so requires, receive medical attention and hospital treatment to the same extent as the nationals of the State concerned.# they shall be allowed to practise their religion and to receive spiritual assistance from ministers of their faith.# if they reside in an area particularly exposed to the dangers of war, they shall be authorized to move from that area to the same extent as the nationals of the State concerned.# children under fifteen years, pregnant women and mothers of children under seven years shall benefit by any preferential treatment to the same extent as the nationals of the State concerned."
+    },
+    {
+      "article": "三十九",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "凡被保護人因戰事影響而失去其收入之工作者，應予以尋覓有報酬之工作之機會。該項機會應與其所在國家之人民所享受之機會相等，但須受安全考慮及第四十條規定之限制。\n\n衝突一方對被保護人施行管制辦法因而使其不能自行維持生活，尤以該人因安全原因不能尋覓在合理條件下之有報酬之工作時，該衝突國應保證維持其本人與受其贍養之生活。\n\n各被保護人在任何情況下均得接受其本國、保護國，或第三十條所述之救濟團體之津貼。",
+      "content_en": "Protected persons who, as a result of the war, have lost their gainful employment, shall be granted the opportunity to find paid employment. That opportunity shall, subject to security considerations and to the provisions of Article 40, be equal to that enjoyed by the nationals of the Power in whose territory they are.\n\nWhere a Party to the conflict applies to a protected person methods of control which result in his being unable to support himself, and especially if such a person is prevented for reasons of security from finding paid employment on reasonable conditions, the said Party shall ensure his support and that of his dependents.\n\nProtected persons may in any case receive allowances from their home country, the Protecting Power, or the relief societies referred to in Article 30."
+    },
+    {
+      "article": "四十",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "被保護人僅得在與其所在之衝突國之人民同樣限度內被強迫工作。\n\n如被保護人系屬敵國國籍，則只能強迫其擔任通常為保證人類食、住、衣、行及健康所必需之工作而與軍事行動無直接關係者。\n\n在前兩款所述之情形下，被強迫工作之被保護人應與本國工人享受同樣工作條件及同樣保障之利益，尤其關於工資、工作時間、衣服與設備、事先訓練及工作上意外傷害與疾病之賠償。\n\n上述各項規定如被違反，應允許被保護人按照第三十條行使其申訴之權利。",
+      "content_en": "Protected persons may be compelled to work only to the same extent as nationals of the Party to the conflict in whose territory they are.\n\nIf protected persons are of enemy nationality, they may only be compelled to do work which is normally necessary to ensure the feeding, sheltering, clothing, transport and health of human beings and which is not directly related to the conduct of military operations.\n\nIn the cases mentioned in the two preceding paragraphs, protected persons compelled to work shall have the benefit of the same working conditions and of the same safeguards as national workers in particular as regards wages, hours of labour, clothing and equipment, previous training and compensation for occupational accidents and diseases.\n\nIf the above provisions are infringed, protected persons shall be allowed to exercise their right of complaint in accordance with Article 30."
+    },
+    {
+      "article": "四十一",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "如被保護人所在之國家認為本公約所述之管制措施不足時，不得採行較第四十二及第四十三兩條所定之指定居所或拘禁更為嚴厲之管制措施。\n\n在適用第三十九條第二款之規定，於按照安置於他處指定居所之決定而須離開其原居所之人之場合時，拘留國應儘可能密切遵循本公約第三部第四編所定之福利標準。",
+      "content_en": "Should the Power, in whose hands protected persons may be, consider the measures of control mentioned in the present Convention to be inadequate, it may not have recourse to any other measure of control more severe than that of assigned residence or internment, in accordance with the provisions of Articles 42 and 43.\n\nIn applying the provisions of Article 39, second paragraph, to the cases of persons required to leave their usual places of residence by virtue of a decision placing them in assigned residence elsewhere, the Detaining Power shall be guided as closely as possible by the standards of welfare set forth in Part III, Section IV of this Convention."
+    },
+    {
+      "article": "四十二",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "對被保護人之拘禁或安置於指定居所，僅於拘留國之安全有絕對需要時方可施行。\n\n如有人通過保護國之代表，自動請求拘禁，而其處境使其採取此步驟為必要者，則其所在之國家應即予以拘禁。",
+      "content_en": "The internment or placing in assigned residence of protected persons may be ordered only if the security of the Detaining Power makes it absolutely necessary.\n\nIf any person, acting through the representatives of the Protecting Power, voluntarily demands internment, and if his situation renders this step necessary, he shall be interned by the Power in whose hands he may be."
+    },
+    {
+      "article": "四十三",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "任何被保護人被拘禁或被安置於指定居所者，有權請拘留國為該項目的所指定之主管法庭或行政審議機關對於該項舉措儘速重新考慮。如該項拘禁或安置於指定居所仍予維持時，該法庭或行政審議機關應定期，至少一年兩次，對於案情予以審查，以期於環境許可時對於最初決定作有利之修正。\n\n除非有關之被保護人反對，拘留國應儘速將已被拘禁或已被指定居所之被保護人，及從拘禁或指定居所中已予釋放之被保護人之姓名通知保護國。本條第一款提及之法庭或行政審議機關之決定，亦應依同樣條件之限制儘速通知保護國。",
+      "content_en": "Any protected person who has been interned or placed in assigned residence shall be entitled to have such action reconsidered as soon as possible by an appropriate court or administrative board designated by the Detaining Power for that purpose. If the internment or placing in assigned residence is maintained, the court or administrative board shall periodically, and at least twice yearly, give consideration to his or her case, with a view to the favourable amendment of the initial decision, if circumstances permit.\n\nUnless the protected persons concerned object, the Detaining Power shall, as rapidly as possible, give the Protecting Power the names of any protected persons who have been interned or subjected to assigned residence, or who have been released from internment or assigned residence. The decisions of the courts or boards mentioned in the first paragraph of the present Article shall also, subject to the same conditions, be notified as rapidly as possible to the Protecting Power."
+    },
+    {
+      "article": "四十四",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "適用本公約內提及之管制措施時，拘留國不得將事實上不受任何政府保護之難民僅依其法律上之敵國國籍而以敵僑待遇之。",
+      "content_en": "In applying the measures of control mentioned in the present Convention, the Detaining Power shall not treat as enemy aliens exclusively on the basis of their nationality de jure of an enemy State, refugees who do not, in fact, enjoy the protection of any government."
+    },
+    {
+      "article": "四十五",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "被保護人不得移送於非本公約締約國之國家。\n\n本規定不得構成對於被保護人在戰事結束後被遣返或其回到原居住國之障礙。\n\n拘留國只能將被保護人移送至本公約之締約國，並須於拘留國對於接受國家實施本公約之意願與能力認為滿意後行之。如被保護人在此種情況下被移送時，其在該接受國看管期間，實施本公約之責任即由該接受國擔任之。但若該國在任何重要方面未能實行本公約之規定，則原移送國一經保護國通知，即應採取有效措施以糾正此種情況或要求將被保護人送還，此項要求必須照辦。\n\n男女被保護人在任何情況下不得移送於因其政治意見或宗教有信仰恐懼迫害之理由之國家。\n\n本條各項規定亦不構成對於根據戰事開始前所訂之引渡條約，將被控違犯普通刑法之被保護人予以引渡之障礙。",
+      "content_en": "Protected persons shall not be transferred to a Power which is not a party to the Convention.\n\nThis provision shall in no way constitute an obstacle to the repatriation of protected persons, or to their return to their country of residence after the cessation of hostilities.\n\nProtected persons may be transferred by the Detaining Power only to a Power which is a party to the present Convention and after the Detaining Power has satisfied itself of the willingness and ability of such transferee Power to apply the present Convention. If protected persons are transferred under such circumstances, responsibility for the application of the present Convention rests on the Power accepting them, while they are in its custody. Nevertheless, if that Power fails to carry out the provisions of the present Convention in any important respect, the Power by which the protected persons were transferred shall, upon being so notified by the Protecting Power, take effective measures to correct the situation or shall request the return of the protected persons. Such request must be complied with.\n\nIn no circumstances shall a protected person be transferred to a country where he or she may have reason to fear persecution for his or her political opinions or religious beliefs.\n\nThe provisions of this Article do not constitute an obstacle to the extradition, in pursuance of extradition treaties concluded before the outbreak of hostilities, of protected persons accused of offences against ordinary criminal law."
+    },
+    {
+      "article": "四十六",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "凡對被保護人實行之限制措施，其尚未撤銷者，在戰事結束後應儘速取消之。\n\n影響彼等財產之限制措施，應按照拘留國之法律，於戰事結束後儘速取消之。",
+      "content_en": "In so far as they have not been previously withdrawn, restrictive measures taken regarding protected persons shall be cancelled as soon as possible after the close of hostilities.\n\nRestrictive measures affecting their property shall be cancelled, in accordance with the law of the Detaining Power, as soon as possible after the close of hostilities."
+    },
+    {
+      "article": "四十七",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "本公約所賦予在占領地內之被保護人之各項利益，均不得因占領領土之結果引起該地制度或政府之變更，或因被占領地當局與占領國所訂立之協定，或因占領國兼併占領地之全部或一部，而在任何情況下或依任何方式加以剝奪。",
+      "content_en": "Protected persons who are in occupied territory shall not be deprived, in any case or in any manner whatsoever, of the benefits of the present Convention by any change introduced, as the result of the occupation of a territory, into the institutions or government of the said territory, nor by any agreement concluded between the authorities of the occupied territories and the Occupying Power, nor by any annexation by the latter of the whole or part of the occupied territory."
+    },
+    {
+      "article": "四十八",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "被保護人之非領土被占領的國家之人民者，得依第三十五條規定之限制，使用其離境權利，關於離境事項之決定，應按照占領國依該條所訂之手續為之。",
+      "content_en": "Protected persons who are not nationals of the Power whose territory is occupied, may avail themselves of the right to leave the territory subject to the provisions of Article 35, and decisions thereon shall be taken according to the procedure which the Occupying Power shall establish in accordance with the said Article."
+    },
+    {
+      "article": "四十九",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "凡自占領地將被保護人個別或集體強制移送及驅逐往占領國之領土或任何其他被占領或未被占領之國家之領土，不論其動機如何，均所禁止。\n\n但如因居民安全或迫切的軍事理由，有此必要，占領國得在一定區域施行全部或部分之撤退。上述撤退不得致使被保護人在占領地境外流離失所，但因物質原因不能避免上述流離失所則為例外。依此被撤退之人，一俟該區域內戰事停止，應立即移送回家。\n\n凡實行此種移送或撤退之占領國，應盡最大可行的限度，保證供給適當設備以收容被保護人，該項移動應在衛生、保健、安全及營養之滿足的條件下執行，並應保證同一家庭之人不相分離。\n\n一經實行移送或撤退，應立即以其事實通知保護國。\n\n除非因居民安全或迫切的軍事理由有此必要，占領國不得將被保護人拘留於特別冒戰爭危險之區域。\n\n占領國不得將其本國平民之一部分驅逐或移送至其所占領之領土。",
+      "content_en": "Individual or mass forcible transfers, as well as deportations of protected persons from occupied territory to the territory of the Occupying Power or to that of any other country, occupied or not, are prohibited, regardless of their motive.\n\nNevertheless, the Occupying Power may undertake total or partial evacuation of a given area if the security of the population or imperative military reasons so demand. Such evacuations may not involve the displacement of protected persons outside the bounds of the occupied territory except when for material reasons it is impossible to avoid such displacement. Persons thus evacuated shall be transferred back to their homes as soon as hostilities in the area in question have ceased.\n\nThe Occupying Power undertaking such transfers or evacuations shall ensure, to the greatest practicable extent, that proper accommodation is provided to receive the protected persons, that the removals are effected in satisfactory conditions of hygiene, health, safety and nutrition, and that members of the same family are not separated.\n\nThe Protecting Power shall be informed of any transfers and evacuations as soon as they have taken place.\n\nThe Occupying Power shall not detain protected persons in an area particularly exposed to the dangers of war unless the security of the population or imperative military reasons so demand.\n\nThe Occupying Power shall not deport or transfer parts of its own civilian population into the territory it occupies."
+    },
+    {
+      "article": "五十",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "占領國在國家與地方當局之合作下，對於一切從事照顧及教育兒童團體之正當工作應予以便利。\n\n占領國應採取一切必要步驟以便利兒童之辨認及其父母之登記。但該國絕不得改變彼等之個人地位，亦不得使其參加隸屬於該國之各種組織。\n\n如當地團體不能適應該目的時，占領國應籌定撫養教育因戰爭變成孤兒或與父母失散，且不能由其近親或朋友適當照顧之兒童之辦法，倘屬可能，應由該項兒童同一國籍、語言及宗教之人士擔任該項工作。\n\n依第一百三十六條設立之情報局所屬之一特別部門，應負責採行一切必要步驟辨認身份不明之兒童。彼等父母或其他近親之詳細情形，如能獲悉時，應予記錄。\n\n在被占領前，為惠及十五歲以下兒童、孕婦，及七歲以下兒童之母親所采關於食物、醫藥照顧及保護之任何優待措施以防戰爭影響者，占領國不得妨礙其實施。",
+      "content_en": "The Occupying Power shall, with the cooperation of the national and local authorities, facilitate the proper working of all institutions devoted to the care and education of children.\n\nThe Occupying Power shall take all necessary steps to facilitate the identification of children and the registration of their parentage. It may not, in any case, change their personal status, nor enlist them in formations or organizations subordinate to it.\n\nShould the local institutions be inadequate for the purpose, the Occupying Power shall make arrangements for the maintenance and education, if possible by persons of their own nationality, language and religion, of children who are orphaned or separated from their parents as a result of the war and who cannot be adequately cared for by a near relative or friend.\n\nA special section of the Bureau set up in accordance with Article 136 shall be responsible for taking all necessary steps to identify children whose identity is in doubt. Particulars of their parents or other near relatives should always be recorded if available.\n\nThe Occupying Power shall not hinder the application of any preferential measures in regard to food, medical care and protection against the effects of war which may have been adopted prior to the occupation in favour of children under fifteen years, expectant mothers, and mothers of children under seven years."
+    },
+    {
+      "article": "五十一",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "占領國不得強迫被保護人在其武裝或輔助部隊服務。以獲得志願應募為目的之壓迫及宣傳均所不許。\n\n占領國不得強迫被保護人工作，除非彼等已滿十八歲，而屆此年齡，亦只能派任占領軍，公用事業或被占領國居民之衣、食、住、行或保健所需要之工作。被保護人不得強迫其擔任任何使彼等有參加軍事行動之義務之工作。占領國不得強迫被保護人使用強力方法以保證彼等從事強迫勞動所在地之設備之安全。\n\n上述工作之執行應僅限於被征服役人所在之占領地以內。此種人，應儘可能置於其平常工作之地方。對工人應付以公平工資，其工作應與其體力與智力相當。凡被占領國關於工作條件，尤其關於工資、工作時間、設備、事先訓練及工作上意外傷害與疾病之賠償等保障之現行立法，對於派任本條所述工作之被保護人，應予適用。\n\n在任何情況下，征工不得變為動員工人參加軍事或半軍事性之組織。",
+      "content_en": "The Occupying Power may not compel protected persons to serve in its armed or auxiliary forces. No pressure or propaganda which aims at securing voluntary enlistment is permitted.\n\nThe Occupying Power may not compel protected persons to work unless they are over eighteen years of age, and then only on work which is necessary either for the needs of the army of occupation, or for the public utility services, or for the feeding, sheltering, clothing, transportation or health of the population of the occupied country. Protected persons may not be compelled to undertake any work which would involve them in the obligation of taking part in military operations. The Occupying Power may not compel protected persons to employ forcible means to ensure the security of the installations where they are performing compulsory labour.\n\nThe work shall be carried out only in the occupied territory where the persons whose services have been requisitioned are. Every such person shall, so far as possible, be kept in his usual place of employment. Workers shall be paid a fair wage and the work shall be proportionate to their physical and intellectual capacities. The legislation in force in the occupied country concerning working conditions, and safeguards as regards, in particular, such matters as wages, hours of work, equipment, preliminary training and compensation for occupational accidents and diseases, shall be applicable to the protected persons assigned to the work referred to in this Article.\n\nIn no case shall requisition of labour lead to a mobilization of workers in an organization of a military or semi-military character."
+    },
+    {
+      "article": "五十二",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "任何契約、協定或規則均不得減損任何工人向保護國代表申請請求該國干涉之權利，不論該工人是否系屬志願，亦不論其所在地點。\n\n在占領地內，一切以造成失業或限制工人工作機會藉以引誘工人為占領國工作為目的之措施，均所禁止。",
+      "content_en": "No contract, agreement or regulation shall impair the right of any worker, whether voluntary or not and wherever he may be, to apply to the representatives of the Protecting Power in order to request the said Power's intervention.\n\nAll measures aiming at creating unemployment or at restricting the opportunities offered to workers in an occupied territory, in order to induce them to work for the Occupying Power, are prohibited."
+    },
+    {
+      "article": "五十三",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "占領國對個別或集體屬於私人，或國家，或其他公共機關，或社會或合作組織所有之動產或不動產之任何破壞均所禁止，但為軍事行動所絕對必要者則為例外。",
+      "content_en": "Any destruction by the Occupying Power of real or personal property belonging individually or collectively to protected persons, or to the State, or to other public authorities, or to social or cooperative organizations, is prohibited, except where such destruction is rendered absolutely necessary by military operations."
+    },
+    {
+      "article": "五十四",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "占領地之公務人員與法官如為良心原因拒絕執行其職務時，占領國不得改變其地位，或以任何方式施行制裁，或採用任何強迫或歧視措施。\n\n前項禁例不妨礙第五十一條第二款之適用。亦不影響占領國撤換公務人員之權。",
+      "content_en": "The Occupying Power may not alter the status of public officials or judges in the occupied territories, or in any way apply sanctions to or take any measures of coercion or discrimination against them, should they abstain from fulfilling their functions for reasons of conscience.\n\nThis prohibition does not prejudice the application of the second paragraph of Article 51. It does not affect the right of the Occupying Power to remove public officials from their posts."
+    },
+    {
+      "article": "五十五",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "占領國在其所有方法之最大限度內，負有保證居民之食物與醫療供應品之義務；如占領地資源不足時，尤應運入必需之食物、醫療物資及其他物品。\n\n占領國不得徵用占領地所有之食物、物品或醫療供應品，但為占領軍或行政人員使用者除外，並須業已顧及平民之需要，始能徵用。占領國應在其他國際公約規定之限制下，設法保證對其所徵用之物品付予公平價格。\n\n保護國得隨時自由檢查占領地內食物及醫療供應品之情形，但因迫切的軍事需要而定之暫時限制，不在此限。",
+      "content_en": "To the fullest extent of the means available to it, the Occupying Power has the duty of ensuring the food and medical supplies of the population; it should, in particular, bring in the necessary foodstuffs, medical stores and other articles if the resources of the occupied territory are inadequate.\n\nThe Occupying Power may not requisition foodstuffs, articles or medical supplies available in the occupied territory, except for use by the occupation forces and administration personnel, and then only if the requirements of the civilian population have been taken into account. Subject to the provisions of other international Conventions, the Occupying Power shall make arrangements to ensure that fair value is paid for any requisitioned goods.\n\nThe Protecting Power shall, at any time, be at liberty to verify the state of the food and medical supplies in occupied territories, except where temporary restrictions are made necessary by imperative military requirements."
+    },
+    {
+      "article": "五十六",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "占領國在其所有方法之最大限度內，負有依國家與地方當局之合作，保證並維持占領地內之醫療與醫院設置與服務，公共保健與衛生之義務，尤須採取並實行撲滅傳染病與流行病傳播所必要之預防及措施。各類醫務人員應許其執行任務。\n\n如占領地內成立新醫院而被占領國之主管機關不在該地執行任務，占領國於必要時應對該項醫院予以第十八條所規定之承認。在類似情況下，占領國亦應對醫院人員與運輸車輛予以第二十及二十一兩條所規定之承認。\n\n占領國於採用及實施保健與衛生之措施時，應注意占領地居民的道德上及倫理上之感受性。",
+      "content_en": "To the fullest extent of the means available to it, the Occupying Power has the duty of ensuring and maintaining, with the cooperation of national and local authorities, the medical and hospital establishments and services, public health and hygiene in the occupied territory, with particular reference to the adoption and application of the prophylactic and preventive measures necessary to combat the spread of contagious diseases and epidemics. Medical personnel of all categories shall be allowed to carry out their duties.\n\nIf new hospitals are set up in occupied territory and if the competent organs of the occupied State are not operating there, the occupying authorities shall, if necessary, grant them the recognition provided for in Article 18. In similar circumstances, the occupying authorities shall also grant recognition to hospital personnel and transport vehicles under the provisions of Articles 20 and 21.\n\nIn adopting measures of health and hygiene and in their implementation, the Occupying Power shall take into consideration the moral and ethical susceptibilities of the population of the occupied territory."
+    },
+    {
+      "article": "五十七",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "占領國得徵用民用醫院，但只能暫時徵用，並限於為照顧傷病軍事人員之緊急需要場合，且須以在相當期間對病人之照顧與醫療及平民之住院需要，制定適當辦法為條件。\n\n民用醫院之器材與用品在須供平民需要之期中不得徵用。",
+      "content_en": "The Occupying Power may requisition civilian hospitals of hospitals only temporarily and only in cases of urgent necessity for the care of military wounded and sick, and then on condition that suitable arrangements are made in due time for the care and treatment of the patients and for the needs of the civilian population for hospital accommodation.\n\nThe material and stores of civilian hospitals cannot be requisitioned so long as they are necessary for the needs of the civilian population."
+    },
+    {
+      "article": "五十八",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "占領國應允許牧師對其本教教徒予以精神上之協助。\n\n占領國亦應接受宗教所需的書籍與物品之裝運物資，並對該項物資在占領地內之分發予以便利。",
+      "content_en": "The Occupying Power shall permit ministers of religion to give spiritual assistance to the members of their religious communities.\n\nThe Occupying Power shall also accept consignments of books and articles required for religious needs and shall facilitate their distribution in occupied territory."
+    },
+    {
+      "article": "五十九",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "如占領地全部或部分居民之給養不足時，占領國應同意救濟該項居民之計劃，並對該項計劃使用力所能及之一切方法予以便利。\n\n該項計劃，可以由國家或公正人道主義組織如紅十字國際委員會承擔之，在該計劃中尤應包括食物，醫療品及衣服的裝運物資之供給。\n\n各締約國均應允許該項裝運物資之自由通過並保證予以保護。\n\n但締約國之允許上項裝運物資自由通過以運往衝突之敵方所占領之區域者，有權檢查該項裝運物資，規定其指定時間與路線通過，並通過保護國，查明該項裝運物資係為救濟待救之居民之用而非為占領國之利益之用。",
+      "content_en": "If the whole or part of the population of an occupied territory is inadequately supplied, the Occupying Power shall agree to relief schemes on behalf of the said population, and shall facilitate them by all the means at its disposal.\n\nSuch schemes, which may be undertaken either by States or by impartial humanitarian organizations such as the International Committee of the Red Cross, shall consist, in particular, of the provision of consignments of foodstuffs, medical supplies and clothing.\n\nAll Contracting Parties shall permit the free passage of these consignments and shall guarantee their protection.\n\nA Power granting free passage to consignments on their way to territory occupied by an adverse Party to the conflict shall, however, have the right to search the consignments, to regulate their passage according to prescribed times and routes, and to be reasonably satisfied through the Protecting Power that these consignments are to be used for the relief of the needy population and are not to be used for the benefit of the Occupying Power."
+    },
+    {
+      "article": "六十",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "救濟之裝運物資在任何情況下，不得解除占領國在第五十五、五十六與五十九各條下之任何責任。占領國無論如何不得將救濟之裝運物資移作他用，但在緊急需要情形中為占領地居民之利益並徵得保護國之同意者，則為例外。",
+      "content_en": "Relief consignments shall in no way relieve the Occupying Power of any of its responsibilities under Articles 55, 56 and 59. The Occupying Power shall in no way whatsoever divert relief consignments from the purpose for which they are intended, except in cases of urgent necessity, in the interests of the population of the occupied territory and with the consent of the Protecting Power."
+    },
+    {
+      "article": "六十一",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "以上各條所述之救濟裝運物資的分配，應在保護國之合作與監督下進行之。該項任務亦得依占領國與保護國間之協定，委託一中立國，紅十字國際委員會或任何其他公正之人道主義團體辦理之。\n\n上項裝運物資在占領地內應豁免一切捐、稅、或關稅，除非此項捐、稅為該地經濟利益所必需。占領國應便利此等裝運物資之迅速分配。\n\n各締約國應盡力允許此等救濟裝運物資免費通過以運往占領地。",
+      "content_en": "The distribution of the relief consignments referred to in the foregoing Articles shall be carried out with the cooperation and under the supervision of the Protecting Power. This duty may also be delegated, by agreement between the Occupying Power and the Protecting Power, to a neutral Power, to the International Committee of the Red Cross or to any other impartial humanitarian body.\n\nSuch consignments shall be exempt in occupied territory from all charges, taxes or customs duties unless these are necessary in the interests of the economy of the territory. The Occupying Power shall facilitate the rapid distribution of these consignments.\n\nAll Contracting Parties shall endeavour to permit the transit and transport, free of charge, of such relief consignments on their way to occupied territories."
+    },
+    {
+      "article": "六十二",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "占領地之被保護人應許其領受送與彼等之個人救濟物資，但須受迫切的安全理由之限制。",
+      "content_en": "Subject to imperative reasons of security, protected persons in occupied territories shall be permitted to receive the individual relief consignments sent to them."
+    },
+    {
+      "article": "六十三",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "在占領國因緊急的安全理由所採用之暫時及例外措施之限制下：\n\n（甲）經認可之各國紅十字（紅新月、紅獅與日）會應能按照國際紅十字大會所定之紅十字原則進行活動。其他救濟團體亦應許其在類似條件下繼續其人道主義活動；\n\n（乙）占領國不得要求此等團體為任何足以妨礙上述活動之人事或組織上之變更。\n\n已經存在或將行設立之非軍事性質之特別組織，而以維持必要的公用事業，分配救濟物品與組織救護藉以保證居民生活狀況為目的者，上述之原則亦應適用於此等組織之活動及人員。",
+      "content_en": "Subject to temporary and exceptional measures imposed for urgent reasons of security by the Occupying Power:* recognized National Red Cross (Red Crescent, Red Lion and Sun) Societies shall be able to pursue their activities in accordance with Red Cross principles, as defined by the International Red Cross Conferences. Other relief societies shall be permitted to continue their humanitarian activities under similar conditions;* the Occupying Power may not require any changes in the personnel or structure of these societies, which would prejudice the aforesaid activities.\n\nThe same principles shall apply to the activities and personnel of special organizations of a non-military character, which already exist or which may be established, for the purpose of ensuring the living conditions of the civilian population by the maintenance of the essential public utility services, by the distribution of relief and by the organization of rescues."
+    },
+    {
+      "article": "六十四",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "占領地之刑事法規應繼續有效，但遇該項法規構成對占領國安全之威脅或對本公約實行之障礙時，占領國得予以廢除或停止。在後者之考慮及保證有效的司法之需要之限制下，占領地之法庭對於上述法規涉及之一切罪行，應繼續執行職務。\n\n但占領國得使占領地居民服從該國為執行其在本公約下所負之義務，維持該地有秩序之統治，與保證占領國、占領軍、與行政機關之人員及財產，以及其所使用之設置與交通線之安全所必要之規定。",
+      "content_en": "The penal laws of the occupied territory shall remain in force, with the exception that they may be repealed or suspended by the Occupying Power in cases where they constitute a threat to its security or an obstacle to the application of the present Convention.\n\nSubject to the latter consideration and to the necessity for ensuring the effective administration of justice, the tribunals of the occupied territory shall continue to function in respect of all offences covered by the said laws.\n\nThe Occupying Power may, however, subject the population of the occupied territory to provisions which are essential to enable the Occupying Power to fulfil its obligations under the present Convention, to maintain the orderly government of the territory, and to ensure the security of the Occupying Power, of the members and property of the occupying forces or administration, and likewise of the establishments and lines of communication used by them."
+    },
+    {
+      "article": "六十五",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "占領國所訂之刑法規定，在公布及用居民本國語言使居民周知以前，不得生效。該項刑事法規不得具有追溯力。",
+      "content_en": "The penal provisions enacted by the Occupying Power shall not come into force before they have been published and brought to the knowledge of the inhabitants in their own language. The effect of these penal provisions shall not be retroactive."
+    },
+    {
+      "article": "六十六",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "遇有違犯根據第六十四條第二款公布之刑法規定之案件，占領國得將被告交付正當組織之非政治的軍事法庭，但以該法庭在占領地開庭為條件。上訴法庭最好在占領地開庭。",
+      "content_en": "In case of a breach of the penal provisions promulgated by it by virtue of the second paragraph of Article 64 the Occupying Power may hand over the accused to its properly constituted, non-political military courts, on condition that the said courts sit in the occupied country. Courts of appeal shall preferably sit in the occupied country."
+    },
+    {
+      "article": "六十七",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "前項法庭應僅適用在該罪行發生前已經實施並符合一般法律原則，尤其罰罪相當之原則之法律規定。此等法庭對於被告之非占領國人民之事實，應加以考慮。",
+      "content_en": "The courts shall apply only those provisions of law which were applicable prior to the offence, and which are in accordance with general principles of law, in particular the principle that the penalty shall be proportionate to the offence. They shall take into consideration the fact the accused is not a national of the Occupying Power."
+    },
+    {
+      "article": "六十八",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "被保護人犯有純以損害占領國為目的之罪行，而此項罪行並非企圖殺害占領軍或行政機關之人員之生命或肢體，亦不構成嚴重之集體危險，復未嚴重損害占領軍及行政機關之財產或其所使用之設備者，應處以拘禁或單純監禁，而拘監或監禁之期間應與所犯罪行相當。且因此等罪行而處之拘禁或監禁，應為剝奪被保護人自由之僅有措施。本公約第六十六條所規定之法庭可自行斟酌將監禁之判決改為同樣期限之拘禁。\n\n僅在被保護人犯間諜罪，或嚴重破壞占領國軍事設備之罪行或故意犯罪致一人或多人於死亡之案件中，占領國依第六十四及六十五兩條所公布之刑法規定，始得對被保護人處以死刑，但須此種罪行依占領地在占領開始前通行之法律亦受死刑之處罰。\n\n除非法庭特別被提起注意被保護人因非拘留國之人民，不受對該國效忠義務之拘束之事實後，不得將被保護人判處死刑。\n\n凡被保護人犯罪時年齡在十八歲以下者，在任何情況下不得判處死刑。",
+      "content_en": "Protected persons who commit an offence which is solely intended to harm the Occupying Power, but which does not constitute an attempt on the life or limb of members of the occupying forces or administration, nor a grave collective danger, nor seriously damage the property of the occupying forces or administration or the installations used by them, shall be liable to internment or simple imprisonment, provided the duration of such internment or imprisonment is proportionate to the offence committed. Furthermore, internment or imprisonment shall, for such offences, be the only measure adopted for depriving protected persons of liberty. The courts provided for under Article 66 of the present Convention may at their discretion convert a sentence of imprisonment to one of internment for the same period.\n\nThe penal provisions promulgated by the Occupying Power in accordance with Articles 64 and 65 may impose the death penalty against a protected person only in cases where the person is guilty of espionage, of serious acts of sabotage against the military installations of the Occupying Power or of intentional offences which have caused the death of one or more persons, provided that such offences were punishable by death under the law of the occupied territory in force before the occupation began.\n\nThe death penalty may not be pronounced against a protected person unless the attention of the court has been particularly called to the fact that since the accused is not a national of the Occupying Power, he is not bound to it by any duty of allegiance.\n\nIn any case, the death penalty may not be pronounced on a protected person who was under eighteen years of age at the time of the offence."
+    },
+    {
+      "article": "六十九",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "無論任何案件中，被保護人因被控犯罪而遭逮捕，等候審判或處罰之時間，應從判處之監禁時間內，予以扣除。",
+      "content_en": "In all cases the duration of the period during which a protected person accused of an offence is under arrest awaiting trial or punishment shall be deducted from any period of imprisonment of awarded."
+    },
+    {
+      "article": "七十",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "占領國不得因被保護人在占領前或占領暫時中斷期間之行為或發表之意見，而將其逮捕，訴追或定罪，但破壞戰爭法律與慣例之行為除外。\n\n凡占領國人民在戰事開始前即逃亡於被占領國領土者，不得加以逮捕、訴追、定罪或驅逐出占領地，但其在戰事開始後所犯之罪行，或其在戰事開始前所犯普通法下之罪行，而依被占領國法律在和平時期應予引渡者除外。",
+      "content_en": "Protected persons shall not be arrested, prosecuted or convicted by the Occupying Power for acts committed or for opinions expressed before the occupation, or during a temporary interruption thereof, with the exception of breaches of the laws and customs of war.\n\nNationals of the occupying Power who, before the outbreak of hostilities, have sought refuge in the territory of the occupied State, shall not be arrested, prosecuted, convicted or deported from the occupied territory, except for offences committed after the outbreak of hostilities, or for offences under common law committed before the outbreak of hostilities which, according to the law of the occupied State, would have justified extradition in time of peace."
+    },
+    {
+      "article": "七十一",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "占領國之主管法庭非經合法審判不得宣告判決。\n\n占領國對於其所訴追之被告，應迅速以被告所了解之文字，書面通知其被訴罪名之詳情，並應儘速交付審判。占領國應將對被保護人所進行之涉及死刑或二年或二年以上監禁等罪名之訴訟，通知保護國；保護國應能隨時獲悉該項訴訟之情形。又保護國應有權，於提出請求時，獲得上項及占領國對被保護人所提起其他訴訟之詳情。\n\n本條第二款所規定對於保護國之通知，應立即發出，且必需在第一次審訊前三個星期到達保護國。除非在審判開始時，提出證據，證明本條各項規定均已完全遵照，審訊不得進行。該項通知應包括下列各點：\n\n（甲）關於被告之說明；\n\n（乙）居所或拘留處所；\n\n（丙）某一種罪名或某幾種罪名之列舉（註明控訴所根據之刑法規定）；\n\n（丁）承審該案之法庭名稱；\n\n（戊）第一次審訊之日期及地點。",
+      "content_en": "No sentence shall be pronounced by the competent courts of the Occupying Power except after a regular trial.\n\nAccused persons who are prosecuted by the Occupying Power shall be promptly informed, in writing, in a language which they understand, of the particulars of the charges preferred against them, and shall be brought to trial as rapidly as possible. The Protecting Power shall be informed of all proceedings instituted by the Occupying Power against protected persons in respect of charges involving the death penalty or imprisonment for two years or more; it shall be enabled, at any time, to obtain information regarding the state of such proceedings. Furthermore, the Protecting Power shall be entitled, on request, to be furnished with all particulars of these and of any other proceedings instituted by the Occupying Power against protected persons.\n\nThe notification to the Protecting Power, as provided for in the second paragraph above, shall be sent immediately, and shall in any case reach the Protecting Power three weeks before the date of the first hearing. Unless, at the opening of the trial, evidence is submitted that the provisions of this Article are fully complied with, the trial shall not proceed. The notification shall include the following particulars:* description of the accused;* place of residence or detention;* specification of the charge or charges (with mention of the penal provisions under which it is brought);* designation of the court which will hear the case;* place and date of the first hearing."
+    },
+    {
+      "article": "七十二",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "被告有權提出為其辯護所需之證據，尤得請求傳喚證人。彼等有權由其自行選定之合格辯護人或律師協助，該辯護人或律師得自由訪問被告並有權享受準備辯護詞所需之便利。\n\n被告如未自行選定，則保護國得提供辯護人或律師。當被告被控重罪而保護國未執行任務時，占領國在被告同意之條件下，應提供一辯護人或律師。\n\n在初步偵查及審訊期間被告應獲有譯員之協助，除非被告自由放棄此項協助。被告有權隨時反對譯員並要求撤換。",
+      "content_en": "Accused persons shall have the right to present evidence necessary to their defence and may, in particular, call witnesses. They shall have the right to be assisted by a qualified advocate or counsel of their own choice, who shall be able to visit them freely and shall enjoy the necessary facilities for preparing the defence.\n\nFailing a choice by the accused, the Protecting Power may provide him with an advocate or counsel. When an accused person has to meet a serious charge and the Protecting Power is not functioning, the Occupying Power, subject to the consent of the accused, shall provide an advocate or counsel.\n\nAccused persons shall, unless they freely waive such assistance, be aided by an interpreter, both during preliminary investigation and during the hearing in court. They shall have the right at any time to object to the interpreter and to ask for his replacement."
+    },
+    {
+      "article": "七十三",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "被判罪人應有法庭適用之法律所規定之上訴權。對被判罪人應詳細通知其上訴或訴願之權利及行使該項權利之期限。\n\n本編所規定之刑事程序應在可能使用範圍以內，適用於上訴。如法庭適用之法律無上訴之規定時，被判罪人應有權向占領國主管當局對事實的認定及判決提出訴願。",
+      "content_en": "A convicted person shall have the right of appeal provided for by the laws applied by the court. He shall be fully informed of his right to appeal or petition and of the time limit within which he may do so.\n\nThe penal procedure provided in the present Section shall apply, as far as it is applicable, to appeals. Where the laws applied by the Court make no provision for appeals, the convicted person shall have the right to petition against the finding and sentence to the competent authority of the Occupying Power."
+    },
+    {
+      "article": "七十四",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "保護國之代表應有權到庭旁聽任何被保護人之審判，除非為占領國安全的利益而必須例外的禁止旁聽，在此種場合，占領國應通知保護國。審判之日期地點應通知保護國。\n\n涉及死刑或兩年或兩年以上監禁之任何判決，應連同其有關之根據儘速通知保護國。該通知應引述第七十一條所規定之通知；如為監禁判決時，並應載明服刑地方之名稱。上述各項判決以外之記錄，應由法庭保存，且應供保護國代表之檢查。凡涉及死刑或兩年或兩年以上監禁的判決之上訴期限，在保護國接到判決通知前，不得開始。",
+      "content_en": "Representatives of the Protecting Power shall have the right to attend the trial of any protected person, unless the hearing has, as an exceptional measure, to be held in camera in the interests of the security of the Occupying Power, which shall then notify the Protecting Power. A notification in respect of the date and place of trial shall be sent to the Protecting Power.\n\nAny judgement involving a sentence of death, or imprisonment for two years or more, shall be communicated, with the relevant grounds, as rapidly as possible to the Protecting Power. The notification shall contain a reference to the notification made under Article 71 and, in the case of sentences of imprisonment, the name of the place where the sentence is to be served. A record of judgements other than those referred to above shall be kept by the court and shall be open to inspection by representatives of the Protecting Power. Any period allowed for appeal in the case of sentences involving the death penalty, or imprisonment of two years or more, shall not run until notification of judgement has been received by the Protecting Power."
+    },
+    {
+      "article": "七十五",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "被判死刑者請求赦免或緩刑之權利，絕不得予以剝奪。\n\n從保護國接到確定死刑最後判決的通知或接到拒絕赦免及緩刑之命令的通知之日起，至少六個月期限屆滿以前，不得執行死刑。\n\n遇有個別案件，其情形嚴重緊急，對於占領國或其部隊安全發生有組織之威脅時，本條所規定之暫停執行死刑六個月之期限得予縮短，但必須將該項縮短情形通知保護國，並須予以相當之時間及機會，以便向主管占領當局提出關於此項死刑判決之意見。",
+      "content_en": "In no case shall persons condemned to death be deprived of the right of petition for pardon or reprieve.\n\nNo death sentence shall be carried out before the expiration of a period of a least six months from the date of receipt by the Protecting Power of the notification of the final judgment confirming such death sentence, or of an order denying pardon or reprieve.\n\nThe six months period of suspension of the death sentence herein prescribed may be reduced in individual cases in circumstances of grave emergency involving an organized threat to the security of the Occupying Power or its forces, provided always that the Protecting Power is notified of such reduction and is given reasonable time and opportunity to make representations to the competent occupying authorities in respect of such death sentences."
+    },
+    {
+      "article": "七十六",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "被保護人被控犯罪者應拘留於被占領國內，如經判罪亦應在該國內服刑。如可能，彼等應與其他被拘留者隔離，並應享有足以保持其健康之飲食與衛生條件，至少亦應與被占領國監獄內通行之條件相同。\n\n彼等應受到其健康所需之醫藥照顧。\n\n彼等亦應有權受到其所需之精神協助。\n\n婦女應禁閉於分開之處所，並應由婦女直接監管之。\n\n未成年人應受之特別待遇應予以適當之注意。\n\n拘留之被保護人應有受保護國及紅十字國際委員會代表依照第一百四十三條之規定訪問之權。\n\n此項人等應有權領受救濟包裹，至少每月一件。",
+      "content_en": "Protected persons accused of offences shall be detained in the occupied country, and if convicted they shall serve their sentences therein. They shall, if possible, be separated from other detainees and shall enjoy conditions of food and hygiene which will be sufficient to keep them in good health, and which will be at least equal to those obtaining in prisons in the occupied country.\n\nThey shall receive the medical attention required by their state of health.\n\nThey shall also have the right to receive any spiritual assistance which they may require.\n\nWomen shall be confined in separate quarters and shall be under the direct supervision of women.\n\nProper regard shall be paid to the special treatment due to minors.\n\nProtected persons who are detained shall have the right to be visited by delegates of the Protecting Power and of the International Committee of the Red Cross, in accordance with the provisions of Article 143.\n\nSuch persons shall have the right to receive at least one relief parcel monthly."
+    },
+    {
+      "article": "七十七",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "被保護人之在占領地被控犯罪或被法庭判罪者，應在占領終止時，連同有關記錄一併移交該解放地區之當局。",
+      "content_en": "Protected persons who have been accused of offences or convicted by the courts in occupied territory, shall be handed over at the close of occupation, with the relevant records, to the authorities of the liberated territory."
+    },
+    {
+      "article": "七十八",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "如占領國由於迫切的安全理由認為對被保護人需採取安全措施時，至多得置之於指定居所或加以拘禁。\n\n關於此項指定居所或拘禁之決定，應按照占領國依本公約規定所訂之正常程序為之。該項程序應包括各有關當事人之上訴權。上訴應迅速判決。如仍維持原判決，應由占領國所設立之主管機關定期覆核，可能時每六個月一次。\n\n被保護人經指定住所而須離開其家庭者應享受本公約第三十九條之全部利益。",
+      "content_en": "If the Occupying Power considers it necessary, for imperative reasons of security, to take safety measures concerning protected persons, it may, at the most, subject them to assigned residence or to internment.\n\nDecisions regarding such assigned residence or internment shall be made according to a regular procedure to be prescribed by the Occupying Power in accordance with the provisions of the present Convention. This procedure shall include the right of appeal for the parties concerned. Appeals shall be decided with the least possible delay. In the event of the decision being upheld, it shall be subject to periodical review, if possible every six months, by a competent body set up by the said Power.\n\nProtected persons made subject to assigned residence and thus required to leave their homes shall enjoy the full benefit of Article 39 of the present Convention."
+    },
+    {
+      "article": "七十九",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "衝突各方，除按照第四十一、四十二、四十三、六十八與七十八各條之規定外，不得拘禁被保護人。",
+      "content_en": "The Parties to the conflict shall not intern protected persons, except in accordance with the provisions of Articles 41, 42, 43, 68 and 78."
+    },
+    {
+      "article": "八十",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "被拘禁人應保有其全部民事能力，並應行使與其他地位相合之附隨的權利。",
+      "content_en": "Internees shall retain their full civil capacity and shall exercise such attendant rights as may be compatible with their status."
+    },
+    {
+      "article": "八十一",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "衝突各方之拘禁被保護人者應負責免費維持其生活，並應予以其健康狀況所需之醫藥照顧。\n\n不得扣除被拘禁人應得之津貼，薪給或債款以償還上項費用。\n\n如被拘禁人之依附人無適當之維持生活方法或不能謀生時，拘留國應供給其生活。",
+      "content_en": "Parties to the conflict who intern protected persons shall be bound to provide free of charge for their maintenance, and to grant them also the medical attention required by their state of health.\n\nNo deduction from the allowances, salaries or credits due to the internees shall be made for the repayment of these costs.\n\nThe Detaining Power shall provide for the support of those dependent on the internees, if such dependents are without adequate means of support or are unable to earn a living."
+    },
+    {
+      "article": "八十二",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "拘留國應儘可能依照被拘禁人之國籍、語言與習慣安置之，同一國籍之被拘禁人不得僅因其語言不同而隔離之。\n\n在拘禁期間，同一家庭之人，尤其父母子女，應使之居於同一拘禁處所，但因工作或健康關係或因執行本編第九章之規定必須暫時分離時則不在此限。被拘禁人得要求將其未受拘禁而無父母照顧之子女與彼等一同拘禁。\n\n可能時，同一家庭之被拘禁人應使其居於同一住所，予以與其他被拘禁人分開之設備以及適當的家庭生活所需之便利。",
+      "content_en": "The Detaining Power shall, as far as possible, accommodate the internees according to their nationality, language and customs. Internees who are nationals of the same country shall not be separated merely because they have different languages.\n\nThroughout the duration of their internment, members of the same family, and in particular parents and children, shall be lodged together in the same place of internment, except when separation of a temporary nature is necessitated for reasons of employment or health or for the purposes of enforcement of the provisions of Chapter IX of the present Section. Internees may request that their children who are left at liberty without parental care shall be interned with them.\n\nWherever possible, interned members of the same family shall be housed in the same premises and given separate accommodation from other internees, together with facilities for leading a proper family life."
+    },
+    {
+      "article": "八十三",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "拘留國不得將拘禁處所設立於特別冒戰爭危險之區域。\n\n拘留國應通過保護國之媒介將有關拘禁處所地理位置之一切有用的情報，提交敵國。\n\n在軍事的考慮許可時，拘禁營應用ＩＣ兩字母標明，該二字母應標於白天可自高空清晰望見之處。但有關各國得商定其他標誌方法。除拘禁營外，任何其他地方不得如此標誌之。",
+      "content_en": "The Detaining Power shall not set up places of internment in areas particularly exposed to the dangers of war.\n\nThe Detaining Power shall give the enemy Powers, through the intermediary of the Protecting Powers, all useful information regarding the geographical location of places of internment.\n\nWhenever military considerations permit, internment camps shall be indicated by the letters IC, placed so as to be clearly visible in the daytime from the air. The Powers concerned may, however, agree upon any other system of marking. No place other than an internment camp shall be marked as such."
+    },
+    {
+      "article": "八十四",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "被拘禁人應與戰俘及因其他任何原因而被剝奪自由之人分別安置及管理。",
+      "content_en": "Internees shall be accommodated and administered separately from prisoners of war and from persons deprived of liberty for any other reason."
+    },
+    {
+      "article": "八十五",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "拘留國應採取一切必要及可能之措施，以保證被保護人自拘禁開始時起，即被安置於合於下列條件之房屋或住所：在衛生與保健上具備一切可能保障並給予有效保護，以防嚴寒酷熱與戰爭影響。在任何情況下，永久拘禁處所不得設於不衛生之區域或氣候有害被拘禁人之區域。如被保護人暫時拘禁區域為不衛生區域或其氣候有害其健康，應視環境所許儘速將其移往較為適當之拘禁處所。\n\n住所應無潮濕之患，有適當溫度及光線，尤其在黃昏與熄燈之間。睡眠地方應充分廣敞通風，並應依氣候，及被拘禁人之年齡、性別及健康狀況，給予充分之墊褥與被毯。\n\n被拘禁人應有不論日夜均可使用之合於衛生規則之設備，並經常保持清潔；應供以充分用水及肥皂以備日常盥洗及洗濯個人衣服之用，應予以為此所需之設備與便利。又應備有淋浴或盆浴。應保留洗滌及清潔所需之時間。\n\n倘必須將非同一家人之被拘禁之婦女與男子安置一處，而為一種例外及暫時措施時，對於被拘禁之婦女必須予以分開睡眠地方及衛生設備供其使用。",
+      "content_en": "The Detaining Power is bound to take all necessary and possible measures to ensure that protected persons shall, from the outset of their internment, be accommodated in buildings or quarters which afford every possible safeguard as regards hygiene and health, and provide efficient protection against the rigours of the climate and the effects of the war. In no case shall permanent places of internment be situated in unhealthy areas or in districts, the climate of which is injurious to the internees. In all cases where the district, in which a protected person is temporarily interned, is in an unhealthy area or has a climate which is harmful to his health, he shall be removed to a more suitable place of internment as rapidly as circumstances permit.\n\nThe premises shall be fully protected from dampness, adequately heated and lighted, in particular between dusk and lights out. The sleeping quarters shall be sufficiently spacious and well ventilated, and the internees shall have suitable bedding and sufficient blankets, account being taken of the climate, and the age, sex, and state of health of the internees.\n\nInternees shall have for their use, day and night, sanitary conveniences which conform to the rules of hygiene, and are constantly maintained in a state of cleanliness. They shall be provided with sufficient water and soap for their daily personal toilet and for washing their personal laundry; installations and facilities necessary for this purpose shall be granted to them. Showers or baths shall also be available. The necessary time shall be set aside for washing and for cleaning.\n\nWhenever it is necessary, as an exceptional and temporary measure, to accommodate women internees who are not members of a family unit in the same place of internment as men, the provision of separate sleeping quarters and sanitary conveniences for the use of such women internees shall be obligatory."
+    },
+    {
+      "article": "八十六",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "被拘禁人不論屬於任何教派，拘留國應給以適於舉行宗教儀式之場所。",
+      "content_en": "The Detaining Power shall place at the disposal of interned persons, of whatever denomination, premises suitable for the holding of their religious services."
+    },
+    {
+      "article": "八十七",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "各拘禁處所均應設置販賣部，但另有其他適當之便利者則為例外。其目的應為使被拘禁人，能以不高於當地市價之價格購買食品及日用品--包括肥皂及煙草--以資增加其個人福利及舒適。\n\n販賣部所獲利潤應劃歸各拘禁處所設立，並為各該處所被拘留人利益而管理之福利基金。第一百零二條規定之被拘禁人委員會有權檢查販賣部及基金之管理。\n\n拘禁處所結束時，福利基金之結餘，應轉撥與拘禁同一國籍人民之另一拘禁處所之福利基金；或如無此類之拘禁處所，則應轉撥與為仍在拘留國看管下之全體被拘禁人之利益而管理之中央福利基金。如有全體釋放情形，此項利潤，除有關國家間議有相反之協定外，應由拘留國保存。",
+      "content_en": "Canteens shall be installed in every place of internment, except where other suitable facilities are available. Their purpose shall be to enable internees to make purchases, at prices not higher than local market prices, of foodstuffs and articles of everyday use, including soap and tobacco, such as would increase their personal well-being and comfort.\n\nProfits made by canteens shall be credited to a welfare fund to be set up for each place of internment, and administered for the benefit of the internees attached to such place of internment. The Internee Committee provided for in Article 102 shall have the right to check the management of the canteen and of the said fund.\n\nWhen a place of internment is closed down, the balance of the welfare fund shall be transferred to the welfare fund of a place of internment for internees of the same nationality, or, if such a place does not exist, to a central welfare fund which shall be administered for the benefit of all internees remaining in the custody of the Detaining Power. In case of a general release, the said profits shall be kept by the Detaining Power, subject to any agreement to the contrary between the Powers concerned."
+    },
+    {
+      "article": "八十八",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "在一切冒空襲及其他戰爭危險之拘禁處所內，應設有在數目上與構造上均足保證必要的保護之避難所。在警報時，除留守保護住處免受上述危險之人外，被拘禁人應得自由儘速進入避難所。任何為居民而採取之保護措施，亦應適用於被拘禁人。\n\n拘禁處所應採用一切防火之適當措施。",
+      "content_en": "In all places of internment exposed to air raids and other hazards of war, shelters adequate in number and structure to ensure the necessary protection shall be installed. In case of alarms, the measures internees shall be free to enter such shelters as quickly as possible, excepting those who remain for the protection of their quarters against the aforesaid hazards. Any protective measures taken in favour of the population shall also apply to them.\n\nAll due precautions must be taken in places of internment against the danger of fire."
+    },
+    {
+      "article": "八十九",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "被拘禁人每日口糧在量、質與種類上應足以保持被拘禁人之健康及防止營養不足。被拘禁人所習慣之飲食，亦應顧及。\n\n被拘禁人亦應予以自行烹調其自有之額外食物之工具。\n\n對被拘禁人應供給充分之飲水。應允許吸煙。\n\n從事工作之被拘禁人應領得比照其所任的工作之額外口糧。\n\n對孕婦、乳母及十五歲以下兒童，應比照其生理需要給予額外食物。",
+      "content_en": "Daily food rations for internees shall be sufficient in quantity, quality and variety to keep internees in a good state of health and prevent the development of nutritional deficiencies. Account shall also be taken of the customary diet of the internees.\n\nInternees shall also be given the means by which they can prepare for themselves any additional food in their possession.\n\nSufficient drinking water shall be supplied to internees. The use of tobacco shall be permitted.\n\nInternees who work shall receive additional rations in proportion to the kind of labour which they perform.\n\nExpectant and nursing mothers and children under fifteen years of age, shall be given additional food, in proportion to their physiological needs."
+    },
+    {
+      "article": "九十",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "被拘禁人當被看管時，應予以自備必需衣服、鞋襪，及內衣替換，以後如需要時，並可再獲得供給之一切便利。如任何被拘禁人未備有依氣候所需之充分衣服且亦不能獲得衣服者，應由拘留國免費供給之。\n\n拘留國供給被拘禁人之衣服，及在其私有衣服上所加之標誌，均不得有侮辱性或使其遭受嘲笑。\n\n工作者應領得適當之工作服裝，包括保護衣服，如其工作性質有此必要。",
+      "content_en": "When taken into custody, internees shall be given all facilities to provide themselves with the necessary clothing, footwear and change of underwear, and later on, to procure further supplies if required. Should any internees not have sufficient clothing, account being taken of the climate, and be unable to procure any, it shall be provided free of charge to them by the Detaining Power.\n\nThe clothing supplied by the Detaining Power to internees and the outward markings placed on their own clothes shall not be ignominious nor expose them to ridicule.\n\nWorkers shall receive suitable working outfits, including protective clothing, whenever the nature of their work so requires."
+    },
+    {
+      "article": "九十一",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "各拘禁處所應設有適當之療養所，由合格醫生主持，使被拘禁人可獲得其所需之照顧與適當之飲食。對於患傳染病或精神病者應另設隔離病房。\n\n凡生產及被拘禁人之患重病者，或需要特別治療、外科手術或住院者，應送任何可予以適當醫治之機構，且其所應受到之照顧不得劣於一般居民之所受到者。\n\n被拘禁人自願時，應得到其本國國籍之醫務人員之照顧。\n\n被拘禁人請求醫務當局檢查時，不得阻止。拘留國之醫務當局，一經請求，應對已受治療之被拘禁人發給正式證書，說明其疾病或傷害之性質，及所受治療之時期與性質。此項證書之副本應送交第一百四十條所規定之中央事務所。\n\n各項醫療，包括為保持被拘禁人健康需用器具之供給，尤其是假牙及其他假裝置與眼鏡，對於被拘禁人應予免費。",
+      "content_en": "Every place of internment shall have an adequate infirmary, under the direction of a qualified doctor, where internees may have the attention they require, as well as an appropriate diet. Isolation wards shall be set aside for cases of contagious or mental diseases.\n\nMaternity cases and internees suffering from serious diseases, or whose condition requires special treatment, a surgical operation or hospital care, must be admitted to any institution where adequate treatment can be given and shall receive care not inferior to that provided for the general population.\n\nInternees shall, for preference, have the attention of medical personnel of their own nationality.\n\nInternees may not be prevented from presenting themselves to the medical authorities for examination. The medical authorities of the Detaining Power shall, upon request, issue to every internee who has undergone treatment an official certificate showing the nature of his illness or injury, and the duration and nature of the treatment given. A duplicate of this certificate shall be forwarded to the Central Agency provided for in Article 140.\n\nTreatment, including the provision of any apparatus necessary for the maintenance of internees in good health, particularly dentures and other artificial appliances and spectacles, shall be free of charge to the internee."
+    },
+    {
+      "article": "九十二",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "被拘禁人之健康檢查至少應每月舉行一次。其目的應特別為監察被拘禁人之一般健康狀況，營養及清潔，並察覺傳染病，特別是肺結核、瘧疾，及性病。此項檢查，尤應包括被拘禁人之體重測量，及至少每年一次之透視檢查。",
+      "content_en": "Medical inspections of internees shall be made at least once a month. Their purpose shall be, in particular, to supervise the general state of health, nutrition and cleanliness of internees, and to detect contagious diseases, especially tuberculosis, malaria, and venereal diseases. Such inspections shall include, in particular, the checking of weight of each internee and, at least once a year, radioscopic examination."
+    },
+    {
+      "article": "九十三",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "被拘禁人應有履行其宗教義務之完全自由，包括參加其所信仰宗教之儀式，但以遵守拘留國當局規定之例行的紀律措施為條件。\n\n凡被拘禁之牧師應許其向本教教徒自由執行宗教任務。為此目的，拘留國應使此類牧師公平分配於用同一語言及屬於同一宗教之被拘禁人之各拘禁處所。倘此類牧師為數過少，則拘留國應供給以必要之便利，包括運輸工具，以便由一地前往他地，並應允許其訪問居住醫院之被拘禁人。牧師得自由與拘留國教會當局關於其職務上事項自由通訊，並在可能範圍內，與同一信仰之國際宗教組織通訊。該項通信不得視為構成第一百零七條所定限額之一部分，但應受第一百一十二條規定之限制。\n\n如被拘禁人無其本教之牧師之協助，或後者為數過少，則同一信仰之當地宗教機關得與拘留國協議，指派與被拘禁人同一信仰之牧師，或在宗派觀點上認為可行時，指派類似的宗教之牧師或合格之非宗教人員。後者應享有其所擔任之職務工作之各種便利。此種指派之人員應遵守拘留國為維護紀律及安全而制定之一切規則。",
+      "content_en": "Internees shall enjoy complete latitude in the exercise of their religious duties, including attendance at the services of their faith, on condition that they comply with the disciplinary routine prescribed by the detaining authorities.\n\nMinisters of religion who are interned shall be allowed to minister freely to the members of their community. For this purpose the Detaining Power shall ensure their equitable allocation amongst the various places of internment in which there are internees speaking the same language and belonging to the same religion. Should such ministers be too few in number, the Detaining Power shall provide them with the necessary facilities, including means of transport, for moving from one place to another, and they shall be authorized to visit any internees who are in hospital. Ministers of religion shall be at liberty to correspond on matters concerning their ministry with the religious authorities in the country of detention and, as far as possible, with the international religious organizations of their faith. Such correspondence shall not be considered as forming a part of the quota mentioned in Article 107. It shall, however, be subject to the provisions of Article 112.\n\nWhen internees do not have at their disposal the assistance of ministers of their faith, or should these latter be too few in number, the local religious authorities of the same faith may appoint, in agreement with the Detaining Power, a minister of the internees' faith or, if such a course is feasible from a denominational point of view, a minister of similar religion or a qualified layman. The latter shall enjoy the facilities granted to the ministry he has assumed. Persons so appointed shall comply with all regulations laid down by the Detaining Power in the interests of discipline and security."
+    },
+    {
+      "article": "九十四",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "拘留國應鼓勵被拘禁人之文化、教育與娛樂活動、運動與遊戲，參加與否任其自由。並應採取各種實際措施以保證其實行，尤應供給適當之場所。\n\n對於被拘禁人之繼續其學習或研究新科目者應予以一切可能之便利。兒童及青年之教育應予保證：應許其在拘禁處所以內或以外之學校讀書。\n\n對被拘禁人應給予體操、運動及室外遊戲之機會。為此目的，在一切拘禁處所應留有空場。應為兒童及青年保留特別運動場。",
+      "content_en": "The Detaining Power shall encourage intellectual, educational and recreational pursuits, sports and games amongst internees, whilst leaving them free to take part in them or not. It shall take all practicable measures to ensure the exercice thereof, in particular by providing suitable premises.\n\nAll possible facilities shall be granted to internees to continue their studies or to take up new subjects. The education of children and young people shall be ensured; they shall be allowed to attend schools either within the place of internment or outside.\n\nInternees shall be given opportunities for physical exercise, sports and outdoor games. For this purpose, sufficient open spaces shall be set aside in all places of internment. Special playgrounds shall be reserved for children and young people."
+    },
+    {
+      "article": "九十五",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "除非被拘禁人自願，拘留國不得雇其為工人。強迫雇用未被拘禁之被保護人即屬破壞本公約第四十與第五十一兩條，此項雇用及雇用從事有降低身份或侮辱性質之工作均應絕對禁止。\n\n被拘禁人在工作六星期後得隨時離工，惟須於八日前通知。\n\n拘留國得為同被拘禁人雇用被拘禁之醫師、牙醫及其他醫務人員從事其職業上的任務，或雇用被拘禁人擔任拘禁處所之管理與保養工作，及分派該項人員擔任廚房或其他內務工作，或令其擔任有關被拘禁人防禦空襲或其他戰爭危險之保護工作，此等權利，並不因上項規定而受妨礙。但不得令被拘禁人從事醫官認為與其體力不適合之工作。\n\n拘留國對於工作條件，醫藥照顧，工資支付，及保證受僱之被拘禁人獲得工作上意外傷害或疾病之賠償，應負完全責任。此項工作條件及賠償之標準，應按照該國法規及現行慣例規定之：絕不得低於同一地區同一性質的工作通用之標準。工資應由被拘禁人與拘留國及拘留國以外之雇主--如有此情形--之間以特別協定公平決定之，並應對拘留國免費維持被拘禁人生活，及予以其健康狀況所需之醫藥照顧之義務，加以適當注意。凡被拘禁人被派長期從事本條第三款所述之各類工作者，應由拘留國付以公平之工資。被派是項工作之被拘禁人之工作條件、與工作上意外傷害及疾病賠償之標準，不得低於同一地區同一性質的工作所適用之條件及標準。",
+      "content_en": "The Detaining Power shall not employ internees as workers, unless they so desire. Employment which, if undertaken under compulsion by a protected person not in internment, would involve a breach of Articles 40 or 51 of the present Convention, and employment on work which is of a degrading or humiliating character are in any case prohibited.\n\nAfter a working period of six weeks, internees shall be free to give up work at any moment, subject to eight days' notice.\n\nThese provisions constitute no obstacle to the right of the Detaining Power to employ interned doctors, dentists and other medical personnel in their professional capacity on behalf of their fellow internees, or to employ internees for administrative and maintenance work in places of internment and to detail such persons for work in the kitchens or for other domestic tasks, or to require such persons to undertake duties connected with the protection of internees against aerial bombardment or other war risks. No internee may, however, be required to perform tasks for which he is, in the opinion of a medical officer, physically unsuited.\n\nThe Detaining Power shall take entire responsibility for all working conditions, for medical attention, for the payment of wages, and for ensuring that all employed internees receive compensation for occupational accidents and diseases. The standards prescribed for the said working conditions and for compensation shall be in accordance with the national laws and regulations, and with the existing practice; they shall in no case be inferior to those obtaining for work of the same nature in the same district. Wages for work done shall be determined on an equitable basis by special agreements between the internees, the Detaining Power, and, if the case arises, employers other than the Detaining Power to provide for free maintenance of internees and for the medical attention which their state of health may require. Internees permanently detailed for categories of work mentioned in the third paragraph of this Article, shall be paid fair wages by the Detaining Power. The working conditions and the scale of compensation for occupational accidents and diseases to internees, thusdetailed, shall not be inferior to those applicable to work of the same nature in the same district."
+    },
+    {
+      "article": "九十六",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一切勞動隊均仍為拘禁處所之一部分並附屬於拘禁處所。拘留國主管當局及拘禁處所長官應負責使在勞動隊中遵守本公約各項規定。該長官應備有所屬勞動隊之到新近為止之名單，並應送交前來視察拘禁處所之保護國，紅十字國際委員會及其他人道主義組織之代表。",
+      "content_en": "All labour detachments shall remain part of and dependent upon a place of internment. The competent authorities of the Detaining Power and the commandant of a place of internment shall be responsible for the observance in a labour detachment of the provisions of the present Convention. The commandant shall keep an up-to-date list of the labour detachments subordinate to him and shall communicate it to the delegates of the Protecting Power, of the International Committee of the Red Cross and of other humanitarian organizations who may visit the places of internment."
+    },
+    {
+      "article": "九十七",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "被拘禁人應許其保有個人用品。除按照規定之手續外，不得取去其所持有之錢幣、支票、債券等及貴重物品。凡取去之物品應開給詳細收據。\n\n款項應登入第九十八條所規定之被拘禁人帳目之內。此種款項不得換成任何其他貨幣，除非所有人被拘禁地方之現行立法有此規定，或被拘禁人表示同意。\n\n具有個人或情感價值之物品，不得取去。\n\n被拘禁之婦女僅得由婦女搜查。\n\n被拘禁人釋放或遣返時，應給還在拘禁期間被取去之物品，錢幣或其他貴重物品，其按照第九十八條所立之帳目中之結餘款項，亦應以現款付給之，但拘留國按照現行立法予以扣留之物品或款項除外。被拘禁人之財物因此被扣留者，應給予其所有人以詳細收據。\n\n凡被拘禁人所有之家庭或身份證明文件，非經開給收據不得取去。無論何時不得使被拘禁人無身份證明文件。若無身份證明文件，拘留國應發給特別證件，在拘禁終止前作為其身份證明文件。\n\n被拘禁人得隨身保有一定數目之金錢、現款或購物券，以便其購買物品。",
+      "content_en": "Internees shall be permitted to retain articles of personal use. Monies, cheques, bonds, etc., and valuables in their possession may not be taken from them except in accordance with established procedure. Detailed receipts shall be given therefor.\n\nThe amounts shall be paid into the account of every internee as provided for in Article 98. Such amounts may not be converted into any other currency unless legislation in force in the territory in which the owner is interned so requires or the internee gives his consent.\n\nArticles which have above all a personal or sentimental value may not be taken away.\n\nA woman internee shall not be searched except by a woman.\n\nOn release or repatriation, internees shall be given all articles, monies or other valuables taken from them during internment and shall receive in currency the balance of any credit to their accounts kept in accordance with Article 98, with the exception of any articles or amounts withheld by the Detaining Power by virtue of its legislation in force. If the property of an internee is so withheld, the owner shall receive a detailed receipt.\n\nFamily or identity documents in the possession of internees may not be taken away without a receipt being given. At no time shall internees be left without identity documents. If they have none, they shall be issued with special documents drawn up by the detaining authorities, which will serve as their identity papers until the end of their internment.\n\nInternees may keep on their persons a certain amount of money, in cash or in the shape of purchase coupons, to enable them to make purchases."
+    },
+    {
+      "article": "九十八",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "被拘禁人應獲得經常津貼，足敷其購買物品，如煙草、盥洗用品等之需。該項津貼得採用記帳或購物券形式。\n\n被拘禁人亦得接受其所隸屬國家，保護國，可予以協助之組織，或其家庭之津貼，以及按照拘留國法律自其財產所得之收入。其所隸屬國家所給予之津貼數目，對於同屬一類之被拘禁人（弱者、病者、孕婦等）均須相等，而該國或拘留國均不得根據本公約第二十七條所禁止之對被拘禁人之歧視標準予以分配。\n\n拘留國對每一被拘禁人應開立經常帳目，以便存入本條所述之各項津貼，及所得工資與所收到之匯款，連同自彼取去而依其被拘禁地之現行立法可以動用之款項。對被拘禁人應按照當地現行立法予以匯款於其家庭及其他依賴以生活之人之一切便利，被拘禁人在拘留國所定之限制內，得自其帳目內支取個人費用所需款項。應隨時有查詢其帳目或獲得其帳目之抄本之相當的便利。如經請求，應以帳目清單送交保護國。被拘禁人被移送他處時，此項帳目清單應一同移送。",
+      "content_en": "All internees shall receive regular allowances, sufficient to enable them to purchase goods and articles, such as tobacco, toilet requisites, etc. Such allowances may take the form of credits or purchase coupons.\n\nFurthermore, internees may receive allowances from the Power to which they owe allegiance, the Protecting Powers, the organizations which may assist them, or their families, as well as the income on their property in accordance with the law of the Detaining Power. The amount of allowances granted by the Power to which they o~e allegiance shall be the same for each category of internees (infirm, sick, pregnant women, etc.) but may not be allocated by that Power or distributed by the Detaining Power on the basis of discriminations between internees which are prohibited by Article 27 of the present Convention.\n\nThe Detaining Power shall open a regular account for every internee, to which shall be credited the allowances named in the present Article, the wages earned and the remittances received, together with such sums taken from him as may be available under the legislation in force in the territory in which he is interned. Internees shall be granted all facilities consistent with the legislation in force in such territory to make remittances to their families and to other dependants. They may draw from their accounts the amounts necessary for their personal expenses, within the limits fixed by the Detaining Power. They shall at all times be afforded reasonable facilities for consulting and obtaining copies of their accounts. A statement of accounts shall be furnished to the Protecting Power, on request, and shall accompany the internee in case of transfer."
+    },
+    {
+      "article": "九十九",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "各拘禁處所均應由一負責官員管理，該官員由拘留國正規武裝部隊或正規民政機關內選任之。管理拘禁處所之官員必須備有其本國正式文字，或正式文字之一之本公約抄本一份，並應負責實施本公約。管理被拘禁人之職員應教以本公約之規定及所採用以保證本公約實施之行政措施。\n\n本公約及根據本公約所訂之特別協定之條文，均應以被拘禁人所了解之文字張貼於拘禁處所內，或由被拘禁人委員會保存之。\n\n各種規則、命令、通告或出版物均應以被拘禁人所了解之文字向其傳達，並在拘禁處所內張貼之。\n\n所有對被拘禁人個人所下之命令亦應用其所了解之文字。",
+      "content_en": "Every place of internment shall be put under the authority of a responsible officer, chosen from the regular military forces or the regular civil administration of the Detaining Power. The officer in charge of the place of internment must have in his possession a copy of the present Convention in the official language, or one of the official languages, of his country and shall be responsible for its application. The staff in control of internees shall be instructed in the provisions of the present Convention and of the administrative measures adopted to ensure its application.\n\nThe text of the present Convention and the texts of special agreements concluded under the said Convention shall be posted inside the place of internment, in a language which the internees understand, or shall be in the possession of the Internee Committee.\n\nRegulations, orders, notices and publications of every kind shall be communicated to the internees and posted inside the places of internment, in a language which they understand.\n\nEvery order and command addressed to internees individually must, likewise, be given in a language which they understand."
+    },
+    {
+      "article": "一百",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "拘禁處所之紀律制度應與人道主義原則相符合，絕不得包括對被拘禁人加以妨礙其健康之體力運用或致其身體上或精神上之犧牲之規則。以刺字或在身體上印成符號或標記為辨別身份之方法，均所禁止。\n\n長時間之站立與點名、罰操、軍操與軍事演習或減少口糧量尤所禁止。",
+      "content_en": "The disciplinary regime in places of internment shall be consistent with humanitarian principles, and shall in no circumstances include regulations imposing on internees any physical exertion dangerous to their health or involving physical or moral victimization. Identification by tattooing or imprinting signs or markings on the body, is prohibited.\n\nIn particular, prolonged standing and roll-calls, punishment drill, military drill and manoeuvres, or the reduction of food rations, are prohibited."
+    },
+    {
+      "article": "一百零一",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "被拘禁人有向管制當局提出有關拘禁情況之任何訴願之權。\n\n被拘禁人亦應有權無限制的通過被拘禁人委員會，或如其認為必要時，直接向保護國代表申述其對於拘留情況有所申訴之處。\n\n該項訴願與申訴應立予傳遞，不加更改；即使認為所提申訴並無根據，亦不得因此加以處罰。\n\n被拘禁人委員會得向保護國代表致送關於拘禁處所情形及被拘禁人的需要之定期報告。",
+      "content_en": "Internees shall have the right to present to the authorities in whose power they are, any petition with regard to the conditions of internment to which they are subjected.\n\nThey shall also have the right to apply without restriction through the Internee Committee or, if they consider it necessary, direct to the representatives of the Protecting Power, in order to indicate to them any points on which they may have complaints to make with regard to the conditions of internment.\n\nSuch petitions and complaints shall be transmitted forthwith and without alteration, and even if the latter are recognized to be unfounded, they may not occasion any punishment.\n\nPeriodic reports on the situation in places of internment and as to the needs of the internees may be sent by the Internee Committees to the representatives of the Protecting Powers."
+    },
+    {
+      "article": "一百零二",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "在各拘禁處所內，被拘禁人應每六個月以秘密投票方式自由選舉委員會委員，該委員會有權向拘留國、保護國、紅十字國際委員會及予以協助之任何其他組織，代表被拘禁人。該委員會委員連選得連任。\n\n凡當選之被拘禁人在拘留當局批准其選舉後，應即執行職務。任何拒絕批准或撤職之理由均應通知有關保護國。",
+      "content_en": "In every place of internment, the internees shall freely elect by secret ballot every six months, the members of a Committee empowered to represent them before the Detaining and the Protecting Powers, the International Committee of the Red Cross and any other organization which may assist them. The members of the Committee shall be eligible for re-election.\n\nInternees so elected shall enter upon their duties after their election has been approved by the detaining authorities. The reasons for any refusals or dismissals shall be communicated to the Protecting Powers concerned."
+    },
+    {
+      "article": "一百零三",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "被拘禁人委員會應促進被拘禁人之物質、精神及文化福利。\n\n於本公約其他規定賦予被拘禁人委員會之特殊任務之外，如被拘禁人特別決定自行組織互助制度時，則此項組織亦當屬於該委員會之任務範圍。",
+      "content_en": "The Internee Committees shall further the physical, spiritual and intellectual well-being of the internees.\n\nIn case the internees decide, in particular, to organize a system of mutual assistance amongst themselves, this organization would be within the competence of the Committees in addition to the special duties entrusted to them under other provisions of the present Convention."
+    },
+    {
+      "article": "一百零四",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "被拘禁人委員會委員不應令其擔任其他工作，假使因此將使其任務的完成更為困難。\n\n被拘禁人委員會委員得自被拘禁人中指派其所需之助理人員。應給予彼等一切物質上之便利，尤其為完成其任務所需之若干行動自由（如視察勞動隊，接受供應品等）。\n\n對被拘禁人委員會委員亦應予以與拘留國當局、保護國、紅十字國際委員會與其代表以及其他協助被拘留人之各項組織，郵電通訊之一切便利。勞動隊中之該委員會委員應享受與主要的拘禁處所之被拘禁人委員會類似之通訊便利。該項通訊應不受限制，亦不得認為構成第一百零七條所指限額之一部分。\n\n被拘禁人委員會委員之被移送他處者，應予以相當時間，以便將進行中之事務告知其後任。",
+      "content_en": "Members of Internee Committees shall not be required to perform any other work, if the accomplishment of their duties is rendered more difficult thereby.\n\nMembers of Internee Committees may appoint from amongst the internees such assistants as they may require. All material facilities shall be granted to them, particularly a certain freedom of movement necessary for the accomplishment of their duties (visits to labour detachments, receipt of supplies, etc.).\n\nAll facilities shall likewise be accorded to members of Internee Committees for communication by post and telegraph with the detaining authorities, the Protecting Powers, the International Committee of the Red Cross and their delegates, and with the organizations which give assistance to internees. Committee members in labour detachments shall enjoy similar facilities for communication with their Internee Committee in the principal place of internment. Such communications shall not be limited, nor considered as forming a part of the quota mentioned in Article 107.\n\nMembers of Internee Committees who are transferred shall be allowed a reasonable time to acquaint their successors with current affairs."
+    },
+    {
+      "article": "一百零五",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "拘留國一經拘禁被保護人後，應將其執行本章各項規定所采之措施立即通知被拘禁人，其所隸屬之國以及其保護國。此類措施嗣後如有更改，拘留國應同樣通知有關各方。",
+      "content_en": "Immediately upon interning protected persons, the Detaining Powers shall inform them, the Power to which they owe allegiance and their Protecting Power of the measures taken for executing the provisions of the present Chapter. The Detaining Powers shall likewise inform the Parties concerned of any subsequent modifications of such measures."
+    },
+    {
+      "article": "一百零六",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "被拘禁人一經被拘禁時，或最遲在其到達拘禁處所後一星期內，或在染病或移送其他拘禁處所或醫院之場合，均應使其能直接向其家庭，同時並向第一百四十條所載之中央事務所寄發拘禁郵片，將其被拘禁情形、地址及健康狀況告知其親屬；該郵片，如屬可能，當與本公約所附之式樣相類似。上述郵片應儘速傳遞，無論如何不得遲延。",
+      "content_en": "As soon as he is interned, or at the latest not more than one week after his arrival in a place of internment, and likewise in cases of sickness or transfer to another place of internment or to a hospital, every internee shall be enabled to send direct to his family, on the one hand, and to the Central Agency provided for by Article 140, on the other, an internment card similar, if possible, to the model annexed to the present Convention, informing his relatives of his detention, address and state of health. The said cards shall be forwarded as rapidly as possible and may not be delayed in any way."
+    },
+    {
+      "article": "一百零七",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "被拘禁人應許其發收信件及郵片。如拘留國認為有限制每人所發信件及郵片數目之必要時，則其數目不得少於每月信二封及郵片四張；該信件與郵片之式樣應儘可能依照本公約所附之格式制定。如被拘禁人收信數目必須限制時，則僅能由被拘禁人所隸屬之國家予以規定，可能因拘留國請求而行之。該項信件與郵片必須以相當速度遞送；不得遲延或為紀律理由而扣留。\n\n凡被拘禁人之久未得音信者，或不能由普通郵路獲得其親屬之消息，或向彼等寄遞消息者，以及離家遙遠者，應許其拍發電報，其費用由彼等以其所持有之貨幣支付。如認有緊急情況，彼等亦應同樣享受此項規定之利益。\n\n通常被拘禁人之信件，應用其本國文字書寫。衝突各方亦得許用其他文字通訊。",
+      "content_en": "Internees shall be allowed to send and receive letters and cards. If the Detaining Power deems it necessary to limit the number of letters and cards sent by each internee, the said number shall not be less than two letters and four cards monthly; these shall be drawn up so as to conform as closely as possible to the models annexed to the present Convention. If limitations must be placed on the correspondence addressed to internees, they may be ordered only by the Power to which such internees owe allegiance, possibly at the request of the Detaining Power. Such letters and cards must be conveyed with reasonable despatch; they may not be delayed or retained for disciplinary reasons.\n\nInternees who have been a long time without news, or who find it impossible to receive news from their relatives, or to give them news by the ordinary postal route, as well as those who are at a considerable distance from their homes, shall be allowed to send telegrams, the charges being paid by them in the currency at their disposal. They shall likewise benefit by this provision in cases which are recognized to be urgent.\n\nAs a rule, internees' mail shall be written in their own language. The Parties to the conflict may authorize correspondence in other languages."
+    },
+    {
+      "article": "一百零八",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "凡由郵政或其他方法送交被拘禁人之個人包裹或集體寄運物資，尤其內裝食物、衣服、醫療用品、書籍，以及有關彼等所需之宗教、教育或娛樂性質之物品，均應允許彼等接受。此等裝運物資並不免除拘留國按照本公約所負之各項義務。\n\n倘因軍事需要而須限制此等裝運物資之數量時，應將此種情況妥為通知保護國及紅十字國際委員會，或其他協助被拘禁人並負責寄運上項物資之組織。\n\n寄運個人包裹與集體物資之條件，必要時，應由有關國家特別協定之，惟該項協定不得遲延被拘禁人之收領救濟物品。衣服食品包裹中不得夾有書籍。醫療救濟物資通常應以集體包裹寄送之。",
+      "content_en": "Internees shall be allowed to receive, by post or by any other means, individual parcels or collective shipments containing in particular foodstuffs, clothing, medical supplies, as well as books and objects of a devotional, educational or recreational character which may meet their needs. Such shipments shall in no way free the Detaining Power from the obligations imposed upon it by virtue of the present Convention.\n\nShould military necessity require the quantity of such shipments to be limited, due notice thereof shall be given to the Protecting Power and to the International Committee of the Red Cross, or to any other organization giving assistance to the internees and responsible for the forwarding of such shipments.\n\nThe conditions for the sending of individual parcels and collective shipments shall, if necessary, be the subject of special agreements between the Powers concerned, which may in no case delay the receipt by the internees of relief supplies. Parcels of clothing and foodstuffs may not include books. Medical relief supplies shall, as a rule, be sent in collective parcels."
+    },
+    {
+      "article": "一百零九",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "衝突各方對於集體救濟裝運物資之接受與分配之條件，如無特別協定，則應適用本公約所附之關於集體救濟之規則。\n\n上述特別協定，絕不得限制被拘禁人委員會接收寄交彼等之集體救濟裝運物資，進行分配，以及為受物人利益而處置該項物品之權。\n\n上述協定亦不得限制保護國，紅十字國際委員會，或其他協助被拘禁人並負責轉送集體裝運物資之組織之代表，監督分發該項物資於受物人之權。",
+      "content_en": "In the absence of special agreements between Parties to the conflict regarding the conditions for the receipt and distribution of collective relief shipments, the regulations concerning collective relief which are annexed to the present Convention shall be applied.\n\nThe special agreements provided for above shall in no case restrict the right of Internee Committees to take possession of collective relief shipments intended for internees, to undertake their distribution and to dispose of them in the interests of the recipients. Nor shall such agreements restrict the right of representatives of the Protecting Powers, the International Committee of the Red Cross, or any other organization giving assistance to internees and responsible for the forwarding of collective shipments, to supervise their distribution to the recipients."
+    },
+    {
+      "article": "一百一十",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "所有寄交被拘禁人之救濟裝運物資應豁免進口、海關及其他捐稅。\n\n凡自其他國家由郵政寄與被拘禁人之一切物件，包括郵寄之救濟包裹及匯款，或彼等經郵局寄出之物件，無論直接寄出或經由第一百三十六條所規定之情報局及第一百四十條所規定之中央情報事務所寄遞者，在寄出國、寄達國，及中途經過之國家均應豁免一切郵政費用。因此，１９４７年萬國郵政公約及萬國郵政聯盟所訂之協定為拘留於營地或普通監獄之敵國平民而規定之豁免辦法，尤應推廣適用於本公約所保護之其他被拘禁人。凡未簽訂上述各協定之國家遇有同樣情形亦應豁免各項費用。\n\n凡寄交被拘禁人之救濟裝運物資因重量或其他原因不能自郵局寄遞者，則在拘留國控制之領土內之運費應由拘留國負擔。本公約之其他締約國應負擔各該國領土內之運費。\n\n有關運輸此類物資之各種費用而為以上各款所未及規定者，應由寄物人負擔。\n\n各締約國對於被拘禁人所收發之電報應儘量減低其報費。",
+      "content_en": "An relief shipments for internees shall be exempt from import, customs and other dues.\n\nAll matter sent by mail, including relief parcels sent by parcel post and remittances of money, addressed from other countries to internees or despatched by them through the post office, either direct or through the Information Bureaux provided for in Article 136 and the Central Information Agency provided for in Article 140, shall be exempt from all postal dues both in the countries of origin and destination and in intermediate countries. To this end, in particular, the exemption provided by the Universal Postal Convention of 1947 and by the agreements of the Universal Postal Union in favour of civilians of enemy nationality detained in camps or civilian prisons, shall be extended to the other interned persons protected by the present Convention. The countries not signatory to the above-mentioned agreements shall be bound to grant freedom from charges in the same circumstances.\n\nThe cost of transporting relief shipments which are intended for internees and which, by reason of their weight or any other cause, cannot be sent through the post office, shall be borne by the Detaining Power in all the territories under its control. Other Powers which are Parties to the present Convention shall bear the cost of transport in their respective territories.\n\nCosts connected with the transport of such shipments, which are not covered by the above paragraphs, shall be charged to the senders.\n\nThe High Contracting Parties shall endeavour to reduce, so far as possible, the charges for telegrams sent by internees, or addressed to them."
+    },
+    {
+      "article": "一百一十一",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "如軍事行動使有關國家不能履行其義務以保證第一百零六、一百零七、一百零八及一百一十三各條所規定之郵件與救濟物資之運送時，則有關之保護國、紅十字國際委員會或衝突各方正式承認之其他組織得採取適當方法（鐵路、汽車、船舶或飛機等），以確保上項物資之運送。為此目的，各締約國應設法供給此類運輸工具，並准其通行，尤鬚髮給必需之通行證。\n\n此種運輸工具亦可用以載送：\n\n（甲）第一百四十條所述之中央情報事務所與第一百三十六條所述之各國情報局間之來往信件，表冊及報告。\n\n（乙）保護國，紅十字國際委員會，或其他協助被拘禁人之組織與其所派之代表與衝突各方間來往有關被拘禁人之通訊與報告。\n\n上項規定絕不影響任何衝突一方自願布置其他運輸工具之權利，亦不妨礙在彼此同意條件下，對該項運輸工具發給通行證。\n\n凡使用上述運輸工具所需之費用，應比照裝運物資之重要性由受益人所屬之衝突各方分擔之。",
+      "content_en": "Should military operations prevent the Powers concerned from fulfilling their obligation to ensure the conveyance of the mail and relief shipments provided for in Articles 106, 107, 108 and 113, the Protecting Powers concerned, the International Committee of the Red Cross or any other organization duly approved by the Parties to the conflict may undertake the conveyance of such shipments by suitable means (rail, motor vehicles, vessels or aircraft, etc.). For this purpose, the High Contracting Parties shall endeavour to supply them with such transport, and to allow its circulation, especially by granting the necessary safe-conducts.\n\nSuch transport may also be used to convey:* correspondence, lists and reports exchanged between the Central Information Agency referred to in Article 140 and the National Bureaux referred to in Article 136;* correspondence and reports relating to internees which the Protecting Powers, the International Committee of the Red Cross or any other organization assisting the internees exchange either with their own delegates or with the Parties to the conflict.\n\nThese provisions in no way detract from the right of any Party to the conflict to arrange other means of transport if it should so prefer, nor preclude the granting of safe-conducts, under mutually agreed conditions, to such means of transport.\n\nThe costs occasioned by the use of such means of transport shall be borne, in proportion to the importance of the shipments, by the Parties to the conflict whose nationals are benefited thereby."
+    },
+    {
+      "article": "一百一十二",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "對於被拘禁人來往信件之檢查應儘速辦理。\n\n對於寄交被拘禁人裝運物資之檢驗，不得在致使其內裝物品受損壞之情形下執行。檢驗應在收件人，或其所正式委託之同被拘禁人之面前執行之。凡被拘禁人之個人或集體之裝運物資，不得以檢查困難為藉口，延遲交付。\n\n衝突各方無論為軍事或政治理由對於通訊之禁止，應僅屬暫時性，其期限應儘量縮短。",
+      "content_en": "The censoring of correspondence addressed to internees or despatched by them shall be done as quickly as possible.\n\nThe examination of consignments intended for internees shall not be carried out under conditions that will expose the goods contained in them to deterioration. It shall be done in the presence of the addressee, or of a fellow-internee duly delegated by him. The delivery to internees of individual or collective consignments shall not be delayed under the pretext of difficulties of censorship.\n\nAny prohibition of correspondence ordered by the Parties to the conflict either for military or political reasons, shall be only temporary and its duration shall be as short as possible."
+    },
+    {
+      "article": "一百一十三",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "拘留國對於通過保護國或第一百四十條所規定之中央事務所或其他必需方法送交被拘禁人或其寄出之遺囑、委託書、授權書或其他文件之轉遞，應予以一切合理之便利。\n\n在一切情況下，拘留國對於為被拘禁人依法定格式完成並證實上述文件應予以便利，尤應允許被拘禁人諮詢律師。",
+      "content_en": "The Detaining Powers shall provide all reasonable execution facilities for the transmission, through the Protecting Power or the Central Agency provided for in Article 140, or as otherwise required, of wills, powers of attorney, letters of authority, or any other documents intended for internees or despatched by them.\n\nIn all cases the Detaining Powers shall facilitate the execution and authentication in due legal form of such documents on behalf of internees, in particular by allowing them to consult a lawyer."
+    },
+    {
+      "article": "一百一十四",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "拘留國應給予被拘禁人一切便利，使其能管理其財產，但須與拘禁情形及適用之法律並無不合。為此目的，遇有緊急情形及環境許可時，拘留國得允許被拘禁人離開拘禁處所。",
+      "content_en": "The Detaining Power shall afford internees all facilities to enable them to manage their property, provided this is not incompatible with the conditions of internment and the law which is applicable. For this purpose, the said Power may give them permission to leave the place of internment in urgent cases and if circumstances allow."
+    },
+    {
+      "article": "一百一十五",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "遇有被拘禁人在任何法庭中為訴訟當事人之一切場合，拘留國一經其請求，應使法庭知其系在拘留中，並應在法律範圍內保證採取一切必要步驟，務使該被拘禁人對於訟案之準備與進行，或法庭判決之執行不致因其拘禁而處於不利之地位。",
+      "content_en": "In all cases where an internee is a party to proceedings in any court, the Detaining Power shall, if he so requests, cause the court to be informed of his detention and shall, within legal limits, ensure that all necessary steps are taken to prevent him from being in any way prejudiced, by reason of his internment, as regards the preparation and conduct of his case or as regards the execution of any judgment of the court."
+    },
+    {
+      "article": "一百一十六",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "被拘禁人應許其按一定時期，而且儘可能時常接見來訪者，尤其近親。\n\n遇有緊急情形，尤其遇有親屬死亡或重病之場合，應儘可能准被拘禁人歸家。",
+      "content_en": "Every internee shall be allowed to receive visitors, especially near relatives, at regular intervals and as frequently as possible.\n\nAs far as is possible, internees shall be permitted to visit their homes in urgent cases, particularly in cases of death or serious illness of relatives."
+    },
+    {
+      "article": "一百一十七",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "在本章規定之限制下，拘留地方之現行法律對於在拘禁中犯法之被拘禁人繼續適用。\n\n如普通法律，規則或命令宣布被拘禁人所犯之行為應受處罰，而同一行為如為非被拘禁人所犯，則不受處罰，則對被拘禁人之該項行為，應僅予以紀律處罰。\n\n被拘禁人不得因同一行為或同一罪名受一次以上之處罰。",
+      "content_en": "Subject to the provisions of the present Chapter, the laws in force in the territory in which they are detained will continue to apply to internees who commit offences during internment.\n\nIf general laws, regulations or orders declare acts committed by internees to be punishable, whereas the same acts are not punishable when committed by persons who are not internees, such acts shall entail disciplinary punishments only.\n\nNo internee may be punished more than once for the same act, or on the same count."
+    },
+    {
+      "article": "一百一十八",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "法庭或當局作判決時，應儘量顧及被告並非拘留國人民之一事實。法庭或當局得自由酌減被拘禁人因所犯罪行應受之刑罰，因此並無必須援用規定最低刑罰之義務。\n\n監禁於不見日光之房屋及各種虐待，無例外地，應予禁止。\n\n凡受紀律或司法判決之被拘禁人，不得受與其他被拘禁人不同之待遇。\n\n凡被拘禁人曾受預防性拘留者，其拘留期間，應自其可能被判之涉及禁閉之紀律或司法懲罰之日期減除之。\n\n對於被拘留人委員會應將對其所代表之被拘禁人之司法訴訟，及其結果通知之。",
+      "content_en": "The courts or authorities shall in passing sentence take as far as possible into account the fact that the defendant is not a national of the Detaining Power. They shall be free to reduce the penalty prescribed for the offence with which the internee is charged and shall not be obliged, to this end, to apply the minimum sentence prescribed.\n\nImprisonment in premises without daylight, and, in general, all forms of cruelty without exception are forbidden.\n\nInternees who have served disciplinary or judicial sentences shall not be treated differently from other internees.\n\nThe duration of preventive detention undergone by an internee shall be deducted from any disciplinary or judicial penalty involving confinement to which he may be sentenced.\n\nInternee Committees shall be informed of all judicial proceedings instituted against internees whom they represent, and of their result."
+    },
+    {
+      "article": "一百一十九",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "適用於被拘禁人之紀律處罰應如下：\n\n（一）罰款不得超過被拘禁人按照第九十五條規定所應能獲得的不超過三十日期間之工資之百分之五十。\n\n（二）停止其所受超過本公約規定待遇之特權。\n\n（三）與保養拘禁處所有關之疲勞服役，每日不超過兩小時。\n\n（四）禁閉。\n\n紀律處罰絕不得為非人道的，殘暴或危及被拘禁人健康。被拘禁人之年齡、性別及健康狀況，應予顧及。\n\n任何一次處罰之期限最多絕不得超過連續三十日，即使該被拘禁人在被處分時負有數次互相關聯或不關聯之破壞紀律行為之責任。",
+      "content_en": "The disciplinary punishments applicable to internees shall be the following:# a fine which shall not exceed 50 per cent of the wages which the internee would otherwise receive under the provisions of Article 95 during a period of not more than thirty days.# discontinuance of privileges granted over and above the treatment provided for by the present Convention# fatigue duties, not exceeding two hours daily, in connection with the maintenance of the place of internment.# confinement.\n\nIn no case shall disciplinary penalties be inhuman, brutal or dangerous for the health of internees. Account shall be taken of the internee's age, sex and state of health.\n\nThe duration of any single punishment shall in no case exceed a maximum of thirty consecutive days, even if the internee is answerable for several breaches of discipline when his case is dealt with, whether such breaches are connected or not."
+    },
+    {
+      "article": "一百二十",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "被拘禁人逃脫後復被拘獲或企圖逃脫者，對其逃脫行為僅能予以紀律處罰，即使系屬累犯。\n\n雖有第一百一十八條第三款之規定，但被拘禁人因脫逃或因企圖脫逃而受處罰者，得加以特別監視，惟該項監視不得影響彼等健康，且須在拘禁處所內執行，並不得因而取消本公約所給予彼等之保障。\n\n被拘禁人幫助，教唆脫逃或企圖脫逃者，僅能因此受紀律處罰。",
+      "content_en": "Internees who are recaptured after having escaped or when attempting to escape, shall be liable only to disciplinary punishment in respect of this act, even if it is a repeated offence.\n\nArticle 118, paragraph 3, notwithstanding, internees punished as a result of escape or attempt to escape, may be subjected to special surveillance, on condition that such surveillance does not affect the state of their health, that it is exercised in a place of internment and that it does not entail the abolition of any of the safeguards granted by the present Convention.\n\nInternees who aid and abet an escape or attempt to escape, shall be liable on this count to disciplinary punishment only."
+    },
+    {
+      "article": "一百二十一",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "當被拘禁人因脫逃中所犯之罪行而受訴追時，不得因其脫逃或企圖脫逃，即使系屬累犯，而加重其罪情。\n\n衝突各方應保證主管當局在決定一過犯之處罰應屬紀律性或司法性時，持之以寬大，尤其與已成功或未成功的脫逃有關之行為。",
+      "content_en": "Escape, or attempt to escape, even if it is a repeated offence, shall not be deemed an aggravating circumstance in cases where an internee is prosecuted for offences committed during his escape.\n\nThe Parties to the conflict shall ensure that the competent authorities exercise leniency in deciding whether punishment inflicted for an offence shall be of a disciplinary or judicial nature, especially in respect of acts committed in connection with an escape, whether successful or not."
+    },
+    {
+      "article": "一百二十二",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "構成違犯紀律之行為應立即予以調查。本規定尤應適用於脫逃或企圖脫逃案件。再被拘捕之被拘禁人應儘速送交主管當局。\n\n被拘禁人因違犯紀律等候處理之禁閉期間，應儘量減短，並不得超過十四日。該項期間應自其任何判處之禁閉中扣除之。\n\n第一百二十四及第一百二十五兩條之規定應適用於因違犯紀律等候處理而受禁閉之被拘禁人。",
+      "content_en": "Acts which constitute offences against discipline shall be investigated immediately. This rule shall be applied, in particular, in cases of escape or attempt to escape. Recaptured internees shall be handed over to the competent authorities as soon as possible.\n\nIn cases of offences against discipline, confinement awaiting trial shall be reduced to an absolute minimum for all internees, and shall not exceed fourteen days. Its duration shall in any case be deducted from any sentence of confinement.\n\nThe provisions of Articles 124 and 125 shall apply to internees who are in confinement awaiting trial for offences against discipline."
+    },
+    {
+      "article": "一百二十三",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "在不妨礙法庭及上級當局之權限範圍內，紀律性處罰僅能由拘禁處所之長官，或代替該長官之負責官員，或由其委以紀律權之官員之命令行之。\n\n在裁定紀律性處罰前，應將關於其所被控之過犯之確切案情通知被拘禁人，並予以解釋其行為及辯護之機會。尤應許其召喚證人，並於必要時，使用合格之譯員。判決應在被告及被拘禁人委員會一委員之前宣布之。\n\n紀律性處罰的裁定及其執行之相隔時期，不得超過一個月。\n\n被拘禁人再度被判紀律性處罰時，如其前後兩次處罰中之一次之時期為十日或十日以上，則該兩次處罰之執行，其間至少須隔三日。\n\n紀律性處罰之記錄，應由拘禁處所之長官保存，並得由保護國代表檢查。",
+      "content_en": "Without prejudice to the competence of courts and higher authorities, disciplinary punishment may be ordered only by the commandant of the place of internment, or by a responsible officer or official who replaces him, or to whom he has delegated his disciplinary powers.\n\nBefore any disciplinary punishment is awarded, the accused internee shall be given precise information regarding the offences of which he is accused, and given an opportunity of explaining his conduct and of defending himself. He shall be permitted, in particular, to call witnesses and to have recourse, if necessary, to the services of a qualified interpreter. The decision shall be announced in the presence of the accused and of a member of the Internee Committee.\n\nThe period elapsing between the time of award of a disciplinary punishment and its execution shall not exceed one month.\n\nWhen an internee is awarded a further disciplinary punishment, a period of at least three days shall elapse between the execution of any two of the punishments, if the duration of one of these is ten days or more.\n\nA record of disciplinary punishments shall be maintained by the commandant of the place of internment and shall be open to inspection by representatives of the Protecting Power."
+    },
+    {
+      "article": "一百二十四",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "被拘禁人絕不得移送於反省機關（監所、反省院　已決犯監獄）受紀律性處罰。\n\n執行紀律性處罰之處所應合於衛生條件；尤須備有充分之被褥。受處罰之被拘禁人應使能保持身體清潔。\n\n受紀律性處罰之被拘禁婦女之禁閉地方應與被拘禁男子分開，並應由婦女直接監管。",
+      "content_en": "Internees shall not in any case be transferred to penitentiary establishments (prisons, penitentiaries, convict prisons, etc.) to undergo disciplinary punishment therein.\n\nThe premises in which disciplinary punishments are undergone shall conformto sanitary requirements: they shall in particular be provided with adequate bedding. Internees undergoing punishment shall be enabled to keep themselves in a state of cleanliness.\n\nWomen internees undergoing disciplinary punishment shall be confined in separate quarters from male internees and shall be under the immediate supervision of women."
+    },
+    {
+      "article": "一百二十五",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "被判紀律性處罰之被拘禁人，應許其運動及在露天地方停留每日至少二小時。\n\n被拘禁人請求時，應許其參加每日之健康檢查。被拘禁人應獲得其健康情形所需要之照顧，於必要時，並應將其送往拘禁處所之療養所或醫院。\n\n彼等應准閱讀及書寫並收發信件。但寄給彼等之包裹及匯款得予扣留，直至其處罰期滿為止；在此期間此等物品應暫交被拘禁人委員會保管，該會當將包裹中易於腐壞之物品交與療養所。\n\n受紀律性處罰之被拘禁人所享有本公約第一百零七及一百四十三兩條各項規定之利益不得予以剝奪。",
+      "content_en": "Internees awarded disciplinary punishment shall be allowed to exercise and to stay in the open air at least two hours daily.\n\nThey shall be allowed, if they so request, to be present at the daily medical inspections. They shall receive the attention which their state of health requires and, if necessary, shall be removed to the infirmary of the place of internment or to a hospital.\n\nThey shall have permission to read and write, likewise to send and receive letters. Parcels and remittances of money, however, may be withheld from them until the completion of their punishment; such consignments shall meanwhile be entrusted to the Internee Committee, who will hand over to the infirmary the perishable goods contained in the parcels.\n\nNo internee given a disciplinary punishment may be deprived of the benefit of the provisions of Articles 107 and 143 of the present Convention."
+    },
+    {
+      "article": "一百二十六",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "第七十一條至第七十六條之規定，應依比照，適用於在拘留國本國領土內，對被拘禁人之訴訟。",
+      "content_en": "The provisions of Articles 71 to 76 inclusive shall apply, by analogy, to proceedings against internees who are in the national territory of the Detaining Power."
+    },
+    {
+      "article": "一百二十七",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "被拘禁人之移送，應始終以人道方法行之。原則上應由鐵路或其他交通工具運送，而其運送情形最少須與拘留國軍隊換防情形相同。如為例外的措施，此項移動必須步行，則除非被拘禁人在適宜之健康狀況下，不得執行，且絕不得使其過度疲勞。\n\n拘留國在移送時，對被拘禁人應供給飲水與食物，其量、質與種類應足以維持其健康，並應供給必需之衣服，適當之住處，及必要之醫療照顧。拘留國應採取各種適當之預防措施以保證其在移送期間之安全，並在其啟程之前編造移送之被拘禁人全體名單。\n\n傷、病，或體弱之被拘禁人及產婦，如旅程對彼等極為有害時，不得移送，除非彼等之安全，有此迫切移送的要求。\n\n如戰區逼近拘禁處所，在該處之被拘禁人不得移送，除非其移送能在適當的安全情形下實行，或被拘禁人如仍居住原地其所冒之危險將更甚於移送。\n\n拘留國決定移送被拘禁人時，應顧及被拘禁人之利益，尤不得從事任何行動以增加其遣返或遣送回家之困難。",
+      "content_en": "The transfer of internees shall always be effected humanely. As a general rule, it shall be carried out by rail or other means of transport, and under conditions at least equal to those obtaining for the forces of the Detaining Power in their changes of station. If, as an exceptional measure, such removals have to be effected on foot, they may not take place unless the internees are in a fit state of health, and may not in any case expose them to excessive fatigue.\n\nThe Detaining Power shall supply internees during transfer with drinking water and food sufficient in quantity, quality and variety to maintain them in good health, and also with the necessary clothing, adequate shelter and the necessary medical attention. The Detaining Power shall take all suitable precautions to ensure their safety during transfer, and shall establish before their departure a complete list of all internees transferred.\n\nSick, wounded or infirm internees and maternity cases shall not be transferred if the journey would be seriously detrimental to them, unless their safety imperatively so demands.\n\nIf the combat zone draws close to a place of internment, the internees in the said place shall not be transferred unless their removal can be carried out in adequate conditions of safety, or unless they are exposed to greater risks by remaining on the spot than by being transferred.\n\nWhen making decisions regarding the transfer of internees, the Detaining Power shall take their interests into account and, in particular, shall not do anything to increase the difficulties of repatriating them or returning them to their own homes."
+    },
+    {
+      "article": "一百二十八",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "在移送時，應向被拘禁人正式通知其行期及新通信地址。此項通知應及時發出，俾彼等得以收拾行李及通知其最近親屬。\n\n彼等應准攜帶個人物品，及收到之函件包裹。如移送情形有此必要，得限制其攜帶行李之重量，但無論如何每人不得少於二十五公斤。\n\n寄到彼等舊拘禁處所之函件包裹，應予轉遞，不得遲延。\n\n拘禁處所長官於徵得被拘禁人委員會同意後，應採取一切必要措施，保證運送被拘禁人之公共財物及其因本條第二款所加之限制而不能攜帶之行李。",
+      "content_en": "In the event of transfer, internees shall be officially advised of their departure and of their new postal address. Such notification shall be given in time for them to pack their luggage and inform their next of kin.\n\nThey shall be allowed to take with them their personal effects, and the correspondence and parcels which have arrived for them. The weight of such baggage may be limited if the conditions of transfer so require, but in no case to less than twenty-five kilograms per internee.\n\nMail and parcels addressed to their former place of internment shall be forwarded to them without delay.\n\nThe commandant of the place of internment shall take, in agreement with the Internee Committee, any measures needed to ensure the transport of the internees' community property and of the luggage the internees are unable to take with them in consequence of restrictions imposed by virtue of the second paragraph."
+    },
+    {
+      "article": "一百二十九",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "被拘禁人之遺囑應由負責當局收存保管；被拘禁人死亡時，其遺囑應即交付其生前所指定之人，不得遲延。\n\n被拘禁人之死亡均須由醫生證明，並須作成死亡證，載明死亡之原因及其發生情形。\n\n適當登記之正式死亡記錄，應按照拘禁處所所在地之現行手續製成，該記錄之正式證明抄本應迅速送交保護國及第一百四十條所述之中央事務所。",
+      "content_en": "The wills of internees shall be received for safe-keeping by the responsible authorities; and if the event of the death of an internee his will shall be transmitted without delay to a person whom he has previously designated.Deaths of internees shall be certified in every case by a doctor, and a death certificate shall be made out, showing the causes of death and the conditions under which it occurred.\n\nAn official record of the death, duly registered, shall be drawn up in accordance with the procedure relating thereto in force in the territory where the place of internment is situated, and a duly certified copy of such record shall be transmitted without delay to the Protecting Power as well as to the Central Agency referred to in Article 140."
+    },
+    {
+      "article": "一百三十",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "拘留國應保證在拘禁期間死亡之被拘禁人，獲得榮譽之安葬。可能時按照其所屬宗教之儀式埋葬之，並尊重其墳墓，妥為保護，並加以常能辨認之標誌。\n\n死亡之被拘禁人應葬於個別之墳墓中；除非在無法避免之情況下必須採用集體墳墓。遺體僅得因迫切的衛生理由，死者之宗教關係或其本人表明之意願方得予以焚化。如舉行焚化，則此項事實與理由應載明於死者之死亡證。骨灰應由拘留國妥為保存，一經死者最近親屬請求，應即儘速交付。\n\n一俟環境許可，並不遲於戰爭結束時，拘留國應經由第一百三十六條所規定之情報局，將死亡之被拘禁人墳墓清單送交其所屬之國家。該清單應載明為辨認死亡之被拘禁人所需要之一切詳情，及其墳墓之確實地點。",
+      "content_en": "The detaining authorities shall ensure that internees who die while interned are honourably buried, if possible according to the rites of the religion to which they belonged and that their graves are respected, properly maintained, and marked in such a way that they can always be recognized.\n\nDeceased internees shall be buried in individual graves unless unavoidable circumstances require the use of collective graves. Bodies may be cremated only for imperative reasons of hygiene, on account of the religion of the deceased or in accordance with his expressed wish to this effect. In case of cremation, the fact shall be stated and the reasons given in the death certificate of the deceased. The ashes shall be retained for safe-keeping by the detaining authorities and shall be transferred as soon as possible to the next of kin on their request.\n\nAs soon as circumstances permit, and not later than the close of hostilities, the Detaining Power shall forward lists of graves of deceased internees to the Powers on whom deceased internees depended, through the Information Bureaux provided for in Article 136. Such lists shall include all particulars necessary for the identification of the deceased internees, as well as the exact location of their graves."
+    },
+    {
+      "article": "一百三十一",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "被拘禁人之死亡或重傷，係由於或疑為由於哨兵，其他被拘禁人，或任何其他人所致者，以及原因不明之死亡，拘留國應立即從事正式調查。\n\n該事件應立即通知保護國。一切證人之證明應行收集，並應備有包括該項證明之報告，送交上述保護國。\n\n如上述調查指明一人或多人犯罪，拘留國應採取一切必要之措施，對該負責人一人或多人進行訴追。",
+      "content_en": "Every death or serious injury of an internee, caused or suspected to have been caused by a sentry, another internee or any other person, as well as any death the cause of which is unknown, shall be immediately followed by an official enquiry by the Detaining Power.\n\nA communication on this subject shall be sent immediately to the Protecting Power. The evidence of any witnesses shall be taken, and a report including such evidence shall be prepared and forwarded to the said Protecting Power.\n\nIf the enquiry indicates the guilt of one or more persons, the Detaining Power shall take all necessary steps to ensure the prosecution of the person or persons responsible."
+    },
+    {
+      "article": "一百三十二",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一俟必須拘禁之理由不復存在時，拘留國應即將被拘禁人釋放。\n\n衝突之各方在戰事進行中並應設法締結協定，規定若干類之被拘禁人，尤其兒童、孕婦、有嬰孩與幼童之母親，傷者、病者及已經長期拘禁者之釋放、遣返、送歸原居住地或收容於中立國之辦法。",
+      "content_en": "Each interned person shall be released by the Detaining Power as soon as the reasons which necessitated his internment no longer exist.\n\nThe Parties to the conflict shall, moreover, endeavour during the course of hostilities, to conclude agreements for the release, the repatriation, the return to places of residence or the accommodation in a neutral country of certain classes of internees, in particular children, pregnant women and mothers with infants and young children, wounded and sick, and internees who have been detained for a long time."
+    },
+    {
+      "article": "一百三十三",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "戰事結束後，拘禁應予儘速終止。\n\n對於在衝突一方領土內之被拘禁人刑事程序正在進行中而其所犯行為並非完全限於紀律性處罰範圍內者，得予扣留至該項程序結束時止，並於情況需要時，直至刑罰終了時止。對於以前被判剝奪自由的處罰之被拘禁人，本規定亦應適用之。\n\n戰事或占領結束後，得依拘留國與有關國家之協定，成立委員會，搜尋散失之被拘禁人。",
+      "content_en": "Internment shall cease as soon as possible after the close of hostilities.\n\nInternees in the territory of a Party to the conflict against whom penal proceedings are pending for offences not exclusively subject to disciplinary penalties, may be detained until the close of such proceedings and, if circumstances require, until the completion of the penalty. The same shall apply to internees who have been previously sentenced to a punishment depriving them of liberty.\n\nBy agreement between the Detaining Power and the Powers concerned, committees may be set up after the close of hostilities, or of the occupation of territories, to search for dispersed internees."
+    },
+    {
+      "article": "一百三十四",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "戰事或占領結束時，各締約國應努力設法使被拘禁人歸還最後居住地方，或便利彼等之遣返。",
+      "content_en": "The High Contracting Parties shall endeavour, upon the close of hostilities or occupation, to ensure the return of all internees to their last place of residence, or to facilitate their repatriation."
+    },
+    {
+      "article": "一百三十五",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "拘留國應負擔將釋放之被拘禁人送回至其被拘禁時居住之地方之費用。如被拘禁人繫於過境時或在公海上始被拘管者，則該國應負擔其完成旅程或返歸啟程地點之費用。\n\n被拘禁人以前原在拘留國領土內有永久住所，而在釋放之時該拘留國不許其繼續居住於其領土者，則該國應負擔該被拘禁人遣返之費用。但如被拘禁人願自行歸返其本國或因遵從其所隸屬國政府命令而返國者，則拘留國不必負擔該人離開該國領土出發地點後之旅費。拘留國不負擔自請拘禁之被拘禁人之遣返費用。\n\n如被拘禁人依第四十五條而被移送，移送國與接受國應商定上述各項費用之彼此分擔部分。\n\n上述規定不礙及衝突各方間所訂立關於在敵方手中的本國人民之交換與遣返之特別協定。",
+      "content_en": "The Detaining Power shall bear the expense of returning released internees to the places where they were residing when interned, or, if it took them into custody while they were in transit or on the high seas, the cost of completing their journey or of their return to their point of departure.\n\nWhere a Detaining Power refuses permission to reside in its territory to a released internee who previously had his permanent domicile therein, such Detaining Power shall pay the cost of the said internee's repatriation. If, however, the internee elects to return to his country on his own responsibility or in obedience to the Government of the Power to which he owes allegiance, the Detaining Power need not pay the expenses of his journey beyond the point of his departure from its territory. The Detaining Power need not pay the cost of repatriation of an internee who was interned at his own request.\n\nIf internees are transferred in accordance with Article 45, the transferring and receiving Powers shall agree on the portion of the above costs to be borne by each.\n\nThe foregoing shall not prejudice such special agreements as may be concluded between Parties to the conflict concerning the exchange and repatriation of their nationals in enemy hands."
+    },
+    {
+      "article": "一百三十六",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "在衝突發生時及一切占領之場合，衝突之每一方應設立一正式情報局，負責接收與傳遞有關在該國權利下之被保護人之情報。\n\n衝突之每一方，在儘可能最短期內，應將其關於受看管逾兩星期，受指定居所限制，或被拘禁之任何被保護人所採取任何措施之情報通知其情報局。又應令該國與此類事務有關之各部門，將關於此項被保護人之各項變動情形之情報，隨時迅速供給上述之情報局。例如移送、釋放、遣返、脫逃、送入醫院、出生、死亡。",
+      "content_en": "Upon the outbreak of a conflict and in all cases of occupation, each of the Parties to the conflict shall establish an official Information Bureau responsible for receiving and transmitting information in respect of the protected persons who are in its power.\n\nEach of the Parties to the conflict shall, within the shortest possible period, give its Bureau information of any measure taken by it concerning any protected persons who are kept in custody for more than two weeks, who are subjected to assigned residence or who are interned. It shall, furthermore, require its various departments concerned with such matters to provide the aforesaid Bureau promptly with information concerning all changes pertaining to these protected persons, as, for example, transfers, releases, repatriations, escapes, admittances to hospitals, births and deaths."
+    },
+    {
+      "article": "一百三十七",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "各國情報局應立即以最迅速之方法將關於被保護人之情報，通過保護國及第一百四十條所規定之中央事務所之媒介，通知被保護人之本國或其原居住國。該局並應答覆其所接獲有關被保護人之一切查詢。\n\n凡有關被保護人之情報，情報局均應轉遞，除非其轉遞對本人或其親屬可能有妨害。縱有此種情形亦不得將該項情報隱匿而不通知中央事務所。該所於接獲此項情形之通知後，應當採取第一百四十條所載之各種必要之預防辦法。\n\n各情報局之一切書面通知應以簽名或蓋章為憑。",
+      "content_en": "Each national Bureau shall immediately forward information concerning protected persons by the most rapid means to the Powers in whose territory they resided, through the intermediary of the Protecting Powers and likewise through the Central Agency provided for in Article 140. The Bureaux shall also reply to all enquiries which may be received regarding protected persons.\n\nInformation Bureaux shall transmit information concerning a protected person unless its transmission might be detrimental to the person concerned or to his or her relatives. Even in such a case, the information may not be withheld from the Central Agency which, upon being notified of the circumstances, will take the necessary precautions indicated in Article 140.\n\nAll communications in writing made by any Bureau shall be authenticated by a signature or a seal."
+    },
+    {
+      "article": "一百三十八",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "國家情報局所接獲及傳遞之情報，應為具有能正確判明被保護人之身份及迅速報知其最近親屬之性質。關於各該人之情報至少應包括其姓、名，出生地點及日期、國籍、最後居所，及特徵、其父之名、其母之本名、對於其人所採行動之日期、地點及性質、其收信地址，及被通知人之姓名住址。\n\n關於重病或重傷之被拘禁人之健康情況之情報亦應按期供給，可能時每周一次。",
+      "content_en": "The information received by the national Bureau and transmitted by it shall be of such a character as to make it possible to identify the protected person exactly and to advise his next of kin quickly. The information in respect of each person shall include at least his surname, first names, place and date of birth, nationality last residence and distinguishing characteristics, the first name of the father and the maiden name of the mother, the date, place and nature of the action taken with regard to the individual, the address at which correspondence may be sent to him and the name and address of the person to be informed.\n\nLikewise, information regarding the state of health of internees who are seriously ill or seriously wounded shall be supplied regularly and if possible every week."
+    },
+    {
+      "article": "一百三十九",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "各國情報局又應負責搜集第一百三十六條所述之被保護人，尤其已被遣返或釋放者，或脫逃或死亡者，所遺留之一切個人貴重物品；各該局應直接，或於必要時經由中央事務所將上述貴重物品送交有關之人。此項物品應由情報局密封包裹寄送，並須附說明書清晰詳載關於此項物品所有人之身份事項，及包裹內容之清單。所有此種物品之收到及寄送之詳細記錄應予保存。",
+      "content_en": "Each national Information Bureau shall, furthermore, be responsible for collecting all personal valuables left by protected persons mentioned in Article 136, in particular those who have been repatriated or released, or who have escaped or died; it shall forward the said valuables to those concerned, either direct, or, if necessary, through the Central Agency. Such articles shall be sent by the Bureau in sealed packets which shall be accompanied by statements giving clear and full identity particulars of the person to whom the articles belonged, and by a complete list of the contents of the parcel. Detailed records shall be maintained of the receipt and despatch of all such valuables."
+    },
+    {
+      "article": "一百四十",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "在中立國境內，應為被保護人，尤其被拘禁人，設立中央情報事務所。紅十字國際委員會認為必要時，應向有關各國建議組織與１９４９年８月１２日關於戰俘待遇之日內瓦公約第一百二十三條所規定者相同之事務所。\n\n該事務所之任務應為搜集第一百三十六條所列舉一類型的，得自官方或私人方面之一切情報，並應儘速將該項消息送達關係人之本國或居住國，惟此種轉遞對於該項情報涉及之人或其親屬或有妨害時則為例外。衝突各方應給予該事務所以傳遞上項情報之一切相當便利。\n\n各締約國，特別是其人民享受中央事務所服務之利益之國家，對該事務所應予以所需之經濟援助。\n\n上述各規定絕不得解釋為限制紅十字國際委員會及第一百四十二條所述之救濟團體之人道主義之活動。",
+      "content_en": "A Central Information Agency for protected persons, in particular for internees, shall be created in a neutral country. The International Committee of the Red Cross shall, if it deems necessary, propose to the Powers concerned the organization of such an Agency, which may be the same as that provided for in Article 123 of the Geneva Convention relative to the Treatment of Prisoners of War of 12 August 1949.\n\nThe function of the Agency shall be to collect all information of the type set forth in Article 136 which it may obtain through official or private channels and to transmit it as rapidly as possible to the countries of origin or of residence of the persons concerned, except in cases where such transmissions might be detrimental to the persons whom the said information concerns, or to their relatives. It shall receive from the Parties to the conflict all reasonable facilities for effecting such transmissions.\n\nThe High Contracting Parties, and in particular those whose nationals benefit by the services of the Central Agency, are requested to give the said Agency the financial aid it may require.\n\nThe foregoing provisions shall in no way be interpreted as restricting the humanitarian activities of the International Committee of the Red Cross and of the relief Societies described in Article 142."
+    },
+    {
+      "article": "一百四十一",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "各國情報局及中央事務所應享受郵政免費，及第一百一十條所規定之豁免，並應儘可能豁免電報費，或至少大減其費率。",
+      "content_en": "The national Information Bureaux and the Central Information Agency shall enjoy free postage for all mail, likewise the exemptions provided for in Article 110, and further, so far as possible, exemption from telegraphic charges or, at least, greatly reduced rates."
+    },
+    {
+      "article": "一百四十二",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "在拘留國認為保證其安全或適應其他合理需要所必要之措施之限制下，宗教組織、救濟團體，或其他任何協助被保護人之組織之代表，應得為其本人或其正式委派之代理人，自拘留國獲得一切必要之便利以訪問被保護人，分發為供教育、娛樂或宗教目的用之任何來源之救濟物資，或協助彼等在拘留處所內組織其空閒時間。此等團體或組織得在拘留國或任何其他國內組成，或具有國際性質。\n\n拘留國得限制派有代表在其領土內及在其監督下從事活動之團體與組織之數目，但該項限制不得妨礙對於所有被保護人之有效及充分的救濟之供應。\n\n紅十字國際委員會在該方面之特殊地位，無論何時均應予以承認及隨時尊重。",
+      "content_en": "Subject to the measures which the Detaining Powers may consider essential to ensure their security or to meet any other reasonable need, the representatives of religious organizations, relief societies, or any other organizations assisting the protected persons, shall receive from these Powers, for themselves or their duly accredited agents, all facilities for visiting the protected persons, for distributing relief supplies and material from any source, intended for educational, recreational or religious purposes, or for assisting them in organizing their leisure time within the places of internment. Such societies or organizations may be constituted in the territory of the Detaining Power, or in any other country, or they may have an international character.\n\nThe Detaining Power may limit the number of societies and organizations whose delegates are allowed to carry out their activities in its territory and under its supervision, on condition, however, that such limitation shall not hinder the supply of effective and adequate relief to all protected persons.\n\nThe special position of the International Committee of the Red Cross in this field shall be recognized and respected at all times."
+    },
+    {
+      "article": "一百四十三",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "保護國之代表應許其前往被保護人所在之一切地方，尤其拘禁、拘留及工作地方。\n\n該代表等可進入被保護人居住之一切處所，並得親自或經由譯員，會見被保護人而無須他人在旁。\n\n除因迫切的軍事需要之理由且僅作為一種例外及暫時的措施外，不得禁止此項訪問。訪問時間之久暫與次數亦不得加以限制。\n\n此項代表等應有選擇其願訪問之地點之完全自由。拘留國或占領國、保護國及於必要時，被訪問人之本國，得同意被拘禁人之本國人參加此項訪問。\n\n紅十字國際委員會之代表亦應享有上述各項特權。該代表等之指派須取得管理其執行任務所在地區之國家之同意。",
+      "content_en": "Representatives or delegates of the Protecting Powers shall have permission to go to all places where protected persons are, particularly to places of internment, detention and work.\n\nThey shall have access to all premises occupied by protected persons and shall be able to interview the latter without witnesses, personally or through an interpreter.\n\nSuch visits may not be prohibited except for reasons of imperative military necessity, and then only as an exceptional and temporary measure. Their duration and frequency shall not be restricted.\n\nSuch representatives and delegates shall have full liberty to select the places they wish to visit. The Detaining or Occupying Power, the Protecting Power and when occasion arises the Power of origin of the persons to be visited, may agree that compatriots of the internees shall be permitted to participate in the visits.\n\nThe delegates of the International Committee of the Red Cross shall also enjoy the above prerogatives. The appointment of such delegates shall be submitted to the approval of the Power governing the territories where they will carry out their duties."
+    },
+    {
+      "article": "一百四十四",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "各締約國在平時及戰時應在各該國儘量廣泛傳播本公約之約文，尤應在軍事，並如可能時在公民教育計劃中，包括本公約之學習，俾本公約之原則為全體居民所周知。\n\n凡在戰時擔任有關被保護人之責任之任何民政，軍事，警察或其他當局必須備有本公約之約文，並須對其各項規定受有特別之教導。",
+      "content_en": "The High Contracting Parties undertake, in time of peace as in time of war, to disseminate the text of the present Convention as widely as possible in their respective countries, and, in particular, to include the study thereof in their programmes of military and, if possible, civil instruction, so that the principles thereof may become known to the entire population.\n\nAny civilian, military, police or other authorities, who in time of war assume responsibilities in respect of protected persons, must possess the text of the Convention and be specially instructed as to its provisions."
+    },
+    {
+      "article": "一百四十五",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "各締約國應通過瑞士聯邦委員會，在戰時則通過保護國，互相通知本公約之正式譯文，及其所採用以保證實施本公約之各項法律與規則。",
+      "content_en": "The High Contracting Parties shall communicate to one another through the Swiss Federal Council and, during hostilities, through the Protecting Powers, the official translations of the present Convention, as well as the laws and regulations which they may adopt to ensure the application thereof."
+    },
+    {
+      "article": "一百四十六",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "各締約國擔任制定必要之立法，俾對於本身犯有或令人犯有下條所列之嚴重破壞本公約之行為之人，予以有效的刑事制裁。\n\n各締約國有義務搜捕被控為曾犯或曾令人犯此種嚴重破壞本公約行為之人，並應將此種人，不分國籍，送交各該國法庭。該國亦得於自願時，並依其立法之規定，將此種人送交另一有關之締約國審判，但以該締約國能指出案情顯然者為限。\n\n各締約國應採取必要措施，以制止下條所列嚴重破壞本公約行為以外之一切違反本公約規定之行為。\n\n在一切情況下，被告人應享有適當的審判及辯護之保障。此種保障不得次於１９４９年８月１２日關於戰俘待遇之日內瓦公約第一百零五條及其以下各條所規定者。",
+      "content_en": "The High Contracting Parties undertake to enact any legislation necessary to provide effective penal sanctions for persons committing, or ordering to be committed, any of the grave breaches of the present Convention defined in the following Article.\n\nEach High Contracting Party shall be under the obligation to search for persons alleged to have committed, or to have ordered to be committed, such grave breaches, and shall bring such persons, regardless of their nationality, before its own courts. It may also, if it prefers, and in accordance with the provisions of its own legislation, hand such persons over for trial to another High Contracting Party concerned, provided such High Contracting Party has made out a prima facie case.\n\nEach High Contracting Party shall take measures necessary for the suppression of all acts contrary to the provisions of the present Convention other than the grave breaches defined in the following Article.\n\nIn all circumstances, the accused persons shall benefit by safeguards of proper trial and defence, which shall not be less favourable than those provided by Article 105 and those following of the Geneva Convention relative to the Treatment of Prisoners of War of 12 August 1949."
+    },
+    {
+      "article": "一百四十七",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "上條所述之嚴重破壞公約行為，應系對於受本公約保護之人或財產所犯之任何下列行為：故意殺害，酷刑及不人道待遇，包括生物學實驗，故意使身體及健康遭受重大痛苦或嚴重傷害；將被保護人非法驅逐出境或移送，或非法禁閉，強迫被保護人在敵國軍隊中服務，或故意剝奪被保護人依本公約規定應享之公允及合法的審訊之權利，以人為質，以及無軍事上之必要而以非法與暴亂之方式對財產之大規模的破壞與徵收。",
+      "content_en": "Grave breaches to which the preceding Article relates shall be those involving any of the following acts, if committed against persons orproperty protected by the present Convention: wilful killing, torture or inhuman treatment, including biological experiments, wilfully causing great suffering or serious injury to body or health, unlawful deportation or transfer or unlawful confinement of a protected person, compelling a protected person to serve in the forces of a hostile Power, or wilfully depriving a protected person of the rights of fair and regular trial prescribed in the present Convention, taking of hostages and extensive destruction and appropriation of property, not justified by military necessity and carried out unlawfully and wantonly."
+    },
+    {
+      "article": "一百四十八",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "任何締約國不得自行推卸，或允許任何其他締約國推卸，其本身或其他締約國所負之關於上條所述之破壞公約行為之責任。",
+      "content_en": "No High Contracting Party shall be allowed to absolve itself or any other High Contracting Party of any liability incurred by itself or by another High Contracting Party in respect of breaches referred to in the preceding Article."
+    },
+    {
+      "article": "一百四十九",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "經衝突一方之請求，應依有關各方所決定之方式，進行關於任何被控違犯本公約行為之調查。\n\n如關於調查程序不能獲致協議，則各方應同意選定一公斷人，由其決定應遵行之程序。違約行為一經確定，衝突各方應使之終止，並應迅速加以取締。",
+      "content_en": "At the request of a Party to the conflict, an enquiry shall be instituted, in a manner to be decided between the interested Parties, concerning any alleged violation of the Convention.\n\nIf agreement has not been reached concerning the procedure for the enquiry, the Parties should agree on the choice of an umpire who will decide upon the procedure to be followed.\n\nOnce the violation has been established, the Parties to the conflict shall put an end to it and shall repress it with the least possible delay."
+    },
+    {
+      "article": "一百五十",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "本公約系以英文法文訂立。兩種文字之約文具有同等效力。\n\n瑞士聯邦委員會應準備本公約之俄文及西班牙文之正式譯文。",
+      "content_en": "The present Convention is established in English and in French. Both texts are equally authentic.\n\nThe Swiss Federal Council shall arrange for official translations of the Convention to be made in the Russian and Spanish languages."
+    },
+    {
+      "article": "一百五十一",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "本公約以本日為訂立之日期，至１９５０年２月１２日為止，凡參加１９４９年４月２１日日內瓦會議各國，均可簽字。",
+      "content_en": "The present Convention, which bears the date of this day, is open to signature until 12 February 1950, in the name of the Powers represented at the Conference which opened at Geneva on 21 April 1949."
+    },
+    {
+      "article": "一百五十二",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "本公約應儘速批准，批准書應交存於伯爾尼。\n\n每一批准書交存時，應予登記，並由瑞士聯邦委員會將該項登記之證明的抄本分送業經簽字或通知加入本公約之各國。",
+      "content_en": "The present Convention shall be ratified as soon as possible and the ratifications shall be deposited at Berne.\n\nA record shall be drawn up of the deposit of each instrument of ratification and certified copies of this record shall be transmitted by the Swiss Federal Council to all the Powers in whose name the Convention has been signed, or whose accession has been notified."
+    },
+    {
+      "article": "一百五十三",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "本公約在至少兩國批准書交存後六個月發生效力。\n\n嗣後，本公約對於每一締約國自其批准書交存後六個月發生效力。",
+      "content_en": "The present Convention shall come into force six months after not less than two instruments of ratification have been deposited.\n\nThereafter, it shall come into force for each High Contracting Party six months after the deposit of the instrument of ratification."
+    },
+    {
+      "article": "一百五十四",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "在受１８９９年７月２９日或１９０７年１０月１８日海牙陸戰法規與慣例公約之拘束並為本公約之締約國之各國關係上，本公約應為上述海牙公約所附規則第二編及第三編之補充。",
+      "content_en": "In the relations between the Powers who are bound by the Hague Conventions respecting the Laws and Customs of War on Land, whether that of 29 July 1899, or that of 18 October 1907, and who are parties to the present Convention, this last Convention shall be supplementary to Sections II and III of the Regulations annexed to the above-mentioned Conventions of The Hague."
+    },
+    {
+      "article": "一百五十五",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "本公約自生效之日起，任何未簽字本公約之國家均得加入。",
+      "content_en": "From the date of its coming into force, it shall be open to any Power in whose name the present Convention has not been signed, to accede to this Convention."
+    },
+    {
+      "article": "一百五十六",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "本公約之加入應以書面通知瑞士聯邦委員會，自加入之通知收到之日起六個月後發生效力。\n\n瑞士聯邦委員會應將此項加入通知所有業經簽署或加入本公約之國家。",
+      "content_en": "Accessions shall be notified in writing to the Swiss Federal Council, and shall take effect six months after the date on which they are received.\n\nThe Swiss Federal Council shall communicate the accessions to all the Powers in whose name the Convention has been signed, or whose accession has been notified."
+    },
+    {
+      "article": "一百五十七",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "第二條及第三條所載之情況應使在戰事開始或占領之前或後，衝突各方所交存之批准書及加入通知立即生效。瑞士聯邦委員會應將其從衝突各方收到之任何批准書或加入之通知，以最迅速方法通告之。",
+      "content_en": "The situations provided for in Articles 2 and 3 shall effective immediate effect to ratifications deposited and accessions notified by the Parties to the conflict before or after the beginning of hostilities or occupation. The Swiss Federal Council shall communicate by the quickest method any ratifications or accessions received from Parties to the conflict."
+    },
+    {
+      "article": "一百五十八",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "每一締約國得自由退出本公約。\n\n退約須用書面通知瑞士聯邦委員會，並由該委員會轉告所有締約國政府。\n\n退約須於通知瑞士聯邦委員會後一年發生效力。但締約國於作退約通知時已捲入衝突，則其退約須待至和議成立後，並在有關本公約所保護之人員之釋放、遣返及安置之工作完畢後，始能生效。\n\n退約僅對該退約國有效，但並不減輕衝突各方依國際法原則仍應履行之義務，此等原則系產自文明人民間樹立之慣例，人道法則與公眾良心之要求。",
+      "content_en": "Each of the High Contracting Parties shall be at liberty to denounce the present Convention.\n\nThe denunciation shall be notified in writing to the Swiss Federal Council, which shall transmit it to the Governments of all the High Contracting Parties.\n\nThe denunciation shall take effect one year after the notification thereof has been made to the Swiss Federal Council. However, a denunciation of which notification has been made at a time when the denouncing Power is involved in a conflict shall not take effect until peace has been concluded, and until after operations connected with the release, repatriation and re-establishment of the persons protected by the present Convention have been terminated.\n\nThe denunciation shall have effect only in respect of the denouncing Power. It shall in no way impair the obligations which the Parties to the conflict shall remain bound to fulfil by virtue of the principles of the law of nations, as they result from the usages established among civilized peoples, from the laws of humanity and the dictates of the public conscience."
+    },
+    {
+      "article": "一百五十九",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "瑞士聯邦委員會應將本公約在聯合國秘書處登記，並將其所接獲之所有關於本公約之批准、加入及退約通知聯合國秘書處。\n\n為此，下列簽署人於交存全權證書後，簽署本公約，以昭信守。\n\n１９４９年８月１２日以英文法文訂於日內瓦。正本應交存於瑞士聯邦委員會之檔案中，瑞士聯邦委員會應將簽證之抄本送交每一簽字及加入之國家。\n\n附件附件一：關於醫院及安全地帶與處所協定草案附件二：關於集體救濟物品之規則草案附件三：拘禁郵片、信件、通訊郵片",
+      "content_en": "The Swiss Federal Council shall register the present Convention with the Secretariat of the United Nations. The Swiss Federal Council shall also inform the Secretariat of the United Nations of all ratifications, accessions and denunciations received by it with respect to the present Convention.\n\nIn witness whereof the undersigned, having deposited their respective full powers, have signed the present Convention.\n\nDone at Geneva this twelfth day of August 1949, in the English and French languages. The original shall be deposited in the Archives of the Swiss Confederation. The Swiss Federal Council shall transmit certified copies thereof to each of the signatory and acceding States."
+    }
+  ]
+}

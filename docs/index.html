@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Open Treaties — 國際公約中英雙語資料集</title>
+<meta name="description" content="28 部國際公約、1,914 條條文的結構化中英雙語查詢。免費開源。">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600;700&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+tailwind.config={theme:{extend:{colors:{primary:'#1E40AF','primary-light':'#3B82F6',accent:'#F59E0B',surface:'#F8FAFC','text-heading':'#1E3A8A','text-body':'#334155','text-muted':'#64748B',sidebar:'#F1F5F9','sidebar-hover':'#E2E8F0','sidebar-active':'#DBEAFE'},fontFamily:{heading:['"EB Garamond"','Georgia','serif'],body:['Lato','system-ui','sans-serif']}}}}
+</script>
+<style>
+html{scroll-behavior:smooth}
+.sidebar-scroll::-webkit-scrollbar{width:4px}
+.sidebar-scroll::-webkit-scrollbar-thumb{background:#CBD5E1;border-radius:2px}
+.art-target:target{background:#DBEAFE;border-left:3px solid #1E40AF;margin-left:-3px}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+</style>
+</head>
+<body class="bg-surface text-text-body font-body antialiased">
+<div class="max-w-4xl mx-auto px-4 sm:px-8 py-8 sm:py-12">
+
+<header class="mb-10">
+  <h1 class="font-heading text-3xl sm:text-4xl font-bold text-text-heading mb-2">Open Treaties</h1>
+  <p class="text-text-muted text-lg mb-6">國際公約中英雙語結構化資料集 · Bilingual International Treaty Corpus</p>
+  <div class="flex gap-6 mb-6">
+    <div><span class="text-2xl font-bold text-primary font-heading">28</span> <span class="text-sm text-text-muted">公約</span></div>
+    <div><span class="text-2xl font-bold text-primary font-heading">1,914</span> <span class="text-sm text-text-muted">條文</span></div>
+    <div><span class="text-2xl font-bold text-primary font-heading">ZH/EN</span> <span class="text-sm text-text-muted">雙語</span></div>
+  </div>
+  <div class="flex flex-wrap gap-3">
+    <a href="https://github.com/lawchat-oss/open-treaties" target="_blank" rel="noopener" class="inline-flex items-center gap-2 px-4 py-2 bg-white border border-gray-200 rounded-lg text-sm text-text-heading hover:border-primary-light hover:shadow-sm cursor-pointer transition-all duration-200">
+      <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+      GitHub
+    </a>
+    <span class="inline-flex items-center px-4 py-2 bg-white border border-gray-200 rounded-lg text-sm text-text-muted">CC0 1.0 + MIT</span>
+  </div>
+</header>
+
+<div class="mb-6">
+<h2 class="font-heading text-lg font-bold text-text-heading mb-3">基礎體制 <span class="text-sm font-normal text-text-muted">UN System</span></h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+<a href="treaties/un-charter.html" class="group block p-4 bg-white rounded-xl border border-gray-200 hover:border-primary-light hover:shadow-md cursor-pointer transition-all duration-200">
+  <div class="font-heading text-base font-semibold text-text-heading group-hover:text-primary transition-colors duration-200">聯合國憲章</div>
+  <div class="text-xs text-text-muted mt-0.5">Charter of the United Nations</div>
+  <div class="text-xs text-text-muted mt-2">111 條 Articles</div>
+</a>
+<a href="treaties/icj-statute.html" class="group block p-4 bg-white rounded-xl border border-gray-200 hover:border-primary-light hover:shadow-md cursor-pointer transition-all duration-200">
+  <div class="font-heading text-base font-semibold text-text-heading group-hover:text-primary transition-colors duration-200">國際法院規約</div>
+  <div class="text-xs text-text-muted mt-0.5">Statute of the International Court of Justice</div>
+  <div class="text-xs text-text-muted mt-2">70 條 Articles</div>
+</a>
+</div>
+</div>
+<div class="mb-6">
+<h2 class="font-heading text-lg font-bold text-text-heading mb-3">條約法 <span class="text-sm font-normal text-text-muted">Treaty Law</span></h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+<a href="treaties/vclt.html" class="group block p-4 bg-white rounded-xl border border-gray-200 hover:border-primary-light hover:shadow-md cursor-pointer transition-all duration-200">
+  <div class="font-heading text-base font-semibold text-text-heading group-hover:text-primary transition-colors duration-200">維也納條約法公約</div>
+  <div class="text-xs text-text-muted mt-0.5">Vienna Convention on the Law of Treaties</div>
+  <div class="text-xs text-text-muted mt-2">85 條 Articles</div>
+</a>
+</div>
+</div>
+<div class="mb-6">
+<h2 class="font-heading text-lg font-bold text-text-heading mb-3">人權法 <span class="text-sm font-normal text-text-muted">Human Rights</span></h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+<a href="treaties/udhr.html" class="group block p-4 bg-white rounded-xl border border-gray-200 hover:border-primary-light hover:shadow-md cursor-pointer transition-all duration-200">
+  <div class="font-heading text-base font-semibold text-text-heading group-hover:text-primary transition-colors duration-200">世界人權宣言</div>
+  <div class="text-xs text-text-muted mt-0.5">Universal Declaration of Human Rights</div>
+  <div class="text-xs text-text-muted mt-2">30 條 Articles</div>
+</a>
+<a href="treaties/iccpr.html" class="group block p-4 bg-white rounded-xl border border-gray-200 hover:border-primary-light hover:shadow-md cursor-pointer transition-all duration-200">
+  <div class="font-heading text-base font-semibold text-text-heading group-hover:text-primary transition-colors duration-200">公民與政治權利國際公約</div>
+  <div class="text-xs text-text-muted mt-0.5">International Covenant on Civil and Political Rights</div>
+  <div class="text-xs text-text-muted mt-2">53 條 Articles</div>
+</a>
+<a href="treaties/icescr.html" class="group block p-4 bg-white rounded-xl border border-gray-200 hover:border-primary-light hover:shadow-md cursor-pointer transition-all duration-200">
+  <div class="font-heading text-base font-semibold text-text-heading group-hover:text-primary transition-colors duration-200">經濟社會文化權利國際公約</div>
+  <div class="text-xs text-text-muted mt-0.5">International Covenant on Economic, Social and Cultural Rights</div>
+  <div class="text-xs text-text-muted mt-2">31 條 Articles</div>
+</a>
+<a href="treaties/iccpr-op1.html" class="group block p-4 bg-white rounded-xl border border-gray-200 hover:border-primary-light hover:shadow-md cursor-pointer transition-all duration-200">
+  <div class="font-heading text-base font-semibold text-text-heading group-hover:text-primary transition-colors duration-200">公民權利和政治權利國際公約任擇議定書</div>
+  <div class="text-xs text-text-muted mt-0.5">Optional Protocol to the International Covenant on Civil and Political Rights</div>
+  <div class="text-xs text-text-muted mt-2">14 條 Articles</div>
+</a>
+<a href="treaties/iccpr-op2.html" class="group block p-4 bg-white rounded-xl border border-gray-200 hover:border-primary-light hover:shadow-md cursor-pointer transition-all duration-200">
+  <div class="font-heading text-base font-semibold text-text-heading group-hover:text-primary transition-colors duration-200">旨在廢除死刑的公民權利和政治權利國際公約第二項任擇議定書</div>
+  <div class="text-xs text-text-muted mt-0.5">Second Optional Protocol to the International Covenant on Civil and Political Rights, Aiming at the Abolition of the Death Penalty</div>
+  <div class="text-xs text-text-muted mt-2">11 條 Articles</div>
+</a>
+<a href="treaties/op-icescr.html" class="group block p-4 bg-white rounded-xl border border-gray-200 hover:border-primary-light hover:shadow-md cursor-pointer transition-all duration-200">
+  <div class="font-heading text-base font-semibold text-text-heading group-hover:text-primary transition-colors duration-200">經濟社會文化權利國際公約任擇議定書</div>
+  <div class="text-xs text-text-muted mt-0.5">Optional Protocol to the International Covenant on Economic, Social and Cultural Rights</div>
+  <div class="text-xs text-text-muted mt-2">22 條 Articles</div>
+</a>
+<a href="treaties/cedaw.html" class="group block p-4 bg-white rounded-xl border border-gray-200 hover:border-primary-light hover:shadow-md cursor-pointer transition-all duration-200">
+  <div class="font-heading text-base font-semibold text-text-heading group-hover:text-primary transition-colors duration-200">消除對婦女一切形式歧視公約</div>
+  <div class="text-xs text-text-muted mt-0.5">Convention on the Elimination of All Forms of Discrimination against Women</div>
+  <div class="text-xs text-text-muted mt-2">30 條 Articles</div>
+</a>
+<a href="treaties/crc.html" class="group block p-4 bg-white rounded-xl border border-gray-200 hover:border-primary-light hover:shadow-md cursor-pointer transition-all duration-200">
+  <div class="font-heading text-base font-semibold text-text-heading group-hover:text-primary transition-colors duration-200">兒童權利公約</div>
+  <div class="text-xs text-text-muted mt-0.5">Convention on the Rights of the Child</div>
+  <div class="text-xs text-text-muted mt-2">54 條 Articles</div>
+</a>
+<a href="treaties/crpd.html" class="group block p-4 bg-white rounded-xl border border-gray-200 hover:border-primary-light hover:shadow-md cursor-pointer transition-all duration-200">
+  <div class="font-heading text-base font-semibold text-text-heading group-hover:text-primary transition-colors duration-200">身心障礙者權利公約</div>
+  <div class="text-xs text-text-muted mt-0.5">Convention on the Rights of Persons with Disabilities</div>
+  <div class="text-xs text-text-muted mt-2">50 條 Articles</div>
+</a>
+<a href="treaties/cat.html" class="group block p-4 bg-white rounded-xl border border-gray-200 hover:border-primary-light hover:shadow-md cursor-pointer transition-all duration-200">
+  <div class="font-heading text-base font-semibold text-text-heading group-hover:text-primary transition-colors duration-200">禁止酷刑公約</div>
+  <div class="text-xs text-text-muted mt-0.5">Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment</div>
+  <div class="text-xs text-text-muted mt-2">33 條 Articles</div>
+</a>
+<a href="treaties/icerd.html" class="group block p-4 bg-white rounded-xl border border-gray-200 hover:border-primary-light hover:shadow-md cursor-pointer transition-all duration-200">
+  <div class="font-heading text-base font-semibold text-text-heading group-hover:text-primary transition-colors duration-200">消除一切形式種族歧視國際公約</div>
+  <div class="text-xs text-text-muted mt-0.5">International Convention on the Elimination of All Forms of Racial Discrimination</div>
+  <div class="text-xs text-text-muted mt-2">25 條 Articles</div>
+</a>
+</div>
+</div>
+<div class="mb-6">
+<h2 class="font-heading text-lg font-bold text-text-heading mb-3">海洋法 <span class="text-sm font-normal text-text-muted">Law of the Sea</span></h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+<a href="treaties/unclos.html" class="group block p-4 bg-white rounded-xl border border-gray-200 hover:border-primary-light hover:shadow-md cursor-pointer transition-all duration-200">
+  <div class="font-heading text-base font-semibold text-text-heading group-hover:text-primary transition-colors duration-200">聯合國海洋法公約</div>
+  <div class="text-xs text-text-muted mt-0.5">United Nations Convention on the Law of the Sea</div>
+  <div class="text-xs text-text-muted mt-2">320 條 Articles</div>
+</a>
+</div>
+</div>
+<div class="mb-6">
+<h2 class="font-heading text-lg font-bold text-text-heading mb-3">外交領事法 <span class="text-sm font-normal text-text-muted">Diplomatic &amp; Consular</span></h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+<a href="treaties/vcdr.html" class="group block p-4 bg-white rounded-xl border border-gray-200 hover:border-primary-light hover:shadow-md cursor-pointer transition-all duration-200">
+  <div class="font-heading text-base font-semibold text-text-heading group-hover:text-primary transition-colors duration-200">維也納外交關係公約</div>
+  <div class="text-xs text-text-muted mt-0.5">Vienna Convention on Diplomatic Relations</div>
+  <div class="text-xs text-text-muted mt-2">53 條 Articles</div>
+</a>
+<a href="treaties/vccr.html" class="group block p-4 bg-white rounded-xl border border-gray-200 hover:border-primary-light hover:shadow-md cursor-pointer transition-all duration-200">
+  <div class="font-heading text-base font-semibold text-text-heading group-hover:text-primary transition-colors duration-200">維也納領事關係公約</div>
+  <div class="text-xs text-text-muted mt-0.5">Vienna Convention on Consular Relations</div>
+  <div class="text-xs text-text-muted mt-2">79 條 Articles</div>
+</a>
+</div>
+</div>
+<div class="mb-6">
+<h2 class="font-heading text-lg font-bold text-text-heading mb-3">國際人道法 <span class="text-sm font-normal text-text-muted">IHL</span></h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+<a href="treaties/gc-i.html" class="group block p-4 bg-white rounded-xl border border-gray-200 hover:border-primary-light hover:shadow-md cursor-pointer transition-all duration-200">
+  <div class="font-heading text-base font-semibold text-text-heading group-hover:text-primary transition-colors duration-200">日內瓦第一公約</div>
+  <div class="text-xs text-text-muted mt-0.5">Geneva Convention (I) for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field</div>
+  <div class="text-xs text-text-muted mt-2">64 條 Articles</div>
+</a>
+<a href="treaties/gc-ii.html" class="group block p-4 bg-white rounded-xl border border-gray-200 hover:border-primary-light hover:shadow-md cursor-pointer transition-all duration-200">
+  <div class="font-heading text-base font-semibold text-text-heading group-hover:text-primary transition-colors duration-200">日內瓦第二公約</div>
+  <div class="text-xs text-text-muted mt-0.5">Geneva Convention (II) for the Amelioration of the Condition of Wounded, Sick and Shipwrecked Members of Armed Forces at Sea</div>
+  <div class="text-xs text-text-muted mt-2">63 條 Articles</div>
+</a>
+<a href="treaties/gc-iii.html" class="group block p-4 bg-white rounded-xl border border-gray-200 hover:border-primary-light hover:shadow-md cursor-pointer transition-all duration-200">
+  <div class="font-heading text-base font-semibold text-text-heading group-hover:text-primary transition-colors duration-200">日內瓦第三公約</div>
+  <div class="text-xs text-text-muted mt-0.5">Geneva Convention (III) Relative to the Treatment of Prisoners of War</div>
+  <div class="text-xs text-text-muted mt-2">143 條 Articles</div>
+</a>
+<a href="treaties/gc-iv.html" class="group block p-4 bg-white rounded-xl border border-gray-200 hover:border-primary-light hover:shadow-md cursor-pointer transition-all duration-200">
+  <div class="font-heading text-base font-semibold text-text-heading group-hover:text-primary transition-colors duration-200">日內瓦第四公約</div>
+  <div class="text-xs text-text-muted mt-0.5">Geneva Convention (IV) Relative to the Protection of Civilian Persons in Time of War</div>
+  <div class="text-xs text-text-muted mt-2">159 條 Articles</div>
+</a>
+<a href="treaties/gc-ap1.html" class="group block p-4 bg-white rounded-xl border border-gray-200 hover:border-primary-light hover:shadow-md cursor-pointer transition-all duration-200">
+  <div class="font-heading text-base font-semibold text-text-heading group-hover:text-primary transition-colors duration-200">日內瓦公約第一附加議定書</div>
+  <div class="text-xs text-text-muted mt-0.5">Protocol Additional to the Geneva Conventions of 12 August 1949, and Relating to the Protection of Victims of International Armed Conflicts (Protocol I)</div>
+  <div class="text-xs text-text-muted mt-2">102 條 Articles</div>
+</a>
+<a href="treaties/gc-ap2.html" class="group block p-4 bg-white rounded-xl border border-gray-200 hover:border-primary-light hover:shadow-md cursor-pointer transition-all duration-200">
+  <div class="font-heading text-base font-semibold text-text-heading group-hover:text-primary transition-colors duration-200">日內瓦公約第二附加議定書</div>
+  <div class="text-xs text-text-muted mt-0.5">Protocol Additional to the Geneva Conventions of 12 August 1949, and Relating to the Protection of Victims of Non-International Armed Conflicts (Protocol II)</div>
+  <div class="text-xs text-text-muted mt-2">28 條 Articles</div>
+</a>
+</div>
+</div>
+<div class="mb-6">
+<h2 class="font-heading text-lg font-bold text-text-heading mb-3">國際刑法 <span class="text-sm font-normal text-text-muted">International Criminal Law</span></h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+<a href="treaties/rome-statute.html" class="group block p-4 bg-white rounded-xl border border-gray-200 hover:border-primary-light hover:shadow-md cursor-pointer transition-all duration-200">
+  <div class="font-heading text-base font-semibold text-text-heading group-hover:text-primary transition-colors duration-200">國際刑事法院羅馬規約</div>
+  <div class="text-xs text-text-muted mt-0.5">Rome Statute of the International Criminal Court</div>
+  <div class="text-xs text-text-muted mt-2">131 條 Articles</div>
+</a>
+<a href="treaties/genocide.html" class="group block p-4 bg-white rounded-xl border border-gray-200 hover:border-primary-light hover:shadow-md cursor-pointer transition-all duration-200">
+  <div class="font-heading text-base font-semibold text-text-heading group-hover:text-primary transition-colors duration-200">防止及懲治危害種族罪公約</div>
+  <div class="text-xs text-text-muted mt-0.5">Convention on the Prevention and Punishment of the Crime of Genocide</div>
+  <div class="text-xs text-text-muted mt-2">19 條 Articles</div>
+</a>
+</div>
+</div>
+<div class="mb-6">
+<h2 class="font-heading text-lg font-bold text-text-heading mb-3">難民法 <span class="text-sm font-normal text-text-muted">Refugee Law</span></h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+<a href="treaties/refugee.html" class="group block p-4 bg-white rounded-xl border border-gray-200 hover:border-primary-light hover:shadow-md cursor-pointer transition-all duration-200">
+  <div class="font-heading text-base font-semibold text-text-heading group-hover:text-primary transition-colors duration-200">關於難民地位的公約</div>
+  <div class="text-xs text-text-muted mt-0.5">Convention Relating to the Status of Refugees</div>
+  <div class="text-xs text-text-muted mt-2">46 條 Articles</div>
+</a>
+</div>
+</div>
+<div class="mb-6">
+<h2 class="font-heading text-lg font-bold text-text-heading mb-3">反貪腐 <span class="text-sm font-normal text-text-muted">Anti-Corruption</span></h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+<a href="treaties/uncac.html" class="group block p-4 bg-white rounded-xl border border-gray-200 hover:border-primary-light hover:shadow-md cursor-pointer transition-all duration-200">
+  <div class="font-heading text-base font-semibold text-text-heading group-hover:text-primary transition-colors duration-200">聯合國反貪腐公約</div>
+  <div class="text-xs text-text-muted mt-0.5">United Nations Convention against Corruption</div>
+  <div class="text-xs text-text-muted mt-2">71 條 Articles</div>
+</a>
+</div>
+</div>
+<div class="mb-6">
+<h2 class="font-heading text-lg font-bold text-text-heading mb-3">太空法 <span class="text-sm font-normal text-text-muted">Space Law</span></h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+<a href="treaties/outer-space.html" class="group block p-4 bg-white rounded-xl border border-gray-200 hover:border-primary-light hover:shadow-md cursor-pointer transition-all duration-200">
+  <div class="font-heading text-base font-semibold text-text-heading group-hover:text-primary transition-colors duration-200">關於各國探測及使用外層空間包括月球與其他天體活動所應遵守原則的條約</div>
+  <div class="text-xs text-text-muted mt-0.5">Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, Including the Moon and Other Celestial Bodies</div>
+  <div class="text-xs text-text-muted mt-2">17 條 Articles</div>
+</a>
+</div>
+</div>
+
+
+<footer class="mt-12 py-6 border-t border-gray-200 text-center text-xs text-text-muted">
+Data: <a href="https://creativecommons.org/publicdomain/zero/1.0/" class="text-primary hover:underline" target="_blank" rel="noopener">CC0 1.0</a> · Code: <a href="https://opensource.org/licenses/MIT" class="text-primary hover:underline" target="_blank" rel="noopener">MIT</a> · <a href="https://github.com/lawchat-oss/open-treaties" class="text-primary hover:underline" target="_blank" rel="noopener">GitHub</a><br>
+Maintained by <a href="https://lawchat.com.tw" class="text-primary hover:underline" target="_blank" rel="noopener">lawchat.com.tw</a>
+</footer>
+</div>
+</body>
+</html>

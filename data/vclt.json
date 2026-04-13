@@ -1,0 +1,605 @@
+{
+  "treaty": "維也納條約法公約",
+  "treaty_zh": "維也納條約法公約",
+  "treaty_en": "Vienna Convention on the Law of Treaties",
+  "total_articles": 85,
+  "preamble_zh": "本公約各當事國，鑒於條約在國際關係歷史上之基本地位，承認條約為國際法淵源之一，且為各國間不分憲法及社會制度發展和平合作之工具，其重要性日益增加，鑒悉自由同意與善意之原則以及條約必須遵守規則乃舉世所承認，確認凡關於條約之爭端與其他國際爭端同，皆應以和平方法且依正義及國際法之原則解決之，念及聯合國人民同玆決心創造適當環境，俾克維持正義及尊重由條約而起之義務，鑒及聯合國憲章所載之國際法原則，諸如人民平等權利及自決，所有國家主權平等及獨立，不干涉各國內政，禁止使用威脅或武力以及普遍尊重與遵守全體人類之人權及基本自由等原則，深信本公約所達成之條約法之編纂及逐漸發展可促進憲章所楬櫫之聯合國宗旨，即維持國際和平及安全，發展國際間之友好關係並達成其彼此合作，確認凡未經本公約各條規定之問題，將仍以國際習慣法規則為準，爰議定條款如下：",
+  "preamble_en": "The States Parties to the present Convention,Consideringthe fundamental role of treaties in the history of international relations,Recognizingthe ever-increasing importance of treaties as a source of international law and as a means of developing peaceful cooperation among nations, whatever their constitutional and social systems,Notingthat the principles of free consent and of good faith and thepacta sunt servandarule are universally recognized,Affirmingthat disputes concerning treaties, like other international disputes, should be settled by peaceful means and in conformity with the principles of justice and international law,Recallingthe determination of the peoples of the United Nations to establish conditions under which justice and respect for the obligations arising from treaties can be maintained,Having in mindthe principles of international law embodied in the Charter of the United Nations, such as the principles of the equal rights and self-determination of peoples, of the sovereign equality and independence of all States, of non-interference in the domestic affairs of States, of the prohibition of the threat or use of force and of universal respect for, and observance of, human rights and fundamental freedoms for all,Believingthat the codification and progressive development of the law of treaties achieved in the present Convention will promote the purposes of the United Nations set forth in the Charter, namely, the maintenance of international peace and security, the development of friendly relations and the achievement of cooperation among nations,Affirmingthat the rules of customary international law Will continue to govern questions not regulated by the provisions of the present Convention,Have agreedas follows:",
+  "articles": [
+    {
+      "article": "一",
+      "title_zh": "本公約之範圍",
+      "title_en": "Scope of the present Convention",
+      "content_zh": "本公約適用於國家間之條約。",
+      "content_en": "The present Convention applies to treaties between States."
+    },
+    {
+      "article": "二",
+      "title_zh": "用語",
+      "title_en": "Use of terms",
+      "content_zh": "一、就適用本公約而言：（甲）稱「條約」者，謂國家間所締結而以國際法為準之國際書面協定，不論其載於一項單獨文書或兩項以上相互有關之文書內，亦不論其特定名稱如何；（乙）稱「批准」，「接受」，「贊同」及「加入」者，各依本義指一國據以在國際上確定其同意受條約拘束之國際行為；（丙）稱「全權證書」者，謂一國主管當局所頒發，指派一人或數人代表該國談判，議定或認證條約約文，表示該國同意受條約拘束，或完成有關條約之任何其他行為之文件；（丁）稱「保留」者，謂一國於簽署，批准、接受、贊同或加入條約時所做之片面聲明，不論措辭或名稱如何，其目的在摒除或更改條約中若干規定對該國適用時之法律效果；（戊）稱「談判國」者，謂參與草擬及議定條約約文之國家；（己）稱「締約國」者，謂不問條約已未生效，同意受條約拘束之國家；（庚）稱「當事國」者，謂同意承受條約拘束及條約對其有效之國家；（辛）稱「第三國」者，謂非條約當事國之國家；（壬）稱「國際組織」者，謂政府間之組織。\n二、第一項關於本公約內各項用語之規定不妨礙此等用語，在任何國家國內法上之使用或所具有之意義。",
+      "content_en": "1. For the purposes of the present Convention:(a)“treaty” means an international agreement concluded between States in written form and governed by international law, whether embodied in a single instrument or in two or more related instruments and whatever its particular designation;(b)“ratification”, “acceptance”, “approval” and “accession” mean in each case the international act so named whereby a State establishes on the international plane its consent to be bound by a treaty;(c)“full powers” means a document emanating from the competent authority of a State designating a person or persons to represent the State for negotiating, adopting or authenticating the text of a treaty, for expressing the consent of the State to be bound by a treaty, or for accomplishing any other act with respect to a treaty;(d)“reservation” means a unilateral statement, however phrased or named, made by a State, when signing, ratifying, accepting, approving or acceding to a treaty, whereby it purports to exclude or to modify the legal effect of certain provisions of the treaty in their application to that State;(e)“negotiating State” means a State which took part in the drawing up and adoption of the text of the treaty;(f)“contracting State” means a State which has consented to be bound by the treaty, whether or not the treaty has entered into force;(g)“party” means a State which has consented to be bound by the treaty and for which the treaty is in force;(h)“third State” means a State not a party to the treaty;(i)“international organization” means an intergovernmental organization.\n2. The provisions of paragraph 1 regarding the use of terms in the present Convention are without prejudice to the use of those terms or to the meanings which may be given to them in the internal law of any State."
+    },
+    {
+      "article": "三",
+      "title_zh": "不屬本公約範圍之國際協定",
+      "title_en": "International agreements not within the scope of the present Convention",
+      "content_zh": "本公約不適用於國家與其他國際法主體間所締結之國際協定或此種其他國際法主體間之國際協定或非書面國際協定，此一事實並不影響：（甲）此類協定之法律效力；（乙）本公約所載任何規則之依照國際法而毋須基於本公約原應適用於此類協定者，對於此類協定之適用；（丙）本公約之適用於國家間以亦有其他國際法主體為其當事者之國際協定為根據之彼此關係。",
+      "content_en": "The fact that the present Convention does not apply to international agreements concluded between States and other subjects of international law or between such other subjects of international law, or to international agreements not in written form, shall not affect:\n\n(a)the legal force of such agreements;(b)the application to them of any of the rules set forth in the present Convention to which they would be subject under international law independently of the Convention;(c)the application of the Convention to the relations of States as between themselves under international agreements to which other subjects of international law are also parties."
+    },
+    {
+      "article": "四",
+      "title_zh": "本公約不溯既往",
+      "title_en": "Non-retroactivity of the present Convention",
+      "content_zh": "以不妨礙本公約所載任何規則之依國際法而毋須基於本公約原應適用於條約者之適用為限，本公約僅對各國於本公約對各該國生效後所締結之條約適用之。",
+      "content_en": "Without prejudice to the application of any rules set forth in the present Convention to which treaties would be subject under international law independently of the Convention, the Convention applies only to treaties which are concluded by States after the entry into force of the present Convention with regard to such States."
+    },
+    {
+      "article": "五",
+      "title_zh": "組成國際組織之條約及在一國際組織內議定之條約",
+      "title_en": "Treaties constituting international organizations and treaties adopted within an international organization",
+      "content_zh": "本公約適用於為一國際組織約章之任何條約及在一國際組織內議定之任何條約，但對該組織任何有關規則並無妨礙。",
+      "content_en": "The present Convention applies to any treaty which is the constituent instrument of an international organization and to any treaty adopted within an international organization without prejudice to any relevant rules of the organization."
+    },
+    {
+      "article": "六",
+      "title_zh": "國家締結條約之能力",
+      "title_en": "Capacity of States to conclude treaties",
+      "content_zh": "每一國家皆有締結條約之能力。",
+      "content_en": "Every State possesses capacity to conclude treaties."
+    },
+    {
+      "article": "七",
+      "title_zh": "全權證書",
+      "title_en": "Full powers",
+      "content_zh": "一、任一人員如有下列情況之一，視為代表一國議定或認證條約約文或表示該國承受條約拘束之同意：（甲）出具適當之全權證書；或（乙）由於有關國家之慣例或由於其他情況可見此等國家之意思系認為該人員為此事代表該國而可免除全權證書。\n二、下列人員由於所任職務毋須出具全權證書，視為代表其國家：（甲）國家元首、政府首長及外交部長，為實施關於締結條約之一切行為；（乙）使館館長，為議定派遣國與駐在國間條約約文；（丙）國家派往國際會議或派駐國際組織或該國際組織一機關之代表，為議定在該會議、組織或機關內議定之條約約文。",
+      "content_en": "1. A person is considered as representing a State for the purpose of adopting or authenticating the text of a treaty or for the purpose of expressing the consent of the State to be bound by a treaty if:(a)he produces appropriate full powers; or(b)it appears from the practice of the States concerned or from other circumstances that their intention was to consider that person as representing the State for such purposes and to dispense with full powers.\n\n2. In virtue of their functions and without having to produce full powers, the following are considered as representing their State:(a)Heads of State, Heads of Government and Ministers for Foreign Affairs, for the purpose of performing all acts relating to the conclusion of a treaty;(b)heads of diplomatic missions, for the purpose of adopting the text of a treaty between the accrediting Stat and the State to which they are accredited;(c)representatives accredited by States to an international conference or to an international organization or one of its organs, for the purpose of adopting the text of a treaty in that conference, organization or organ."
+    },
+    {
+      "article": "八",
+      "title_zh": "未經授權所實施行為之事後確認",
+      "title_en": "Subsequent confirmation of an act performed without authorization",
+      "content_zh": "關於締結條約之行為系依第七條不能視為經授權為此事代表一國之人員所實施者，非經該國事後確認，不發生法律效果。",
+      "content_en": "An act relating to the conclusion of a treaty performed by a person who cannot be considered under article 7 as authorized to represent a State for that purpose is without legal effect unless afterwards confirmed by that State."
+    },
+    {
+      "article": "九",
+      "title_zh": "約文之議定",
+      "title_en": "Adoption of the text",
+      "content_zh": "一、除依第二項之規定外，議定條約約文應以所有參加草擬約文國家之同意為之。\n二、國際會議議定條約之約文應以出席及參加表決國家三分之二多數表決為之，但此等國家以同樣多數決定適用另一規則者不在此限。",
+      "content_en": "1. The adoption of the text of a treaty takes place by the consent of all the States participating in its drawing up except as provided in paragraph 2.\n2. The adoption of the text of a treaty at an international conference takes place by the vote of two thirds of the States present and voting, unless by the same majority they shall decide to apply a different rule."
+    },
+    {
+      "article": "十",
+      "title_zh": "約文之認證",
+      "title_en": "Authentication of the text",
+      "content_zh": "條約約文依下列方法確定為作準定本：（甲）依約文所載或經參加草擬約文國家協議之程序；或（乙）倘無此項程序，由此等國家代表在條約約文上，或在載有約文之會議最後文件上簽署，作待核准之簽署或草簽。",
+      "content_en": "The text of a treaty is established as authentic and definitive:(a)by such procedure as may be provided for in the text or agreed upon by the States participating in its drawing up; or(b)failing such procedure, by the signature, signature ad referendum or initialling by the representatives of those States of the text of the treaty or of the Final Act of a conference incorporating the text."
+    },
+    {
+      "article": "十一",
+      "title_zh": "表示同意承受條約拘束之方式",
+      "title_en": "Means of expressing consent to be bound by a treaty",
+      "content_zh": "一國承受條約拘束之同意得以簽署、交換構成條約之文書、批准、接受、贊同或加入，或任何其他同意之方式表示之。",
+      "content_en": "The consent of a State to be bound by a treaty may be expressed by signature, exchange of instruments constituting a treaty, ratification, acceptance, approval or accession, or by any other means if so agreed."
+    },
+    {
+      "article": "十二",
+      "title_zh": "以簽署表示承受條約拘束之同意",
+      "title_en": "Consent to be bound by a treaty expressed by signature",
+      "content_zh": "一、遇有下列情形之一，一國承受條約拘束之同意，以該國代表之簽署表示之：（甲）條約規定簽署有此效果；（乙）另經確定談判國協議簽署有此效果；或（丙）該國使簽署有此效果之意思可見諸其代表所奉之全權證書或已於談判時有此表示。\n二、就適用第一項而言：（甲）倘經確定談判國有此協議，約文之草簽構成條約之簽署；（乙）代表對條約作待核准之簽署，倘經其本國確認，即構成條約之正式簽署。",
+      "content_en": "1. The consent of a State to be bound by a treaty is expressed by the signature of its representatives when:(a)the treaty provides that signature shall have that effect;(b)it is otherwise established that the negotiating States were agreed that signature should have that effect; or(c)the intention of the State to give that effect ot the signature appears from the full powers of its representative or was expressed during the negotiation.\n2. For the purposes of paragraph 1:(a)the initialling of a text constitutes a signature of the treaty when it is established that the negotiating States so agreed;(b)the signature ad referendum of a treaty by a representative, if confirmed by his State, constitutes a full signature of the treaty."
+    },
+    {
+      "article": "十三",
+      "title_zh": "以交換構成條約之文書表示承受條約拘束之同意",
+      "title_en": "Consent to be bound by a treaty expressed by an exchange of instruments constituting a treaty",
+      "content_zh": "遇有下列情形之一，國家同意承受由彼此間交換之文書構成之條約拘束，以此種交換表示之：（甲）文書規定此種交換有此效果；或（乙）另經確定此等國家協議文書之交換有此效果。",
+      "content_en": "The consent of States to be bound by a treaty constituted by instruments exchanged between them is expressed by that exchange when:(a)the instruments provide that their exchange shall have that effect; or(b)it is otherwise established that those States were agreed that the exchange of instruments should have that effect."
+    },
+    {
+      "article": "十四",
+      "title_zh": "以批准、接受或贊同表示承受條約拘束之同意",
+      "title_en": "Consent to be bound by a treaty expressed by ratification, acceptance or approval",
+      "content_zh": "一、遇有下列情形之一，一國承受條約拘束之同意，以批准表示之：（甲）條約規定以批准方式表示同意；（乙）另經確定談判國協議需要批准；（丙）該國代表已對條約作須經批准之簽署；或（丁）該國對條約作須經批准之簽署之意思可見諸其代表所奉之全權證書，或已於談判時有此表示。\n二、一國承受條約拘束之同意以接受或贊同方式表示者，其條件與適用於批准者同。",
+      "content_en": "1. The consent of a State to be bound by a treaty is expressed by ratification when:\n\n(a)the treaty provides for such consent to be expressed by means of ratification;(b)it is otherwise established that the negotiating States were agreed that ratification should be required;(c)the representative of the State has signed the treaty subject to ratification; or(d)the intention of the State to sign the treaty subject to ratification appears from the full powers of its representative or was expressed during the negotiation.\n2. The consent of a State to be bound by a treaty is expressed by acceptance or approval under conditions similar to those which apply to ratification."
+    },
+    {
+      "article": "十五",
+      "title_zh": "以加入表示承受條約拘束之同意",
+      "title_en": "Consent to be bound by a treaty expressed by accession",
+      "content_zh": "遇有下列情形之一，一國承受條約拘束之同意以加入表示之：（甲）條約規定該國得以加入方式表示此種同意；（乙）另經確定談判國協議該國得以加入方式表示此種同意；（丙）全體當事國嗣後協議該國得以加入方式表示此種同意。",
+      "content_en": "The consent of a State to be bound by a treaty is expressed by accession when:(a)the treaty provides that such consent may be expressed by that State by means of accession;(b)it is otherwise established that the negotiating States were agreed that such consent may be expressed by that State by means of accession; or(c)all the parties have subsequently agreed that such consent may be expressed by that State by means of accession."
+    },
+    {
+      "article": "十六",
+      "title_zh": "批准書、接受書、贊同書或加入書之交換或交存",
+      "title_en": "Exchange or deposit of instruments of ratification, acceptance, approval or accession",
+      "content_zh": "除條約另有規定外，批准書、接受書、贊同書或加入書依下列方式確定一國承受條約拘束之同意：（甲）由締約國互相交換；（乙）將文書交存保管機關；或（丙）如經協議，通知締約國或保管機關。",
+      "content_en": "Unless the treaty otherwise provides, instruments of ratification, acceptance, approval or accession establish the consent of a State to be bound by a treaty upon:(a)their exchange between the contracting States;(b)their deposit with the depositary; or(c)their notification to the contracting States or to the depositary, if so agreed."
+    },
+    {
+      "article": "十七",
+      "title_zh": "同意承受條約一部分之拘束及不同規定之選擇",
+      "title_en": "Consent to be bound by part of a treaty and choice of differing provisions",
+      "content_zh": "一、以不妨礙第十九條至第二十三條為限，一國同意承受條約一部分之拘束，僅於條約許可或其他締約國同意時有效。\n二、一國同意承受許可選擇不同規定之條約之拘束，僅於指明其所同意之規定時有效。",
+      "content_en": "1. Without prejudice to articles 19 to 23, the consent of a State to be bound by part of a treaty is effective only if the treaty so permits or the other contracting States so agree.\n\n2. The consent of a State to be bound by a treaty which permits a choice between differing provisions is effective only if it is made clear to which of the provisions the consent relates."
+    },
+    {
+      "article": "十八",
+      "title_zh": "不得在條約生效前妨礙其目的及宗旨之義務",
+      "title_en": "Obligation not to defeat the object and purpose of a treaty prior to its entry into force",
+      "content_zh": "一國負有義務不得採取任何足以妨礙條約目的及宗旨之行動：（甲）如該國已簽署條約或已交換構成條約之文書而須經批准、接受或贊同，但尚未明白表示不欲成為條約當事國之意思；或（乙）如該國業已表示同意承受條約之拘束，而條約尚未生效，且條約之生效不稽延過久。",
+      "content_en": "A State is obliged to refrain from acts which would defeat the object and purpose of a treaty when:(a)it has signed the treaty or has exchanged instruments constituting the treaty subject to ratification, acceptance or approval, until it shall have made its intention clear not to become a party to the treaty; or(b)it has expressed its consent to be bound by the treaty, pending the entry into force of the treaty and provided that such entry into force is not unduly delayed."
+    },
+    {
+      "article": "十九",
+      "title_zh": "提具保留",
+      "title_en": "Formulation of reservations",
+      "content_zh": "一國得於簽署、批准、接受、贊同或加入條約時，提具保留，但有下列情形之一者不在此限：（甲）該項保留為條約所禁止者；（乙）條約僅准許特定之保留而有關之保留不在其內者；或（丙）凡不屬（甲）及（乙）兩款所稱之情形，該項保留與條約目的及宗旨不合者。",
+      "content_en": "A State may, when signing, ratifying, accepting, approving or acceding to a treaty, formulate a reservation unless:(a)the reservation is prohibited by the treaty;(b)the treaty provides that only specified reservations, which do not include the reservation in question, may be made; or(d)in cases not falling under subparagraphs (a) and (b), the reservation is incompatible with the object and purpose of the treaty."
+    },
+    {
+      "article": "二十",
+      "title_zh": "接受及反對保留",
+      "title_en": "Acceptance of and objection to reservations",
+      "content_zh": "一、凡為條約明示准許之保留，無須其他締約國事後予以接受，但條約規定須如此辦理者，不在此限。\n二、倘自談判國之有限數目及條約之目的與宗旨，可見在全體當事國間適用全部條約為每一當事國同意承受條約拘束之必要條件時，保留須經全體當事國接受。\n三、倘條約為國際組織之組織約章，除條約另有規定外，保留須經該組織主管機關接受。\n四、凡不屬以上各項所稱之情形，除條約另有規定外：（甲）保留經另一締約國接受，就該另一締約國而言，保留國即成為條約之當事國，但須條約對各該國均已生效；（乙）保留經另一締約國反對，則條約在反對國與保留國間並不因此而不生效力，但反對國確切表示相反之意思者不在此限；（丙）表示一國同意承受條約拘束而附以保留之行為，一俟至少有另一締約國接受保留，即發生效力。\n五、就適用第二項與第四項而言，除條約另有規定外，倘一國在接獲關於保留之通知後十二個月期間屆滿時或至其表示同意承受條約拘束之日為止，兩者中以較後之日期為準，迄未對保留提出反對，此項保留即視為業經該國接受。",
+      "content_en": "1. A reservation expressly authorized by a treaty does not require any subsequent acceptance by the other contracting States unless the treaty so provides.\n2. When it appears from the limited number of the negotiating States and the object and purpose of a treaty that the application of the treaty in its entirety between all the parties is an essential condition of the consent of each one to be bound by the treaty, a reservation requires acceptance by all the parties.\n3. When a treaty is a constituent instrument of an international organization and unless it otherwise provides, a reservation requires the acceptance of the competent organ of that organization.\n4. In cases not falling under the preceding paragraphs and unless the treaty otherwise provides:\n\n(a)acceptance by another contracting State of a reservation constitutes the reserving State a party to the treaty in relation to that other State if or when the treaty is in force for those States;(b)an objection by another contracting State to a reservation does not preclude the entry into force of the treaty as between the objecting and reserving States unless a contrary intention is definitely expressed by the objecting State;(c)an act expressing a State's consent to be bound by the treaty and containing a reservation is effective as soon as at least one other contracting State has accepted the reservation.\n5. For the purposes of paragraphs 2 and 4 and unless the treaty otherwise provides, a reservation is considered to have been accepted by a State if it shall have raised no objection to the reservation by the end of a period of twelve months after it was notified of the reservation or by the date on which it expressed its consent to be bound by the treaty, whichever is later."
+    },
+    {
+      "article": "二十一",
+      "title_zh": "保留及對保留提出之反對之法律效果",
+      "title_en": "Legal effects of reservations and of objections to reservations",
+      "content_zh": "一、依照第十九條、第二十條及第二十三條對另一當事國成立之保留：（甲）對保留國而言，其與該另一當事國之關係上照保留之範圍修改保留所關涉之條約規定；及（乙）對該另一當事國而言，其與保留國之關係上照同一範圍修改此等規定。\n二、此項保留在條約其他當事國相互間不修改條約之規定。\n三、倘反對保留之國家未反對條約在其本國與保留國間生效，此項保留所關涉之規定在保留之範圍內於該兩國間不適用之。",
+      "content_en": "1. A reservation established with regard to another party in accordance with articles 19, 20 and 23:(a)modifies for the reserving State in its relations with that other party the provisions of the treaty to which the reservation relates to the extent of the reservation; and(b)modifies those provisions to the same extent for that other party in its relations with the reserving State.\n2. The reservation does not modify the provisions of the treaty for the other parties to the treaty inter se.\n3. When a State objecting to a reservation has not opposed the entry into force of the treaty between itself and the reserving State, the provisions to which the reservation relates do not apply as between the two States to the extent of the reservation."
+    },
+    {
+      "article": "二十二",
+      "title_zh": "撤回保留及撤回對保留提出之反對",
+      "title_en": "Withdrawal of reservations and of objections to reservations",
+      "content_zh": "一、除條約另有規定外，保留得隨時撤回，無須經業已接受保留之國家同意。\n二、除條約另有規定外，對保留提出之反對得隨時撤回。\n三、除條約另有規定或另經協議外：（甲）保留之撤回，在對另一締約國關係上，自該國收到撤回保留之通知之時起方始發生效力；（乙）對保留提出之反對之撤回，自提出保留之國家收到撤回反對之通知時起方始發生效力。",
+      "content_en": "1. Unless the treaty otherwise provides, a reservation may be withdrawn at any time and the consent of a State which has accepted the reservation is not required for its withdrawal.\n2. Unless the treaty otherwise provides, an objection to a reservation may be withdrawn at any time.\n3. Unless the treaty otherwise provides, or it is otherwise agreed:\n\n(a)the withdrawal of a reservation becomes operative in relation to another contracting State only when notice of it has been received by that State;(b)the withdrawal of an objection to a reservation becomes operative only when notice of it has been received by the State which formulated the reservation."
+    },
+    {
+      "article": "二十三",
+      "title_zh": "關於保留之程序",
+      "title_en": "Procedure regarding reservations",
+      "content_zh": "一、保留、明示接受保留及反對保留，均必須以書面提具並致送締約國及有權成為條約當事國之其他國家。\n二、保留系在簽署須經批准、接受或贊同之條約時提具者，必須由保留國在表示同意承受條約拘束時正式確認。遇此情形，此項保留應視為在其確認之日提出。\n三、明示接受保留或反對保留系在確認保留前提出者，其本身無須經過確認。\n四、撤回保留或撤回對保留提出之反對，必須以書面為之。",
+      "content_en": "1. A reservation, an express acceptance of a reservation and an objection to a reservation must be formulated in writing and communicated to the contracting States and other States entitled to become parties to the treaty.\n2. If formulated when signing the treaty subject to ratification, acceptance or approval, a reservation must be formally confirmed by the reserving State when expressing its consent to be bound by the treaty. In such a case the reservation shall be considered as having been made on the date of its confirmation.\n3. An express acceptance of, or an objection to, a reservation made previously to confirmation of the reservation does not itself require confirmation.\n4. The withdrawal of a reservation or of an objection to a reservation must be formulated in writing."
+    },
+    {
+      "article": "二十四",
+      "title_zh": "生效",
+      "title_en": "Entry into force",
+      "content_zh": "一、條約生效之方式及日期，依條約之規定或依談判國之協議。\n二、倘無此種規定或協議，條約一俟確定所有談判國同意承受條約之拘束，即行生效。\n三、除條約另有規定外，一國承受條約拘束之同意如繫於條約生效後之一日期確定，則條約自該日起對該國生效。\n四、條約中為條約約文之認證，國家同意承受條約拘束之確定，條約生效之方式或日期、保留、保管機關之職務以及當然在條約生效前發生之其他事項所訂立之規定，自條約約文議定時起適用之。",
+      "content_en": "1. A treaty enters into force in such manner and upon such date as it may provide or as the negotiating States may agree.\n2. Failing any such provision or agreement, a treaty enters into force as soon as consent to be bound by the treaty has been established for all the negotiating States.\n3. When the consent of a State to be bound by a treaty is established on a date after the treaty has come into force, the treaty enters into force for that State on that date, unless the treaty otherwise provides.\n4. The provisions of a treaty regulating the authentication of its text, the establishment of the consent of States to be bound by the treaty, the manner or date of its entry into force, reservations, the functions of the depositary and other matters arising necessarily before the entry into force of the treaty apply from the time of the adoption of its text."
+    },
+    {
+      "article": "二十五",
+      "title_zh": "暫時適用",
+      "title_en": "Provisional application",
+      "content_zh": "一、條約或條約之一部分於條約生效前在下列情形下暫時適用：（甲）條約本身如此規定；或（乙）談判國以其他方式協議如此辦理。\n二、除條約另有規定或談判國另有協議外，條約或條約一部分對一國之暫時適用，於該國將其不欲成為條約當事國之意思通知已暫時適用條約之其他各國時終止。",
+      "content_en": "1. A treaty or a part of a treaty is applied provisionally pending its entry into force if:(a)the treaty itself so provides; or(b)the negotiating States have in some other manner so agreed.\n2. Unless the treaty otherwise provides or the negotiating States have otherwise agreed, the provisional application of a treaty or a part of a treaty with respect to a State shall be terminated if that State notifies the other States between which the treaty is being applied provisionally of its intention not to become a party to the treaty."
+    },
+    {
+      "article": "二十六",
+      "title_zh": "條約必須遵守",
+      "title_en": "\"Pacta sunt servanda\"",
+      "content_zh": "凡有效之條約對其各當事國有拘束力，必須由各該國善意履行。",
+      "content_en": "Every treaty in force is binding upon the parties to it and must be performed by them in good faith."
+    },
+    {
+      "article": "二十七",
+      "title_zh": "國內法與條約之遵守",
+      "title_en": "Internal law and observance of treaties",
+      "content_zh": "一當事國不得援引其國內法規定為理由而不履行條約。此項規則不妨礙第四十六條。",
+      "content_en": "A party may not invoke the provisions of its internal law as justification for its failure to perform a treaty. This rule is without prejudice to Article 46."
+    },
+    {
+      "article": "二十八",
+      "title_zh": "條約不溯既往",
+      "title_en": "Non-retroactivity of treaties",
+      "content_zh": "除條約表示不同意思，或另經確定外，關於條約對一當事國生效之日以前所發生之任何行為或事實或已不存在之任何情勢，條約之規定不對該當事國發生拘束力。",
+      "content_en": "Unless a different intention appears from the treaty or is otherwise established, its provisions do not bind a party in relation to any act or fact which took place or any situation which ceased to exist before the date of the entry into force of the treaty with respect to that party."
+    },
+    {
+      "article": "二十九",
+      "title_zh": "條約之領土範圍",
+      "title_en": "Territorial scope of treaties",
+      "content_zh": "除條約表示不同意思，或另經確定外，條約對每一當事國之拘束力及於其全部領土。",
+      "content_en": "Unless a different intention appears from the treaty or is otherwise established, a treaty is binding upon each party in respect of its entire territory."
+    },
+    {
+      "article": "三十",
+      "title_zh": "關於同一事項先後所訂條約之適用",
+      "title_en": "Application of successive treaties relating to the same subject-matter",
+      "content_zh": "一、以不違反聯合國憲章第一百零三條為限，就同一事項先後所訂條約當事國之權利與義務應依下列各項確定之。\n二、遇條約訂明須不違反先訂或後訂條約或不得視為與先訂或後訂條約不合時，該先訂或後訂條約之規定應居優先。\n三、遇先訂條約全體當事國亦為後訂條約當事國但不依第五十九條終止或停止施行先訂條約時，先訂條約僅於其規定與後訂條約規定相合之範圍內適用之。\n四、遇後訂條約之當事國不包括先訂條約之全體當事國時：（甲）在同為兩條約之當事國間，適用第三項之同一規則；（乙）在為兩條約之當事國與僅為其中一條約之當事國間彼此之權利與義務依兩國均為當事國之條約定之。\n五、第四項不妨礙第四十一條或依第六十條終止或停止施行條約之任何問題，或一國因締結或適用一條約而其規定與該國依另一條約對另一國之義務不合所生之任何責任問題。",
+      "content_en": "1. Subject to Article 103 of the Charter of the United Nations, the rights and obligations of States parties to successive treaties relating to the same subject-matter shall be determined in accordance with the following paragraphs.\n2. When a treaty specifies that it is subject to, or that it is not to be considered as incompatible with, an earlier or later treaty, the provisions of that other treaty prevail.\n3. When all the parties to the earlier treaty are parties also to the later treaty but the earlier treaty is not terminated or suspended in operation under Article 59, the earlier treaty applies only to the extent that its provisions are compatible with those of the latter treaty.\n4. When the parties to the later treaty do not include all the parties to the earlier one:(a)as between States parties to both treaties the same rule applies as in paragraph 3;(b)as between a State party to both treaties and a State party to only one of the treaties, the treaty to which both States are parties governs their mutual rights and obligations.\n5. Paragraph 4 is without prejudice to Article 41, or to any question of the termination or suspension of the operation of a treaty under Article 60 or to any question of responsibility which may arise for a State from the conclusion or application of a treaty the provisions of which are incompatible with its obligations towards another State under another treaty."
+    },
+    {
+      "article": "三十一",
+      "title_zh": "解釋之通則",
+      "title_en": "General rule of interpretation",
+      "content_zh": "一、條約應依其用語按其上下文並參照條約之目的及宗旨所具有之通常意義，善意解釋之。\n二、就解釋條約而言，上下文除指連同弁言及附件在內之約文外，並應包括：（甲）全體當事國間因締結條約所訂與條約有關之任何協定；（乙）一個以上當事國因締結條約所訂並經其他當事國接受為條約有關文書之任何文書。\n三、應與上下文一併考慮者尚有：（甲）當事國嗣後所訂關於條約之解釋或其規定之適用之任何協定；（乙）嗣後在條約適用方面確定各當事國對條約解釋之協定之任何慣例；（丙）適用於當事國間關係之任何有關國際法規則。\n四、倘經確定當事國有此原意，條約用語應使其具有特殊意義。",
+      "content_en": "1. A treaty shall be interpreted in good faith in accordance with the ordinary meaning to be given to the terms of the treaty in their context and in the light of its object and purpose.\n2. The context for the purpose of the interpretation of a treaty shall comprise, in addition to the text, including its preamble and annexes:(a)any agreement relating to the treaty which was made between all the parties in connection with the conclusion of the treaty;(b)any instrument which was made by one or more parties in connection with the conclusion of the treaty and accepted by the other parties as an instrument related to the treaty.\n3. There shall be taken into account, together with the context:\n\n(a)any subsequent agreement between the parties regarding the interpretation of the treaty or the application of its provisions;(b)any subsequent practice in the application of the treaty which establishes the agreement of the parties regarding its interpretation;(c)any relevant rules of international law applicable in the relations between the parties.\n4. A special meaning shall be given to a term if it is established that the parties so intended."
+    },
+    {
+      "article": "三十二",
+      "title_zh": "解釋之補充資料",
+      "title_en": "Supplementary means of interpretation",
+      "content_zh": "為證實由適用第三十一條所得之意義起見，或遇依第三十一條作解釋而：（甲）意義仍屬不明或難解；或（乙）所獲結果顯屬荒謬或不合理時，為確定其意義起見，得使用解釋之補充資料，包括條約之準備工作及締約之情況在內。",
+      "content_en": "Recourse may be had to supplementary means of interpretation, including the preparatory work of the treaty and the circumstances of its conclusion, in order to confirm the meaning resulting from the application of Article 31, or to determine the meaning when the interpretation according to Article 31:(a)leaves the meaning ambiguous or obscure; or(b)leads to a result which is manifestly absurd or unreasonable."
+    },
+    {
+      "article": "三十三",
+      "title_zh": "以兩種以上文字認證之條約之解釋",
+      "title_en": "Interpretation of treaties authenticated in two or more languages",
+      "content_zh": "一、條約約文經以兩種以上文字認證作準者，除依條約之規定或當事國之協議遇意義分歧時應以某種約文為根據外，每種文字之約文應同一作準。\n二、以認證作準文字以外之他種文字作成之條約譯本，僅於條約有此規定或當事國有此協議時，始得視為作準約文。\n三、條約用語推定在各作準約文內意義相同。\n四、除依第一項應以某種約文為根據之情形外，倘比較作準約文後發現意義有差別而非適用第三十一條及第三十二條所能消除時，應採用顧及條約目的及宗旨之最能調和各約文之意義。",
+      "content_en": "1. When a treaty has been authenticated in two or more languages, the text is equally authoritative in each language, unless the treaty provides or the parties agree that, in case of divergence, a particular text shall prevail.\n2. A version of the treaty in a language other than one of those in which the text was authenticated shall be considered an authentic text only if the treaty so provides or the parties so agree.\n3. The terms of the treaty are presumed to have the same meaning in each authentic text.\n4. Except where a particular text prevails in accordance with paragraph 1, when a comparison of the authentic texts discloses a difference of meaning which the application of articles 31 and 32 does not remove, the meaning which best reconciles the texts, having regard to the object and purpose of the treaty, shall be adopted."
+    },
+    {
+      "article": "三十四",
+      "title_zh": "關於第三國之通則",
+      "title_en": "General rule regarding third States",
+      "content_zh": "條約非經第三國同意，不為該國創設義務或權利。",
+      "content_en": "A treaty does not create either obligations or rights for a third State without its consent."
+    },
+    {
+      "article": "三十五",
+      "title_zh": "為第三國規定義務之條約",
+      "title_en": "Treaties providing for obligations for third States",
+      "content_zh": "如條約當事國有意以條約之一項規定作為確立一項義務之方法，且該項義務經一第三國以書面明示接受，則該第三國即因此項規定而負有義務。",
+      "content_en": "An obligation arises for a third State from a provision of a treaty if the parties to the treaty intend the provision to be the means of establishing the obligation and the third State expressly accepts that obligation in writing."
+    },
+    {
+      "article": "三十六",
+      "title_zh": "為第三國規定權利之條約",
+      "title_en": "Treaties providing for rights for third States",
+      "content_zh": "一、如條約當事國有意以條約之一項規定對一第三國或其所屬一組國家或所有國家給予一項權利，而該第三國對此表示同意，則該第三國即因此項規定而享有該項權利。該第三國倘無相反之表示，應推定其表示同意，但條約另有規定者不在此限。\n二、依第一項行使權利之國家應遵守條約所規定或依照條約所確定之條件行使該項權利。",
+      "content_en": "1. A right arises for a third State from a provision of a treaty if the parties to the treaty intend the provision to accord that right either to the third State, or to a group of States to which it belongs, or to all States, and the third State assents thereto. Its assent shall be presumed so long as the contrary is not indicated, unless the treaty otherwise provides.\n2. A State exercising a right in accordance with paragraph 1 shall comply with the conditions for its exercise provided for in the treaty or established in conformity with the treaty."
+    },
+    {
+      "article": "三十七",
+      "title_zh": "取消或變更第三國之義務或權利",
+      "title_en": "Revocation or modification of obligations or rights of third States",
+      "content_zh": "一、依照第三十五條使第三國擔負義務時，該項義務必須經條約各當事國與該第三國之同意，方得取消或變更，但經確定其另有協議者不在此限。\n二、依照第三十六條使第三國享有權利時，倘經確定原意為非經該第三國同意不得取消或變更該項權利，當事國不得取消或變更之。",
+      "content_en": "1. When an obligation has arisen for a third State in conformity with Article 35, the obligation may be revoked or modified only with the consent of the parties to the treaty and of the third State, unless it is established that they had otherwise agreed.\n2. When a right has arisen for a third State in conformity with Article 36, the right may not be revoked or modified by the parties if it is established that the right was intended not to be revocable or subject to modification without the consent of the third State."
+    },
+    {
+      "article": "三十八",
+      "title_zh": "條約所載規則由於國際習慣而成為對第三國有拘束力",
+      "title_en": "Rules in a treaty becoming binding on third States through international custom",
+      "content_zh": "第三十四條至第三十七條之規定不妨礙條約所載規則成為對第三國有拘束力之公認國際法習慣規則。",
+      "content_en": "Nothing in articles 34 to 37 precludes a rule set forth in a treaty from becoming binding upon a third State as a customary rule of international law, recognized as such."
+    },
+    {
+      "article": "三十九",
+      "title_zh": "關於修正條約之通則",
+      "title_en": "General rule regarding the amendment of treaties",
+      "content_zh": "條約得以當事國之協議修正之，除條約可能另有規定者外，此種協議適用第二編所訂之規則。",
+      "content_en": "A treaty may be amended by agreement between the parties. The rules laid down in Part II apply to such an agreement except in so far as the treaty may otherwise provide."
+    },
+    {
+      "article": "四十",
+      "title_zh": "多邊條約之修正",
+      "title_en": "Amendment of multilateral treaties",
+      "content_zh": "一、除條約另有規定外，多邊條約之修正依下列各項之規定。\n二、在全體當事國間修正多邊條約之任何提議必須通知全體締約國，各該締約國均應有權參加：（甲）關於對此種提議採取行動之決定；（乙）修正條約之任何協定之談判及締結。\n三、凡有權成為條約當事國之國家亦應有權成為修正後條約之當事國。\n四、修正條約之協定對已為條約當事國而未成為該協定當事國之國家無拘束力；對此種國家適用第三十條第四項（乙）款。\n五、凡於修正條約之協定生效後成為條約當事國之國家，倘無不同意思之表示：（甲）應視為修正後條約之當事國，並（乙）就其對不受修正條約協定拘束之條約當事國之關係言，應視為未修正條約之當事國。",
+      "content_en": "1. Unless the treaty otherwise provides, the amendment of multilateral treaties shall be governed by the following paragraphs.\n2. Any proposal to amend a multilateral treaty as between all the parties must be notified to all the contracting States, each one of which shall have the right to take part in:(a)the decision as to the action to be taken in regard to such proposal;(b)the negotiation and conclusion of any agreement for the amendment of the treaty.\n3. Every State entitled to become a party to the treaty shall also be entitled to become a party to the treaty as amended.\n4. The amending agreement does not bind any State already a party to the treaty which does not become a party to the amending agreement; article 30, paragraph 4 (b), applies in relation to such State.\n5. Any State which becomes a party to the treaty after the entry into force of the amending agreement shall, failing an expression of a different intention by that State:(a)be considered as a party to the treaty as amended; and(b)be considered as a party to the unamended treaty in relation to any party to the treaty not bound by the amending agreement."
+    },
+    {
+      "article": "四十一",
+      "title_zh": "僅在若干當事國間修改多邊條約之協定",
+      "title_en": "Agreements to modify multilateral treaties between certain of the parties only",
+      "content_zh": "一、多邊條約兩個以上當事國得於下列情形下締結協定僅在彼此間修改條約：（甲）條約內規定有作此種修改之可能者；或（乙）有關之修改非為條約所禁止，且：\n（一）不影響其他當事國享有條約上之權利或履行其義務者；\n（二）不關涉任何如予損抑即與有效實行整個條約之目的及宗旨不合之規定者。\n二、除屬第一項（甲）款範圍之情形條約另有規定者外，有關當事國應將其締結協定之意思及協定對條約所規定之修改，通知其他當事國。",
+      "content_en": "1. Two or more of the parties to a multilateral treaty may conclude an agreement to modify the treaty as between themselves alone if:(a)the possibility of such a modification is provided for by the treaty; or(b)the modification in question is not prohibited by the treaty and:(i)does not affect the enjoyment by the other parties of their rights under the treaty or the performance of their obligations;(ii)does not relate to a provision, derogation from which is incompatible with the effective execution of the object and purpose of the treaty as a whole.\n2. Unless in a case falling under paragraph 1(a) the treaty otherwise provides, the parties in question shall notify the other parties of their intention to conclude the agreement and of the modification to the treaty for which it provides."
+    },
+    {
+      "article": "四十二",
+      "title_zh": "條約之效力及繼續有效",
+      "title_en": "Validity and continuance in force of treaties",
+      "content_zh": "一、條約之效力或一國承受條約拘束之同意之效力僅經由本公約之適用始得加以非議。\n二、終止條約、廢止條約，或一當事國退出條約，僅因該條約或本公約規定之適用結果始得為之。同一規則適用於條約之停止施行。",
+      "content_en": "1. The validity of a treaty or of the consent of a State to be bound by a treaty may be impeached only through the application of the present Convention.\n2. The termination of a treaty, its denunciation or the withdrawal of a party, may take place only as a result of the application of the provisions of the treaty or of the present Convention. The same rule applies to suspension of the operation of a treaty."
+    },
+    {
+      "article": "四十三",
+      "title_zh": "無須基於條約之國際法所加義務",
+      "title_en": "Obligations imposed by international law independently of a treaty",
+      "content_zh": "條約因本公約或該條約規定適用結果而失效、終止或廢止，由當事國退出，或停止施行之情形，絕不損害任何國家依國際法而毋須基於條約所負履行該條約所載任何義務之責任。",
+      "content_en": "The invalidity, termination or denunciation of a treaty, the withdrawal of a party from it, or the suspension of its operation, as a result of the application of the present Convention or of the provisions of the treaty, shall not in any way impair the duty of any State to fulfil any obligation embodied in the treaty to which it would be subject under international law independently of the treaty."
+    },
+    {
+      "article": "四十四",
+      "title_zh": "條約之規定可否分離",
+      "title_en": "Separability of treaty provisions",
+      "content_zh": "一、除條約另有規定或當事國另有協議外，條約內所規定或因第五十六條所生之當事國廢止、退出或停止施行條約之權利僅得對整個條約行使之。\n二、本公約所承認之條約失效、終止、退出或停止施行條約之理由僅得對整個條約援引之，但下列各項或第六十條所規定之情形不在此限。\n三、倘理由僅與特定條文有關，得於下列情形下僅對各該條文援引之：（甲）有關條文在適用上可與條約其餘部分分離；（乙）由條約可見或另經確定各該條文之接受並非另一當事國或其他當事國同意承受整個條約拘束之必要根據；及（丙）條約其餘部分之繼續實施不致有失公平。\n四、在第四十九條及第五十條所稱情形下，有權援引詐欺或賄賂理由之國家得對整個條約或以不違反第三項為限專對特定條文援引之。\n五、在第五十一條、第五十二條及第五十三條所稱之情形下，條約之規定一概不許分離。",
+      "content_en": "1. A right of a party, provided for in a treaty or arising under article 56, to denounce, withdraw from or suspend the operation of the treaty may be exercised only with respect to the whole treaty unless the treaty otherwise provides or the parties otherwise agree.\n2. A ground for invalidating, terminating, withdrawing from or suspending the operation of a treaty recognized in the present Convention may be invoked only with respect to the whole treaty except as provided in the following paragraphs or in article 60.\n3. If the ground relates solely to particular clauses, it may be invoked only with respect to those clauses where:(a)the said clauses are separable from the remainder of the treaty with regard to their application;(b)it appears from the treaty or is otherwise established that acceptance of those clauses was not an essential basis of the consent of the other party or parties to be bound by the treaty as a whole; and(c)continued performance of the remainder of the treaty would not be unjust.\n4. In cases falling under articles 49 and 50 the State entitled to invoke the fraud or corruption may do so with respect either to the whole treaty or, subject to paragraph 3, to the particular clauses alone.\n\n5. In cases falling under articles 51, 52 and 53, no separation of the provisions of the treaty is permitted."
+    },
+    {
+      "article": "四十五",
+      "title_zh": "喪失援引條約失效、終止、退出或停止施行條約理由之權利",
+      "title_en": "Loss of a right to invoke a ground for invalidating, terminating, withdrawing from or suspending the operation of a treaty",
+      "content_zh": "一國於知悉事實後而有下列情形之一者，即不得再援引第四十六條至第五十條或第六十條及第六十二條所規定條約失效、終止、退出或停止施行條約之理由：（甲）該國業經明白同意條約有效，或仍然生效或繼續施行；或（乙）根據該國行為必須視為已默認條約之效力或條約之繼續生效或施行。",
+      "content_en": "A State may no longer invoke a ground for invalidating, terminating, withdrawing from or suspending the operation of a treaty under articles 46 to 50 or articles 60 and 62 if, after becoming aware of the facts:(a)it shall have expressly agreed that the treaty is valid or remains in force or continues in operation, as the case may be; or(b)it must by reason of its conduct be considered as having acquiesced in the validity of the treaty or in its maintenance in force or in operation, as the case may be."
+    },
+    {
+      "article": "四十六",
+      "title_zh": "國內法關於締約權限之規定",
+      "title_en": "Provisions of internal law regarding competence to conclude treaties",
+      "content_zh": "一、一國不得援引其同意承受條約拘束之表示為違反該國國內法關於締約權限之一項規定之事實以撤銷其同意，但違反之情事顯明且涉及其具有基本重要性之國內法之一項規則者，不在此限。\n二、違反情事倘由對此事依通常慣例並秉善意處理之任何國家客觀視之為顯然可見者，即系顯明違反。",
+      "content_en": "1. A State may not invoke the fact that its consent to be bound by a treaty has been expressed in violation of a provision of its internal law regarding competence to conclude treaties as invalidating its consent unless that violation was manifest and concerned a rule of its internal law of fundamental importance.\n2. A violation is manifest if it would be objectively evident to any State conducting itself in the matter in accordance with normal practice and in good faith."
+    },
+    {
+      "article": "四十七",
+      "title_zh": "關於表示一國同意權力之特定限制",
+      "title_en": "Specific restrictions on authority to express the consent of a State",
+      "content_zh": "如代表表示一國同意承受某一條約拘束之權力附有特定限制，除非在其表示同意前已將此項限制通知其他談判國，該國不得援引該代表未遵守限制之事實以撤銷其所表示之同意。",
+      "content_en": "If the authority of a representative to express the consent of a State to be bound by a particular treaty has been made subject to a specific restriction, his omission to observe that restriction may not be invoked as invalidating the consent expressed by him unless the restriction was notified to the other negotiating States prior to his expressing such consent."
+    },
+    {
+      "article": "四十八",
+      "title_zh": "錯誤",
+      "title_en": "Error",
+      "content_zh": "一、一國得援引條約內之錯誤以撤銷其承受條約拘束之同意，但此項錯誤以關涉該國於締結條約時假定為存在且構成其同意承受條約拘束之必要根據之事實或情勢者為限。\n二、如錯誤係由關係國家本身行為所助成，或如當時情況足以使該國知悉有錯誤之可能，第一項不適用之。\n三、僅與條約約文用字有關之錯誤，不影響條約之效力，在此情形下，第七十九條適用之。",
+      "content_en": "1. A State may invoke an error in a treaty as invalidating its consent to be bound by the treaty if the error relates to a fact or situation which was assumed by that State to exist at the time when the treaty was concluded and formed an essential basis of its consent to be bound by the treaty.\n\n2. Paragraph 1 shall not apply if the State in question contributed by its own conduct to the error or if the circumstances were such as to put that State on notice of a possible error.\n3. An error relating only to the wording of the text of a treaty does not affect its validity; article 79 then applies."
+    },
+    {
+      "article": "四十九",
+      "title_zh": "詐欺",
+      "title_en": "Fraud",
+      "content_zh": "倘一國因另一談判國之詐欺行為而締結條約，該國得援引詐欺為理由撤銷其承受條約拘束之同意。",
+      "content_en": "If a State has been induced to conclude a treaty by the fraudulent conduct of another negotiating State, the State may invoke the fraud as invalidating its consent to be bound by the treaty."
+    },
+    {
+      "article": "五十",
+      "title_zh": "對一國代表之賄賂",
+      "title_en": "Corruption of a representative of a State",
+      "content_zh": "倘一國同意承受條約拘束之表示系經另一談判國直接或間接賄賂其代表而取得，該國得援引賄賂為理由撤銷其承受條約拘束之同意。",
+      "content_en": "If the expression of a State's consent to be bound by a treaty has been procured through the corruption of its representative directly or indirectly by another negotiating State, the State may invoke such corruption as invalidating its consent to be bound by the treaty."
+    },
+    {
+      "article": "五十一",
+      "title_zh": "對一國代表之強迫",
+      "title_en": "Coercion of a representative of a State",
+      "content_zh": "一國同意承受條約拘束之表示系以行為或威脅對其代表所施之強迫而取得者，應無法律效果。",
+      "content_en": "The expression of a State's consent to be bound by a treaty which has been procured by the coercion of its representative through acts or threats directed against him shall be without any legal effect."
+    },
+    {
+      "article": "五十二",
+      "title_zh": "以威脅或使用武力對一國施行強迫",
+      "title_en": "Coercion of a State by the threat or use of force",
+      "content_zh": "條約系違反聯合國憲章所含國際法原則以威脅或使用武力而獲締結者無效。",
+      "content_en": "A treaty is void if its conclusion has been procured by the threat or use of force in violation of the principles of international law embodied in the Charter of the United Nations."
+    },
+    {
+      "article": "五十三",
+      "title_zh": "與一般國際法強制規律（絕對法）牴觸之條約",
+      "title_en": "Treaties conflicting with a peremptory norm of general international law (“jus cogens”)",
+      "content_zh": "條約在締結時與一般國際法強制規律牴觸者無效。就適用本公約而言，一般國際法強制規律指國家之國際社會全體接受並公認為不許損抑且僅有以後具有同等性質之一般國際法規律始得更改之規律。",
+      "content_en": "A treaty is void if, at the time of its conclusion, it conflicts with a peremptory norm of general international law. For the purposes of the present Convention, a peremptory norm of general international law is a norm accepted and recognized by the international community of States as a whole as a norm from which no derogation is permitted and which can be modified only by a subsequent norm of general international law having the same character."
+    },
+    {
+      "article": "五十四",
+      "title_zh": "依條約規定或經當事國同意而終止或退出條約",
+      "title_en": "Termination of or withdrawal from a treaty under its provisions or by consent of the parties",
+      "content_zh": "在下列情形下，得終止條約或一當事國得退出條約：（甲）依照條約之規定；或（乙）無論何時經全體當事國於咨商其他各締約國後表示同意。",
+      "content_en": "The termination of a treaty or the withdrawal of a party may take place:(a)in conformity with the provisions of the treaty; or(b)at any time by consent of all the parties after consultation with the other contracting States."
+    },
+    {
+      "article": "五十五",
+      "title_zh": "多邊條約當事國減少至條約生效所必需之數目以下",
+      "title_en": "Reduction of the parties to a multilateral treaty below the number necessary for its entry into force",
+      "content_zh": "除條約另有規定外，多邊條約並不僅因其當事國數目減少至生效所必需之數目以下而終止。",
+      "content_en": "Unless the treaty otherwise provides, a multilateral treaty does not terminate by reason only of the fact that the number of the parties falls below the number necessary for its entry into force."
+    },
+    {
+      "article": "五十六",
+      "title_zh": "廢止或退出並無關於終止、廢止或退出規定之條約",
+      "title_en": "Denunciation of or withdrawal from a treaty containing no provision regarding termination, denunciation or withdrawal",
+      "content_zh": "一、條約如無關於其終止之規定，亦無關於廢止或退出之規定，不得廢止或退出，除非：（甲）經確定當事國原意為容許有廢止或退出之可能；或（乙）由條約之性質可認為含有廢止或退出之權利。\n二、當事國應將其依第一項廢止或退出條約之意思至遲於十二個月以前通知之。",
+      "content_en": "1. A treaty which contains no provision regarding its termination and which does not provide for denunciation or withdrawal is not subject to denunciation or withdrawal unless:(a)it is established that the parties intended to admit the possibility of denunciation or withdrawal; or(b)a right of denunciation or withdrawal may be implied by the nature of the treaty.\n2. A party shall give not less than twelve months' notice of its intention to denounce or withdraw from a treaty under paragraph 1."
+    },
+    {
+      "article": "五十七",
+      "title_zh": "依條約規定或經當事國同意而停止施行條約",
+      "title_en": "Suspension of the operation of a treaty under its provisions or by consent of the parties",
+      "content_zh": "在下列情形下，條約得對全體當事國或某一當事國停止施行：（甲）依照條約之規定；或（乙）無論何時經全體當事國於咨商其他各締約國後表示同意。",
+      "content_en": "The operation of a treaty in regard to all the parties or to a particular party may be suspended:(a)in conformity with the provisions of the treaty; or(b)at any time by consent of all the parties after consultation with the other contracting States."
+    },
+    {
+      "article": "五十八",
+      "title_zh": "多邊條約僅經若干當事國協議而停止施行",
+      "title_en": "Suspension of the operation of a multilateral treaty by agreement between certain of the parties only",
+      "content_zh": "一、多邊條約兩個以上當事國得暫時並僅於彼此間締結協定停止施行條約之規定，如：（甲）條約內規定有此種停止之可能；或（乙）有關之停止非為條約所禁止，且：\n（一）不影響其他當事國享有條約上之權利或履行其義務；\n（二）非與條約之目的及宗旨不合。\n二、除屬第一項（甲）款範圍之情形條約另有規定者外，有關當事國應將其締結協定之意思及條約內所欲停止施行之規定通知其他當事國。",
+      "content_en": "1. Two or more parties to a multilateral treaty may conclude an agreement to suspend the operation of provisions of the treaty, temporarily and as between themselves alone, if:(a)the possibility of such a suspension is provided for by the treaty; or(b)the suspension in question is not prohibited by the treaty and:(i)does not affect the enjoyment by the other parties of their rights under the treaty or the performance of their obligations;(ii)is not incompatible with the object and purpose of the treaty.\n2. Unless in a case falling under paragraph 1(a) the treaty otherwise provides, the parties in question shall notify the other parties of their intention to conclude the agreement and of those provisions of the treaty the operation of which they intend to suspend."
+    },
+    {
+      "article": "五十九",
+      "title_zh": "條約因締結後訂條約而默示終止或停止施行",
+      "title_en": "Termination or suspension of the operation of a treaty implied by conclusion of a later treaty",
+      "content_zh": "一、任何條約於其全體當事國就同一事項締結後訂條約，且有下列情形之一時，應視為業已終止：（甲）自後訂條約可見或另經確定當事國之意思為此一事項應以該條約為準；或（乙）後訂條約與前訂條約之規定不合之程度使兩者不可能同時適用。\n二、倘自後訂條約可見或另經確定當事國有此意思，前訂條約應僅視為停止施行。",
+      "content_en": "1. A treaty shall be considered as terminated if all the parties to it conclude a later treaty relating to the same subject matter and:(a)it appears from the later treaty or is otherwise established that the parties intended that the matter should be governed by that treaty; or(b)the provisions of the later treaty are so far incompatible with those of the earlier one that the two treaties are not capable of being applied at the same time.\n2. The earlier treaty shall be considered as only suspended in operation if it appears from the later treaty or is otherwise established that such was the intention of the parties."
+    },
+    {
+      "article": "六十",
+      "title_zh": "條約因違約而終止或停止施行",
+      "title_en": "Termination or suspension of the operation of a treaty as a consequence of its breach",
+      "content_zh": "一、雙邊條約當事國一方有重大違約情事時，他方有權援引違約為理由終止該條約，或全部或局部停止其施行。\n二、多邊條約當事國之一有重大違約情事時：（甲）其他當事國有權以一致協議：\n（一）在各該國與違約國之關係上，或\n（二）在全體當事國之間，將條約全部或局部停止施行或終止該條約；（乙）特別受違約影響之當事國有權援引違約為理由在其本國與違約國之關係上將條約全部或局部停止施行；（丙）如由於條約性質關係，遇一當事國對其規定有重大違反情事，致每一當事國繼續履行條約義務所處之地位因而根本改變，則違約國以外之任何當事國皆有權援引違約為理由將條約對其本國全部或局部停止施行。\n三、就適用本條而言，重大違約係指：（甲）廢棄條約，而此種廢棄非本公約所准許者；或（乙）違反條約規定，而此項規定為達成條約目的或宗旨所必要者。\n四、在上各項不妨礙條約內適用於違約情事之任何規定。\n五、第一項至第三項不適用於各人道性質之條約內所載關於保護人身之各項規定，尤其關於禁止對受此種條約保護之人採取任何方式之報復之規定。",
+      "content_en": "1. A material breach of a bilateral treaty by one of the parties entitles the other to invoke the breach as a ground for terminating the treaty or suspending its operation in whole or in part.\n2. A material breach of a multilateral treaty by one of the parties entitles:(a)the other parties by unanimous agreement to suspend the operation of the treaty in whole or in part or to terminate it either:\n\n(i)in the relations between themselves and the defaulting State, or(ii)as between all the parties;(b)a party specially affected by the breach to invoke it as a ground for suspending the operation of the treaty in whole or in part in the relations between itself and the defaulting State;(c)any party other than the defaulting State to invoke the breach as a ground for suspending the operation of the treaty in whole or in part with respect to itself if the treaty is of such a character that a material breach of its provisions by one party radically changes the position of every party with respect to the further performance of its obligations under the treaty.\n3. A material breach of a treaty, for the purposes of this article, consists in:(a)a repudiation of the treaty not sanctioned by the present Convention; or(b)the violation of a provision essential to the accomplishment of the object or purpose of the treaty.\n4. The foregoing paragraphs are without prejudice to any provision in the treaty applicable in the event of a breach.\n5. Paragraphs 1 to 3 do not apply to provisions relating to the protection of the human person contained in treaties of a humanitarian character, in particular to provisions prohibiting any form of reprisals against persons protected by such treaties."
+    },
+    {
+      "article": "六十一",
+      "title_zh": "發生意外不可能履行",
+      "title_en": "Supervening impossibility of performance",
+      "content_zh": "一、倘因實施條約所必不可少之標的物永久消失或毀壞以致不可能履行條約時，當事國得援引不可能履行為理由終止或退出條約。如不可能履行系屬暫時性質，僅得援引為停止施行條約之理由。\n二、倘條約不可能履行系一當事國違反條約義務或違反對條約任何其他當事國所負任何其他國際義務之結果，該當事國不得援引不可能履行為理由終止、退出或停止施行條約。",
+      "content_en": "1. A party may invoke the impossibility of performing a treaty as a ground for terminating or withdrawing from it if the impossibility results from the permanent disappearance or destruction of an object indispensable for the execution of the treaty. If the impossibility is temporary, it may be invoked only as a ground for suspending the operation of the treaty.\n2. Impossibility of performance may not be invoked by a party as a ground for terminating, withdrawing from or suspending the operation of a treaty if the impossibility is the result of a breach by that party either of an obligation under the treaty or of any other international obligation owed to any other party to the treaty."
+    },
+    {
+      "article": "六十二",
+      "title_zh": "情況之基本改變",
+      "title_en": "Fundamental change of circumstances",
+      "content_zh": "一、條約締結時存在之情況發生基本改變而非當事國所預料者，不得援引為終止或退出條約之理由，除非：（甲）此等情況之存在構成當事國同意承受條約拘束之必要根據；及（乙）該項改變之影響將根本變動依條約尚待履行之義務之範圍。\n二、情況之基本改變不得援引為終止或退出條約之理由：（甲）倘該條約確定一邊界；或（乙）倘情況之基本改變系援引此項理由之當事國違反條約義務或違反對條約任何其他當事國所負任何其他國際義務之結果。\n三、倘根據以上各項，一當事國得援引情況之基本改變為終止或退出條約之理由，該國亦得援引該項改變為停止施行條約之理由。",
+      "content_en": "1. A fundamental change of circumstances which has occurred with regard to those existing at the time of the conclusion of a treaty, and which was not foreseen by the parties, may not be invoked as a ground for terminating or withdrawing from the treaty unless:(a)the existence of those circumstances constituted an essential basis of the consent of the parties to be bound by the treaty; and\n\n(b)the effect of the change is radically to transform the extent of obligations still to be performed under the treaty.\n2. A fundamental change of circumstances may not be invoked as a ground for terminating or withdrawing from a treaty:(a)if the treaty establishes a boundary; or(b)if the fundamental change is the result of a breach by the party invoking it either of an obligation under the treaty or of any other international obligation owed to any other party to the treaty.\n3. If, under the foregoing paragraphs, a party may invoke a fundamental change of circumstances as a ground for terminating or withdrawing from a treaty it may also invoke the change as a ground for suspending the operation of the treaty."
+    },
+    {
+      "article": "六十三",
+      "title_zh": "斷絕外交或領事關係",
+      "title_en": "Severance of diplomatic or consular relations",
+      "content_zh": "條約當事國間斷絕外交或領事關係不影響彼此間由條約確定之法律關係，但外交或領事關係之存在為適用條約所必不可少者不在此限。",
+      "content_en": "The severance of diplomatic or consular relations between parties to a treaty does not affect the legal relations established between them by the treaty except in so far as the existence of diplomatic or consular relations is indispensable for the application of the treaty."
+    },
+    {
+      "article": "六十四",
+      "title_zh": "一般國際法新強制規律（絕對法）之產生",
+      "title_en": "Emergence of a new peremptory norm of general international law (\"jus cogens\")",
+      "content_zh": "遇有新一般國際法強制規律產生時，任何現有條約之與該項規律牴觸者即成為無效而終止。",
+      "content_en": "If a new peremptory norm of general international law emerges, any existing treaty which is in conflict with that norm becomes void and terminates."
+    },
+    {
+      "article": "六十五",
+      "title_zh": "關於條約失效、終止、退出條約或停止施行條約應依循之程序",
+      "title_en": "Procedure to be followed with respect to invalidity, termination, withdrawal from or suspension of the operation of a treaty",
+      "content_zh": "一、當事國依照本公約之規定援引其承受條約拘束之同意有誤為理由，或援引非難條約效力、終止、退出或停止施行條約之理由者，必須將其主張通知其他當事國。此項通知應載明對條約所提議採取之措施及其理由。\n二、在一非遇特別緊急情形不得短於自收到通知時起算三個月之期間屆滿後，倘無當事國表示反對，則發出通知之當事國得依第六十七條規定之方式，實施其所提議之措施。\n三、但如有任何其他當事國表示反對，當事國應藉聯合國憲章第三十三條所指示之方法以謀解決。\n四、上列各項絕不影響當事國在對其有拘束力之任何關於解決爭端之現行規定下所具有之權利或義務。\n五、以不妨礙第四十五條為限一國未於事前發出第一項所規定之通知之事實並不阻止該國為答覆另一當事國要求其履行條約或指稱其違反條約而發出此種通知。",
+      "content_en": "1. A party which, under the provisions of the present Convention, invokes either a defect in its consent to be bound by a treaty or a ground for impeaching the validity of a treaty, terminating it, withdrawing from it or suspending its operation, must notify the other parties of its claim. The notification shall indicate the measure proposed to be taken with respect to the treaty and the reasons therefor.\n2. If, after the expiry of a period which, except in cases of special urgency, shall not be less than three months after the receipt of the notification, no party has raised any objection, the party making the notification may carry out in the manner provided in article 67 the measure which it has proposed.\n\n3. If, however, objection has been raised by any other party, the parties shall seek a solution through the means indicated in article 33 of the Charter of the United Nations.\n4. Nothing in the foregoing paragraphs shall affect the rights or obligations of the parties under any provisions in force binding the parties with regard to the settlement of disputes.\n5. Without prejudice to article 45, the fact that a State has not previously made the notification prescribed in paragraph 1 shall not prevent it from making such notification in answer to another party claiming performance of the treaty or alleging its violation."
+    },
+    {
+      "article": "六十六",
+      "title_zh": "司法解決、公斷及和解之程序",
+      "title_en": "Procedures for judicial settlement, arbitration and concilliation",
+      "content_zh": "倘在提出反對之日後十二個月內未能依第六十五條第三項獲致解決，應依循下列程序：（甲）關於第五十三條或第六十四條之適用或解釋之爭端之任一當事國得以請求書將爭端提請國際法庭裁決之，但各當事國同意將爭端提交公斷者不在此限；（乙）關於本公約第五編任一其他條文之適用或解釋之爭端之任一當事國得向聯合國秘書長提出請求，發動本公約附件所定之程序。",
+      "content_en": "If, under paragraph 3 of article 65, no solution has been reached within a period of 12 months following the date on which the objection was raised, the following procedures shall be followed:(a)any one of the parties to a dispute concerning the application or the interpretation of articles 53 or 64 may, by a written application, submit it to the International Court of Justice for a decision unless the parties by common consent agree to submit the dispute to arbitration;(b)any one of the parties to a dispute concerning the application or the interpretation of any of the other articles in Part V of the present Convention may set in motion the procedure specified in the"
+    },
+    {
+      "article": "六十七",
+      "title_zh": "宣告條約失效、終止、退出或停止施行條約之文書",
+      "title_en": "Instruments for declaring invalid, terminating, withdrawing from or suspending the operation of a treaty",
+      "content_zh": "一、第六十五條第一項規定之通知須以書面為之。\n二、凡依據條約規定或第六十五條第二項或第三項規定宣告條約失效、終止、退出或停止施行條約之行為，應以文書致送其他當事國為之。倘文書未經國家元首、政府首長或外交部長簽署，得要求致送文書國家之代表出具全權證書。",
+      "content_en": "1. The notification provided for under article 65 paragraph 1 must be made in writing.\n2. Any act declaring invalid, terminating, withdrawing from or suspending the operation of a treaty pursuant to the provisions of the treaty or of paragraphs 2 or 3 of article 65 shall be carried out through an instrument communicated to the other parties. If the instrument is not signed by the Head of State, Head of Government or Minister for Foreign Affairs, the representative of the State communicating it may be called upon to produce full powers."
+    },
+    {
+      "article": "六十八",
+      "title_zh": "撤銷第六十五條及第六十七條所規定之通知及文書",
+      "title_en": "Revocation of notifications and instruments provided for in articles 65 and 67",
+      "content_zh": "第六十五條或第六十七條所規定之通知或文書得在其發生效力以前隨時撤銷之。",
+      "content_en": "A notification or instrument provided for in articles 65 or 67 may be revoked at any time before it takes effect."
+    },
+    {
+      "article": "六十九",
+      "title_zh": "條約失效之後果",
+      "title_en": "Consequences of the invalidity of a treaty",
+      "content_zh": "一、條約依本公約確定失效者無效。條約無效者，其規定無法律效力。\n二、但如已有信賴此種條約而實施之行為，則：（甲）每一當事國得要求任何其他當事國在彼此關係上儘可能恢復未實施此項行為前原應存在之狀況；（乙）在援引條約失效之理由前以善意實施之行為並不僅因條約失效而成為不合法。\n三、遇第四十九條、第五十條、第五十一條或第五十二條所稱之情形，第二項之規定對應就詐欺、賄賂行為或強迫負責之當事國不適用之。\n四、遇某一國家承受多邊條約拘束之同意成為無效之情形，上列各項規則在該國與條約當事國之關係上適用之。",
+      "content_en": "1. A treaty the invalidity of which is established under the present Convention is void. The provisions of a void treaty have no legal force.\n2. If acts have nevertheless been performed in reliance on such a treaty:(a)each party may require any other party to establish as far as possible in their mutual relations the position that would have existed if the acts had not been performed;(b)acts performed in good faith before the invalidity was invoked are not rendered unlawful by reason only of the invalidity of the treaty.\n3. In cases falling under articles 49, 50, 51 or 52, paragraph 2 does not apply with respect to the party to which the fraud, the act of corruption or the coercion is imputable.\n4. In the case of the invalidity of a particular State's consent to be bound by a multilateral treaty, the foregoing rules apply in the relations between that State and the parties to the treaty."
+    },
+    {
+      "article": "七十",
+      "title_zh": "條約終止之後果",
+      "title_en": "Consequences of the termination of a treaty",
+      "content_zh": "一、除條約另有規定或當事國另有協議外，條約依其規定或依照本公約終止時：（甲）解除當事國繼續履行條約之義務；（乙）不影響當事國在條約終止前經由實施條約而產生之任何權利、義務或法律情勢。\n二、倘一國廢止或退出多邊條約，自廢止或退出生效之日起，在該國與條約每一其他當事國之關係上適用第一項之規定。",
+      "content_en": "1. Unless the treaty otherwise provides or the parties otherwise agree, the termination of a treaty under its provisions or in accordance with the present Convention:(a)releases the parties from any obligation further to perform the treaty;(b)does not affect any right, obligation or legal situation of the parties created through the execution of the treaty prior to its termination.\n2. If a State denounces or withdraws from a multilateral treaty, paragraph 1 applies in the relations between that State and each of the other parties to the treaty from the date when such denunciation or withdrawal takes effect."
+    },
+    {
+      "article": "七十一",
+      "title_zh": "條約因與一般國際法強制規律相牴觸而失效之後果",
+      "title_en": "Consequences of the invalidity of a treaty which conflict with a peremptory norm of general international law",
+      "content_zh": "一、條約依第五十三條無效者，當事國應：（甲）儘量消除依據與任何一般國際法強制規律相牴觸之規定所實施行為之後果；及（乙）使彼此關係符合一般國際法強制規律。\n二、遇有條約依第六十四條成為無效而終止之情形，條約之終止：（甲）解除當事國繼續履行條約之義務；（乙）不影響當事國在條約終止前經由實施條約而產生之任何權利、義務或法律情勢，但嗣後此等權利、義務或情勢之保持僅以與一般國際法新強制規律不相牴觸者為限。",
+      "content_en": "1. In the case of a treaty which is void under article 53 the parties shall:(a)eliminate as far as possible the consequences of any act performed in reliance on any provision which conflicts with the peremptory norm of general international law; and\n\n(b)bring their mutual relations into conformity with the peremptory norm of general international law.\n2. In the case of a treaty which becomes void and terminates under article 64, the termination of the treaty:(a)releases the parties from any obligation further to perform the treaty;(b)does not affect any right, obligation or legal situation of the parties created through the execution of the treaty prior to its termination; provided that those rights, obligations or situations may thereafter be maintained only to the extent that their maintenance is not in itself in conflict with the new peremptory norm of general international law."
+    },
+    {
+      "article": "七十二",
+      "title_zh": "條約停止施行之後果",
+      "title_en": "Consequences of the suspension of the operation of a treaty",
+      "content_zh": "一、除條約另有規定或當事國另有協議外，條約依其本身規定或依照本公約停止施行時：（甲）解除停止施行條約之當事國於停止施行期間在彼此關係上履行條約之義務；（乙）除此以外，並不影響條約所確定當事國間之法律關係。\n二、在停止施行期間，當事國應避免足以阻撓條約恢復施行之行為。",
+      "content_en": "1. Unless the treaty otherwise provides or the parties otherwise agree, the suspension of the operation of a treaty under its provisions or in accordance with the present Convention:(a)releases the parties between which the operation of the treaty is suspended from the obligation to perform the treaty in their mutual relations during the period of the suspension;(b)does not otherwise affect the legal relations between the parties established by the treaty.\n2. During the period of the suspension the parties shall refrain from acts tending to obstruct the resumption of the operation of the treaty."
+    },
+    {
+      "article": "七十三",
+      "title_zh": "國家繼承、國家責任及發生敵對行為問題",
+      "title_en": "Cases of State succession, State responsibility and outbreak of hostilities",
+      "content_zh": "本公約之規定不妨礙國家繼承或國家所負國際責任或國家間發生敵對行為所引起關於條約之任何問題。",
+      "content_en": "The provisions of the present Convention shall not prejudge any question that may arise in regard to a treaty from a succession of States or from the international responsibility of a State or from the outbreak of hostilities between States."
+    },
+    {
+      "article": "七十四",
+      "title_zh": "外交及領事關係與條約之締結",
+      "title_en": "Diplomatic and consular relations and the conclusion of treaties",
+      "content_zh": "兩個以上國家之間斷絕外交或領事關係或無此種關係不妨礙此等國家間締結條約。條約之締結本身不影響外交或領事關係方面之情勢。",
+      "content_en": "The severance or absence of diplomatic or consular relations between two or more States does not prevent the conclusion of treaties between those States. The conclusion of a treaty does not in itself affect the situation in regard to diplomatic or consular relations."
+    },
+    {
+      "article": "七十五",
+      "title_zh": "侵略國問題",
+      "title_en": "Case of an aggressor State",
+      "content_zh": "本公約之規定不妨礙因依照聯合國憲章對侵略國之侵略行為所採取措施而可能引起之該國任何條約義務。",
+      "content_en": "The provisions of the present Convention are without prejudice to any obligation in relation to a treaty which may arise for an aggressor State in consequence of measures taken in conformity with the Charter of the United Nations with reference to that State's aggression."
+    },
+    {
+      "article": "七十六",
+      "title_zh": "條約之保管機關",
+      "title_en": "Depositaries of treaties",
+      "content_zh": "一、條約之保管機關得由談判國在條約中或以其他方式指定之。保管機關得為一個以上國家或一國際組織或此種組織之行政首長。\n二、條約保管機關之職務系國際性質，保管機關有秉公執行其職務之義務。條約尚未在若干當事國間生效或一國與保管機關間對該機關職務之行使發生爭議之事實，尤不應影響該項義務。",
+      "content_en": "1. The designation of the depositary of a treaty may be made by the negotiating States, either in the treaty itself or in some other manner. The depositary may be one or more States, an international organization or the chief administrative officer of the organization.\n2. The functions of the depositary of a treaty are international in character and the depositary is under an obligation to act impartially in their performance. In particular, the fact that a treaty has not entered into force between certain of the parties or that a difference has appeared between a State and a depositary with regard to the performance of the latter's functions shall not affect that obligation."
+    },
+    {
+      "article": "七十七",
+      "title_zh": "保管機關之職務",
+      "title_en": "Functions of depositaries",
+      "content_zh": "一、除條約內另有規定或締約國另有協議外，保管機關之職務主要為：（甲）保管條約約文之正本及任何送交保管機關之全權證書；（乙）備就約文正本之正式副本及條約所規定之條約其他語文本，並將其分送當事國及有權成為條約當事國之國家；（丙）接收條約之簽署及接收並保管有關條約之文書，通知及公文；（丁）審查條約之簽署及有關條約之任何文書、通知或公文是否妥善，如有必要並將此事提請關係國家注意；（戊）將有關條約之行為、通知及公文轉告條約當事國及有權成為條約當事國之國家；（己）於條約生效所需數目之簽署或批准書、接受書、贊同書或加入書已收到或交存時，轉告有權成為條約當事國之國家；（庚）向聯合國秘書處登記條約；（辛）擔任本公約其他規定所訂明之職務。\n二、倘一國與保管機關間對該機關職務之執行發生爭議時，保管機關應將此問題提請簽署國及締約國注意，或於適當情形下，提請關係國際組織之主管機關注意。",
+      "content_en": "1. The functions of a depositary, unless otherwise provided in the treaty or agreed by the contracting States, comprise in particular:(a)keeping custody of the original text of the treaty and of any full powers delivered to the depositary;(b)preparing certified copies of the original text and preparing any further text of the treaty in such additional languages as may be required by the treaty and transmitting them to the parties and to the States entitled to become parties to the treaty;(c)receiving any signatures to the treaty and receiving and keeping custody of any instruments, notifications and communications relating to it;(d)examining whether the signature or any instrument, notification or communication relating to the treaty is in due and proper form and, if need be, bringing the matter to the attention of the State in question;(e)informing the parties and the States entitled to become parties to the treaty of acts, notifications and communications relating to the treaty;\n\n(f)informing the States entitled to become parties to the treaty when the number of signatures or of instruments of ratification, acceptance, approval or accession required for the entry into force of the treaty has been received or deposited;(g)registering the treaty with the Secretariat of the United Nations;(h)performing the functions specified in other provisions of the present Convention.\n2. In the event of any difference appearing between a State and the depositary as to the performance of the latter's functions, the depositary shall bring the question to the attention of the signatory States and the contracting States or, where appropriate, of the competent organ of the international organization concerned."
+    },
+    {
+      "article": "七十八",
+      "title_zh": "通知及公文",
+      "title_en": "Notifications and communications",
+      "content_zh": "除條約或本公約另有規定外，任何國家依本公約所提送之通知或公文，應：（甲）如無保管機關，直接送至該件所欲知照之國家，或如有保管機關，則送至該機關；（乙）僅於受文國家收到時，或如有保管機關，經該機關收到時，方視為業經發文國家提送；（丙）倘系送至保管機關，僅於其所欲知照之國家經保管機關依照第七十七條第一項（戊）款轉告後，方視為業經該國收到。",
+      "content_en": "Except as the treaty or the present Convention otherwise provide, any notification or communication to be made by any State under the present Convention shall:(a)if there is no depositary, be transmitted direct to the States for which it is intended, or if there is a depositary, to the latter;(b)be considered as having been made by the State in question only upon its receipt by the State to which it was transmitted or, as the case may be, upon its receipt by the depositary;(c)if transmitted to a depositary, be considered as received by the State for which it was intended only when the latter State has been informed by the depositary in accordance with article 77, paragraph 1 (e)."
+    },
+    {
+      "article": "七十九",
+      "title_zh": "條約約文或正式副本錯誤之更正",
+      "title_en": "Correction of errors in texts or in certified copies of treaties",
+      "content_zh": "一、條約約文經認證後，倘簽署國及締約國簽認約文有錯誤時，除各該國決定其他更正方法外，此項錯誤應依下列方式更正之：（甲）在約文上作適當之更正，並由正式授權代表在更正處草簽；（乙）製成或互換一項或數項文書，載明協議應作之更正；或（丙）按照原有約文所經之同樣程序，製成條約全文之更正本。\n二、條約如設有保管機關，該機關應將此項錯誤及更正此項錯誤之提議通知各簽署國及締約國，並應訂明得對提議之更正提出反對之適當期限。如在期限屆滿時：（甲）尚無反對提出，則保管機關應即在約文上作此更正加以草簽，並製成關於訂正約文之紀事錄，將該紀事錄一份遞送各當事國及有權成為條約當事國之國家；（乙）已有反對提出，則保管機關應將此項反對遞送各簽署國及締約國。\n三、遇認證約文有兩種以上之語文，而其中有不一致之處，經簽署國及締約國協議應予更正時，第一項及第二項之規則亦適用之。\n四、除簽署國及締約國另有決定外，更正約文應自始替代有誤約文。\n五、已登記條約約文之更正應通知聯合國秘書處。\n六、遇條約之正式副本上發現錯誤時，保管機關應製成一項紀事錄載明所作之訂正，並將該紀事錄一份遞送各簽署國及締約國。",
+      "content_en": "1. Where, after the authentication of the text of a treaty, the signatory States and the contracting States are agreed that it contains an error, the error shall, unless they decide upon some other means of correction, be corrected:(a)by having the appropriate correction made in the text and causing the correction to be initialled by duly authorized representatives;(b)by executing or exchanging an instrument or instruments setting out the correction which it has been agreed to make; or(c)by executing a corrected text of the whole treaty by the same procedure as in the case of the original text.\n\n2. Where the treaty is one for which there is a depositary, the latter shall notify the signatory States and the contracting States of the error and of the proposal to correct it and shall specify an appropriate time-limit within which objection to the proposed correction may be raised. If, on the expiry of the time-limit:(a)no objection has been raised, the depositary shall make and initial the correction in the text and shall execute a procés-verbal of the rectification of the text and communicate a copy of it to the parties and to the States entitled to become parties to the treaty;(b)an objection has been raised, the depositary shall communicate the objection to the signatory States and to the contracting States.\n3. The rules in paragraphs 1 and 2 apply also where the text has been authenticated in two or more languages and it appears that there is a lack of concordance which the signatory States and the contracting States agree should be corrected.\n4. The corrected text replaces the defective text ab initio, unless the signatory States and the contracting States otherwise decide.\n5. The correction of the text of a treaty that has been registered shall be notified to the Secretariat of the United Nations.\n6. Where an error is discovered in a certified copy of a treaty, the depositary shall execute a procés-verbal specifying the rectification and communicate a copy of it to the signatory States and to the contracting States."
+    },
+    {
+      "article": "八十",
+      "title_zh": "條約之登記及公布",
+      "title_en": "Registration and publication of treaties",
+      "content_zh": "一、條約應於生效後送請聯合國秘書處登記或存案及記錄，並公布之。\n二、保管機關之指定，即為授權該機關實施前項所稱之行為。",
+      "content_en": "1. Treaties shall, after their entry into force, be transmitted to the Secretariat of the United Nations for registration or filing and recording, as the case may be, and for publication.\n2. The designation of a depositary shall constitute authorization for it to perform the acts specified in the preceding paragraph."
+    },
+    {
+      "article": "八十一",
+      "title_zh": "簽署",
+      "title_en": "Signature",
+      "content_zh": "本公約應聽由聯合國或任何專門機關或國際原子能總署之全體會員國或國際法院規約當事國、及經聯合國大會邀請成為本公約當事國之任何其他國家簽署，其辦法如下:至一九六九年十一月三十日止，在奧地利共和國聯邦外交部簽署，其後至一九七〇年四月三十日止，在紐約聯合國會所簽署。",
+      "content_en": "The present Convention shall be open for signature by all States Members of the United Nations or of any of the specialized agencies or of the International Atomic Energy Agency or parties to the Statute of the International Court of Justice, and by any other State invited by the General Assembly of the United Nations to become a party to the Convention, as follows: until 30 November 1969, at the\n\nFederal Ministry for Foreign Affairs of the Republic of Austria, and subsequently, until 30 April 1970, at United Nations Headquarters, New York."
+    },
+    {
+      "article": "八十二",
+      "title_zh": "批准",
+      "title_en": "Ratification",
+      "content_zh": "本公約須經批准。批准書應送請聯合國秘書長存放。",
+      "content_en": "The present Convention is subject to ratification. The instruments of ratification shall be deposited with the Secretary-General of the United Nations."
+    },
+    {
+      "article": "八十三",
+      "title_zh": "加入",
+      "title_en": "Accession",
+      "content_zh": "本公約應聽由屬於第八十一條所稱各類之一之國家加入。加入書應送請聯合國秘書長存放。",
+      "content_en": "The present Convention shall remain open for accession by any State belonging to any of the categories mentioned in article 81. The instruments of accession shall be deposited with the Secretary-General of the United Nations."
+    },
+    {
+      "article": "八十四",
+      "title_zh": "發生效力",
+      "title_en": "Entry into force",
+      "content_zh": "一、本公約應於第三十五件批准書或加入書存放之日後第三十日起發生效力。\n二、對於在第三十五件批准書或加入書存放後批准或加入本公約之國家，本公約應於各該國存放批准書或加入書後第三十日起發生效力。",
+      "content_en": "1. The present Convention shall enter into force on the thirtieth day following the date of deposit of the thirty-fifth instrument of ratification or accession.\n2. For each State ratifying or acceding to the Convention after the deposit of the thirty-fifth instrument of ratification or accession, the Convention shall enter into force on the thirtieth day after deposit by such State of its instrument of ratification or accession."
+    },
+    {
+      "article": "八十五",
+      "title_zh": "作準文本",
+      "title_en": "Authentic texts",
+      "content_zh": "本公約之原本應送請聯合國秘書長存放，其中文、英文、法文、俄文及西班牙文各本同一作準。為此，下列全權代表各秉本國政府正式授予簽字之權，謹簽字於本公約，以昭信守。公曆一千九百六十九年五月二十三日訂於維也納。\n一、聯合國秘書長應製成並保持一和解員名單，由合格法學家組成。為此目的，應請為聯合國會員國或本公約當事國之每一國指派和解員二人，如此指派之人士之姓名即構成上述名單。和解員之任期，包括遇因故出缺被派補實之任何和解員之任期在內，應為五年，並得連任。任一和解員任期屆滿時，應繼續執行其根據下項規定被選擔任之職務。\n二、遇根據第六十六條對秘書長提出請求時，秘書長應將爭端提交一依下列方式組成之和解委員會：成為爭端當事一方之一國或數國應指派：（甲）為其本國或其中一國之國民之和解員一人，由第一項所稱名單選出或另行選出；及（乙）非其本國或其中任何一國之國民之和解員一人，由名單中選出。成為爭端當事另一方之一國或數國亦應照此方式指派和解員二人。各當事國所選之和解員四人應於自秘書長接到請求之日後六十日內指派之。此四名和解員，應自其中最後一人被指派之日後六十日內，自上述名單選出第五名和解員，擔任主席。倘主席或和解員中任一人之指派未於上稱規定期間內決定，應由秘書長於此項期間屆滿後六十日內為之。主席得由秘書長自名單中或自國際法委員會委員中指派之。任一指派期限，得由爭端之當事國以協議延展之。遇任何人員出缺之情形，應依為第一次指派所定方式補實之。\n三、和解委員會應自行決定其程序。委員會得經爭端各當事國之同意邀請條約任何當事國向委員會提出口頭或書面意見。委員會之決定及建議以委員五人之過半數表決為之。\n四、委員會得提請爭端各當事國注意可能促進友好解決之任何措施。\n五、委員會應聽取各當事國之陳述，審查其要求與反對意見，並向各當事國擬具提議以求達成爭端之友好解決。\n六、委員會應於成立後十二個月內提出報告書。報告書應送請秘書長存放並轉送爭端各當事國。委員會之報告書包括其中關於事實或法律問題所作之任何結論對各當事國均無拘束力，且其性質應限於為求促成爭端之友好解決而提供各當事國考慮之建議。\n七、秘書長應供給委員會所需之協助與便利。委員會之費用應由聯合國擔負。本作品來自聯合國官方文件。此組織之政策為於公有領域保存其大部份文獻，以儘可能廣泛宣傳聯合國出版物。根據ST/AI/189/Add.9/Rev.2第2條（僅供英文版），下列聯合國文件在全球屬於公有領域：Public domainPublic domainfalsefalse",
+      "content_en": "The original of the present Convention, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations.In witness whereofthe undersigned Plenipotentiaries, being duly authorized thereto by their respective Governments, have signed the present Convention.Doneat Vienna, this twenty-third day of May, one thousand nine hundred and sixty-nine."
+    }
+  ]
+}

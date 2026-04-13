@@ -1,0 +1,206 @@
+{
+  "treaty": "日內瓦公約第二附加議定書",
+  "treaty_zh": "日內瓦公約第二附加議定書",
+  "treaty_en": "Protocol Additional to the Geneva Conventions of 12 August 1949, and Relating to the Protection of Victims of Non-International Armed Conflicts (Protocol II)",
+  "total_articles": 28,
+  "preamble_zh": "締約各方，回顧到莊嚴載入1949年8月12日日內瓦四公約共同第三條的人道主義原則，構成在非國際性武裝衝突的情形下對人的尊重的基礎，還回顧到關於人權的國際文件提供對人的基本保護，強調有必要保證這類武裝衝突的受難者得到更好的保護，回顧到在現行法律所未包括的情形下，人仍受人道原則和公衆良心要求的保護，議定如下：",
+  "preamble_en": "The High Contracting Parties,\n\nRecalling that the humanitarian principles enshrined in Article 3 common to the Geneva Conventions of 12 August 1949, constitute the foundation of respect for the human person in cases of armed conflict not of an international character,\n\nRecalling furthermore that international instruments relating to human rights offer a basic protection to the human person,\n\nEmphasizing the need to ensure a better protection for the victims of those armed conflicts,\n\nRecalling that, in cases not covered by the law in force, the human person remains under the protection of the principles of humanity and the dictates of the public conscience,\n\nHave agreed on the following:",
+  "articles": [
+    {
+      "article": "一",
+      "title_zh": "對事物的適用範圍",
+      "title_en": "Material field of application",
+      "content_zh": "一、本議定書發展和補充１９４９年８月１２日日內瓦四公約共同第三條而不改變其現有的適用條件，應適用於為１９４９年８月１２日日內瓦四公約關於保護國際性武裝衝突受難者的附加議定書（第一議定書）所未包括、而在締約一方領土內發生的該方武裝部隊和在負責統率下對該方一部分領土行使控制權，從而使其能進行持久而協調的軍事行動並執行本議定書的持不同政見的武裝部隊或其他有組織的武裝集團之間的一切武裝衝突。\n\n二、本議定書不應適用於非武裝衝突的內部動亂和緊張局勢，如暴動、孤立而不時發生的暴力行為和其他類似性質的行為。",
+      "content_en": "1. This Protocol, which develops and supplements Article 3 common to the Geneva Conventions of 12 August 1949 without modifying its existing conditions of applications, shall apply to all armed conflicts which are not covered by Article 1 of the Protocol Additional to the Geneva Conventions of 12 August 1949, and relating to the Protection of Victims of International Armed Conflicts (Protocol I) and which take place in the territory of a High Contracting Party between its armed forces and dissident armed forces or other organized armed groups which, under responsible command, exercise such control over a part of its territory as to enable them to carry out sustained and concerted military operations and to implement this Protocol.\n\n2. This Protocol shall not apply to situations of internal disturbances and tensions, such as riots, isolated and sporadic acts of violence and other acts of a similar nature, as not being armed conflicts."
+    },
+    {
+      "article": "二",
+      "title_zh": "對人的適用範圍",
+      "title_en": "Personal field of application",
+      "content_zh": "一、本議定書應適用於受第一條所規定的武裝衝突影響的一切人，而不應以種族、膚色、性別、語言、宗教或信仰、政治或其他意見、民族或社會出身、財富、出生或其他身分或任何其他類似標準為依據加以任何不利區別（以下簡稱「不利區別」）。\n\n二、在武裝衝突結束時，基於有關該衝突的原因而自由被剝奪或自由受限制的一切人，以及在該衝突後基於同樣原因而自由被剝奪或自由受限制的一切人，均應享受第五條和第六條的保護，直至自由的剝奪或限制終止之時為止。",
+      "content_en": "1. This Protocol shall be applied without any adverse distinction founded on race, colour, sex, language, religion or belief, political or other opinion, national or social origin, wealth, birth or other status, or on any other similar criteria (hereinafter referred to as \"adverse distinction\") to all persons affected by an armed conflict as defined in Article 1.\n\n2. At the end of the armed conflict, all the persons who have been deprived of their liberty or whose liberty has been restricted for reasons related to such conflict, as well as those deprived of their liberty or whose liberty is restricted after the conflict for the same reasons, shall enjoy the protection of Articles 5 and 6 until the end of such deprivation or restriction of liberty."
+    },
+    {
+      "article": "三",
+      "title_zh": "不干涉",
+      "title_en": "Non-intervention",
+      "content_zh": "一、本議定書的任何規定均不應援引以損害國家的主權，或損害政府用一切合法手段維持或恢復國內法律和秩序或保衛國家統一和領土完整的責任。\n\n二、本議定書的任何規定均不應援引作為無論基於任何理由而直接或間接干涉武裝衝突或衝突發生地的締約一方的內部或外部事務的根據。",
+      "content_en": "1. Nothing in this Protocol shall be invoked for the purpose of affecting the sovereignty of a State or the responsibility of the government, by all legitimate means, to maintain or re-establish law and order in the State or to defend the national unity and territorial integrity of the State.\n\n2. Nothing in this Protocol shall be invoked as a justification for intervening, directly or indirectly, for any reason whatever, in the armed conflict or in the internal or external affairs of the High Contracting Party in the territory of which that conflict occurs."
+    },
+    {
+      "article": "四",
+      "title_zh": "基本保證",
+      "title_en": "Fundamental guarantees",
+      "content_zh": "一、一切未直接參加或已停止參加敵對行動的人，不論其自由是否受限制，均有權享受對其人身、榮譽以及信念和宗教儀式的尊重。這類人應在任何情況下受人道待遇，而不加任何不利區別。下令殺無赦，是禁止的。\n\n二、在不妨害上述規定的普遍性的條件下，對第一款所指的人的下列行為是禁止的，並在任何時候和在任何地方均應禁止：\n\n（一）對人的生命、健康和身體上或精神上幸福的暴行，特別是謀殺以及虐待，如酷刑、殘傷肢體或任何形式的體罰；\n\n（二）集體懲罰；\n\n（三）扣留人質；\n\n（四）恐怖主義行為；\n\n（五）對人身尊嚴的侵犯，特別是侮辱性和降低身分的待遇、強姦、強迫賣淫和任何形式的非禮侵犯；\n\n（六）各種形式的奴隸制度和奴隸販賣；\n\n（七）搶劫；\n\n（八）以從事任何上述行為相威脅。\n\n三、對兒童，應給予其所需的照顧和援助，特別是：\n\n（一）兒童應按照其父母的願望，或父母不在時，按照負責照顧的人的願望得到教育，包括宗教和道德教育；\n\n（二）應採取一切適當步驟，以便利暫時離散的家庭重聚；\n\n（三）對未滿十五歲的兒童不應徵募其參加武裝部隊或集團，也不應准許其參加敵對行動；\n\n（四）如果儘管有第三項的規定，而未滿十五歲的兒童直接參加敵對行動，並被俘獲，這類兒童仍應適用本條所規定的特別保護；\n\n（五）如果有必要，並在可能時，在兒童的父母或依據法律或習慣主要負責照顧的人的同意下，應採取措施，將兒童從進行敵對行動的地區暫時移往國內較安全的地區，並保證由負責其安全和幸福的人伴同。",
+      "content_en": "1. All persons who do not take a direct part or who have ceased to take part in hostilities, whether or not their liberty has been restricted, are entitled to respect for their person, honour and convictions and religious practices. They shall in all circumstances be treated humanely, without any adverse distinction. It is prohibited to order that there shall be no survivors.\n\n2. Without prejudice to the generality of the foregoing, the following acts against the persons referred to in paragraph 1 are and shall remain prohibited at any time and in any place whatsoever:\na) violence to the life, health and physical or mental well-being of persons, in particular murder as well as cruel treatment such as torture, mutilation or any form of corporal punishment;\nb) collective punishments;\nc) taking of hostages;\nd) acts of terrorism;\ne) outrages upon personal dignity, in particular humiliating and degrading treatment, rape, enforced prostitution and any form of indecent assault;\nf) slavery and the slave trade in all their forms;\ng) pillage;\nh) threats to commit any of the foregoing acts.\n\n3. Children shall be provided with the care and aid they require, and in particular:\na) they shall receive an education, including religious and moral education, in keeping with the wishes of their parents, or in the absence of parents, of those responsible for their care;\nb) all appropriate steps shall be taken to facilitate the reunion of families temporarily separated;\nc) children who have not attained the age of fifteen years shall neither be recruited in the armed forces or groups nor allowed to take part in hostilities;\nd) the special protection provided by this Article to children who have not attained the age of fifteen years shall remain applicable to them if they take a direct part in hostilities despite the provisions of sub-paragraph c) and are captured;\ne) measures shall be taken, if necessary, and whenever possible with the consent of their parents or persons who by law or custom are primarily responsible for their care, to remove children temporarily from the area in which hostilities are taking place to a safer area within the country and ensure that they are accompanied by persons responsible for their safety and well-being."
+    },
+    {
+      "article": "五",
+      "title_zh": "自由受限制的人",
+      "title_en": "Persons whose liberty has been restricted",
+      "content_zh": "一、除第四條的規定外，對於基於有關武裝衝突的原因而自由被剝奪的人，不論是被拘禁或被拘留，至少應尊重下列的規定：\n\n（一）對傷者和病者，應按照第七條給予待遇；\n\n（二）對本款所指的人，應按照當地平民居民的同樣標準供給食物和飲水，並提供健康衛生方面的保障和免受嚴寒酷熱和武裝衝突的危害的保護；\n\n（三）對這類人，應准許其接受個人或集體救濟；\n\n（四）對這類人，應准許其奉行其宗教，而且，如經請求，並於適宜時，應准許其接受執行宗教職務的人，如牧師，所給予的精神上幫助；\n\n（五）如果使這類人做工，這類人應享有類似當地平民居民所享受的工作條件和保障的利益。\n\n二、負責拘禁或拘留第一款所指的人的當局也應在其力所能及範圍內尊重有關這類人的下列規定：\n\n（一）除一家男女的住處安排在一起外，婦女的住處應與男子的住處分開，並應由婦女直接監視；\n\n（二）對這類人，應准許其收發信件和郵片，主管當局如果認為必要，得限制其數目；\n（三）拘禁和拘留的地方不應接近戰鬥地帶。第一款所指的人，在其拘禁或拘留的地方特別容易遭受武裝衝突所造成的危險時，如果撤退能在充分安全的條件下進行，應予撤退；\n\n（四）這類人應享有身體檢查的利益；\n\n（五）這類人的身心健全不應受任何無理行為或不作為的危害。因此，迫使本條所述的人接受非為其健康狀況所要求而且與自由的人在類似醫療狀況中所適用的公認醫療標準不符的醫療程序，是禁止的。\n\n三、對第一款所不包括但基於有關武裝衝突的原因而自由以任何方式受限制的人，應按照第四條和本條第一款第一項、第三項和第四項以及第二款第二項給予人道的待遇。\n\n四、如果決定釋放自由被剝奪的人，作出決定的人應採取措施，以保證被釋放的人的安全。",
+      "content_en": "1. In addition to the provisions of Article 4, the following provisions shall be respected as a minimum with regard to persons deprived of their liberty for reasons related to the armed conflict, whether they are interned or detained:\na) the wounded and the sick shall be treated in accordance with Article 7;\nb) the persons referred to in this paragraph shall, to the same extent as the local civilian population, be provided with food and drinking water and be afforded safeguards as regards health and hygiene and protection against the rigours of the climate and the dangers of the armed conflict;\nc) they shall be allowed to receive individual or collective relief;\nd) they shall be allowed to practise their religion and, if requested and appropriate, to receive spiritual assistance from persons, such as chaplains, performing religious functions;\ne) they shall, if made to work, have the benefit of working conditions and safeguards similar to those enjoyed by the local civilian population.\n\n2. Those who are responsible for the internment or detention of the persons referred to in paragraph 1 shall also, within the limits of their capabilities, respect the following provisions relating to such persons:\na) except when men and women of a family are accommodated together, women shall be held in quarters separated from those of men and shall be under the immediate supervision of women;\nb) they shall be allowed to send and receive letters and cards, the number of which may be limited by competent authority if it deems necessary;\nc) places of internment and detention shall not be located close to the combat zone. The persons referred to in paragraph 1 shall be evacuated when the places where they are interned or detained become particularly exposed to danger arising out of the armed conflict, if their evacuation can be carried out under adequate conditions of safety;\nd) they shall have the benefit of medical examinations;\ne) their physical or mental health and integrity shall not be endangered by any unjustified act or omission. Accordingly, it is prohibited to subject the persons described in this Article to any medical procedure which is not indicated by the state of health of the person concerned, and which is not consistent with the generally accepted medical standards applied to free persons under similar medical circumstances.\n\n3. Persons who are not covered by paragraph 1 but whose liberty has been restricted in any way whatsoever for reasons related to the armed conflict shall be treated humanely in accordance with Article 4 and with paragraphs 1 a), c) and d), and 2 b) of this Article.\n\n4. If it is decided to release persons deprived of their liberty, necessary measures to ensure their safety shall be taken by those so deciding."
+    },
+    {
+      "article": "六",
+      "title_zh": "刑事追訴",
+      "title_en": "Penal prosecutions",
+      "content_zh": "一、本條適用於對有關武裝衝突的刑事罪行的追訴和懲罰。\n\n二、對犯有罪行的人，除遵照具備獨立和公正的主要保證的法院定罪宣告外，不應判刑和處罰。特別是：\n\n（一）程序應規定使被告立即被告知其被控犯罪的細節，並應使被告在審判前和審判期間享有一切必要的辯護權利和手段；\n\n（二）對任何人，除以個人刑事責任為依據外，均不應對其判罪；\n\n（三）對任何人，均不應因其在從事行為或不作為時依據法律不構成犯罪的任何行為或不作為而判決有罪；也不應處以重於其犯罪時可適用的刑罰；如果在犯罪後法律規定較輕的刑罰，犯罪人應享受該規定的利益；\n\n（四）任何被控犯罪的人，在按照法律證明其有罪前，均推定為無罪；\n\n（五）任何被控犯罪的人均應享有在受審時在場的權利；\n\n（六）對任何人，均不應迫其提供對自己不利的證據或自認犯罪。\n\n三、對被判罪的人，應在判罪時告知其司法或其他救濟方法以及使用這些救濟方法的時限。\n\n四、對犯罪時不滿十八歲的人，不應宣判死刑，並對孕婦和幼童的母親，不應執行死刑。\n\n五、在敵對行動結束時，當權當局對參加武裝衝突的人或基於有關武裝衝突的原因而自由被剝奪的人，不論被拘禁或被拘留，應給以儘可能最廣泛的赦免。",
+      "content_en": "1. This Article applies to the prosecution and punishment of criminal offences related to the armed conflict.\n\n2. No sentence shall be passed and no penalty shall be executed on a person found guilty of an offence except pursuant to a conviction pronounced by a court offering the essential guarantees of independence and impartiality. In particular:\na) the procedure shall provide for an accused to be informed without delay of the particulars of the offence alleged against him and shall afford the accused before and during his trial all necessary rights and means of defence;\nb) no one shall be convicted of an offence except on the basis of individual penal responsibility;\nc) no one shall be held guilty of any criminal offence on account of any act or omission which did not constitute a criminal offence, under the law, at the time when it was committed; nor shall a heavier penalty be imposed than that which was applicable at the time when the criminal offence was committed; if, after the commission of the offence, provision is made by law for the imposition of a lighter penalty, the offender shall benefit thereby;\nd) anyone charged with an offence is presumed innocent until proved guilty according to law;\ne) anyone charged with an offence shall have the right to be tried in his presence;\nf) no one shall be compelled to testify against himself or to confess guilt.\n\n3. A convicted person shall be advised on conviction of his judicial and other remedies and of the time-limits within which they may be exercised.\n\n4. The death penalty shall not be pronounced on persons who were under the age of eighteen years at the time of the offence and shall not be carried out on pregnant women or mothers of young children.\n\n5. At the end of hostilities, the authorities in power shall endeavour to grant the broadest possible amnesty to persons who have participated in the armed conflict, or those deprived of their liberty for reasons related to the armed conflict, whether they are interned or detained."
+    },
+    {
+      "article": "七",
+      "title_zh": "保護和照顧",
+      "title_en": "Protection and care",
+      "content_zh": "一、所有傷者、病者和遇船難者，不論曾否參加武裝衝突，均應受尊重和保護。\n\n二、在任何情況下，傷者、病者和遇難者均應受人道待遇，並應在最大實際可能範圍內和儘速得到其狀況所需的醫療照顧和注意。在這類人之中，不應以醫療以外的任何理由為依據加以任何區別。",
+      "content_en": "1. All the wounded, sick and shipwrecked, whether or not they have taken part in the armed conflict, shall be respected and protected.\n\n2. In all circumstances they shall be treated humanely and shall receive, to the fullest extent practicable and with the least possible delay, the medical care and attention required by their condition. There shall be no distinction among them founded on any grounds other than medical ones."
+    },
+    {
+      "article": "八",
+      "title_zh": "搜尋",
+      "title_en": "Search",
+      "content_zh": "在情況許可的任何時候，特別是在戰鬥後，應立即採取一切可能措施，搜尋和收集傷者、病者和遇船難者，保護其不受搶劫和虐待，保證其有充分的照顧，而且搜尋死者，防止其被剝奪衣物並予以適宜的處理。",
+      "content_en": "Whenever circumstances permit, and particularly after an engagement, all possible measures shall be taken, without delay, to search for and collect the wounded, sick and shipwrecked, to protect them against pillage and ill-treatment, to ensure their adequate care, and to search for the dead, prevent their being despoiled, and decently dispose of them."
+    },
+    {
+      "article": "九",
+      "title_zh": "對醫務和宗教人員的保護",
+      "title_en": "Protection of medical and religious personnel",
+      "content_zh": "一、醫務和宗教人員應受尊重和保護，並在其履行職責中應得到一切可能幫助。對這類人，不應迫其執行與其人道主義使命不符的任務。\n\n二、除有醫療理由外，不應要求醫務人員在履行其職責中給予任何人以優先地位。",
+      "content_en": "1. Medical and religious personnel shall be respected and protected and shall be granted all available help for the performance of their duties. They shall not be compelled to carry out tasks which are not compatible with their humanitarian mission.\n\n2. In the performance of their duties medical personnel may not be required to give priority to any person except on medical grounds."
+    },
+    {
+      "article": "十",
+      "title_zh": "對醫療職責的一般保護",
+      "title_en": "General protection of medical duties",
+      "content_zh": "一、在任何情況下，不問誰是受益者，任何人均不應因進行符合醫療職責的醫療活動而受懲罰。\n\n二、對從事醫療活動的人，不應迫其從事或進行違反醫療道德規則、或其他為傷者和病者的利益而制訂的規則、或本議定書的行為或工作，也不應迫其不從事這類規則或本議定書所要求的行為。\n\n三、從事醫療活動的人關於其可能取得的有關在其照顧下傷者和病者的情報的職業上義務，除受國內法的限制外，應受尊重。\n\n四、除受國內法的限制外，任何從事醫療活動的人均不得因拒絕提供或未提供關於在其照顧下或曾在其照顧下的傷者和病者的情報而受任何形式的處罰。",
+      "content_en": "1. Under no circumstances shall any person be punished for having carried out medical activities compatible with medical ethics, regardless of the person benefiting therefrom.\n\n2. Persons engaged in medical activities shall neither be compelled to perform acts or to carry out work contrary to, nor be compelled to refrain from acts required by, the rules of medical ethics or other rules designed for the benefit of the wounded and sick, or this Protocol.\n\n3. The professional obligations of persons engaged in medical activities regarding information which they may acquire concerning the wounded and sick under their care shall, subject to national law, be respected.\n\n4. Subject to national law, no person engaged in medical activities may be penalized in any way for refusing or failing to give information concerning the wounded and sick who are, or who have been, under his care."
+    },
+    {
+      "article": "十一",
+      "title_zh": "對醫療隊和醫務運輸工具的保護",
+      "title_en": "Protection of medical units and transports",
+      "content_zh": "一、醫療隊和醫務運輸工具無論何時均應受尊重和保護，並不應成為攻擊的對象。\n\n二、醫療隊和醫務運輸工具，除其用於從事人道主義職能以外的敵對行為外，其有權享受的保護不應停止。但僅在發出警告，並在任何適宜時定有合理時限，而警告仍無效果後，保護才得停止。",
+      "content_en": "1. Medical units and transports shall be respected and protected at all times and shall not be the object of attack.\n\n2. The protection to which medical units and transports are entitled shall not cease unless they are used to commit hostile acts, outside their humanitarian function. Protection may, however, cease only after a warning has been given setting, whenever appropriate, a reasonable time-limit, and after such warning has remained unheeded."
+    },
+    {
+      "article": "十二",
+      "title_zh": "特殊標誌",
+      "title_en": "The distinctive emblem",
+      "content_zh": "在有關主管當局指導下，醫務和宗教人員以及醫療隊和醫務運輸工具應展示白底紅十字、紅新月或紅獅與太陽的特殊標誌。在任何情形下，該特殊標誌均應受尊重。該特殊標誌不應用於不正當的用途。",
+      "content_en": "Under the direction of the competent authority concerned, the distinctive emblem of the red cross, red crescent or red lion and sun on a white ground shall be displayed by medical and religious personnel and medical units, and on medical transports. It shall be respected in all circumstances. It shall not be used improperly."
+    },
+    {
+      "article": "十三",
+      "title_zh": "對平民居民的保護",
+      "title_en": "Protection of the civilian population",
+      "content_zh": "一、平民居民和平民個人應享受免於軍事行動所產生的危險的一般保護。為了實現這種保護，在任何情況下均應遵守下列各項規則。\n\n二、平民居民本身以及平民個人，不應成為攻擊的對象。禁止以在平民居民中散布恐怖為主要目的的暴力行為或暴力威脅。\n\n三、平民個人除直接參加敵對行為並在參加期間外，應享受本部所給予的保護。",
+      "content_en": "1. The civilian population and individual civilians shall enjoy general protection against the dangers arising from military operations. To give effect to this protection, the following rules shall be observed in all circumstances.\n\n2. The civilian population as such, as well as individual civilians, shall not be the object of attack. Acts or threats of violence the primary purpose of which is to spread terror among the civilian population are prohibited.\n\n3. Civilians shall enjoy the protection afforded by this Part, unless and for such time as they take a direct part in hostilities."
+    },
+    {
+      "article": "十四",
+      "title_zh": "對平民居民生存所不可缺少的物體的保護",
+      "title_en": "Protection of objects indispensable to the survival of the civilian population",
+      "content_zh": "作為作戰方法使平民居民陷於飢餓，是禁止的。因此，為了該目的，對平民居民所不可缺少的物體，如糧食、生產糧食的農業區、農作物、牲畜、飲水裝置和供應及灌溉工程，進行攻擊、破壞、移動或使其失去效用，都是禁止的。",
+      "content_en": "Starvation of civilians as a method of combat is prohibited. It is therefore prohibited to attack, destroy, remove or render useless, for that purpose, objects indispensable to the survival of the civilian population, such as foodstuffs, agricultural areas for the production of foodstuffs, crops, livestock, drinking water installations and supplies and irrigation works."
+    },
+    {
+      "article": "十五",
+      "title_zh": "對含有危險力量的工程和裝置的保護",
+      "title_en": "Protection of works and installations containing dangerous forces",
+      "content_zh": "含有危險力量的工程或裝置，如堤壩和核發電站，如果對之進行攻擊可能引起危險力量的釋放，從而在平民居民中造成嚴重的損失，即使這類物體是軍事目標，也不應成為攻擊的對象。",
+      "content_en": "Works or installations containing dangerous forces, namely dams, dykes and nuclear electrical generating stations, shall not be made the object of attack, even where these objects are military objectives, if such attack may cause the release of dangerous forces and consequent severe losses among the civilian population."
+    },
+    {
+      "article": "十六",
+      "title_zh": "對文物和禮拜場所的保護",
+      "title_en": "Protection of cultural objects and of places of worship",
+      "content_zh": "在不妨礙１９５４年５月１４日關於發生武裝衝突時保護文化財產的海牙公約的規定的條件下，對構成各國人民文化或精神遺產的歷史紀念物、藝術品或禮拜場所從事任何敵對行為，以及利用這些物體以支持軍事努力，都是禁止的。",
+      "content_en": "Without prejudice to the provisions of the Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict of 14 May 1954, it is prohibited to commit any acts of hostility directed against historic monuments, works of art or places of worship which constitute the cultural or spiritual heritage of peoples, and to use them in support of the military effort."
+    },
+    {
+      "article": "十七",
+      "title_zh": "對強迫平民遷移的禁止",
+      "title_en": "Prohibition of forced movement of civilians",
+      "content_zh": "一、除為有關平民的安全或迫切的軍事理由所要求外，不應基於有關衝突的理由下令平民居民遷移。如果必須進行遷移，則應採取一切可能的措施，使平民居民能在滿意的住宿、衛生、健康、安全和營養的條件下被收留。\n\n二、對平民，不應基於有關衝突的理由而迫其離開其本國領土。",
+      "content_en": "1. The displacement of the civilian population shall not be ordered for reasons related to the conflict unless the security of the civilians involved or imperative military reasons so demand. Should such displacements have to be carried out, all possible measures shall be taken in order that the civilian population may be received under satisfactory conditions of shelter, hygiene, health, safety and nutrition.\n\n2. Civilians shall not be compelled to leave their own territory for reasons connected with the conflict."
+    },
+    {
+      "article": "十八",
+      "title_zh": "救濟團體和救濟行動",
+      "title_en": "Relief societies and relief actions",
+      "content_zh": "一、在締約一方領土內的救濟團體，如紅十字會（紅新月會、紅獅與太陽會）組織，得提供服務，對武裝衝突受難者執行其傳統的服務。平民居民即使在其自己主動下，也得提供收集和照顧傷者、病者和遇船難者的服務。\n\n二、如果平民居民由於缺少生存必需品，如糧食和醫療用品，而遭受非常的困難，對該平民居民，應在有關締約一方同意下，進行專門屬於人道主義和公正性質而不加任何不利區別的救濟行動。",
+      "content_en": "1. Relief societies located in the territory of the High Contracting Party, such as Red Cross (Red Crescent, Red Lion and Sun) organizations, may offer their services for the performance of their traditional functions in relation to the victims of the armed conflict. The civilian population may, even on its own initiative, offer to collect and care for the wounded, sick and shipwrecked.\n\n2. If the civilian population is suffering undue hardship owing to a lack of the supplies essential for its survival, such as foodstuffs and medical supplies, relief actions for the civilian population which are of an exclusively humanitarian and impartial nature and which are conducted without any adverse distinction shall be undertaken subject to the consent of the High Contracting Party concerned."
+    },
+    {
+      "article": "十九",
+      "title_zh": "傳播",
+      "title_en": "Dissemination",
+      "content_zh": "本議定書應儘可能廣泛地予以傳播。",
+      "content_en": "This Protocol shall be disseminated as widely as possible."
+    },
+    {
+      "article": "二十",
+      "title_zh": "簽字",
+      "title_en": "Signature",
+      "content_zh": "本議定書應於最後文件簽字後六個月開放聽由各公約締約各方簽字，並在十二個月期間內繼續開放聽由簽字。",
+      "content_en": "This Protocol shall be open for signature by the Parties to the Conventions six months after the signing of the Final Act and will remain open for a period of twelve months."
+    },
+    {
+      "article": "二十一",
+      "title_zh": "批准",
+      "title_en": "Ratification",
+      "content_zh": "本議定書應儘速批准。批准書應交存各公約保存者瑞士聯邦委員會。",
+      "content_en": "This Protocol shall be ratified as soon as possible. The instruments of ratification shall be deposited with the Swiss Federal Council, depositary of the Conventions."
+    },
+    {
+      "article": "二十二",
+      "title_zh": "加入",
+      "title_en": "Accession",
+      "content_zh": "本議定書應開放聽由未簽字者於本議定書的各公約任何一方加入。加入書應交存保存者。",
+      "content_en": "This Protocol shall be open for accession by any Party to the Conventions which has not signed it. The instruments of accession shall be deposited with the depositary."
+    },
+    {
+      "article": "二十三",
+      "title_zh": "生效",
+      "title_en": "Entry into force",
+      "content_zh": "一、本議定書應於兩份批准書或加入書交存後六個月發生效力。\n\n二、對於嗣後批准或加入本議定書的各公約締約每一方，本議定書應於該方交存其批准書或加入書後六個月發生效力。",
+      "content_en": "1. This Protocol shall enter into force six months after two instruments of ratification or accession have been deposited.\n\n2. For each Party to the Conventions thereafter ratifying or acceding to this Protocol, it shall enter into force six months after the deposit by such Party of its instrument of ratification or accession."
+    },
+    {
+      "article": "二十四",
+      "title_zh": "修正",
+      "title_en": "Amendment",
+      "content_zh": "一、締約任何一方均得對本議定書提出修正案。任何已提出的修正案的文本應送交保存者，保存者應在與締約各方和紅十字國際委員會磋商後，決定應否召開會議，以審議已提出的修正案。\n\n二、保存者應邀請締約各方以及各公約締約各方，不論是否本議定書的簽字國，參加該會議。",
+      "content_en": "1. Any High Contracting Party may propose amendments to this Protocol. The text of any proposed amendment shall be communicated to the depositary which shall decide, after consultation with all the High Contracting Parties and the International Committee of the Red Cross, whether a conference should be convened to consider the proposed amendment.\n\n2. The depositary shall invite to that conference all the High Contracting Parties as well as the Parties to the Conventions, whether or not they are signatories of this Protocol."
+    },
+    {
+      "article": "二十五",
+      "title_zh": "退約",
+      "title_en": "Denunciation",
+      "content_zh": "一、如果締約一方退出本議定書，退約應僅在退約書收到後六個月發生效力。但如果在六個月期滿時，退約該方捲入第一條所指的場合，退約在武裝衝突結束前不應發生效力。然而，基於有關衝突的原因而自由被剝奪或自由受限制的人，在其最後釋放前，應繼續享受本議定書的規定的利益。\n\n二、退約應以書面通知保存者，保存者應即告知締約各方。",
+      "content_en": "1. In case a High Contracting Party should denounce this Protocol, the denunciation shall only take effect six months after receipt of the instrument of denunciation. If, however, on the expiry of six months, the denouncing Party is engaged in the situation referred to in Article 1, the denunciation shall not take effect before the end of the armed conflict. Persons who have been deprived of liberty, or whose liberty has been restricted, for reasons related to the conflict shall nevertheless continue to benefit from the provisions of this Protocol until their final release.\n\n2. The denunciation shall be notified in writing to the depositary, which shall transmit it to all the High Contracting Parties."
+    },
+    {
+      "article": "二十六",
+      "title_zh": "通知",
+      "title_en": "Notifications",
+      "content_zh": "保存者應將下列各項通知締約各方以及各公約締約各方，不論是否本議定書的簽字國：\n\n一、在本議定書上的簽字和依據第二十一條和第二十二條的批准書和加入書的交存；\n\n二、依據第二十三條的本議定書的生效日期；\n\n三、依據第二十四條收到的通知和聲明。",
+      "content_en": "The depositary shall inform the High Contracting Parties as well as the Parties to the Conventions, whether or not they are signatories of this Protocol, of:\na) signatures affixed to this Protocol and the deposit of instruments of ratification and accession under Articles 21 and 22;\nb) the date of entry into force of this Protocol under Article 23; and\nc) communications and declarations received under Article 24."
+    },
+    {
+      "article": "二十七",
+      "title_zh": "登記",
+      "title_en": "Registration",
+      "content_zh": "一、本議定書在生效後，應按照聯合國憲章第一百零二條由保存者送交聯合國秘書處登記公布。\n\n二、保存者還應將其收到的關於本議定書的所有批准、加入和退約，通知聯合國秘書處。",
+      "content_en": "1. After its entry into force, this Protocol shall be transmitted by the depositary to the Secretariat of the United Nations for registration and publication, in accordance with Article 102 of the Charter of the United Nations.\n\n2. The depositary shall also inform the Secretariat of the United Nations of all ratifications and accessions received by it with respect to this Protocol."
+    },
+    {
+      "article": "二十八",
+      "title_zh": "作準文本",
+      "title_en": "Authentic texts",
+      "content_zh": "本議定書原本，其阿拉伯文、中文、英文、法文、俄文、西班牙文各文本同樣作準，應交存保存者，保存者應將其經認證無誤的副本分送各公約締約各方。",
+      "content_en": "The original of this Protocol, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the depositary, which shall transmit certified true copies thereof to all the Parties to the Conventions."
+    }
+  ]
+}

@@ -1,0 +1,500 @@
+{
+  "treaty": "國際法院規約",
+  "treaty_zh": "國際法院規約",
+  "treaty_en": "Statute of the International Court of Justice",
+  "total_articles": 70,
+  "preamble_zh": "（國際法院規約為《聯合國憲章》之構成部分，無獨立序言。）",
+  "preamble_en": "(The Statute of the International Court of Justice is an integral part of the Charter of the United Nations and has no separate preamble.)",
+  "articles": [
+    {
+      "article": "一",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "聯合國憲章所設之國際法院為聯合國主要司法機關，其組織及職務之行使應依本規約之下列規定。",
+      "content_en": "The International Court of Justice established by the Charter of the United Nations as the principal judicial organ of the United Nations shall be constituted and shall function in accordance with the provisions of the present Statute."
+    },
+    {
+      "article": "二",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "法院以獨立法官若干人組織之。此項法官應不論國籍，就品格高尚並在各本國具有最高司法職位之任命資格或公認為國際法之法學家中選舉之。",
+      "content_en": "The Court shall be composed of a body of independent judges, elected regardless of their nationality from among persons of high moral character, who possess the qualifications required in their respective countries for appointment to the highest judicial offices, or are jurisconsults of recognized competence in international law."
+    },
+    {
+      "article": "三",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、法院以法官十五人組織之，其中不得有二人為同一國家之國民。\n二、就充任法院法官而言，一人而可視為一個國家以上之國民者，應認為屬於其通常行使公民及政治權利之國家或會員國之國民。",
+      "content_en": "1. The Court shall consist of fifteen Members, no two of whom may be nationals of the same State.\n\n2. A person who for the purposes of membership in the Court could be regarded as a national of more than one State shall be deemed to be a national of the one in which he ordinarily exercises civil and political rights."
+    },
+    {
+      "article": "四",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、法院法官應由大會及安全理事會依下列規定就常設公斷法院各國團體所提出之名單內選舉之。\n二、在常設公斷法院並無代表之聯合國會員國，其候選人名單應由各該國政府專為此事而委派，之團體提出；此項各國團體之委派，準用一九○七年海牙和平解決國際紛爭條約第四十四條規定委派常設公斷法院公斷員之條件。\n三、凡非聯合國會員國而已接受法院規約之國家，其參加選舉法院法官時，參加條件，如無特別協定，應由大會經安全理事會之提議規定之。",
+      "content_en": "1. The Members of the Court shall be elected by the General Assembly and by the Security Council from a list of persons nominated by the national groups in the Permanent Court of Arbitration, in accordance with the following provisions.\n\n2. In the case of Members of the United Nations not represented in the Permanent Court of Arbitration, candidates shall be nominated by national groups appointed for this purpose by their governments under the same conditions as those prescribed for members of the Permanent Court of Arbitration by Article 44 of the Convention of The Hague of 1907 for the pacific settlement of international disputes.\n\n3. The conditions under which a State which is a party to the present Statute but is not a Member of the United Nations may participate in electing the Members of the Court shall, in the absence of a special agreement, be laid down by the General Assembly upon recommendation of the Security Council."
+    },
+    {
+      "article": "五",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、聯合國秘書長至遲應於選舉日期三個月前，用書面邀請屬於本規約當事國之常設公斷法院公斷員。及依第四條第二項所委派之各國團體。於一定期間內分別由各國團體提出能接受法官職務之人員。\n二、每一團體所提人數不得超過四人，其中屬其本國國籍者不得超過二人。在任何情形下，每一團體所提候人之人數不得超過應佔席數之一倍。",
+      "content_en": "1. At least three months before the date of the election, the Secretary-General of the United Nations shall address a written request to the members of the Permanent Court of Arbitration belonging to the States which are parties to the present Statute, and to the members of the national groups appointed under Article 4, paragraph 2, inviting them to undertake, within a given time, by national groups, the nomination of persons in a position to accept the duties of a Member of the Court.\n\n2. No group may nominate more than four persons, not more than two of whom shall be of their own nationality. In no case may the number of candidates nominated by a group be more than double the number of seats to be filled."
+    },
+    {
+      "article": "六",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "各國團體在提出上項人員以前，宜諮詢本國最高法院、大學法學院、法律學校、專研法律之國家研究院、及國際研究院在各國所設之各分院。",
+      "content_en": "Before making these nominations, each national group is recommended to consult its highest court of justice, its legal faculties and schools of law, and its national academies and national sections of international academies devoted to the study of law."
+    },
+    {
+      "article": "七",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、秘書長應依字母次序，編就上項所提人員之名單。除第十二條第二項規定外，僅此項人員有被選權。\n二、秘書長應將前項名單提交大會及安全理事會。",
+      "content_en": "1. The Secretary-General shall prepare a list in alphabetical order of all the persons thus nominated. Save as provided in Article 12, paragraph 2, these shall be the only persons eligible.\n\n2. The Secretary-General shall submit this list to the General Assembly and to the Security Council."
+    },
+    {
+      "article": "八",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "大會及安全理事會各應獨立舉行法院法官之選舉。",
+      "content_en": "The General Assembly and the Security Council shall proceed independently of one another to elect the members of the Court."
+    },
+    {
+      "article": "九",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "每次選舉時，選舉人不獨應注意被選舉人必須各具必要資格，並應注意務使法官全體確能代表世界各大文化及各主要法系。",
+      "content_en": "At every election, the electors shall bear in mind not only that the persons to be elected should individually possess the qualifications required, but also that in the body as a whole the representation of the main forms of civilization and of the principal legal systems of the world should be assured."
+    },
+    {
+      "article": "十",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、候選人在大會及在安全理事會得絕對多數票者應認為當選。\n二、安全理事會之投票，或為法官之選舉或為第十二條所稱聯席會議人員之指派，應不論安全理事會常任理事國及非常任理事國之區別。\n三、如同一國家之國民得大會及安全理事會之絕對多數票者不止一人時，其年事最高者應認為當選。",
+      "content_en": "1. Those candidates who obtain an absolute majority of votes in the General Assembly and in the Security Council shall be considered as elected.\n\n2. Any vote of the Security Council, whether for the election of judges or for the appointment of members of the conference envisaged in Article 12, shall be taken without any distinction between permanent and non-permanent members of the Security Council.\n\n3. In the event of more than one national of the same state obtaining an absolute majority of the votes both of the General Assembly and of the Security Council, the eldest of these only shall be considered as elected."
+    },
+    {
+      "article": "十一",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "第一次選舉會後，如有一席或一席以上尚待補選時，應舉行第二次選舉會，並於必要時舉行第三次選舉會。",
+      "content_en": "If, after the first meeting held for the purpose of the election, one or more seats remain to be filled, a second and, if necessary, a third meeting shall take place."
+    },
+    {
+      "article": "十二",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、第三次選舉會後，如仍有一席或一席以上尚待補選時，大會或安全理事會得隨時聲請組織聯席會議，其人數為六人，由大會及安全理事會各派三人。此項聯席會議就每一懸缺以絕對多數票選定一人提交大會及安全理事會分別請其接受。\n二、具有必要資格人員，既未列入第七條所指之候選人名單，如經聯席會議全體同意，亦得列入該會議名單。\n三、如聯席會議確認選舉不能有結果時，應由已選出之法官，在安全理事會所定之期間內，就曾在大會或安全理事會得有選舉票之候選人中，選定若干人補足缺額。\n四、法官投票數相等時，年事最高之法官應投決定票。",
+      "content_en": "1. If, after the third meeting, one or more seats still remain unfilled, a joint conference consisting of six members, three appointed by the General Assembly and three by the Security Council, may be formed at any time at the request of either the General Assembly or the Security Council, for the purpose of choosing by the vote of an absolute majority one name for each seat still vacant, to submit to the General Assembly and the Security Council for their respective acceptance.\n\n2. If the joint conference is unanimously agreed upon any person who fulfills the required conditions, he may be included in its list, even though he was not included in the list of nominations referred to in Article 7.\n\n3. If the joint conference is satisfied that it will not be successful in procuring an election, those members of the Court who have already been elected shall, within a period to be fixed by the Security Council, proceed to fill the vacant seats by selection from among those candidates who have obtained votes either in the General Assembly or in the Security Council.\n\n4. In the event of an equality of votes among the judges, the eldest judge shall have a casting vote."
+    },
+    {
+      "article": "十三",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、法官任期九年，並得連選，但第一次選舉選出之法官中，五人任期應為三年，另五人為六年。\n二、上述初期法官，任期孰為三年孰為六年，應於第一次選舉完畢後立由秘書長以抽籤方法決定之。\n三、法官在其後任接替前，應繼續行使其職務，雖經接替，仍應結束其已開始辦理之案件。\n四、法官辭職時應將辭職書致送法院院長轉知秘書長。轉知後，該法官之一席即行出缺。",
+      "content_en": "1. The members of the Court shall be elected for nine years and may be re-elected; provided, however, that of the judges elected at the first election, the terms of five judges shall expire at the end of three years and the terms of five more judges shall expire at the end of six years.\n\n2. The judges whose terms are to expire at the end of the above-mentioned initial periods of three and six years shall be chosen by lot to be drawn by the Secretary-General immediately after the first election has been completed.\n\n3. The members of the Court shall continue to discharge their duties until their places have been filled. Though replaced, they shall finish any cases which they may have begun.\n\n4. In the case of the resignation of a member of the Court, the resignation shall be addressed to the President of the Court for transmission to the Secretary-General. This last notification makes the place vacant."
+    },
+    {
+      "article": "十四",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "凡遇出缺，應照第一次選舉時所定之辦法補選之，但秘書長應於法官出缺後一個月內，發出第五條規定之邀請書並由安全理事會指定選舉日期。",
+      "content_en": "Vacancies shall be filled by the same method as that laid down for the first election, subject to the following provision: the Secretary-General shall, within one month of the occurrence of the vacancy, proceed to issue the invitations provided for in Article 5, and the date of the election shall be fixed by the Security Council."
+    },
+    {
+      "article": "十五",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "法官被選以接替任期未滿之法官者，應任職至其前任法官任期屆滿時為止。",
+      "content_en": "A member of the Court elected to replace a member whose term of office has not expired shall hold office for the remainder of his predecessor's term."
+    },
+    {
+      "article": "十六",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、法官不得行使任何政治或行政職務，或執行任何其他職業性質之任務。\n二、關於此點，如有疑義，應由法院裁決之。",
+      "content_en": "1. No member of the Court may exercise any political or administrative function, or engage in any other occupation of a professional nature.\n\n2. Any doubt on this point shall be settled by the decision of the Court."
+    },
+    {
+      "article": "十七",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、法官對於任何案件，不得充任代理人，律師，或輔佐人。\n二、法官曾以當事國一造之代理人，律師，或輔佐人，或以國內法院或國際法院或調查委員會委員，或以其他資格參加任何案件者，不得參與該案件之裁決。\n三、關於此點，如有疑義，應由法院決定之。",
+      "content_en": "1. No member of the Court may act as agent, counsel, or advocate in any case.\n\n2. No member may participate in the decision of any case in which he has previously taken part as agent, counsel, or advocate for one of the parties, or as a member of a national or international court, or of a commission of enquiry, or in any other capacity.\n\n3. Any doubt on this point shall be settled by the decision of the Court."
+    },
+    {
+      "article": "十八",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、法官除由其餘法官一致認為不復適合必要條件外，不得免職。\n二、法官之免職，應由書記官長正式通知秘書長。\n三、此項通知一經送達秘書長，該法官之一席即行出缺。",
+      "content_en": "1. No member of the Court can be dismissed unless, in the unanimous opinion of the other members, he has ceased to fulfill the required conditions.\n\n2. Formal notification thereof shall be made to the Secretary-General by the Registrar.\n\n3. This notification makes the place vacant."
+    },
+    {
+      "article": "十九",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "法官於執行法院職務時，應享受外交特權及豁免。",
+      "content_en": "The members of the Court, when engaged on the business of the Court, shall enjoy diplomatic privileges and immunities."
+    },
+    {
+      "article": "二十",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "法官於就職前應在公開法庭鄭重宣言本人必當秉公竭誠行使職權。",
+      "content_en": "Every member of the Court shall, before taking up his duties, make a solemn declaration in open court that he will exercise his powers impartially and conscientiously."
+    },
+    {
+      "article": "二十一",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、法院應選舉院長及副院長，其任期各三年，並得連選。\n二、法院應委派書記官長，並得酌派其他必要之職員。",
+      "content_en": "1. The Court shall elect its President and Vice-President for three years; they may be re-elected.\n\n2. The Court shall appoint its Registrar and may provide for the appointment of such other officers as may be necessary."
+    },
+    {
+      "article": "二十二",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、法院設在海牙，但法院如認為合宜時，得在他處開庭及行使職務。\n二、院長及書記官長應駐於法院所在地。",
+      "content_en": "1. The seat of the Court shall be established at The Hague. This, however, shall not prevent the Court from sitting and exercising its functions elsewhere whenever the Court considers it desirable.\n\n2. The President and the Registrar shall reside at the seat of the Court."
+    },
+    {
+      "article": "二十三",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、法院除司法假期外，應常川（住）辦公。司法假期之日期及期間由法院定之。\n二、法官得有定時假期，其日期及期間，由法院斟酌海牙與各法官住所之距離定之。\n三、法官除在假期或因疾病或其他重大原由，不克視事，經向院長作適當之解釋外，應常川（住）備由法院分配工作。",
+      "content_en": "1. The Court shall remain permanently in session, except during the judicial vacations, the dates and duration of which shall be fixed by the Court.\n\n2. Members of the Court are entitled to periodic leave, the dates and duration of which shall be fixed by the Court, having in mind the distance between The Hague and the home of each judge.\n\n3. Members of the Court shall be bound, unless they are on leave or prevented from attending by illness or other serious reasons duly explained to the President, to hold themselves permanently at the disposal of the Court."
+    },
+    {
+      "article": "二十四",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、法官如因特別原由認為於某案之裁判不應參與時，應通知院長。\n二、院長如認某法官因特別原因不應參與某案時，應以此通知該法官。\n三、遇有此種情形，法官與院長意見不同時，應由法院決定之。",
+      "content_en": "1. If, for some special reason, a member of the Court considers that he should not take part in the decision of a particular case, he shall so inform the President.\n\n2. If the President considers that for some special reason one of the members of the Court should not sit in a particular case, he shall give him notice accordingly.\n\n3. If in any such case the member of the Court and the President disagree, the matter shall be settled by the decision of the Court."
+    },
+    {
+      "article": "二十五",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、除本規約另有規定外，法院應由全體法官開庭。\n二、法院規則得按情形並以輪流方法，規定准許法官一人或數人免予出席，但準備出席之法官人數不得因此減至少於十一人。\n三、法官九人即足構成法院之法定人數。",
+      "content_en": "1. The full Court shall sit except when it is expressly provided otherwise in the present Statute.\n\n2. Subject to the condition that the number of judges available to constitute the Court is not thereby reduced below eleven, the Rules of the Court may provide for allowing one or more judges, according to circumstances and in rotation, to be dispensed from sitting.\n\n3. A quorum of nine judges shall suffice to constitute the Court."
+    },
+    {
+      "article": "二十六",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、法院得隨時設立一個或數個分庭，並得決定由法官三人或三人以上組織之。此項分庭處理特種案件，例如勞工案件及關於過境與交通案件。\n二、法院為處理某特定案件，得隨時設立分庭，組織此項分庭法官之人數，應由法院得當事國之同意定之。\n三、案件經當事國之請求應由本條規定之分庭審理裁判之。",
+      "content_en": "1. The Court may from time to time form one or more chambers, composed of three or more judges as the Court may determine, for dealing with particular categories of cases; for example, labour cases and cases relating to transit and communications.\n\n2. The Court may at any time form a chamber for dealing with a particular case. The number of judges to constitute such a chamber shall be determined by the Court with the approval of the parties.\n\n3. Cases shall be heard and determined by the chambers provided for in this article if the parties so request."
+    },
+    {
+      "article": "二十七",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "第二十六條及第二十九條規定之任何分庭所為之裁判，應視為法院之裁判。",
+      "content_en": "A judgment given by any of the chambers provided for in Articles 26 and 29 shall be considered as rendered by the Court."
+    },
+    {
+      "article": "二十八",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "第二十六條及第二十九條規定之分庭，經當事國之同意，得在海牙以外地方開庭及行使職務。",
+      "content_en": "The chambers provided for in Articles 26 and 29 may, with the consent of the parties, sit and exercise their functions elsewhere than at The Hague."
+    },
+    {
+      "article": "二十九",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "法院為迅速處理事務，應於每年以法官五人組織一分庭。該分庭經當事國之請求，得用簡易程序，審理及裁判案件。法院並應選定法官二人，以備接替不能出庭之法官。",
+      "content_en": "With a view to the speedy dispatch of business, the Court shall form annually a chamber composed of five judges which, at the request of the parties, may hear and determine cases by summary procedure. In addition, two judges shall be selected for the purpose of replacing judges who find it impossible to sit."
+    },
+    {
+      "article": "三十",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、法院應訂立規則，以執行其職務，尤應訂定關於程序之規則。\n二、法院規則得規定關於襄審官之出席法院或任何分庭，但無表決權。",
+      "content_en": "1. The Court shall frame rules for carrying out its functions. In particular, it shall lay down rules of procedure.\n\n2. The Rules of the Court may provide for assessors to sit with the Court or with any of its chambers, without the right to vote."
+    },
+    {
+      "article": "三十一",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、屬於訴訟當事國國籍之法官，於法院受理該訴訟案件時，保有其參與之權。\n二、法院受理案件，如法官中有屬於一造當事國之國籍者，任何他造當事國得選派一人為法官，參與該案。此項人員尤以就第四條及第五條規定所提之候選人中選充為宜。\n三、法院受理案件，如當事國均無本國國籍法官時，各當事國均得依本條第二項之規定選派法官一人。\n四、本條之規定於第二十六條及第二十九條之情形適用之。在此種情形下，院長應請分庭法官一人，或於必要時二人，讓與屬於關係當事國國籍之法官，如無各當事國國籍之法官或各該法官不能出席時，應讓與各當事國特別選派之法官。\n五、如數當事國具有同樣利害關係時，在上列各規定適用範圍內，祇應作為一當事國。關於此點，如有疑義，由法院裁決之。\n六、依本條第二項、第三項及第四項規定所選派之法官，應適合本規約第二條、第十七條第二項、第二十條、及第二十四條規定之條件。各該法官參與案件之裁判時，與其同事立於完全平等地位。",
+      "content_en": "1. Judges of the nationality of each of the parties shall retain their right to sit in the case before the Court.\n\n2. If the Court includes upon the Bench a judge of the nationality of one of the parties, any other party may choose a person to sit as judge. Such person shall be chosen preferably from among those persons who have been nominated as candidates as provided in Articles 4 and 5.\n\n3. If the Court includes upon the Bench no judge of the nationality of the parties, each of these parties may proceed to choose a judge as provided in paragraph 2 of this Article.\n\n4. The provisions of this Article shall apply to the case of Articles 26 and 29. In such cases, the President shall request one or, if necessary, two of the members of the Court forming the chamber to give place to the members of the Court of the nationality of the parties concerned, and, failing such, or if they are unable to be present, to the judges specially chosen by the parties.\n\n5. Should there be several parties in the same interest, they shall, for the purpose of the preceding provisions, be reckoned as one party only. Any doubt upon this point shall be settled by the decision of the Court.\n\n6. Judges chosen as laid down in paragraphs 2, 3, and 4 of this Article shall fulfill the conditions required by Articles 2, 17 (paragraph 2), 20, and 24 of the present Statute. They shall take part in the decision on terms of complete equality with their colleagues."
+    },
+    {
+      "article": "三十二",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、法院法官應領年俸。\n二、院長每年應領特別津貼。\n三、副院長於代行院長職務時，應按日領特別津貼。\n四、依第三十一條規定所選派之法官而非法院之法官者，於執行職務時，應按日領酬金。\n五、上列俸給津貼及酬金由聯合國大會定之，在任期內，不得減少。\n六、書記官長之俸給，經法院之提議由大會定之。\n七、法官及書記官長支給退休金及補領旅費之條件由大會訂立章程規定之。\n八、上列俸給津貼及酬金，應免除一切稅捐。",
+      "content_en": "1. Each member of the Court shall receive an annual salary.\n\n2. The President shall receive a special annual allowance.\n\n3. The Vice-President shall receive a special allowance for every day on which he acts as President.\n\n4. The judges chosen under Article 31, other than members of the Court, shall receive compensation for each day on which they exercise their functions.\n\n5. These salaries, allowances, and compensation shall be fixed by the General Assembly. They may not be decreased during the term of office.\n\n6. The salary of the Registrar shall be fixed by the General Assembly on the proposal of the Court.\n\n7. Regulations made by the General Assembly shall fix the conditions under which retirement pensions may be given to members of the Court and to the Registrar, and the conditions under which members of the Court and the Registrar shall have their travelling expenses refunded.\n\n8. The above salaries, allowances, and compensation shall be free of all taxation."
+    },
+    {
+      "article": "三十三",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "法院經費由聯合國擔負，其擔負方法由大會定之。",
+      "content_en": "The expenses of the Court shall be borne by the United Nations in such a manner as shall be decided by the General Assembly."
+    },
+    {
+      "article": "三十四",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、在法院得為訴訟當事國者，限於國家。\n二、法院得依其規則，請求公共國際團體供給關於正在審理案件之情報。該項團體自動供給之情報，法院應接受之。\n三、法院於某一案件遇有公共國際團體之組織約章、或依該項約章所締結之國際協約發生解釋問題時，書記官長應通知有關公共國際團體並向其遞送所有書面程序之文件副本。",
+      "content_en": "1. Only states may be parties in cases before the Court.\n\n2. The Court, subject to and in conformity with its Rules, may request of public international organizations information relevant to cases before it, and shall receive such information presented by such organizations on their own initiative.\n\n3. Whenever the construction of the constituent instrument of a public international organization or of an international convention adopted thereunder is in question in a case before the Court, the Registrar shall so notify the public international organization concerned and shall communicate to it copies of all the written proceedings."
+    },
+    {
+      "article": "三十五",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、法院受理本規約各當事國之訴訟。\n二、法院受理其他各國訴訟之條件，除現行條約另有特別規定外，由安全理事會定之，但無論如何，此項條件不得使當事國在法院處於不平等地位。\n三、非聯合國會員國為案件之當事國時，其應擔負法院費用之數目由法院定之。如該國業已分擔法院經費之一部，本項規定不適用之。",
+      "content_en": "1. The Court shall be open to the states parties to the present Statute.\n\n2. The conditions under which the Court shall be open to other states shall, subject to the special provisions contained in treaties in force, be laid down by the Security Council, but in no case shall such conditions place the parties in a position of inequality before the Court.\n\n3. When a state which is not a Member of the United Nations is a party to a case, the Court shall fix the amount which that party is to contribute towards the expenses of the Court. This provision shall not apply if such state is bearing a share of the expenses of the Court"
+    },
+    {
+      "article": "三十六",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、法院之管轄包括各當事國提交之一切案件，及聯合國憲章或現行條約及協約中特定之一切事件。\n二、本規約各當事國得隨時聲明關於具有下列性質之一切法律爭端，對於接受同樣義務之任何其他國家，承認法院之管轄為當然而具有強制性，不須另訂特別協定：（子）條約之解釋。（丑）國際法之任何問題。（寅）任何事實之存在，如經確定即屬違反國際義務者。（卯）因違反國際義務而應予賠償之性質及其範圍。\n三、上述聲明，得無條件為之，或以數個或特定之國家間彼此拘束為條件，或以一定之期間為條件。\n四、此項聲明，應交存聯合國秘書長並由其將副本分送本規約各當事國及法院書記官長。\n五、曾依常設國際法院規約第三十六條所為之聲明而現仍有效者，就本規約當事國間而言，在該項聲明期間尚未屆滿前並依其條款，應認為對於國際法院強制管轄之接受。\n六、關於法院有無管轄權之爭端，由法院裁決之。",
+      "content_en": "1. The jurisdiction of the Court comprises all cases which the parties refer to it and all matters specially provided for in the Charter of the United Nations or in treaties and conventions in force.\n\n2. The states parties to the present Statute may at any time declare that they recognize as compulsory ipso facto and without special agreement, in relation to any other state accepting the same obligation, the jurisdiction of the Court in all legal disputes concerning:\n\nthe interpretation of a treaty;\n\nany question of international law;\n\nthe existence of any fact which, if established, would constitute a breach of an international obligation;\n\nthe nature or extent of the reparation to be made for the breach of an international obligation.\n\n3. The declarations referred to above may be made unconditionally or on condition of reciprocity on the part of several or certain states, or for a certain time.\n\n4. Such declarations shall be deposited with the Secretary-General of the United Nations, who shall transmit copies thereof to the parties to the Statute and to the Registrar of the Court.\n\n5. Declarations made under Article 36 of the Statute of the Permanent Court of International Justice and which are still in force shall be deemed, as between the parties to the present Statute, to be acceptances of the compulsory jurisdiction of the International Court of Justice for the period which they still have to run and in accordance with their terms.\n\n6. In the event of a dispute as to whether the Court has jurisdiction, the matter shall be settled by the decision of the Court."
+    },
+    {
+      "article": "三十七",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "現行條約或協約或規定某項事件應提交國際聯合會所設之任何裁判機關或常設國際法院者，在本規約當事國間，該項事件應提交國際法院。",
+      "content_en": "Whenever a treaty or convention in force provides for reference of a matter to a tribunal to have been instituted by the League of Nations, or to the Permanent Court of International Justice, the matter shall, as between the parties to the present Statute, be referred to the International Court of Justice."
+    },
+    {
+      "article": "三十八",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、法院對於陳訴各項爭端，應依國際法裁判時應適用：（子）不論普通或特別國際協約，確立訴訟當事國明白承認之條規者。（丑）國際習慣，作為通例之證明而經接受為法律者。（寅）一般法律原則為文明各國所承認者。（卯）在第五十九條規定之下，司法判例及各國權威最高之公法學家學說，作為確定法律原則之補助資料者。\n二、前項規定不妨礙法院經當事國同意本〞公允及善良原則裁判案件之權。",
+      "content_en": "1. The Court, whose function is to decide in accordance with international law such disputes as are submitted to it, shall apply:\n\ninternational conventions, whether general or particular, establishing rules expressly recognized by the contesting states;\n\ninternational custom, as evidence of a general practice accepted as law;\n\nthe general principles of law recognized by civilized nations;\n\nsubject to the provisions of Article 59, judicial decisions and the teachings of the most highly qualified publicists of the various nations, as subsidiary means for the determination of rules of law.\n\n2. This provision shall not prejudice the power of the Court to decide a caseex aequo et bono, if the parties agree thereto."
+    },
+    {
+      "article": "三十九",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、法院正式文字為英法兩文。如各當事國同意用法文辦理案件，其判決應以法文為之。如各當事國同意用英文辦理案件，其判決應以英文為之。\n二、如未經同意應用何種文字，每一當事國於陳述中得擇用英法文之一，而法院之判詞應用英法兩文。法院並應同時確定以何者為準。\n三、法院經任何當事國之請求，應准該當事國用英法文以外之文字。",
+      "content_en": "1. The official languages of the Court shall be French and English. If the parties agree that the case shall be conducted in French, the judgment shall be delivered in French. If the parties agree that the case shall be conducted in English, the judgment shall be delivered in English.\n\n2. In the absence of an agreement as to which language shall be employed, each party may, in the pleadings, use the language which it prefers; the decision of the Court shall be given in French and English. In this case the Court shall at the same time determine which of the two texts shall be considered as authoritative.\n\n3. The Court shall, at the request of any party, authorize a language other than French or English to be used by that party."
+    },
+    {
+      "article": "四十",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、向法院提出訴訟案件，應按其情形將所訂特別協定通告書記官長或以請求書送達書記官長。不論用何項方法，均應敘明爭端事由及各當事國。\n二、書記官長應立將請求書通知有關各方。\n三、書記官長並應經由秘書長通知聯合國會員國及有權在法院出庭其他之國家。",
+      "content_en": "1. Cases are brought before the Court, as the case may be, either by the notification of the special agreement or by a written application addressed to the Registrar. In either case the subject of the dispute and the parties shall be indicated.\n\n2. The Registrar shall forthwith communicate the application to all concerned.\n\n3. He shall also notify the Members of the United Nations through the Secretary-General, and also any other states entitled to appear before the Court."
+    },
+    {
+      "article": "四十一",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、法院如認情形有必要時，有權指示當事國應行遵守以保全彼此權利之臨時辦法。\n二、在終局判決前，應將此項指示辦法立即通知各當事國及安全理事會。",
+      "content_en": "1. The Court shall have the power to indicate, if it considers that circumstances so require, any provisional measures which ought to be taken to preserve the respective rights of either party.\n\n2. Pending the final decision, notice of the measures suggested shall forthwith be given to the parties and to the Security Council."
+    },
+    {
+      "article": "四十二",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、各當事國應由代理人代表之。\n二、各當事國得派律師或輔佐人在法院予以協助。\n三、各當事國之代理人、律師、及輔佐人應享受關於獨立行使其職務所必要之特權及豁免。",
+      "content_en": "1. The parties shall be represented by agents.\n\n2. They may have the assistance of counsel or advocates before the Court.\n\n3. The agents, counsel, and advocates of parties before the Court shall enjoy the privileges and immunities necessary to the independent exercise of their duties."
+    },
+    {
+      "article": "四十三",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、訴訟程序應分書面與口述兩部份。\n二、書面程序係指以訴狀、辯訴狀、及必要時之答辯狀連同可資佐證之各種文件及公文書，送達法院及各當事國。\n三、此項送達應由書記官長依法院所定次序及期限為之。\n四、當事國一造所提出之一切文件應將證明無訛之抄本一份送達他造。\n五、口述程序係指法院審訊證人、鑑定人、代理人、律師及輔佐人。",
+      "content_en": "1. The procedure shall consist of two parts: written and oral.\n\n2. The written proceedings shall consist of the communication to the Court and to the parties of memorials, counter-memorials and, if necessary, replies; also all papers and documents in support.\n\n3. These communications shall be made through the Registrar, in the order and within the time fixed by the Court.\n\n4. A certified copy of every document produced by one party shall be communicated to the other party.\n\n5. The oral proceedings shall consist of the hearing by the Court of witnesses, experts, agents, counsel, and advocates."
+    },
+    {
+      "article": "四十四",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、法院遇有對於代理人、律師、及輔佐人以外之人送達通知書，而須在某國領土內行之者，應逕向該政府接洽。\n二、為就地搜集證據而須採取步驟時，適用前項規定。",
+      "content_en": "1. For the service of all notices upon persons other than the agents, counsel, and advocates, the Court shall apply direct to the government of the state upon whose territory the notice has to be served.\n\n2. The same provision shall apply whenever steps are to be taken to procure evidence on the spot."
+    },
+    {
+      "article": "四十五",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "法院之審訊應由院長指揮，院長不克出席時，由副院長指揮；院長副院長均不克出席時，由出席法官中之資深者主持。",
+      "content_en": "The hearing shall be under the control of the President or, if he is unable to preside, of the Vice-President; if neither is able to preside, the senior judge present shall preside."
+    },
+    {
+      "article": "四十六",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "法院之審訊應公開行之，但法院另有決定或各當事國要求拒絕公眾旁聽時，不在此限。",
+      "content_en": "The hearing in Court shall be public, unless the Court shall decide otherwise, or unless the parties demand that the public be not admitted ."
+    },
+    {
+      "article": "四十七",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、每次審訊應作成記錄，由書記官長及院長簽名。\n二、前項記錄為唯一可據之記錄。",
+      "content_en": "1. Minutes shall be made at each hearing and signed by the Registrar and the President.\n\n2. These minutes alone shall be authentic."
+    },
+    {
+      "article": "四十八",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "法院為進行辦理案件應頒發命令；對於當事國每造，應決定其必須終結辯論之方式及時間；對於證據之搜集，應為一切之措施。",
+      "content_en": "The Court shall make orders for the conduct of the case, shall decide the form and time in which each party must conclude its arguments, and make all arrangements connected with the taking of evidence."
+    },
+    {
+      "article": "四十九",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "法院在開始審訊前，亦得令代理人提出任何文件，或提供任何解釋。如經拒絕應予正式記載。",
+      "content_en": "The Court may, even before the hearing begins, call upon the agents to produce any document or to supply any explanations. Formal note shall be taken of any refusal."
+    },
+    {
+      "article": "五十",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "法院得隨時選擇任何個人、團體、局所、委員會、或其他組織，委以調查或鑑定之責。",
+      "content_en": "The Court may, at any time, entrust any individual, body, bureau, commission, or other organization that it may select, with the task of carrying out an enquiry or giving an expert opinion."
+    },
+    {
+      "article": "五十一",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "審訊時得依第三十條所指法院在其程序規則中所定之條件，向證人及鑑定人提出任何切要有關之詰問。",
+      "content_en": "During the hearing any relevant questions are to be put to the witnesses and experts under the conditions laid down by the Court in the rules of procedure referred to in Article 30."
+    },
+    {
+      "article": "五十二",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "法院於所定期限內收到各項證明及證據後，得拒絕接受當事國一造欲提出之其他口頭或書面證據，但經他造同意者，不在此限。",
+      "content_en": "After the Court has received the proofs and evidence within the time specified for the purpose, it may refuse to accept any further oral or written evidence that one party may desire to present unless the other side consents."
+    },
+    {
+      "article": "五十三",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、當事國一造不到法院或不辯護其主張時，他造得請求法院對自己主張為有利之裁判。\n二、法院於允准前項請求前，應查明不特依第三十六條及第三十七條法院對本案有管轄權，且請求人之主張在事實及法律上均有根據。",
+      "content_en": "1. Whenever one of the parties does not appear before the Court, or fails to defend its case, the other party may call upon the Court to decide in favour of its claim.\n\n2. The Court must, before doing so, satisfy itself, not only that it has jurisdiction in accordance with Articles 36 and 37, but also that the claim is well founded in fact and law."
+    },
+    {
+      "article": "五十四",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、代理人律師及輔佐人在法院指揮下陳述其主張已完畢時，院長應宣告辯論終結。\n二、法官應退席討論判決。\n三、法官之評議應秘密為之，並永守秘密。",
+      "content_en": "1. When, subject to the control of the Court, the agents, counsel, and advocates have completed their presentation of the case, the President shall declare the hearing closed.\n\n2. The Court shall withdraw to consider the judgment.\n\n3. The deliberations of the Court shall take place in private and remain secret."
+    },
+    {
+      "article": "五十五",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、一切問題應由出席法官之過半數決定之。\n二、如投票數相等時，院長或代理院長職務之法官應投決定票。",
+      "content_en": "1. All questions shall be decided by a majority of the judges present.\n\n2. In the event of an equality of votes, the President or the judge who acts in his place shall have a casting vote."
+    },
+    {
+      "article": "五十六",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、判詞全敘明理由。\n二、判詞應載明參與裁判之法官姓名。",
+      "content_en": "1. The judgment shall state the reasons on which it is based.\n\n2. It shall contain the names of the judges who have taken part in the decision."
+    },
+    {
+      "article": "五十七",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "判詞如全部或一部份不能代表法官一致之意見時，任何法官得另行宣告其個別意見。",
+      "content_en": "If the judgment does not represent in whole or in part the unanimous opinion of the judges, any judge shall be entitled to deliver a separate opinion."
+    },
+    {
+      "article": "五十八",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "判詞應由院長及書記官長簽名，在法庭內公開宣讀，並應先期通知各代理人。",
+      "content_en": "The judgment shall be signed by the President and by the Registrar. It shall be read in open court, due notice having been given to the agents."
+    },
+    {
+      "article": "五十九",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "法院之裁判除對於當事國及本案外，無拘束力。",
+      "content_en": "The decision of the Court has no binding force except between the parties and in respect of that particular case."
+    },
+    {
+      "article": "六十",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "法院之判決系屬確定，不得上訴。判詞之意義或範圍發生爭端時，經任何當事國之請求後，法院應予解釋。",
+      "content_en": "The judgment is final and without appeal. In the event of dispute as to the meaning or scope of the judgment, the Court shall construe it upon the request of any party."
+    },
+    {
+      "article": "六十一",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、聲請法院覆核判決，應根據發現具有決定性之事實，而此項事實在判決宣告時為法院之聲請覆核之當事國所不知者，但以非因過失而不知者為限。\n二、覆核程序之開始應由法院下以裁決，載明新事實之存在，承認此項新事實具有使本案應予覆核之性質，並宣吉覆核之聲請因此可予接受。\n三、法院於接受覆核訴訟前得令先行履行判決之內容。\n四、聲請覆核至遲應於新事實發現後六個月內為之。\n五、聲請覆核自判決日起逾十年後不得為之。",
+      "content_en": "1. An application for revision of a judgment may be made only when it is based upon the discovery of some fact of such a nature as to be a decisive factor, which fact was, when the judgment was given, unknown to the Court and also to the party claiming revision, always provided that such ignorance was not due to negligence.\n\n2. The proceedings for revision shall be opened by a judgment of the Court expressly recording the existence of the new fact, recognizing that it has such a character as to lay the case open to revision, and declaring the application admissible on this ground.\n\n3. The Court may require previous compliance with the terms of the judgment before it admits proceedings in revision.\n\n4. The application for revision must be made at latest within six months of the discovery of the new fact.\n\n5. No application for revision may be made after the lapse of ten years from the date of the judgment."
+    },
+    {
+      "article": "六十二",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、某一國家如認為某案件之判決可影響屬於該國具有法律性質之利益時，得向法院聲請參加。\n二、此項聲請應由法院裁決之。",
+      "content_en": "l. Should a state consider that it has an interest of a legal nature which may be affected by the decision in the case, it may submit a request to the Court to be permitted to intervene.\n\n2 It shall be for the Court to decide upon this request."
+    },
+    {
+      "article": "六十三",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、凡協約發生解釋問題，而訴訟當事國以外尚有其他國家為該協約之簽字國者，應立由書記官長通知各該國家。\n二、受前項通知之國家參加程序之權；但如該國行使此項權利時，判決中之解釋對該國具有同樣拘束力。",
+      "content_en": "1. Whenever the construction of a convention to which states other than those concerned in the case are parties is in question, the Registrar shall notify all such states forthwith.\n\n2. Every state so notified has the right to intervene in the proceedings; but if it uses this right, the construction given by the judgment will be equally binding upon it."
+    },
+    {
+      "article": "六十四",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "除法院另有裁定外，訴訟費用由各造當事國自行負擔。",
+      "content_en": "Unless otherwise decided by the Court, each party shall bear its own costs."
+    },
+    {
+      "article": "六十五",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、法院對於任何法律問題如經任何團體由聯合國憲章授權而請求或依照聯合國憲章而請求時，得發表諮詢意見。\n二、凡向法院請求諮詢意見之問題，應以聲請書送交法院。此項聲請書對於諮詢意見之問題，應有確切之敘述，並應附送足以釋明該問題之一切文件。",
+      "content_en": "1. The Court may give an advisory opinion on any legal question at the request of whatever body may be authorized by or in accordance with the Charter of the United Nations to make such a request.\n\n2. Questions upon which the advisory opinion of the Court is asked shall be laid before the Court by means of a written request containing an exact statement of the question upon which an opinion is required, and accompanied by all documents likely to throw light upon the question."
+    },
+    {
+      "article": "六十六",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、書記官長應立將諮詢意見之聲請，通知凡有權在法院出庭之國家。\n二、書記官長並應以特別且直接之方法通知法院（或在法院不開庭時，院長）所認為對於諮詢問題能供給情報之有權在法院出庭之任何國家，或能供給情報之國際團體，聲明法院於院長所定之期限內準備接受關於該問題之書面陳述，或準備於本案公開審訊時聽取口頭陳述。\n三、有權在法院出庭之任何國家如未接到本條第二項所指之特別通知時，該國家得表示願以書面或口頭陳述之意思，而由法院裁決之。\n四、凡已經提出書面或口頭陳述或兩項陳述之國家及團體，對於其他國家或團體所提之陳述，准其依法院（或在法院不開庭時，院長）所定關於每案之方式，範圍及期限，予以評論。書記官長應於適當時間內將此項書面陳述通知已經提出此類陳述之國家及團體。",
+      "content_en": "1. The Registrar shall forthwith give notice of the request for an advisory opinion to all states entitled to appear before the Court.\n\n2. The Registrar shall also, by means of a special and direct communication, notify any state entitled to appear before the Court or international organization considered by the Court, or, should it not be sitting, by the President, as likely to be able to furnish information on the question, that the Court will be prepared to receive, within a time-limit to be fixed by the President, written statements, or to hear, at a public sitting to be held for the purpose, oral statements relating to the question.\n\n3. Should any such state entitled to appear before the Court have failed to receive the special communication referred to in paragraph 2 of this Article, such state may express a desire to submit a written statement or to be heard; and the Court will decide.\n\n4. States and organizations having presented written or oral statements or both shall be permitted to comment on the statements made by other states or organizations in the form, to the extent, and within the time-limits which the Court, or, should it not be sitting, the President, shall decide in each particular case. Accordingly, the Registrar shall in due time communicate any such written statements to states and organizations having submitted similar statements."
+    },
+    {
+      "article": "六十七",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "法院應將其諮詢意見當庭公開宣告並先期通知秘書長、聯合國會員國、及有直接關係之其他國家及國際團體之代表。",
+      "content_en": "The Court shall deliver its advisory opinions in open court, notice having been given to the Secretary-General and to the representatives of Members of the United Nations, of other states and of international organizations immediately concerned."
+    },
+    {
+      "article": "六十八",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "院執行關於諮詢意見之職務時，並應參照本規約關於訴訟案件各條款之規定，但以法院認為該項條款可以適用之範圍為限。",
+      "content_en": "In the exercise of its advisory functions the Court shall further be guided by the provisions of the present Statute which apply in contentious cases to the extent to which it recognizes them to be applicable."
+    },
+    {
+      "article": "六十九",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "本規約之修正準用聯合國憲章所規定關於修正憲章之程序，但大會經安全理事會之建議得制定關於本規約當事國而非聯合國會員國參加該項程序之任何規定。",
+      "content_en": "Amendments to the present Statute shall be effected by the same procedure as is provided by the Charter of the United Nations for amendments to that Charter, subject however to any provisions which the General Assembly upon recommendation of the Security Council may adopt concerning the participation of states which are parties to the present Statute but are not Members of the United Nations."
+    },
+    {
+      "article": "七十",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "法院認為必要時得以書面向秘書長提出對於本規約之修正案，由聯合國依照第六十九條之規定，加以討論。回頁首〉〉【編註】本超連結法規檔提供學習與參考為原則；如需正式引用，請以政府公告版為準。如有發現待更正部份及您所需本站未收編之法規，敬請告知，謝謝!(adsbygoogle = window.adsbygoogle || []).push({});",
+      "content_en": "The Court shall have power to propose such amendments to the present Statute as it may deem necessary, through written communications to the Secretary-General, for consideration in conformity with the provisions of Article 69."
+    }
+  ]
+}

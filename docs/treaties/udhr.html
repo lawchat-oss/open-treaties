@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>世界人權宣言 — Open Treaties</title>
+<meta name="description" content="世界人權宣言（Universal Declaration of Human Rights）全文 30 條，中英雙語對照。">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600;700&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+tailwind.config={theme:{extend:{colors:{primary:'#1E40AF','primary-light':'#3B82F6',accent:'#F59E0B',surface:'#F8FAFC','text-heading':'#1E3A8A','text-body':'#334155','text-muted':'#64748B',sidebar:'#F1F5F9','sidebar-hover':'#E2E8F0','sidebar-active':'#DBEAFE'},fontFamily:{heading:['"EB Garamond"','Georgia','serif'],body:['Lato','system-ui','sans-serif']}}}}
+</script>
+<style>
+html{scroll-behavior:smooth}
+.sidebar-scroll::-webkit-scrollbar{width:4px}
+.sidebar-scroll::-webkit-scrollbar-thumb{background:#CBD5E1;border-radius:2px}
+.art-target:target{background:#DBEAFE;border-left:3px solid #1E40AF;margin-left:-3px}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+</style>
+</head>
+<body class="bg-surface text-text-body font-body antialiased">
+
+<!-- Top bar -->
+<header class="sticky top-0 z-40 bg-white/95 backdrop-blur border-b border-gray-200">
+  <div class="max-w-7xl mx-auto flex items-center h-12 px-4">
+    <a href="../" class="font-heading text-sm font-bold text-text-heading hover:text-primary cursor-pointer transition-colors duration-200 mr-4">Open Treaties</a>
+    <svg class="w-3 h-3 text-gray-400 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+    <span class="text-xs text-text-muted mr-2">人權法 Human Rights</span>
+    <svg class="w-3 h-3 text-gray-400 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+    <span class="text-xs text-text-heading font-medium truncate">世界人權宣言</span>
+    <div class="ml-auto flex border border-gray-200 rounded-lg overflow-hidden">
+      <button onclick="setLang('zh')" class="lang-btn px-3 py-1 text-xs bg-primary text-white cursor-pointer transition-colors duration-200" data-l="zh">中文</button>
+      <button onclick="setLang('en')" class="lang-btn px-3 py-1 text-xs bg-white text-text-muted hover:bg-gray-50 cursor-pointer transition-colors duration-200" data-l="en">EN</button>
+      <button onclick="setLang('both')" class="lang-btn px-3 py-1 text-xs bg-white text-text-muted hover:bg-gray-50 cursor-pointer transition-colors duration-200" data-l="both">雙語</button>
+    </div>
+  </div>
+</header>
+
+<div class="max-w-7xl mx-auto flex">
+  <!-- TOC sidebar -->
+  <aside class="hidden lg:block w-56 shrink-0 sticky top-12 h-[calc(100vh-3rem)] border-r border-gray-200 bg-white overflow-y-auto sidebar-scroll py-3 px-2">
+    <div class="text-xs font-bold text-text-muted uppercase tracking-wider px-2 mb-2">條文目錄</div>
+    <a href="#art-一" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第一條">第一條</a>
+<a href="#art-二" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第二條">第二條</a>
+<a href="#art-三" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第三條">第三條</a>
+<a href="#art-四" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第四條">第四條</a>
+<a href="#art-五" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第五條">第五條</a>
+<a href="#art-六" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第六條">第六條</a>
+<a href="#art-七" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第七條">第七條</a>
+<a href="#art-八" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第八條">第八條</a>
+<a href="#art-九" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第九條">第九條</a>
+<a href="#art-十" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第十條">第十條</a>
+<a href="#art-十一" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第十一條">第十一條</a>
+<a href="#art-十二" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第十二條">第十二條</a>
+<a href="#art-十三" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第十三條">第十三條</a>
+<a href="#art-十四" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第十四條">第十四條</a>
+<a href="#art-十五" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第十五條">第十五條</a>
+<a href="#art-十六" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第十六條">第十六條</a>
+<a href="#art-十七" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第十七條">第十七條</a>
+<a href="#art-十八" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第十八條">第十八條</a>
+<a href="#art-十九" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第十九條">第十九條</a>
+<a href="#art-二十" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第二十條">第二十條</a>
+<a href="#art-二十一" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第二十一條">第二十一條</a>
+<a href="#art-二十二" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第二十二條">第二十二條</a>
+<a href="#art-二十三" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第二十三條">第二十三條</a>
+<a href="#art-二十四" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第二十四條">第二十四條</a>
+<a href="#art-二十五" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第二十五條">第二十五條</a>
+<a href="#art-二十六" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第二十六條">第二十六條</a>
+<a href="#art-二十七" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第二十七條">第二十七條</a>
+<a href="#art-二十八" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第二十八條">第二十八條</a>
+<a href="#art-二十九" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第二十九條">第二十九條</a>
+<a href="#art-三十" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第三十條">第三十條</a>
+
+  </aside>
+
+  <!-- Main content -->
+  <main class="flex-1 min-w-0 px-4 sm:px-8 py-6 max-w-3xl">
+    <h1 class="font-heading text-2xl sm:text-3xl font-bold text-text-heading mb-1">世界人權宣言</h1>
+    <p class="text-sm text-text-muted mb-1">Universal Declaration of Human Rights</p>
+    <p class="text-xs text-text-muted mb-6">30 條條文 Articles</p>
+
+    <details class="mb-6 bg-white rounded-xl border border-gray-200 overflow-hidden" id="preamble">
+  <summary class="px-5 py-3 text-sm font-medium text-text-heading cursor-pointer hover:bg-gray-50 transition-colors duration-150">序言 Preamble</summary>
+  <div class="px-5 py-4 border-t border-gray-100 space-y-4">
+    <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed">鑑於對人類家庭所有成員的固有尊嚴及其平等的和不移的權利的承認，乃是世界自由、正義與和平的基礎，鑑於對人權的無視和侮蔑已發展爲野蠻暴行，這些暴行玷污了人類的良心，而一個人人享有言論和信仰自由並免予恐懼和匱乏的世界的來臨，已被宣佈爲普通人民的最高願望，鑑於爲使人類不致迫不得已鋌而走險對暴政和壓迫進行反叛，有必要使人權受法治的保護，鑑於有必要促進各國間友好關係的發展，鑑於各聯合國國家的人民已在聯合國憲章中重申他們對基本人權、人格尊嚴和價值以及男女平等權利的信念，並決心促成較大自由中的社會進步和生活水平的改善，鑑於各會員國業已誓願同聯合國合作以促進對人權和基本自由的普遍尊重和遵行，鑑於對這些權利和自由的普遍瞭解對於這個誓願的充分實現具有很大的重要性，因此現在，大會，發佈這一世界人權宣言，作爲所有人民和所有國家努力實現的共同標準，以期每一個人和社會機構經常銘念本宣言，努力通過教誨和教育促進對權利和自由的尊重，並通過國家的和國際的漸進措施，使這些權利和自由在各會員國本身人民及在其管轄下領土的人民中得到普遍和有效的承認和遵行；</div>
+    <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted hidden">Whereas recognition of the inherent dignity and of the equal and inalienable rights of all members of the human family is the foundation of freedom, justice and peace in the world,Whereas disregard and contempt for human rights have resulted in barbarous acts which have outraged the conscience of mankind, and the advent of a world in which human beings shall enjoy freedom of speech and belief and freedom from fear and want has been proclaimed as the highest aspiration of the common people,Whereas it is essential, if man is not to be compelled to have recourse, as a last resort, to rebellion against tyranny and oppression, that human rights should be protected by the rule of law,Whereas it is essential to promote the development of friendly relations between nations,Whereas the peoples of the United Nations have in the Charter reaffirmed their faith in fundamental human rights, in the dignity and worth of the human person and in the equal rights of men and women and have determined to promote social progress and better standards of life in larger freedom,Whereas Member States have pledged themselves to achieve, in co-operation with the United Nations, the promotion of universal respect for and observance of human rights and fundamental freedoms,Whereas a common understanding of these rights and freedoms is of the greatest importance for the full realization of this pledge,Now, therefore,The General Assembly,Proclaims this Universal Declaration of Human Rights as a common standard of achievement for all peoples and all nations, to the end that every individual and every organ of society, keeping this Declaration constantly in mind, shall strive by teaching and education to promote respect for these rights and freedoms and by progressive measures, national and international, to secure their universal and effective recognition and observance, both among the peoples of Member States themselves and among the peoples of territories under their jurisdiction.</div>
+  </div>
+</details>
+
+    <div>
+      <div id="art-一" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-一" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第一條</a>
+    <span class="text-xs text-text-muted">Art. 一</span>
+  </div>
+  
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">人人生而自由，在尊嚴和權利上一律平等。他們賦有理性和良心，並應以兄弟關係的精神相對待。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.</div>
+</div>
+<div id="art-二" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-二" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第二條</a>
+    <span class="text-xs text-text-muted">Art. 二</span>
+  </div>
+  
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">人人有資格享受本宣言所載的一切權利和自由，不分種族、膚色、性別、語言、宗教、政治或其他見解、國籍或社會出身、財產、出生或其他身分等任何區別。並且不得因一人所屬的國家或領土的政治的、行政的或者國際的地位之不同而有所區別，無論該領土是獨立領土、托管領土、非自治領土或者處於其他任何主權受限制的情況之下。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">Everyone is entitled to all the rights and freedoms set forth in this Declaration, without distinction of any kind, such as race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status. Furthermore, no distinction shall be made on the basis of the political, jurisdictional or international status of the country or territory to which a person belongs, whether it be independent, trust, non-self-governing or under any other limitation of sovereignty.</div>
+</div>
+<div id="art-三" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-三" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第三條</a>
+    <span class="text-xs text-text-muted">Art. 三</span>
+  </div>
+  
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">人人有權享有生命、自由和人身安全。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">Everyone has the right to life, liberty and security of person.</div>
+</div>
+<div id="art-四" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-四" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第四條</a>
+    <span class="text-xs text-text-muted">Art. 四</span>
+  </div>
+  
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">任何人不得使為奴隸或奴役；一切形式的奴隸制度和奴隸買賣，均應予以禁止。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">No one shall be held in slavery or servitude; slavery and the slave trade shall be prohibited in all their forms.</div>
+</div>
+<div id="art-五" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-五" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第五條</a>
+    <span class="text-xs text-text-muted">Art. 五</span>
+  </div>
+  
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">任何人不得加以酷刑，或施以殘忍的、不人道的或侮辱性的待遇或刑罰。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">No one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment.</div>
+</div>
+<div id="art-六" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-六" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第六條</a>
+    <span class="text-xs text-text-muted">Art. 六</span>
+  </div>
+  
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">人人在任何地方有權被承認在法律前的人格。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">Everyone has the right to recognition everywhere as a person before the law.</div>
+</div>
+<div id="art-七" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-七" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第七條</a>
+    <span class="text-xs text-text-muted">Art. 七</span>
+  </div>
+  
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">法律之前人人平等，並有權享受法律的平等保護，不受任何歧視。人人有權享受平等保護，以免受違反本宣言的任何歧視行為以及煽動這種歧視的任何行為之害。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">All are equal before the law and are entitled without any discrimination to equal protection of the law. All are entitled to equal protection against any discrimination in violation of this Declaration and against any incitement to such discrimination.</div>
+</div>
+<div id="art-八" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-八" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第八條</a>
+    <span class="text-xs text-text-muted">Art. 八</span>
+  </div>
+  
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">任何人當憲法或法律所賦予他的基本權利遭受侵害時，有權由合格的國家法庭對這種侵害行為作有效的補救。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">Everyone has the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law.</div>
+</div>
+<div id="art-九" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-九" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第九條</a>
+    <span class="text-xs text-text-muted">Art. 九</span>
+  </div>
+  
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">任何人不得加以任意逮捕、拘禁或放逐。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">No one shall be subjected to arbitrary arrest, detention or exile.</div>
+</div>
+<div id="art-十" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-十" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第十條</a>
+    <span class="text-xs text-text-muted">Art. 十</span>
+  </div>
+  
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">人人完全平等地有權由一個獨立而無偏倚的法庭進行公正和公開的審訊，以確定他的權利和義務並判定對他提出的任何刑事指控。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">Everyone is entitled in full equality to a fair and public hearing by an independent and impartial tribunal, in the determination of his rights and obligations and of any criminal charge against him.</div>
+</div>
+<div id="art-十一" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-十一" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第十一條</a>
+    <span class="text-xs text-text-muted">Art. 十一</span>
+  </div>
+  
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">一、凡受刑事控告者，有未經獲得辯護上所需的一切保證的公開審判而依法證實有罪以前，有權被視為無罪。二、任何人的任何行為或不行為，在其發生時依國家法或國際法均不構成刑事罪者，不得被判為犯有刑事罪。刑罰不得重於犯罪時適用的法律規定。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">Everyone charged with a penal offence has the right to be presumed innocent until proved guilty according to law in a public trial at which he has had all the guarantees necessary for his defence.No one shall be held guilty of any penal offence on account of any act or omission which did not constitute a penal offence, under national or international law, at the time when it was committed. Nor shall a heavier penalty be imposed than the one that was applicable at the time the penal offence was committed.</div>
+</div>
+<div id="art-十二" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-十二" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第十二條</a>
+    <span class="text-xs text-text-muted">Art. 十二</span>
+  </div>
+  
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">任何人的私生活、家庭、住宅和通信不得任意干涉，他的榮譽和名譽不得加以攻擊。人人有權享受法律保護，以免受這種干涉或攻擊。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honour and reputation. Everyone has the right to the protection of the law against such interference or attacks.</div>
+</div>
+<div id="art-十三" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-十三" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第十三條</a>
+    <span class="text-xs text-text-muted">Art. 十三</span>
+  </div>
+  
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">一、人人在各國境內有權自由遷徒和居住。二、人人有權離開任何國家，包括其本國在內，並有權返回他的國家。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">Everyone has the right to freedom of movement and residence within the borders of each state.Everyone has the right to leave any country, including his own, and to return to his country.</div>
+</div>
+<div id="art-十四" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-十四" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第十四條</a>
+    <span class="text-xs text-text-muted">Art. 十四</span>
+  </div>
+  
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">一、人人有權在其他國家尋求和享受庇護以避免迫害。二、在真正由於非政治性的罪行或違背聯合國的宗旨和原則的行為而被起訴的情況下，不得援用此種權利。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">Everyone has the right to seek and to enjoy in other countries asylum from persecution.This right may not be invoked in the case of prosecutions genuinely arising from non-political crimes or from acts contrary to the purposes and principles of the United Nations.</div>
+</div>
+<div id="art-十五" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-十五" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第十五條</a>
+    <span class="text-xs text-text-muted">Art. 十五</span>
+  </div>
+  
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">一、人人有權享有國籍。二、任何人的國籍不得任意剝奪，亦不得否認其改變國籍的權利。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">Everyone has the right to a nationality.No one shall be arbitrarily deprived of his nationality nor denied the right to change his nationality.</div>
+</div>
+<div id="art-十六" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-十六" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第十六條</a>
+    <span class="text-xs text-text-muted">Art. 十六</span>
+  </div>
+  
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">一、成年男女，不受種族、國籍或宗教的任何限制，有權婚嫁和成立家庭。他們在婚姻方面，在結婚期間和在解除婚約時，應有平等的權利。二、只有經男女雙方的自由的和完全的同意，才能締結婚姻。三、家庭是天然的和基本的社會單元，並應受社會和國家的保護。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">Men and women of full age, without any limitation due to race, nationality or religion, have the right to marry and to found a family. They are entitled to equal rights as to marriage, during marriage and at its dissolution.Marriage shall be entered into only with the free and full consent of the intending spouses.The family is the natural and fundamental group unit of society and is entitled to protection by society and the State.</div>
+</div>
+<div id="art-十七" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-十七" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第十七條</a>
+    <span class="text-xs text-text-muted">Art. 十七</span>
+  </div>
+  
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">一、人人得有單獨的財產所有權以及同他人合有的所有權。二、任何人的財產不得任意剝奪。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">Everyone has the right to own property alone as well as in association with others.No one shall be arbitrarily deprived of his property.</div>
+</div>
+<div id="art-十八" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-十八" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第十八條</a>
+    <span class="text-xs text-text-muted">Art. 十八</span>
+  </div>
+  
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">人人有思想、良心和宗教自由的權利；此項權利包括改變他的宗教或信仰的自由，以及單獨或集體、公開或祕密地以教義、實踐、禮拜和戒律表示他的宗教或信仰的自由。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">Everyone has the right to freedom of thought, conscience and religion; this right includes freedom to change his religion or belief, and freedom, either alone or in community with others and in public or private, to manifest his religion or belief in teaching, practice, worship and observance.</div>
+</div>
+<div id="art-十九" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-十九" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第十九條</a>
+    <span class="text-xs text-text-muted">Art. 十九</span>
+  </div>
+  
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">人人有權享受主張和發表意見的自由；此項權利包括持有主張而不受干涉的自由，和通過任何媒介和不論國界尋求、接受和傳遞消息和思想的自由。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers.</div>
+</div>
+<div id="art-二十" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-二十" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第二十條</a>
+    <span class="text-xs text-text-muted">Art. 二十</span>
+  </div>
+  
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">一、人人有權享有和平集會和結社的自由。二、任何人不得迫使隸屬於某一團體。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">Everyone has the right to freedom of peaceful assembly and association.No one may be compelled to belong to an association.</div>
+</div>
+<div id="art-二十一" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-二十一" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第二十一條</a>
+    <span class="text-xs text-text-muted">Art. 二十一</span>
+  </div>
+  
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">一、人人有直接或通過自由選擇的代表參與治理本國的權利。二、人人有平等機會參加本國公務的權利。三、人民的意志是政府權力的基礎；這一意志應以定期的和真正的選舉予以表現，而選舉應依據普遍和平等的投票權，並以不記名投票或相當的自由投標程序進行。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">Everyone has the right to take part in the government of his country, directly or through freely chosen representatives.Everyone has the right of equal access to public service in his country.The will of the people shall be the basis of the authority of government; this will shall be expressed in periodic and genuine elections which shall be by universal and equal suffrage and shall be held by secret vote or by equivalent free voting procedures.</div>
+</div>
+<div id="art-二十二" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-二十二" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第二十二條</a>
+    <span class="text-xs text-text-muted">Art. 二十二</span>
+  </div>
+  
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">每個人，作為社會的一員，有權享受社會保障，並有權享受他的個人尊嚴和人格的自由發展所必需的經濟、社會和文化方面各種權利的實現，這種實現是通過國家努力和國際合作並依照各國的組織和資源情況。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">Everyone, as a member of society, has the right to social security and is entitled to realization, through national effort and international co-operation and in accordance with the organization and resources of each State, of the economic, social and cultural rights indispensable for his dignity and the free development of his personality.</div>
+</div>
+<div id="art-二十三" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-二十三" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第二十三條</a>
+    <span class="text-xs text-text-muted">Art. 二十三</span>
+  </div>
+  
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">一、人人有權工作，自由選擇職業、並受公正和合適的工作條件並享受免於失業的保障。二、人人有同工同酬的權利，不受任何歧視。三、每一個工作的人，有權享受公正和合適的報酬，保證使他本人和家屬有一個符合人的尊嚴的生活條件，必要時並輔以其他方式的社會保障。四、人人有為維護其利益而組織和參加工會的權利。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">Everyone has the right to work, to free choice of employment, to just and favourable conditions of work and to protection against unemployment.Everyone, without any discrimination, has the right to equal pay for equal work.Everyone who works has the right to just and favourable remuneration ensuring for himself and his family an existence worthy of human dignity, and supplemented, if necessary, by other means of social protection.Everyone has the right to form and to join trade unions for the protection of his interests.</div>
+</div>
+<div id="art-二十四" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-二十四" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第二十四條</a>
+    <span class="text-xs text-text-muted">Art. 二十四</span>
+  </div>
+  
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">人人有享受休息和閒暇的權利，包括工作時間有合理限制和定期給薪休假的權利。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">Everyone has the right to rest and leisure, including reasonable limitation of working hours and periodic holidays with pay.</div>
+</div>
+<div id="art-二十五" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-二十五" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第二十五條</a>
+    <span class="text-xs text-text-muted">Art. 二十五</span>
+  </div>
+  
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">一、人人有權享受為維持他本人和家屬的健康和福利所需的生活水準，包括食物、衣著、住房、醫療和必要的社會服務；在遭到失業、疾病、殘廢、守寡、衰老或在其他不能控制的情況下喪失謀生能力時，有權享受保障。二、母親和兒童有權享受特別照顧和協助。一切兒童，無論婚生或非婚生，都應享受同樣的社會保護。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">Everyone has the right to a standard of living adequate for the health and well-being of himself and of his family, including food, clothing, housing and medical care and necessary social services, and the right to security in the event of unemployment, sickness, disability, widowhood, old age or other lack of livelihood in circumstances beyond his control.Motherhood and childhood are entitled to special care and assistance. All children, whether born in or out of wedlock, shall enjoy the same social protection.</div>
+</div>
+<div id="art-二十六" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-二十六" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第二十六條</a>
+    <span class="text-xs text-text-muted">Art. 二十六</span>
+  </div>
+  
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">一、人人都有受教育的權利，教育應當免費，至少在初級和基本階段應如此。初級教育應屬義務性質。技術和職業教育應普遍設立。高等教育應根據成績而對一切人平等開放。二、教育的目的在於充分發展人的個性並加強對人權和基本自由的尊重。教育應促進各國、各種族或各宗教集團間的了解、容忍和友誼，並應促進聯合國維護和平的各項活動。三、父母對其子女所應受的教育的種類，有優先選擇的權利。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">Everyone has the right to education. Education shall be free, at least in the elementary and fundamental stages. Elementary education shall be compulsory. Technical and professional education shall be made generally available and higher education shall be equally accessible to all on the basis of merit.Education shall be directed to the full development of the human personality and to the strengthening of respect for human rights and fundamental freedoms. It shall promote understanding, tolerance and friendship among all nations, racial or religious groups, and shall further the activities of the United Nations for the maintenance of peace.Parents have a prior right to choose the kind of education that shall be given to their children.</div>
+</div>
+<div id="art-二十七" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-二十七" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第二十七條</a>
+    <span class="text-xs text-text-muted">Art. 二十七</span>
+  </div>
+  
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">一、人人有權自由參加社會的文化生活，享受藝術，並分享科學進步及其產生的福利。二、人人對由於他所創作的任何科學、文學或美術作品而產生的精神的和物質的利益，有享受保護的權利。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">Everyone has the right freely to participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits.Everyone has the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which he is the author.</div>
+</div>
+<div id="art-二十八" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-二十八" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第二十八條</a>
+    <span class="text-xs text-text-muted">Art. 二十八</span>
+  </div>
+  
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">人人有權有要求一種社會和國際的秩序，在這種秩序中，本宣言所載的權利和自由能獲得充分實現。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">Everyone is entitled to a social and international order in which the rights and freedoms set forth in this Declaration can be fully realized.</div>
+</div>
+<div id="art-二十九" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-二十九" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第二十九條</a>
+    <span class="text-xs text-text-muted">Art. 二十九</span>
+  </div>
+  
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">一、人人對社會負有義務，因為只有在社會中他的個性才可能得到自由和充分的發展。二、人人在行使他的權利和自由時，只受法律所確定的限制，確定此種限制的唯一目的在於保證對旁人的權利和自由給予應有的承認和尊重，並在一個民主的社會中適應道德、公共秩序和普遍福利的正當需要。三、這些權利和自由的行使，無論在任何情形下均不得違背聯合國的宗旨和原則。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">Everyone has duties to the community in which alone the free and full development of his personality is possible.In the exercise of his rights and freedoms, everyone shall be subject only to such limitations as are determined by law solely for the purpose of securing due recognition and respect for the rights and freedoms of others and of meeting the just requirements of morality, public order and the general welfare in a democratic society.These rights and freedoms may in no case be exercised contrary to the purposes and principles of the United Nations.</div>
+</div>
+<div id="art-三十" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-三十" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第三十條</a>
+    <span class="text-xs text-text-muted">Art. 三十</span>
+  </div>
+  
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">本宣言的任何條文，不得解釋為默許任何國家、集團或個人有權進行任何旨在破壞本宣言所載的任何權利和自由的活動或行為。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">Nothing in this Declaration may be interpreted as implying for any State, group or person any right to engage in any activity or to perform any act aimed at the destruction of any of the rights and freedoms set forth herein.</div>
+</div>
+
+    </div>
+
+    <footer class="mt-12 py-6 border-t border-gray-200 text-center text-xs text-text-muted">
+Data: <a href="https://creativecommons.org/publicdomain/zero/1.0/" class="text-primary hover:underline" target="_blank" rel="noopener">CC0 1.0</a> · Code: <a href="https://opensource.org/licenses/MIT" class="text-primary hover:underline" target="_blank" rel="noopener">MIT</a> · <a href="https://github.com/lawchat-oss/open-treaties" class="text-primary hover:underline" target="_blank" rel="noopener">GitHub</a><br>
+Maintained by <a href="https://lawchat.com.tw" class="text-primary hover:underline" target="_blank" rel="noopener">lawchat.com.tw</a>
+</footer>
+  </main>
+</div>
+
+<script>
+function setLang(l){
+  document.querySelectorAll('.lang-btn').forEach(b=>{
+    const a=b.dataset.l===l;
+    b.classList.toggle('bg-primary',a);b.classList.toggle('text-white',a);
+    b.classList.toggle('bg-white',!a);b.classList.toggle('text-text-muted',!a);
+  });
+  document.querySelectorAll('.zh-content').forEach(e=>e.classList.toggle('hidden',l==='en'));
+  document.querySelectorAll('.en-content').forEach(e=>{
+    e.classList.toggle('hidden',l==='zh');
+    if(l==='both')e.classList.add('mt-2');else e.classList.remove('mt-2');
+  });
+}
+</script>
+</body>
+</html>

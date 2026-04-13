@@ -1,0 +1,64 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Treaty",
+  "description": "Schema for open-treaties treaty JSON files",
+  "type": "object",
+  "required": ["treaty", "treaty_zh", "treaty_en", "total_articles", "preamble_zh", "preamble_en", "articles"],
+  "properties": {
+    "treaty": {
+      "type": "string",
+      "description": "Treaty name in Chinese (same as treaty_zh, kept for backward compatibility)"
+    },
+    "treaty_zh": {
+      "type": "string",
+      "description": "Treaty name in Traditional Chinese"
+    },
+    "treaty_en": {
+      "type": "string",
+      "description": "Treaty name in English (official name)"
+    },
+    "total_articles": {
+      "type": "integer",
+      "description": "Total number of articles",
+      "minimum": 1
+    },
+    "preamble_zh": {
+      "type": "string",
+      "description": "Preamble text in Traditional Chinese"
+    },
+    "preamble_en": {
+      "type": "string",
+      "description": "Preamble text in English"
+    },
+    "articles": {
+      "type": "array",
+      "description": "Array of treaty articles",
+      "items": {
+        "type": "object",
+        "required": ["article", "content_zh", "content_en"],
+        "properties": {
+          "article": {
+            "type": "string",
+            "description": "Article number in Chinese numerals (e.g. 一, 二百八十七, 八之二)"
+          },
+          "title_zh": {
+            "type": "string",
+            "description": "Article title in Traditional Chinese (empty string if the treaty has no article titles)"
+          },
+          "title_en": {
+            "type": "string",
+            "description": "Article title in English (empty string if the treaty has no article titles)"
+          },
+          "content_zh": {
+            "type": "string",
+            "description": "Article content in Traditional Chinese"
+          },
+          "content_en": {
+            "type": "string",
+            "description": "Article content in English"
+          }
+        }
+      }
+    }
+  }
+}

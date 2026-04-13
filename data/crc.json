@@ -1,0 +1,388 @@
+{
+  "treaty": "兒童權利公約",
+  "treaty_zh": "兒童權利公約",
+  "treaty_en": "Convention on the Rights of the Child",
+  "total_articles": 54,
+  "preamble_zh": "本公約締約國，\n\n考量到聯合國憲章所揭示的原則，體認人類家庭所有成員的固有尊嚴及其平等與不可剝奪的權利，乃是世界自由、正義及和平的基礎；\n\n銘記各國人民在聯合國憲章中重申對基本人權與人格尊嚴及價值之信念，並決心在更廣泛之自由中，促進社會進步及提升生活水準；\n\n體認到聯合國在世界人權宣言及國際人權公約中宣布並同意，任何人均享有前述宣言及公約所揭示之一切權利與自由，不因其種族、膚色、性別、語言、宗教、政治或其他主張、國籍或社會背景、財產、出生或其他身分地位等而有任何區別；\n\n回顧聯合國在世界人權宣言中宣布：兒童有權享有特別照顧及協助；\n\n確信家庭為社會之基本團體，是所有成員特別是兒童成長與福祉之自然環境，故應獲得必要之保護及協助，以充分擔負其於社會上之責任；\n\n體認兒童應在幸福、關愛與理解氣氛之家庭環境中成長，使其人格充分而和諧地發展；\n\n考量到應充分培養兒童使其可在社會上獨立生活，並在聯合國憲章所揭櫫理想之精神，特別是和平、尊嚴、寬容、自由、平等與團結之精神下獲得養育成長；\n\n銘記一九二四年之日內瓦兒童權利宣言，與聯合國大會於一九五九年十一月二十日通過之兒童權利宣言揭示兒童應獲得特別照顧之必要性，並經世界人權宣言、公民與政治權利國際公約（特別是第 23 條及第 24 條）、經濟社會文化權利國際公約（特別是第 10 條），以及與兒童福利相關之各專門機構及國際組織之章程及有關文書所確認；\n\n銘記兒童權利宣言中所揭示：「兒童因身心尚未成熟，因此其出生前與出生後均需獲得特別之保護及照顧，包括適當之法律保護」；\n\n回顧「關於兒童保護和兒童福利、特別是國內和國際寄養和收養辦法的社會和法律原則宣言」、「聯合國少年司法最低限度標準規則」（北京規則）以及「在非常狀態和武裝衝突中保護婦女和兒童宣言」之規定，\n\n體認到世界各國皆有生活在極端困難情況之兒童，對這些兒童需要給予特別之考量；\n\n適度斟酌每一民族之傳統與文化價值對兒童之保護及和諧發展的重要性，體認國際合作對於改善每一國家，特別是發展中國家兒童生活條件之重要性；\n\n茲協議如下：",
+  "preamble_en": "The States Parties to the present Convention,Considering that, in accordance with the principles proclaimed in the Charter of the United Nations, recognition of the inherent dignity and of the equal and inalienable rights of all members of the human family is the foundation of freedom, justice and peace in the world,Bearing in mind that the peoples of the United Nations have, in the Charter, reaffirmed their faith in fundamental human rights and in the dignity and worth of the human person, and have determined to promote social progress and better standards of life in larger freedom,Recognizing that the United Nations has, in the Universal Declaration of Human Rights and in theInternational Covenants on Human Rights, proclaimed and agreed that everyone is entitled to all the rights and freedoms set forth therein, without distinction of any kind, such as race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status,Recalling that, in the Universal Declaration of Human Rights, the United Nations has proclaimed that childhood is entitled to special care and assistance,Convinced that the family, as the fundamental group of society and the natural environment for the growth and well-being of all its members and particularly children, should be afforded the necessary protection and assistance so that it can fully assume its responsibilities within the community,Recognizing that the child, for the full and harmonious development of his or her personality, should grow up in a family environment, in an atmosphere of happiness, love and understanding,Considering that the child should be fully prepared to live an individual life in society, and brought up in the spirit of the ideals proclaimed in theCharter of the United Nations, and in particular in the spirit of peace, dignity, tolerance, freedom, equality and solidarity,Bearing in mind that the need to extend particular care to the child has been stated in theGeneva Declaration of the Rights of the Child of 1924 and in the Declaration of the Rights of the Child adopted by the General Assembly on 20 November 1959 and recognized in theUniversal Declaration of Human Rights, in the International Covenant on Civil and Political Rights(in particular in articles 23 and 24), in the International Covenant on Economic, Social and Cultural Rights#Article 10(in particular in article 10) and in the statutes and relevant instruments of specialized agencies and international organizations concerned with the welfare of children,Bearing in mind that, as indicated in the Declaration of the Rights of the Child, \"the child, by reason of his physical and mental immaturity, needs special safeguards and care, including appropriate legal protection, before as well as after birth\",Recalling the provisions of the Declaration on Social and Legal Principles relating to the Protection and Welfare of Children, with Special Reference to Foster Placement and Adoption Nationally and Internationally; theUnited Nations Standard Minimum Rules for the Administration of Juvenile Justice (The Beijing Rules); and theDeclaration on the Protection of Women and Children in Emergency and Armed Conflict,Recognizing that, in all countries in the world, there are children living in exceptionally difficult conditions, and that such children need special consideration,Taking due account of the importance of the traditions and cultural values of each people for the protection and harmonious development of the child,Recognizing the importance of international co-operation for improving the living conditions of children in every country, in particular in the developing countries,Have agreed as follows:",
+  "articles": [
+    {
+      "article": "一",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "為本公約之目的，兒童係指未滿十八歲之人，但其所適用之法律規定未滿十八歲為成年者，不在此限。",
+      "content_en": "For the purposes of the present Convention, a child means every human being below the age of eighteen years unless under the law applicable to the child, majority is attained earlier."
+    },
+    {
+      "article": "二",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "1.締約國應尊重本公約所揭櫫之權利，確保其管轄範圍內之每一兒童均享有此等權利，不因兒童、父母或法定監護人之種族、膚色、性別、語言、宗教、政治或其他主張、國籍、族裔或社會背景、財產、身心障礙、出生或其他身分地位之不同而有所歧視。\n2.締約國應採取所有適當措施確保兒童得到保護，免於因兒童父母、法定監護人或家庭成員之身分、行為、意見或信念之關係而遭受到一切形式之歧視或懲罰。",
+      "content_en": "States Parties shall respect and ensure the rights set forth in the present Convention to each child within their jurisdiction without discrimination of any kind, irrespective of the child's or his or her parent's or legal guardian's race, colour, sex, language, religion, political or other opinion, national, ethnic or social origin, property, disability, birth or other status.States Parties shall take all appropriate measures to ensure that the child is protected against all forms of discrimination or punishment on the basis of the status, activities, expressed opinions, or beliefs of the child's parents, legal guardians, or family members."
+    },
+    {
+      "article": "三",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "1.所有關係兒童之事務，無論是由公私社會福利機構、法院、行政機關或立法機關作為，均應以兒童最佳利益為優先考量。\n2.締約國承諾為確保兒童福祉所必要之保護與照顧，應考量其父母、法定監護人或其他對其負有法律責任者之權利及義務，並採取一切適當之立法及行政措施達成之。\n3.締約國應確保負責照顧與保護兒童之機構、服務與設施符合主管機關所訂之標準，特別在安全、保健、工作人員數量與資格及有效監督等方面。",
+      "content_en": "In all actions concerning children, whether undertaken by public or private social welfare institutions, courts of law, administrative authorities or legislative bodies, the best interests of the child shall be a primary consideration.States Parties undertake to ensure the child such protection and care as is necessary for his or her well-being, taking into account the rights and duties of his or her parents, legal guardians, or other individuals legally responsible for him or her, and, to this end, shall take all appropriate legislative and administrative measures.States Parties shall ensure that the institutions, services and facilities responsible for the care or protection of children shall conform with the standards established by competent authorities, particularly in the areas of safety, health, in the number and suitability of their staff, as well as competent supervision."
+    },
+    {
+      "article": "四",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "締約國應採取所有適當之立法、行政及其他措施，實現本公約所承認之各項權利。關於經濟、社會及文化權利方面，締約國應運用其本國最大可用之資源，並視需要，在國際合作架構下採取該等措施。",
+      "content_en": "States Parties shall undertake all appropriate legislative, administrative, and other measures for the implementation of the rights recognized in the present Convention. With regard to economic, social and cultural rights, States Parties shall undertake such measures to the maximum extent of their available resources and, where needed, within the framework of international co-operation."
+    },
+    {
+      "article": "五",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "締約國應尊重兒童之父母或於其他適用情形下，依地方習俗所規定之大家庭或社區成員、其法定監護人或其他對兒童負有法律責任者，以符合兒童各發展階段之能力的方式，提供適當指導與指引兒童行使本公約確認權利之責任、權利及義務。",
+      "content_en": "States Parties shall respect the responsibilities, rights and duties of parents or, where applicable, the members of the extended family or community as provided for by local custom, legal guardians or other persons legally responsible for the child, to provide, in a manner consistent with the evolving capacities of the child, appropriate direction and guidance in the exercise by the child of the rights recognized in the present Convention."
+    },
+    {
+      "article": "六",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "1.締約國承認兒童有與生俱來之生命權。\n2.締約國應盡最大可能確保兒童之生存及發展。",
+      "content_en": "States Parties recognize that every child has the inherent right to life.States Parties shall ensure to the maximum extent possible the survival and development of the child."
+    },
+    {
+      "article": "七",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "1.兒童於出生後應立即被登記，並自出生起即應有取得姓名及國籍之權利，並於儘可能的範圍內有知其父母並受父母照顧的權利。\n2.締約國應確保依據本國法律及其於相關國際文件中所負之義務實踐兒童前項權利，尤其若非如此，兒童將成為無國籍人。",
+      "content_en": "The child shall be registered immediately after birth and shall have the right from birth to a name, the right to acquire a nationality and, as far as possible, the right to know and be cared for by his or her parents.States Parties shall ensure the implementation of these rights in accordance with their national law and their obligations under the relevant international instruments in this field, in particular where the child would otherwise be stateless."
+    },
+    {
+      "article": "八",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "1.締約國承諾尊重兒童維護其身分的權利，包括法律所承認之國籍、姓名與親屬關係不受非法侵害。\n2.締約國於兒童之身分（不論全部或一部）遭非法剝奪時，應給予適當之協助及保護，俾能迅速恢復其身分。",
+      "content_en": "States Parties undertake to respect the right of the child to preserve his or her identity, including nationality, name and family relations as recognized by law without unlawful interference.Where a child is illegally deprived of some or all of the elements of his or her identity, States Parties shall provide appropriate assistance and protection, with a view to re-establishing speedily his or her identity."
+    },
+    {
+      "article": "九",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "1.締約國應確保不違背兒童父母的意願而使兒童與父母分離。但主管機關依據所適用之法律及程序，經司法審查後，判定兒童與其父母分離係屬維護兒童最佳利益所必要者，不在此限。於兒童受父母虐待、疏忽或因父母分居而必須決定兒童居所之特定情況下，前開判定即屬必要。\n2.前項程序中，應給予所有利害關係人參與並陳述意見之機會。\n3.締約國應尊重與父母一方或雙方分離之兒童與父母固定保持私人關係及直接聯繫的權利。但違反兒童最佳利益者，不在此限。\n4.當前開分離係因締約國對父母一方或雙方或對兒童所採取之行為，諸如拘留、監禁、驅逐、遣送或死亡（包括該人在該國拘禁中因任何原因而死亡），該締約國於受請求時，應將該等家庭成員下落的必要資訊告知父母、兒童，或視其情節，告知其他家庭成員；除非該等資訊之提供對兒童之福祉造成損害。締約國並應確保相關人員不因該請求而蒙受不利。",
+      "content_en": "States Parties shall ensure that a child shall not be separated from his or her parents against their will, except when competent authorities subject to judicial review determine, in accordance with applicable law and procedures, that such separation is necessary for the best interests of the child. Such determination may be necessary in a particular case such as one involving abuse or neglect of the child by the parents, or one where the parents are living separately and a decision must be made as to the child's place of residence.In any proceedings pursuant to paragraph 1 of the present article, all interested parties shall be given an opportunity to participate in the proceedings and make their views known.States Parties shall respect the right of the child who is separated from one or both parents to maintain personal relations and direct contact with both parents on a regular basis, except if it is contrary to the child's best interests.Where such separation results from any action initiated by a State Party, such as the detention, imprisonment, exile, deportation or death (including death arising from any cause while the person is in the custody of the State) of one or both parents or of the child, that State Party shall, upon request, provide the parents, the child or, if appropriate, another member of the family with the essential information concerning the whereabouts of the absent member(s) of the family unless the provision of the information would be detrimental to the well-being of the child. States Parties shall further ensure that the submission of such a request shall of itself entail no adverse consequences for the person(s) concerned."
+    },
+    {
+      "article": "十",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "1.兒童或其父母為團聚而請求進入或離開締約國時，締約國應依照第 9條第 1 項之義務以積極、人道與迅速之方式處理之。締約國並應確保請求人及其家庭成員不因該請求而蒙受不利。\n2.與父母分住不同國家之兒童，除情況特殊者外，應有權與其父母雙方定期保持私人關係及直接聯繫。為利前開目的之達成，並依據第 9 條第1 項所規定之義務，締約國應尊重兒童及其父母得離開包括自己國家在內之任何國家及進入自己國家的權利。離開任何國家的權利應僅受限於法律之規定且該等規定係為保護國家安全、公共秩序、公共衛生或道德、或他人之權利及自由所必需，並應與本公約所承認之其他權利不相牴觸。",
+      "content_en": "In accordance with the obligation of States Parties under article 9, paragraph 1, applications by a child or his or her parents to enter or leave a State Party for the purpose of family reunification shall be dealt with by States Parties in a positive, humane and expeditious manner. States Parties shall further ensure that the submission of such a request shall entail no adverse consequences for the applicants and for the members of their family.A child whose parents reside in different States shall have the right to maintain on a regular basis, save in exceptional circumstances personal relations and direct contacts with both parents. Towards that end and in accordance with the obligation of States Parties under article 9, paragraph 1, States Parties shall respect the right of the child and his or her parents to leave any country, including their own, and to enter their own country. The right to leave any country shall be subject only to such restrictions as are prescribed by law and which are necessary to protect the national security, public order (ordre public), public health or morals or the rights and freedoms of others and are consistent with the other rights recognized in the present Convention."
+    },
+    {
+      "article": "十一",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "1.締約國應採取措施遏止非法移送兒童至國外或令其無法回國之行為。\n2.締約國應致力締結雙邊或多邊協定或加入現有協定以達成前項遏止之目的。",
+      "content_en": "States Parties shall take measures to combat the illicit transfer and non-return of children abroad.To this end, States Parties shall promote the conclusion of bilateral or multilateral agreements or accession to existing agreements."
+    },
+    {
+      "article": "十二",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "1.締約國應確保有形成其自己意見能力之兒童有權就影響其本身之所有事物自由表示其意見，其所表示之意見應依其年齡及成熟度予以權衡。\n2.據此，應特別給予兒童在對自己有影響之司法及行政程序中，能夠依照國家法律之程序規定，由其本人直接或透過代表或適當之組織，表達意見之機會。",
+      "content_en": "States Parties shall assure to the child who is capable of forming his or her own views the right to express those views freely in all matters affecting the child, the views of the child being given due weight in accordance with the age and maturity of the child.For this purpose, the child shall in particular be provided the opportunity to be heard in any judicial and administrative proceedings affecting the child, either directly, or through a representative or an appropriate body, in a manner consistent with the procedural rules of national law."
+    },
+    {
+      "article": "十三",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "1.兒童應有自由表示意見之權利；此項權利應包括以言詞、書面或印刷、藝術形式或透過兒童所選擇之其他媒介，不受國境限制地尋求、接收與傳達各種資訊與思想之自由。\n2.該項權利之行使得予以限制，惟應以法律規定且以達到下列目的所必要者為限：（a）為尊重他人之權利與名譽；或（b）為保障國家安全、公共秩序、公共衛生與道德。",
+      "content_en": "The child shall have the right to freedom of expression; this right shall include freedom to seek, receive and impart information and ideas of all kinds, regardless of frontiers, either orally, in writing or in print, in the form of art, or through any other media of the child's choice.The exercise of this right may be subject to certain restrictions, but these shall only be such as are provided by law and are necessary:For respect of the rights or reputations of others; orFor the protection of national security or of public order (ordre public), or of public health or morals."
+    },
+    {
+      "article": "十四",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "1.締約國應尊重兒童思想、自我意識與宗教自由之權利。\n2.締約國應尊重父母及於其他適用情形下之法定監護人之權利與義務，以符合兒童各發展階段能力的方式指導兒童行使其權利。\n3.個人表明其宗教或信仰之自由，僅受法律規定之限制且該等規定係為保護公共安全、秩序、衛生或道德，或他人之基本權利與自由所必要者。",
+      "content_en": "States Parties shall respect the right of the child to freedom of thought, conscience and religion.States Parties shall respect the rights and duties of the parents and, when applicable, legal guardians, to provide direction to the child in the exercise of his or her right in a manner consistent with the evolving capacities of the child.Freedom to manifest one's religion or beliefs may be subject only to such limitations as are prescribed by law and are necessary to protect public safety, order, health or morals, or the fundamental rights and freedoms of others."
+    },
+    {
+      "article": "十五",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "1.締約國確認兒童享有結社自由及和平集會自由之權利。\n2.前項權利之行使不得加以限制，惟符合法律規定並在民主社會中為保障國家安全或公共安全、公共秩序、公共衛生或道德或他人之權利與自由所必要者，不在此限。",
+      "content_en": "States Parties recognize the rights of the child to freedom of association and to freedom of peaceful assembly.No restrictions may be placed on the exercise of these rights other than those imposed in conformity with the law and which are necessary in a democratic society in the interests of national security or public safety, public order (ordre public), the protection of public health or morals or the protection of the rights and freedoms of others."
+    },
+    {
+      "article": "十六",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "1.兒童之隱私、家庭、住家或通訊不得遭受恣意或非法干預，其榮譽與名譽亦不可受非法侵害。\n2.兒童對此等干預或侵害有依法受保障之權利。",
+      "content_en": "No child shall be subjected to arbitrary or unlawful interference with his or her privacy, family, home or correspondence, nor to unlawful attacks on his or her honour and reputation.The child has the right to the protection of the law against such interference or attacks."
+    },
+    {
+      "article": "十七",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "締約國體認大眾傳播媒體之重要功能，故應確保兒童可自國內與國際各種不同來源獲得資訊及資料，尤其是為提升兒童之社會、精神與道德福祉及其身心健康之資訊與資料。為此締約國應：（a）鼓勵大眾傳播媒體依據第 29 條之精神，傳播在社會與文化方面有益於兒童之資訊及資料；（b）鼓勵源自不同文化、國家與國際的資訊及資料，在此等資訊之產製、交流與散播上進行國際合作；（c）鼓勵兒童讀物之出版及散播；（d）鼓勵大眾傳播媒體對少數族群或原住民兒童在語言方面之需要，予以特別關注；（e）參考第 13 條及第 18 條之規定，鼓勵發展適當準則，以保護兒童免於受有損其福祉之資訊及資料之傷害。",
+      "content_en": "States Parties recognize the important function performed by the mass media and shall ensure that the child has access to information and material from a diversity of national and international sources, especially those aimed at the promotion of his or her social, spiritual and moral well-being and physical and mental health. To this end, States Parties shall:Encourage the mass media to disseminate information and material of social and cultural benefit to the child and in accordance with the spirit of article 29;Encourage international co-operation in the production, exchange and dissemination of such information and material from a diversity of cultural, national and international sources;Encourage the production and dissemination of children's books;Encourage the mass media to have particular regard to the linguistic needs of the child who belongs to a minority group or who is indigenous;Encourage the development of appropriate guidelines for the protection of the child from information and material injurious to his or her well-being, bearing in mind the provisions of articles 13 and18."
+    },
+    {
+      "article": "十八",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "1.締約國應盡其最大努力，確保父母雙方對兒童之養育及發展負共同責任的原則獲得確認。父母、或視情況而定的法定監護人對兒童之養育及發展負擔主要責任。兒童之最佳利益應為其基本考量。\n2.為保證與促進本公約所揭示之權利，締約國應於父母及法定監護人在擔負養育兒童責任時給予適當之協助，並確保照顧兒童之機構、設施與服務業務之發展。\n3.締約國應採取一切適當措施確保就業父母之子女有權享有依其資格應有之托兒服務及設施。",
+      "content_en": "States Parties shall use their best efforts to ensure recognition of the principle that both parents have common responsibilities for the upbringing and development of the child. Parents or, as the case may be, legal guardians, have the primary responsibility for the upbringing and development of the child. The best interests of the child will be their basic concern.For the purpose of guaranteeing and promoting the rights set forth in the present Convention, States Parties shall render appropriate assistance to parents and legal guardians in the performance of their child-rearing responsibilities and shall ensure the development of institutions, facilities and services for the care of children.States Parties shall take all appropriate measures to ensure that children of working parents have the right to benefit from child-care services and facilities for which they are eligible."
+    },
+    {
+      "article": "十九",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "1.締約國應採取一切適當之立法、行政、社會與教育措施，保護兒童於受其父母、法定監護人或其他照顧兒童之人照顧時，不受到任何形式之身心暴力、傷害或虐待、疏忽或疏失、不當對待或剝削，包括性虐待。\n2.此等保護措施，如為適當，應包括有效程序以建置社會規劃對兒童及其照顧者提供必要之支持，並對前述兒童不當對待事件採取其他預防方式與用以指認、報告、轉介、調查、處理與後續追蹤，以及，如適當的話，以司法介入。",
+      "content_en": "States Parties shall take all appropriate legislative, administrative, social and educational measures to protect the child from all forms of physical or mental violence, injury or abuse, neglect or negligent treatment, maltreatment or exploitation, including sexual abuse, while in the care of parent(s), legal guardian(s) or any other person who has the care of the child.Such protective measures should, as appropriate, include effective procedures for the establishment of social programmes to provide necessary support for the child and for those who have the care of the child, as well as for other forms of prevention and for identification, reporting, referral, investigation, treatment and follow-up of instances of child maltreatment described heretofore, and, as appropriate, for judicial involvement."
+    },
+    {
+      "article": "二十",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "1.針對暫時或永久剝奪其家庭環境之兒童，或因顧及其最佳利益無法使其繼續留在家庭環境時，締約國應給予特別之保護與協助。\n2.締約國應依其國家法律確保該等兒童獲得其他替代方式之照顧。\n3.此等照顧包括安排寄養、依伊斯蘭法之監護、收養或於必要時安置其於適當之照顧機構中。當考量處理方式時，應考量有必要使兒童之養育具有持續性，並考量兒童之種族、宗教、文化與語言背景，予以妥適處理。",
+      "content_en": "A child temporarily or permanently deprived of his or her family environment, or in whose own best interests cannot be allowed to remain in that environment, shall be entitled to special protection and assistance provided by the State.States Parties shall in accordance with their national laws ensure alternative care for such a child.Such care could include, inter alia, foster placement, kafalah of Islamic law, adoption or if necessary placement in suitable institutions for the care of children. When considering solutions, due regard shall be paid to the desirability of continuity in a child's upbringing and to the child's ethnic, religious, cultural and linguistic background."
+    },
+    {
+      "article": "二十一",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "締約國承認及（或）允許收養制度者，應確保以兒童之最佳利益為最大考量，並應：（a）確保兒童之收養僅得由主管機關許可。該機關應依據適用之法律及程序，並根據所有相關且可靠之資訊，據以判定基於兒童與其父母、親屬及法定監護人之情況，認可該收養，且如為必要，認為該等諮詢可能有必要時，應取得關係人經過充分瞭解而對該收養所表示之同意後，方得認可該收養關係；（b）在無法為兒童安排寄養或收養家庭，或無法在其出生國給予適當照顧時，承認跨國境收養為照顧兒童之一個替代辦法；（c）確保跨國境收養的兒童，享有與在國內被收養的兒童相當之保障及標準；（d）採取一切適當措施確保跨國境收養之安排，不致使所涉之人士獲得不正當的財務上收益；（e）於適當情況下，締結雙邊或多邊協議或協定以促進本條之目的，並在此一架構下，努力確保由主管機關或機構負責安排兒童於他國之收養事宜。",
+      "content_en": "States Parties that recognize and/or permit the system of adoption shall ensure that the best interests of the child shall be the paramount consideration and they shall:Ensure that the adoption of a child is authorized only by competent authorities who determine, in accordance with applicable law and procedures and on the basis of all pertinent and reliable information, that the adoption is permissible in view of the child's status concerning parents, relatives and legal guardians and that, if required, the persons concerned have given their informed consent to the adoption on the basis of such counselling as may be necessary;Recognize that inter-country adoption may be considered as an alternative means of child's care, if the child cannot be placed in a foster or an adoptive family or cannot in any suitable manner be cared for in the child's country of origin;Ensure that the child concerned by inter-country adoption enjoys safeguards and standards equivalent to those existing in the case of national adoption;Take all appropriate measures to ensure that, in inter-country adoption, the placement does not result in improper financial gain for those involved in it;Promote, where appropriate, the objectives of the present article by concluding bilateral or multilateral arrangements or agreements, and endeavour, within this framework, to ensure that the placement of the child in another country is carried out by competent authorities or organs."
+    },
+    {
+      "article": "二十二",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "1.締約國應採取適當措施，確保申請難民身分或依應適用之國際或國內法律或程序被視為難民的兒童，不論是否與其父母或其他人隨行，均能獲得適當的保護及人道協助，以享有本公約及該締約國所締結之其他國際人權公約或人道文書中所揭示的相關權利。\n2.為此，締約國應配合聯合國及其他政府間的權責組織或與聯合國有合作關係之非政府組織之努力並提供其認為適當的合作，以保護及援助該等兒童並追蹤難民兒童之父母或其他家庭成員，以獲得必要的資訊使其家庭團聚。如無法尋獲其父母或其他家屬時，則應給予該兒童與本公約所揭示之永久或暫時剝奪家庭環境兒童相同之保護。",
+      "content_en": "States Parties shall take appropriate measures to ensure that a child who is seeking refugee status or who is considered a refugee in accordance with applicable international or domestic law and procedures shall, whether unaccompanied or accompanied by his or her parents or by any other person, receive appropriate protection and humanitarian assistance in the enjoyment of applicable rights set forth in the present Convention and in other international human rights or humanitarian instruments to which the said States are Parties.For this purpose, States Parties shall provide, as they consider appropriate, co-operation in any efforts by the United Nations and other competent intergovernmental organizations or non-governmental organizations co-operating with the United Nations to protect and assist such a child and to trace the parents or other members of the family of any refugee child in order to obtain information necessary for reunification with his or her family. In cases where no parents or other members of the family can be found, the child shall be accorded the same protection as any other child permanently or temporarily deprived of his or her family environment for any reason , as set forth in the present Convention."
+    },
+    {
+      "article": "二十三",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "1.締約國體認身心障礙兒童，應於確保其尊嚴、促進其自立、有利於其積極參與社會環境下，享有完整與一般之生活。\n2.締約國承認身心障礙兒童有受特別照顧之權利，且應鼓勵並確保在現有資源範圍內，依據申請，斟酌兒童與其父母或其他照顧人之情況，對符合資格之兒童及其照顧者提供協助。\n3.有鑒於身心障礙兒童之特殊需求，並考慮兒童的父母或其他照顧者之經濟情況，盡可能免費提供本條第 2  項之協助，並應用以確保身心障礙兒童能有效地獲得與接受教育、訓練、健康照顧服務、復健服務、職前準備以及休閒機會，促進該兒童盡可能充分地融入社會與實現個人發展，包括其文化及精神之發展。\n4.締約國應本國際合作精神，促進預防健康照顧以及身心障礙兒童的醫療、心理與功能治療領域交換適當資訊，包括散播與取得有關復健方法、教育以及就業服務相關資料，以使締約國能夠增進該等領域之能力、技術並擴大其經驗。就此，尤應特別考慮發展中國家之需要。",
+      "content_en": "States Parties recognize that a mentally or physically disabled child should enjoy a full and decent life, in conditions which ensure dignity, promote self-reliance and facilitate the child's active participation in the community.States Parties recognize the right of the disabled child to special care and shall encourage and ensure the extension, subject to available resources, to the eligible child and those responsible for his or her care, of assistance for which application is made and which is appropriate to the child's condition and to the circumstances of the parents or others caring for the child.Recognizing the special needs of a disabled child, assistance extended in accordance with paragraph 2 of the present article shall be provided free of charge, whenever possible, taking into account the financial resources of the parents or others caring for the child, and shall be designed to ensure that the disabled child has effective access to and receives education, training, health care services, rehabilitation services, preparation for employment and recreation opportunities in a manner conducive to the child's achieving the fullest possible social integration and individual development, including his or her cultural and spiritual development.States Parties shall promote, in the spirit of international cooperation, the exchange of appropriate information in the field of preventive health care and of medical, psychological and functional treatment of disabled children, including dissemination of and access to information concerning methods of rehabilitation, education and vocational services, with the aim of enabling States Parties to improve their capabilities and skills and to widen their experience in these areas. In this regard, particular account shall be taken of the needs of developing countries."
+    },
+    {
+      "article": "二十四",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "1.締約國確認兒童有權享有最高可達水準之健康與促進疾病治療以及恢復健康之權利。締約國應努力確保所有兒童享有健康照護服務之權利不遭受剝奪。\n2.締約國應致力於充分執行此權利，並應特別針對下列事項採取適當之措施：（a）降低嬰幼兒之死亡率；（b）確保提供所有兒童必須之醫療協助及健康照顧，並強調基礎健康照顧之發展；（c）消除疾病與營養不良的現象，包括在基礎健康照顧之架構下運用現行技術，以及透過提供適當營養食物及清潔之飲用水，並應考量環境污染之危險與風險；（d）確保母親得到適當的產前及產後健康照顧；（e）確保社會各階層，尤其是父母及兒童，獲得有關兒童健康與營養、母乳育嬰之優點、個人與環境衛生以及防止意外事故之基本知識之教育並協助該等知識之運用；（f）發展預防健康照顧、針對父母與家庭計畫教育及服務之指導方針。\n3.締約國應致力採取所有有效及適當之措施，以革除對兒童健康有害之傳統習俗。\n4.締約國承諾促進並鼓勵國際合作，以期逐步完全實現本條之權利。就此，尤應特別考慮發展中國家之需要。",
+      "content_en": "States Parties recognize the right of the child to the enjoyment of the highest attainable standard of health and to facilities for the treatment of illness and rehabilitation of health. States Parties shall strive to ensure that no child is deprived of his or her right of access to such health care services.States Parties shall pursue full implementation of this right and, in particular, shall take appropriate measures:To diminish infant and child mortality;To ensure the provision of necessary medical assistance and health care to all children with emphasis on the development of primary health care;To combat disease and malnutrition, including within the framework of primary health care, through, inter alia, the application of readily available technology and through the provision of adequate nutritious foods and clean drinking-water, taking into consideration the dangers and risks of environmental pollution;To ensure appropriate pre-natal and post-natal health care for mothers;To ensure that all segments of society, in particular parents and children, are informed, have access to education and are supported in the use of basic knowledge of child health and nutrition, the advantages of breastfeeding, hygiene and environmental sanitation and the prevention of accidents;To develop preventive health care, guidance for parents and family planning education and services.States Parties shall take all effective and appropriate measures with a view to abolishing traditional practices prejudicial to the health of children.States Parties undertake to promote and encourage international co-operation with a view to achieving progressively the full realization of the right recognized in the present article. In this regard, particular account shall be taken of the needs of developing countries."
+    },
+    {
+      "article": "二十五",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "締約國體認為照顧、保護或治療兒童身體或心理健康之目的，而由權責單位安置之兒童，有權對於其所受之待遇，以及所受安置有關之其他一切情況，要求定期評估。",
+      "content_en": "States Parties recognize the right of a child who has been placed by the competent authorities for the purposes of care, protection or treatment of his or her physical or mental health, to a periodic review of the treatment provided to the child and all other circumstances relevant to his or her placement."
+    },
+    {
+      "article": "二十六",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "1.締約國應承認每個兒童皆受有包括社會保險之社會安全給付之權利，並應根據其國內法律，採取必要措施以充分實現此一權利。\n2.該項給付應依其情節，並考慮兒童與負有扶養兒童義務者之資源及環境，以及兒童本人或代其提出申請有關之其他因素，作為決定給付之參考。",
+      "content_en": "States Parties shall recognize for every child the right to benefit from social security, including social insurance, and shall take the necessary measures to achieve the full realization of this right in accordance with their national law.The benefits should, where appropriate, be granted, taking into account the resources and the circumstances of the child and persons having responsibility for the maintenance of the child, as well as any other consideration relevant to an application for benefits made by or on behalf of the child."
+    },
+    {
+      "article": "二十七",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "1.締約國承認每個兒童均有權享有適於其生理、心理、精神、道德與社會發展之生活水準。\n2.父母或其他對兒童負有責任者，於其能力及經濟條件許可範圍內，負有確保兒童發展所需生活條件之主要責任。\n3.締約國按照本國條件並於其能力範圍內，應採取適當措施協助父母或其他對兒童負有責任者，實施此項權利，並於必要時提供物質協助與支援方案，特別是針對營養、衣物及住所。\n4.締約國應採取一切適當措施，向在本國境內或境外之兒童父母或其他對兒童負有財務責任之人，追索兒童養育費用之償還。特別是當對兒童負有財務責任之人居住在與兒童不同之國家時，締約國應促成國際協定之加入或締結此等國際協定，以及作成其他適當安排。",
+      "content_en": "States Parties recognize the right of every child to a standard of living adequate for the child's physical, mental, spiritual, moral and social development.The parent(s) or others responsible for the child have the primary responsibility to secure, within their abilities and financial capacities, the conditions of living necessary for the child's development.States Parties, in accordance with national conditions and within their means, shall take appropriate measures to assist parents and others responsible for the child to implement this right and shall in case of need provide material assistance and support programmes, particularly with regard to nutrition, clothing and housing.States Parties shall take all appropriate measures to secure the recovery of maintenance for the child from the parents or other persons having financial responsibility for the child, both within the State Party and from abroad. In particular, where the person having financial responsibility for the child lives in a State different from that of the child, States Parties shall promote the accession to international agreements or the conclusion of such agreements, as well as the making of other appropriate arrangements."
+    },
+    {
+      "article": "二十八",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "1.締約國確認兒童有接受教育之權利，為使此項權利能於機會平等之基礎上逐步實現，締約國尤應：（a）實現全面的免費義務小學教育；（b）鼓勵發展不同形態之中等教育、包括普通教育與職業教育，使所有兒童均能進入就讀，並採取適當措施，諸如實行免費教育以及對有需求者提供財務協助；（c）以一切適當方式，使所有兒童依照其能力都能接受高等教育；（d）使所有兒童均能獲得教育與職業方面之訊息及引導；（e）採取措施鼓勵正常到校並降低輟學率。\n2.締約國應採取一切適當措施，確保學校執行紀律之方式，係符合兒童之人格尊嚴及本公約規定。\n3.締約國應促進與鼓勵有關教育事項之國際合作，特別著眼於消除全世界無知及文盲，並促進使用科技知識及現代教學方法。就此，尤應特別考慮到發展中國家之需要。",
+      "content_en": "States Parties recognize the right of the child to education, and with a view to achieving this right progressively and on the basis of equal opportunity, they shall, in particular:Make primary education compulsory and available free to all;Encourage the development of different forms of secondary education, including general and vocational education, make them available and accessible to every child, and take appropriate measures such as the introduction of free education and offering financial assistance in case of need;Make higher education accessible to all on the basis of capacity by every appropriate means;Make educational and vocational information and guidance available and accessible to all children;Take measures to encourage regular attendance at schools and the reduction of drop-out rates.States Parties shall take all appropriate measures to ensure that school discipline is administered in a manner consistent with the child's human dignity and in conformity with the present Convention.States Parties shall promote and encourage international cooperation in matters relating to education, in particular with a view to contributing to the elimination of ignorance and illiteracy throughout the world and facilitating access to scientific and technical knowledge and modern teaching methods. In this regard, particular account shall be taken of the needs of developing countries."
+    },
+    {
+      "article": "二十九",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "1.締約國一致認為兒童教育之目標為：（a）使兒童之人格、才能以及精神、身體之潛能獲得最大程度之發展；（b）培養對人權、基本自由以及聯合國憲章所揭櫫各項原則之尊重；（c）培養對兒童之父母、兒童自身的文化認同、語言與價值觀，兒童所居住國家之民族價值觀、其原籍國以及不同於其本國文明之尊重；（d）培養兒童本著理解、和平、寬容、性別平等與所有人民、種族、民族、宗教及原住民間友好的精神，於自由社會中，過負責任之生活；（e）培養對自然環境的尊重。\n2.本條或第 28 條之所有規定，皆不得被解釋為干涉個人與團體設置及管理教育機構之自由，惟須完全遵守本條第 1  項所規定之原則，並符合國家就該等機構所實施之教育所制定之最低標準。",
+      "content_en": "General comment on its implementationStates Parties agree that the education of the child shall be directed to:The development of the child's personality, talents and mental and physical abilities to their fullest potential;The development of respect for human rights and fundamental freedoms, and for the principles enshrined in the Charter of the United Nations;The development of respect for the child's parents, his or her own cultural identity, language and values, for the national values of the country in which the child is living, the country from which he or she may originate, and for civilizations different from his or her own;The preparation of the child for responsible life in a free society, in the spirit of understanding, peace, tolerance, equality of sexes, and friendship among all peoples, ethnic, national and religious groups and persons of indigenous origin;The development of respect for the natural environment.No part of the present article or article 28 shall be construed so as to interfere with the liberty of individuals and bodies to establish and direct educational institutions, subject always to the observance of the principle set forth in paragraph 1 of the present article and to the requirements that the education given in such institutions shall conform to such minimum standards as may be laid down by the State."
+    },
+    {
+      "article": "三十",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "在種族、宗教或語言上有少數人民，或有原住民之國家中，這些少數人民或原住民之兒童應有與其群體的其他成員共同享有自己的文化、信奉自己的宗教並舉行宗教儀式、或使用自己的語言之權利，此等權利不得遭受否定。",
+      "content_en": "In those States in which ethnic, religious or linguistic minorities or persons of indigenous origin exist, a child belonging to such a minority or who is indigenous shall not be denied the right, in community with other members of his or her group, to enjoy his or her own culture, to profess and practise his or her own religion, or to use his or her own language."
+    },
+    {
+      "article": "三十一",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "1.締約國承認兒童享有休息及休閒之權利；有從事適合其年齡之遊戲與娛樂活動之權利，以及自由參加文化生活與藝術活動之權利。\n2.締約國應尊重並促進兒童充分參加文化與藝術生活之權利，並應鼓勵提供適當之文化、藝術、娛樂以及休閒活動之平等機會。",
+      "content_en": "States Parties recognize the right of the child to relaxation and leisure, to engage in play and recreational activities appropriate to the age of the child and to participate freely in cultural life and the arts.States Parties shall respect and promote the right of the child to participate fully in cultural and artistic life and shall encourage the provision of appropriate and equal opportunities for cultural, artistic, recreational and leisure activity."
+    },
+    {
+      "article": "三十二",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "1.締約國承認兒童有免受經濟剝削之權利，及避免從事任何可能妨礙或影響其接受教育，或對其健康或身體、心理、精神、道德或社會發展有害之工作。\n2.締約國應採取立法、行政、社會與教育措施以確保本條規定之實施。為此目的並參照其他國際文件之相關規定，締約國尤應：（a）規定單一或二個以上之最低受僱年齡；（b）規定有關工作時間及工作條件之適當規則；（c）規定適當罰則或其他制裁措施以確保本條款之有效執行。",
+      "content_en": "States Parties recognize the right of the child to be protected from economic exploitation and from performing any work that is likely to be hazardous or to interfere with the child's education, or to be harmful to the child's health or physical, mental, spiritual, moral or social development.States Parties shall take legislative, administrative, social and educational measures to ensure the implementation of the present article. To this end, and having regard to the relevant provisions of other international instruments, States Parties shall in particular: (a) Provide for a minimum age or minimum ages for admission to employment;Provide for appropriate regulation of the hours and conditions of employment;Provide for appropriate penalties or other sanctions to ensure the effective enforcement of the present article."
+    },
+    {
+      "article": "三十三",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "締約國應採取所有適當措施，包括立法、行政、社會與教育措施，保護兒童不致非法使用有關國際條約所訂定之麻醉藥品及精神藥物，並防止利用兒童從事非法製造及販運此類藥物。",
+      "content_en": "States Parties shall take all appropriate measures, including legislative, administrative, social and educational measures, to protect children from the illicit use of narcotic drugs and psychotropic substances as defined in the relevant international treaties, and to prevent the use of children in the illicit production and trafficking of such substances."
+    },
+    {
+      "article": "三十四",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "締約國承諾保護兒童免於所有形式之性剝削及性虐待。為此目的，締約國應採取包括國內、雙邊與多邊措施，以防止下列情事發生：（a）引誘或強迫兒童從事非法之性活動；（b）剝削利用兒童從事賣淫或其他非法之性行為；（c）剝削利用兒童從事色情表演或作為色情之題材。",
+      "content_en": "States Parties undertake to protect the child from all forms of sexual exploitation and sexual abuse. For these purposes, States Parties shall in particular take all appropriate national, bilateral and multilateral measures to prevent:The inducement or coercion of a child to engage in any unlawful sexual activity;The exploitative use of children in prostitution or other unlawful sexual practices;The exploitative use of children in pornographic performances and materials."
+    },
+    {
+      "article": "三十五",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "締約國應採取所有適當之國內、雙邊與多邊措施，以防止兒童受到任何目的或以任何形式之誘拐、買賣或販運。",
+      "content_en": "States Parties shall take all appropriate national, bilateral and multilateral measures to prevent the abduction of, the sale of or traffic in children for any purpose or in any form."
+    },
+    {
+      "article": "三十六",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "締約國應保護兒童免於遭受有害其福祉之任何其他形式之剝削。",
+      "content_en": "States Parties shall protect the child against all other forms of exploitation prejudicial to any aspects of the child's welfare."
+    },
+    {
+      "article": "三十七",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "締約國應確保：（a）所有兒童均不受酷刑或其他形式之殘忍、不人道或有辱人格之待遇或處罰。對未滿十八歲之人所犯罪行，不得處以死刑或無釋放可能之無期徒刑；（b）不得非法或恣意剝奪任何兒童之自由。對兒童之逮捕、拘留或監禁應符合法律規定並僅應作為最後手段，且應為最短之適當時限；（c）所有被剝奪自由之兒童應受到人道待遇，其人性尊嚴應受尊重，並應考慮其年齡之需要加以對待。特別是被剝奪自由之兒童應與成年人分別隔離，除非係基於兒童最佳利益而不隔離；除有特殊情況外，此等兒童有權透過通訊及探視與家人保持聯繫；（d）所有被剝奪自由之兒童，有迅速獲得法律及其他適當協助之權利，並有權就其自由被剝奪之合法性，向法院或其他權責、獨立、公正機關提出異議，並要求獲得迅速之決定。",
+      "content_en": "States Parties shall ensure that:No child shall be subjected to torture or other cruel, inhuman or degrading treatment or punishment. Neither capital punishment nor life imprisonment without possibility of release shall be imposed for offences committed by persons below eighteen years of age;No child shall be deprived of his or her liberty unlawfully or arbitrarily. The arrest, detention or imprisonment of a child shall be in conformity with the law and shall be used only as a measure of last resort and for the shortest appropriate period of time;Every child deprived of liberty shall be treated with humanity and respect for the inherent dignity of the human person, and in a manner which takes into account the needs of persons of his or her age. In particular, every child deprived of liberty shall be separated from adults unless it is considered in the child's best interest not to do so and shall have the right to maintain contact with his or her family through correspondence and visits, save in exceptional circumstances;Every child deprived of his or her liberty shall have the right to prompt access to legal and other appropriate assistance, as well as the right to challenge the legality of the deprivation of his or her liberty before a court or other competent, independent and impartial authority, and to a prompt decision on any such action."
+    },
+    {
+      "article": "三十八",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "1.締約國於發生武裝衝突時，應尊重國際人道法中適用於本國兒童之規定，並保證確實遵守此等規定。\n2.締約國應採取所有可行措施，確保未滿十五歲之人不會直接參加戰鬥行為。\n3.締約國應避免招募任何未滿十五歲之人加入武裝部隊。在招募年滿十五歲但未滿十八歲之人時，應優先考慮年齡最大者。\n4.依據國際人道法之規定，締約國於武裝衝突中有義務保護平民，並應採取一切可行之措施，保護及照顧受武裝衝突影響之兒童。",
+      "content_en": "States Parties undertake to respect and to ensure respect for rules of international humanitarian law applicable to them in armed conflicts which are relevant to the child.States Parties shall take all feasible measures to ensure that persons who have not attained the age of fifteen years do not take a direct part in hostilities.States Parties shall refrain from recruiting any person who has not attained the age of fifteen years into their armed forces. In recruiting among those persons who have attained the age of fifteen years but who have not attained the age of eighteen years, States Parties shall endeavour to give priority to those who are oldest.In accordance with their obligations under international humanitarian law to protect the civilian population in armed conflicts, States Parties shall take all feasible measures to ensure protection and care of children who are affected by an armed conflict."
+    },
+    {
+      "article": "三十九",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "締約國應採取所有適當措施，使遭受下述情況之兒童身心得以康復並重返社會：任何形式之疏忽、剝削或虐待；酷刑或任何其他殘忍、不人道或有辱人格之待遇或處罰方式；或遭遇武裝衝突之兒童。此種康復與重返社會，應於能促進兒童健康、自尊及尊嚴之環境中進行。",
+      "content_en": "States Parties shall take all appropriate measures to promote physical and psychological recovery and social reintegration of a child victim of: any form of neglect, exploitation, or abuse; torture or any other form of cruel, inhuman or degrading treatment or punishment; or armed conflicts. Such recovery and reintegration shall take place in an environment which fosters the health, self-respect and dignity of the child."
+    },
+    {
+      "article": "四十",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "1.締約國對被指稱、指控或認為涉嫌觸犯刑事法律之兒童，應確認該等兒童有權獲得符合以下情況之待遇：依兒童之年齡與對其重返社會，並在社會承擔建設性角色之期待下，促進兒童之尊嚴及價值感，以增強其對他人之人權及基本自由之尊重。\n2.為達此目的，並鑒於國際文件之相關規定，締約國尤應確保：（a）任何兒童，當其作為或不作為未經本國或國際法所禁止時，不得被指稱、指控或認為涉嫌觸犯刑事法律。（b）針對被指稱或指控觸犯刑事法律之兒童，至少應獲得下列保證：（i）在依法判定有罪前，應推定為無罪；（ii）對其被控訴之罪名能夠迅速且直接地被告知，適當情況下經由父母或法定監護人告知本人，於準備與提出答辯時並獲得法律或其他適當之協助；（iii）要求有權、獨立且公正之機關或司法機構迅速依法公正審理，兒童並應獲得法律或其他適當之協助，且其父母或法定監護人亦應在場，惟經特別考量兒童之年齡或狀況認為其父母或法定監護人在場不符合兒童最佳利益者除外；（iv）不得被迫作證或認罪；可詰問或間接詰問對自身不利之證人，並且在平等之條件下，要求對自己有利的證人出庭並接受詰問；（v）若經認定觸犯刑事法律，對該認定及因此所衍生之處置，有權要求較高層級之權責、獨立、公正機關或司法機關依法再為審查；（vi）若使用兒童不瞭解或不會說之語言，應提供免費之通譯；（vii）在前開程序之所有過程中，應充分尊重兒童之隱私。\n3.締約國對於被指稱、指控或確認為觸犯刑事法律之兒童，應特別設置適用之法律、程序、機關與機構，尤應：（a）規定無觸犯刑事能力之最低年齡；（b）於適當與必要時，制定不對此等兒童訴諸司法程序之措施，惟須充分尊重人權及法律保障。\n4.為確保兒童福祉，並合乎其自身狀況與違法情事，應採行多樣化之處置，例如照顧、輔導或監督裁定、諮商輔導、觀護、寄養照顧、教育或職業培訓方案及其他替代機構照顧之方式。",
+      "content_en": "States Parties recognize the right of every child alleged as, accused of, or recognized as having infringed the penal law to be treated in a manner consistent with the promotion of the child's sense of dignity and worth, which reinforces the child's respect for the human rights and fundamental freedoms of others and which takes into account the child's age and the desirability of promoting the child's reintegration and the child's assuming a constructive role in society.To this end, and having regard to the relevant provisions of international instruments, States Parties shall, in particular, ensure that:No child shall be alleged as, be accused of, or recognized as having infringed the penal law by reason of acts or omissions that were not prohibited by national or international law at the time they were committed;Every child alleged as or accused of having infringed the penal law has at least the following guarantees:To be presumed innocent until proven guilty according to law;To be informed promptly and directly of the charges against him or her, and, if appropriate, through his or her parents or legal guardians, and to have legal or other appropriate assistance in the preparation and presentation of his or her defence;To have the matter determined without delay by a competent, independent and impartial authority or judicial body in a fair hearing according to law, in the presence of legal or other appropriate assistance and, unless it is considered not to be in the best interest of the child, in particular, taking into account his or her age or situation, his or her parents or legal guardians;Not to be compelled to give testimony or to confess guilt; to examine or have examined adverse witnesses and to obtain the participation and examination of witnesses on his or her behalf under conditions of equality;If considered to have infringed the penal law, to have this decision and any measures imposed in consequence thereof reviewed by a higher competent, independent and impartial authority or judicial body according to law;To have the free assistance of an interpreter if the child cannot understand or speak the language used;To have his or her privacy fully respected at all stages of the proceedings.States Parties shall seek to promote the establishment of laws, procedures, authorities and institutions specifically applicable to children alleged as, accused of, or recognized as having infringed the penal law, and, in particular:The establishment of a minimum age below which children shall be presumed not to have the capacity to infringe the penal law;Whenever appropriate and desirable, measures for dealing with such children without resorting to judicial proceedings, providing that human rights and legal safeguards are fully respected.A variety of dispositions, such as care, guidance and supervision orders; counselling; probation; foster care; education and vocational training programmes and other alternatives to institutional care shall be available to ensure that children are dealt with in a manner appropriate to their well-being and proportionate both to their circumstances and the offence."
+    },
+    {
+      "article": "四十一",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "本公約之任何規定，不應影響下列規定中，更有利於實現兒童權利之任何規定：（a）締約國之法律；或（b）對締約國有效之國際法。\n\n第二部分",
+      "content_en": "Nothing in the present Convention shall affect any provisions which are more conducive to the realization of the rights of the child and which may be contained in:The law of a State party; orInternational law in force for that State."
+    },
+    {
+      "article": "四十二",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "締約國承諾以適當及積極的方法，使成人與兒童都能普遍知曉本公約之原則及規定。",
+      "content_en": "States Parties undertake to make the principles and provisions of the Convention widely known, by appropriate and active means, to adults and children alike."
+    },
+    {
+      "article": "四十三",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "1.為審查締約國履行本公約義務之進展，應設立兒童權利委員會，執行下文所規定之職能。\n2.委員會應由十八名品德高尚並在本公約所涉領域具有公認能力之專家組成。委員會成員應由締約國從其國民中選出，並應以個人身分任職，但須考慮到公平地域分配原則及主要法律體系。\n3.委員會成員應以無記名表決方式從締約國提名之人選名單中選舉產生。各締約國得從其本國國民中提名一位人選。\n4.委員會之初次選舉應於最遲不晚於本公約生效之日起六個月內舉行，爾後每二年舉行一次。聯合國秘書長應至少在選舉之日前四個月函請締約國在二個月內提出其提名之人選。秘書長隨後應將已提名之所有人選按字母順序編成名單，註明提名此等人選之締約國，分送本公約締約國。\n5.選舉應在聯合國總部由秘書長召開之締約國會議上進行。在此等會議上，應以三分之二締約國出席作為會議法定人數，得票最多且占出席並參加表決締約國代表絕對多數票者，當選為委員會委員。\n6.委員會成員任期四年。成員如獲再次提名，應得連選連任。在第一次選舉產生之成員中，有五名成員的任期應在二年結束時屆滿；會議主席應在第一次選舉後立即以抽籤方式選定該五名成員。\n7.如果委員會某一成員死亡或辭職，或宣稱因任何其他原因無法再履行委員會之職責，提名該成員之締約國應從其國民中指定另一名專家接替剩餘任期，但須經委員會同意。\n8.委員會應自行制定其議事規則。\n9.委員會應自行選舉其主席團成員，任期二年。\n10. 委員會會議通常應在聯合國總部或在委員會決定之任何其他方便地點舉行。委員會通常應每年舉行一次會議。委員會之會期應由本公約締約國會議決定並在必要時加以審查，但須經大會同意。\n11. 聯合國秘書長應為委員會有效履行本公約所規定之職責提供必要的工作人員及設施。\n12. 根據本公約設立的委員會成員，經大會同意，得從聯合國之資金領取薪酬，其條件由大會決定。",
+      "content_en": "For the purpose of examining the progress made by States Parties in achieving the realization of the obligations undertaken in the present Convention, there shall be established a Committee on the Rights of the Child, which shall carry out the functions hereinafter provided.The Committee shall consist of eighteen1 experts of high moral standing and recognized competence in the field covered by this Convention. The members of the Committee shall be elected by States Parties from among their nationals and shall serve in their personal capacity, consideration being given to equitable geographical distribution, as well as to the principal legal systems. (amendment) [1/ The General Assembly, in its resolution 50/155 of 21 December 1995 , approved the amendment to article 43, paragraph 2, of the Convention on the Rights of the Child, replacing the word “ten” with the word “eighteen”. The amendment entered into force on 18 November 2002 when it had been accepted by a two-thirds majority of the States parties (128 out of 191)]The members of the Committee shall be elected by secret ballot from a list of persons nominated by States Parties. Each State Party may nominate one person from among its own nationals.The initial election to the Committee shall be held no later than six months after the date of the entry into force of the present Convention and thereafter every second year. At least four months before the date of each election, the Secretary-General of the United Nations shall address a letter to States Parties inviting them to submit their nominations within two months. The Secretary-General shall subsequently prepare a list in alphabetical order of all persons thus nominated, indicating States Parties which have nominated them, and shall submit it to the States Parties to the present Convention.The elections shall be held at meetings of States Parties convened by the Secretary-General at United Nations Headquarters. At those meetings, for which two thirds of States Parties shall constitute a quorum, the persons elected to the Committee shall be those who obtain the largest number of votes and an absolute majority of the votes of the representatives of States Parties present and voting.The members of the Committee shall be elected for a term of four years. They shall be eligible for re-election if renominated. The term of five of the members elected at the first election shall expire at the end of two years; immediately after the first election, the names of these five members shall be chosen by lot by the Chairman of the meeting.If a member of the Committee dies or resigns or declares that for any other cause he or she can no longer perform the duties of the Committee, the State Party which nominated the member shall appoint another expert from among its nationals to serve for the remainder of the term, subject to the approval of the Committee.The Committee shall establish its own rules of procedure.The Committee shall elect its officers for a period of two years.The meetings of the Committee shall normally be held at United Nations Headquarters or at any other convenient place as determined by the Committee. The Committee shall normally meet annually. The duration of the meetings of the Committee shall be determined, and reviewed, if necessary, by a meeting of the States Parties to the present Convention, subject to the approval of the General Assembly.The Secretary-General of the United Nations shall provide the necessary staff and facilities for the effective performance of the functions of the Committee under the present Convention.With the approval of the General Assembly, the members of the Committee established under the present Convention shall receive emoluments from United Nations resources on such terms and conditions as the Assembly may decide."
+    },
+    {
+      "article": "四十四",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "1.締約國承諾依下列規定，經由聯合國秘書長，向委員會提交其為實現本公約之權利所採取之措施以及有關落實該等權利之進展報告：（a）在本公約對該締約國生效後二年內；（b）爾後每五年一次。\n2.根據本條所提交之報告，應指明可能影響本公約義務履行之任何因素及困難。報告亦應載有充分之資料，以使委員會全面瞭解本公約在該國之實施情況。\n3.締約國若已向委員會提交全面之初次報告，即無須就其後按照本條第 1項第（b） 款提交之報告中重複原先已提供之基本資料。\n4.委員會得要求締約國進一步提供與本公約實施情況有關之資料。\n5.委員會應每二年經由經濟及社會理事會，向大會提交一次其活動報告。\n6.締約國應向其本國大眾廣泛提供其報告。",
+      "content_en": "States Parties undertake to submit to the Committee, through the Secretary-General of the United Nations, reports on the measures they have adopted which give effect to the rights recognized herein and on the progress made on the enjoyment of those rights:Within two years of the entry into force of the Convention for the State Party concerned;Thereafter every five years.Reports made under the present article shall indicate factors and difficulties, if any, affecting the degree of fulfilment of the obligations under the present Convention. Reports shall also contain sufficient information to provide the Committee with a comprehensive understanding of the implementation of the Convention in the country concerned.A State Party which has submitted a comprehensive initial report to the Committee need not, in its subsequent reports submitted in accordance with paragraph 1 (b) of the present article, repeat basic information previously provided.The Committee may request from States Parties further information relevant to the implementation of the Convention.The Committee shall submit to the General Assembly, through the Economic and Social Council, every two years, reports on its activities.States Parties shall make their reports widely available to the public in their own countries."
+    },
+    {
+      "article": "四十五",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "為促進本公約有效實施並鼓勵在本公約所涉領域之國際合作：（a）各專門機構、聯合國兒童基金會與聯合國其他機構應有權指派代表出席就本公約中屬於其職責範圍之相關條款實施情況之審議。委員會得邀請各專門機構、聯合國兒童基金會以及其認為合適之其他主管機關，就本公約在屬於其各自職責範圍內領域之實施問題提供專家意見。委員會得邀請各專門機構、聯合國兒童基金會與聯合國其他機構就其運作範圍內有關本公約之執行情況提交報告；（b）委員會認為適當時，應向各專門機構、聯合國兒童基金會與其他主管機構轉交締約國要求或標示需要技術諮詢或協助之任何報告，以及委員會就此類要求或標示提出之任何意見及建議；（c）委員會得建議大會請秘書長代表委員會對有關兒童權利之具體問題進行研究；（d）委員會得根據依照本公約第 44 條及第 45 條所得之資料，提出意見及一般性建議。此類意見及一般性建議應轉交有關之各締約國並連同締約國作出之評論一併報告大會。\n\n第三部分",
+      "content_en": "In order to foster the effective implementation of the Convention and to encourage international co-operation in the field covered by the Convention:The specialized agencies, the United Nations Children's Fund, and other United Nations organs shall be entitled to be represented at the consideration of the implementation of such provisions of the present Convention as fall within the scope of their mandate. The Committee may invite the specialized agencies, the United Nations Children's Fund and other competent bodies as it may consider appropriate to provide expert advice on the implementation of the Convention in areas falling within the scope of their respective mandates. The Committee may invite the specialized agencies, the United Nations Children's Fund, and other United Nations organs to submit reports on the implementation of the Convention in areas falling within the scope of their activities;The Committee shall transmit, as it may consider appropriate, to the specialized agencies, the United Nations Children's Fund and other competent bodies, any reports from States Parties that contain a request, or indicate a need, for technical advice or assistance, along with the Committee's observations and suggestions, if any, on these requests or indications;The Committee may recommend to the General Assembly to request the Secretary-General to undertake on its behalf studies on specific issues relating to the rights of the child;The Committee may make suggestions and general recommendations based on information received pursuant to articles 44 and45 of the present Convention. Such suggestions and general recommendations shall be transmitted to any State Party concerned and reported to the General Assembly, together with comments, if any, from States Parties."
+    },
+    {
+      "article": "四十六",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "本公約應開放供所有國家簽署。",
+      "content_en": "The present Convention shall be open for signature by all States."
+    },
+    {
+      "article": "四十七",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "本公約須經批准。批准書應存放於聯合國秘書長。",
+      "content_en": "The present Convention is subject to ratification. Instruments of ratification shall be deposited with the Secretary-General of the United Nations."
+    },
+    {
+      "article": "四十八",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "本公約應對所有國家開放供加入。加入書應存放於聯合國秘書長。",
+      "content_en": "The present Convention shall remain open for accession by any State. The instruments of accession shall be deposited with the Secretary-General of the United Nations."
+    },
+    {
+      "article": "四十九",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "1.本公約自第二十份批准書或加入書存放聯合國秘書長之日後第三十日生效。\n2.本公約對於在第二十份批准書或加入書存放後批准或加入本公約之國家，自其批准書或加入書存放之日後第三十日生效。",
+      "content_en": "The present Convention shall enter into force on the thirtieth day following the date of deposit with the Secretary-General of the United Nations of the twentieth instrument of ratification or accession.For each State ratifying or acceding to the Convention after the deposit of the twentieth instrument of ratification or accession, the Convention shall enter into force on the thirtieth day after the deposit by such State of its instrument of ratification or accession."
+    },
+    {
+      "article": "五十",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "1.各締約國均得提出修正案，提交給聯合國秘書長。秘書長應立即將提案通知締約國，並請其表明是否贊成召開締約國會議進行審議及表決。如果在此類通知發出後四個月內，至少有三分之一締約國贊成召開前開會議，秘書長應在聯合國主辦下召開會議。經出席會議並參加表決之締約國過半數通過之任何修正案應提交聯合國大會同意。\n2.根據本條第 1 項通過之修正案如獲大會同意並為締約國三分之二多數接受，即行生效。\n3.修正案生效後，即對接受該項修正案之締約國具有約束力，其他締約國仍受本公約各項條款及其已接受之任何原修正案之約束。",
+      "content_en": "Any State Party may propose an amendment and file it with the Secretary-General of the United Nations. The Secretary-General shall thereupon communicate the proposed amendment to States Parties, with a request that they indicate whether they favour a conference of States Parties for the purpose of considering and voting upon the proposals. In the event that, within four months from the date of such communication, at least one third of the States Parties favour such a conference, the Secretary-General shall convene the conference under the auspices of the United Nations. Any amendment adopted by a majority of States Parties present and voting at the conference shall be submitted to the General Assembly for approval.An amendment adopted in accordance with paragraph 1 of the present article shall enter into force when it has been approved by the General Assembly of the United Nations and accepted by a two-thirds majority of States Parties.When an amendment enters into force, it shall be binding on those States Parties which have accepted it, other States Parties still being bound by the provisions of the present Convention and any earlier amendments which they have accepted."
+    },
+    {
+      "article": "五十一",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "1.聯合國秘書長應接受各國在批准或加入時提出之保留，並分發給所有國家。\n2.不得提出內容與本公約目標及宗旨相牴觸之保留。\n3.締約國得隨時向聯合國秘書長提出通知，請求撤回保留，並由秘書長將此情況通知所有國家。通知於秘書長收到當日起生效。",
+      "content_en": "The Secretary-General of the United Nations shall receive and circulate to all States the text of reservations made by States at the time of ratification or accession.A reservation incompatible with the object and purpose of the present Convention shall not be permitted.Reservations may be withdrawn at any time by notification to that effect addressed to the Secretary-General of the United Nations, who shall then inform all States. Such notification shall take effect on the date on which it is received by the Secretary-General"
+    },
+    {
+      "article": "五十二",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "締約國得以書面通知聯合國秘書長退出本公約。秘書長收到通知之日起一年後退約即行生效。",
+      "content_en": "A State Party may denounce the present Convention by written notification to the Secretary-General of the United Nations. Denunciation becomes effective one year after the date of receipt of the notification by the Secretary-General."
+    },
+    {
+      "article": "五十三",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "聯合國秘書長被指定為本公約存放人。",
+      "content_en": "The Secretary-General of the United Nations is designated as the depositary of the present Convention."
+    },
+    {
+      "article": "五十四",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "本公約之阿拉伯文、中文、英文、法文、俄文及西班牙文本，同一作準，應存放聯合國秘書長。下列全權代表，經各自政府正式授權，在本公約上簽字，以資證明。",
+      "content_en": "The original of the present Convention, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations."
+    }
+  ]
+}

@@ -1,0 +1,381 @@
+{
+  "treaty": "維也納外交關係公約",
+  "treaty_zh": "維也納外交關係公約",
+  "treaty_en": "Vienna Convention on Diplomatic Relations",
+  "total_articles": 53,
+  "preamble_zh": "本公約各當事國：鑑於各國人民自古即已確認外交代表之地位，察及聯合國憲章之宗旨及原則中有各國主權平等，維持國際和平與安全，以及促進國際間友好關係等項，深信關於外交往來，特權及豁免國際公約當能有助於各國間友好關係之發展，此項關係對於各國憲政及社會制度之差異，在所不問，確認此等特權與豁免之目的不在於給予個人以利益而在於確保代表國家之使館能有效執行職務，重申凡未經本公約明文規定之問題應繼續適用國際習慣法之規例，爰議定條款如下：",
+  "preamble_en": "The States Parties to the present Convention,Recalling that peoples of all nations from ancient times have recognized the status of diplomatic agents,Having in mind the purposes and principles of the Charter of the United Nations concerning the sovereign equality of States, the maintenance of international peace and security, and the promotion of friendly relations among nations,Believing that an international convention on diplomatic intercourse, privileges and immunities would contribute to the development of friendly relations among nations, irrespective of their differing constitutional and social systems,Realizing that the purpose of such privileges and immunities is not to benefit individuals but to ensure the efficient performance of the functions of diplomatic missions as representing States,Affirming that the rules of customary international law should continue to govern questions not expressly regulated by the provisions of the present Convention,Have agreed as follows':",
+  "articles": [
+    {
+      "article": "一",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "就適用本公約而言，下列名稱之意義，應依下列規定：（甲）稱「使館館長」者，謂派遣國責成擔任此項職位之人； （乙）稱「使館人員」者，謂使館館長及使館職員； （丙）稱「使館職員」者，謂使館外交職員，行政及技術職員，及事務職員； （丁）稱「外交職員」者，謂具有外交官級位之使館職員； （戊）稱「外交代表」者，謂使館館長或使館外交職員； （己）稱「行政及技術職員」者，謂承辦使館行政及技術事務之使館職員； （庚）稱「事務職員」者，謂為使館僕役之使館職員； （辛）稱「私人僕役」者，謂充使館人員傭僕而非為派遣國雇用之人； （壬）稱「使館館舍」者，謂供使館使用及供使館館長寓邸之用之建築物或建築物之各部分，以及其所附之土地，至所有權誰屬，則在所不問。",
+      "content_en": "For the purpose of the present Convention, the following expressions shall have the meanings hereunder assigned to them:(a) The “head of the mission” is the person charged by the sending State with the duty of acting in that capacity;(b) The “members of the mission” are the head of the mission and the members of the staff of the mission;(c) The “members of the staff of the mission” are the members of the diplomatic staff, of the administrative and technical staff and of the service staff of the mission;(d) The “members of the diplomatic staff” are the members of the staff of the mission having diplomatic rank;(e) A “diplomatic agent” is the head of the mission or a member of the diplomatic staff of the mission;(f) The “members of the administrative and technical staff” are the members of the staff of the mission employed in the administrative and technical service of the mission;(g) The “members of the service staff” are the members of the staff of the mission in the domestic service of the mission;(h) A “private servant” is a person who is in the domestic service of a member of the mission and who is not an employee of the sending State;(i) The “premises of the mission” are the buildings or parts of buildings and the land ancillary thereto, irrespective of ownership, used for the purposes of the mission including the residence of the head of the mission."
+    },
+    {
+      "article": "二",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "國與國間外交關係及常設使館之建立，以協議為之。",
+      "content_en": "The establishment of diplomatic relations between States, and of permanent diplomatic missions, takes place by mutual consent."
+    },
+    {
+      "article": "三",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、除其他事項外，使館之職務如下：（甲）在接受國中代表派遣國；（乙）於國際法許可之限度內，在接受國中保護派遣國及其國民之利益；（丙）與接受國政府辦理交涉；（丁）以一切合法手段調查接受國之狀況及發展情形，向派遣國政府具報；（戊）促進派遣國與接受國間之友好關係，及發展兩國間之經濟、文化與科學關係。 \n二、本公約任何規定不得解釋為禁止使館執行領事職務。",
+      "content_en": "1. The functions of a diplomatic mission consist, inter alia, in:(a) Representing the sending State in the receiving State;(b) Protecting in the receiving State the interests of the sending State and of its nationals, within the limits permitted by international law;(c) Negotiating with the Government of the receiving State;(d) Ascertaining by all lawful means conditions and developments in the receiving State, and reporting thereon to the Government of the sending State;(e) Promoting friendly relations between the sending State and the receiving State, and developing their economic, cultural and scientific relations.\n2. Nothing in the present Convention shall be construed as preventing the performance of consular functions by a diplomatic mission."
+    },
+    {
+      "article": "四",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、派遣國對於擬派駐接受國之使館館長人選務須查明其確已獲得接受國之同意。 \n二、接受國無須向派遣國說明不予同意之理由。",
+      "content_en": "1. The sending State must make certain that the agrément of the receiving State has been given for the person it proposes to accredit as head of the mission to that State.\n2. The receiving State is not obliged to give reasons to the sending State for a refusal of agrément."
+    },
+    {
+      "article": "五",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、派遣國向有關接受國妥為通知後，得酌派任一使館館長或外交職員兼駐一個以上國家，但任何接受國明示反對者，不在此限。 \n二、派遣國委派使館館長兼駐另一國或數國者，得在該館長不常川駐節之國內，設立以臨時代辦為館長之使館。 \n三、使館館長或使館任何外交職員得兼任派遣國駐國際組織之代表。",
+      "content_en": "1. The sending State may, after it has given due notification to the receiving States concerned, accredit a head of mission or assign any member of the diplomatic staff, as the case may be, to more than one State, unless there is express objection by any of the receiving States.\n2. If the sending State accredits a head of mission to one or more other States it may establish a diplomatic mission headed by a charge d’affaires ad interim in each State where the head of mission has not his permanent seat.\n3. A head of mission or any member of the diplomatic staff of the mission may act as representative of the sending State to any international organization."
+    },
+    {
+      "article": "六",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "兩個以上國家得合派同一人為駐另一國之使館館長，但接受國表示反對者不在此限。",
+      "content_en": "Two or more States may accredit the same person as head of mission to another State, unless objection is offered by the receiving State."
+    },
+    {
+      "article": "七",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "除第五條，第八條，第九條及第十一條另有規定外，派遣國得自由委派使館職員。關於陸，海，空軍武官，接受國得要求先行提名，徵求該國同意。",
+      "content_en": "Subject to the provisions of articles 5, 8, 9 and 11, the sending State may freely appoint the members of the staff of the mission. In the case of military, naval or air attaches, the receiving State may require their names to be submitted beforehand, for its approval."
+    },
+    {
+      "article": "八",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、使館外交職員原則上應屬派遣國國籍。\n二、委派屬接受國國籍之人為使館外交職員，非經接受國同意，不得為之；此項同意得隨時撤銷之。 \n三、接受國對於第三國國民之亦非為派遣國國民者，得保留同樣之權利。",
+      "content_en": "1. Members of the diplomatic staff of the mission should in principle be of the nationality of the sending State.\n2. Members of the diplomatic staff of the mission may not be appointed from among persons having the nationality of the receiving State, except with the consent of that State which may be withdrawn at any time.\n3. The receiving State may reserve the same right with regard to nationals of a third State who are not also nationals of the sending State."
+    },
+    {
+      "article": "九",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、接受國得隨時不具解釋通知派遣國宣告使館館長或使館任何外交職員為不受歡迎人員或使館任何其他職員為不能接受。遇此情形，派遣國應斟酌情況召回該員或終止其在使館中之職務。任何人員得於其到達接受國國境前，被宣告為不受歡迎或不能接受。\n二、如派遣國拒絕或不在相當期間內履行其依本條第一項規定所負義務，接受國得拒絕承認該員為使館人員。",
+      "content_en": "1. The receiving State may at any time and without having to explain its decision, notify the sending State that the head of the mission or any member of the diplomatic staff of the mission is persona non grata or that any other member of the staff of the mission is not acceptable. In any such case, the sending State shall, as appropriate, either recall the person concerned or terminate his functions with the mission. A person may be declared non grata or not acceptable before arriving in the territory of the receiving State.\n2. If the sending State refuses or fails within a reasonable period to carry out its obligations under paragraph 1 of this article, the receiving State may refuse to recognize the person concerned as a member of the mission."
+    },
+    {
+      "article": "十",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、下列事項應通知接受國外交部或另經商定之其他部：（甲）使館人員之委派，其到達及最後離境或其在使館中職務之終止；（乙）使館人員家屬到達及最後離境；遇有任何人成為或不復為使館人員家屬時，亦宜酌量通知；（丙）本項（甲）款所稱人員雇用之私人僕役到達及最後離境；遇有私人僕役不復受此等人員雇用時，亦宜酌量通知； （丁）雇用居留接受國之人為使館人員或為得享特權與豁免之私人僕役時，其雇用與解雇。 \n二、到達及最後離境，於可能範圍內，亦應事先通知。",
+      "content_en": "1. The Ministry for Foreign Affairs of the receiving State, or such other ministry as may be agreed, shall be notified of:(a) The appointment of members of the mission, their arrival and their final departure or the termination of their functions with the mission;(b) The arrival and final departure of a person belonging to the family of a member of the mission and, where appropriate, the fact that a person becomes or ceases to be a member of the family of a member of the mission;(c) The arrival and final departure of private servants in the employ of persons referred to in subparagraph (a) of this paragraph and, where appropriate, the fact that they are leaving the employ of such persons;(d) The engagement and discharge of persons resident in the receiving State as members of the mission or private servants entitled to privileges and immunities.\n2. Where possible, prior notification of arrival and final departure shall also be given."
+    },
+    {
+      "article": "十一",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、關於使館之構成人數如另無協議，接受國得酌量本國環境與情況及特定使館之需要，要求使館構成人數不超過該國認為合理及正常之限度。\n二、接受國亦得在同樣範圍內並在無差別待遇之基礎上，拒絕接受某一類之官員。",
+      "content_en": "1. In the absence of specific agreement as to the size of the mission, the receiving State may require that the size of a mission be kept within limits considered by it to be reasonable and normal, having regard to circumstances and conditions in the receiving State and to the needs of the particular mission.\n2. The receiving State may equally, within similar bounds and on a non-discriminatory basis, refuse to accept officials of a particular category."
+    },
+    {
+      "article": "十二",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "派遣國非經接受國事先明示同意，不得在使館本身所在地以外之地點設立辦事處，作為使館之一部分。",
+      "content_en": "The sending State may not, without the prior express consent of the receiving State, establish offices forming part of the mission in localities other than those in which the mission itself is established."
+    },
+    {
+      "article": "十三",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、使館館長依照接受國應予劃一適用之通行慣例。在呈遞國書後或在向接受國外交部或另經商定之其他部通知到達並將所奉國書正式副本送交後，即視為已在接受國內開始執行職務。 \n二、呈遞國書或遞送國書正式副本之次第依使館館長到達之日期及時間先後定之。",
+      "content_en": "1. The head of the mission is considered as having taken up his functions in the receiving State either when he has presented his credentials or when he has notified his arrival and a true copy of his credentials has been presented to the Ministry for Foreign Affairs of the receiving State, or such other ministry as may be agreed, in accordance with the practice prevailing in the receiving State which shall be applied in a uniform manner.\n2. The order of presentation of credentials or of a true copy thereof will be determined by the date and time of the arrival of the head of the mission."
+    },
+    {
+      "article": "十四",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、使館館長分為如下三級：（甲）向國家元首派遣之大使或教廷大使，及其他同等級位之使館館長； （乙）向國家元首派遣之使節，公使及教廷公使；（丙）向外交部長派遣之代辦。 \n二、除關於優先地位及禮儀之事項外，各使館館長不應因其所屬等級而有任何差別。",
+      "content_en": "1. Heads of mission are divided into three classes, namely:(a) That of ambassadors or nuncios accredited to Heads of State, and other heads of mission of equivalent rank;(b) That of envoys, ministers and internuncios accredited to Heads of State;(c) That of charges d’affaires accredited to Ministers for Foreign Affairs.\n2. Except as concerns precedence and etiquette, there shall be no differentiation between heads of mission by reason of their class."
+    },
+    {
+      "article": "十五",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "使館館長所屬之等級應由關係國家商定之。",
+      "content_en": "The class to which the heads of their missions are to be assigned shall be agreed between States."
+    },
+    {
+      "article": "十六",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、使館館長在其各別等級中之優先地位應按照其依第十三條規定開始執行職務之日期及時間先後定之。\n二、使館館長之國書如有變更而對其所屬等級並無更動時，其優先地位不受影響。 \n三、本條規定不妨礙接受國所採行關於教廷代表優先地位之任何辦法。",
+      "content_en": "1. Heads of mission shall take precedence in their respective classes in the order of the date and time of taking up their functions in accordance with article 13.\n2. Alterations in the credentials of a head of mission not involving any change of class shall not affect his precedence.\n3. This article is without prejudice to any practice accepted by the receiving State regarding the precedence of the representative of the Holy See."
+    },
+    {
+      "article": "十七",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "使館外交職員之優先順序應由使館館長通知外交部或另經商定之其他部。",
+      "content_en": "The precedence of the members of the diplomatic staff of the mission shall be notified by the head of the mission to the Ministry for Foreign Affairs or such other ministry as may be agreed."
+    },
+    {
+      "article": "十八",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "各國接待使館館長，對於同一等級之館長應適用劃一程序。",
+      "content_en": "The procedure to be observed in each State for the reception of heads of mission shall be uniform in respect of each class."
+    },
+    {
+      "article": "十九",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、使館館長缺位或不能執行職務時，應由臨時代辦暫代使館館長。臨時代辦姓名應由使館館長通知接受國外交部或另經商定之其他部；如館長不能通知時，則由派遣國外交部通知之。 \n二、使館如在接受國內並無外交職員時，派遣國得於徵得接受國同意後，指派行政或技術職員一人，主持使館日常行政事務。",
+      "content_en": "1. If the post of head of the mission is vacant, or if the head of the mission is unable to perform his functions a charge d’affaires ad interim shall act provisionally as head of the mission. The name of the charge d’affaires ad interim shall be notified, either by the head of the mission or, in case he is unable to do so, by the Ministry for Foreign Affairs of the sending State to the Ministry for Foreign Affairs of the receiving State or such other ministry as may be agreed.\n2. In cases where no member of the diplomatic staff of the mission is present in the receiving State, a member of the administrative and technical staff may, with the consent of the receiving State, be designated by the sending State to be in charge of the current administrative affairs of the mission."
+    },
+    {
+      "article": "二十",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "使館及其館長有權在使館館舍，及在使館館長寓邸與交通工具上使用派遣國之國旗與國徽。",
+      "content_en": "The mission and its head shall have the right to use the flag and emblem of the sending State on the premises of the mission, including the residence of the head of the mission, and on his means of transport."
+    },
+    {
+      "article": "二十一",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、接受國應便利派遣國依照接受國法律在其境內置備派遣國使館所需之館舍，或協助派遣國以其他方法獲得房舍。 \n二、接受國遇必要時，並應協助使館為其人員獲得適當之房舍。",
+      "content_en": "1. The receiving State shall either facilitate the acquisition on its territory, in accordance with its laws, by the sending State of premises necessary for its mission or assist the latter in obtaining accommodation in some other way.\n2. It shall also, where necessary, assist missions in obtaining suitable accommodation for their members."
+    },
+    {
+      "article": "二十二",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、使館館舍不得侵犯。接受國官吏非經使館館長許可，不得進入使館館舍。 \n二、接受國負有特殊責任，採取一切適當步驟保護使館館舍免受侵入或損害，並防止一切擾亂使館安寧或有損使館尊嚴之情事。 \n三、使館館舍及設備，以及館舍內其他財產與使館交通工具免受搜查、徵用、扣押或強制執行。",
+      "content_en": "1. The premises of the mission shall be inviolable. The agents of the receiving State may not enter them, except with the consent of the head of the mission.\n2. The receiving State is under a special duty to take all appropriate steps to protect the premises of the mission against any intrusion or damage and to prevent any disturbance of the peace of the mission or impairment of its dignity.\n3. The premises of the mission, their furnishings and other property thereon and the means of transport of the mission shall be immune from search, requisition, attachment or execution."
+    },
+    {
+      "article": "二十三",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、派遣國及使館館長對於使館所有或租賃之館舍，概免繳納國家、區域或地方性捐稅，但其為對供給特定服務應納之費者不在此列。 \n二、本條所稱之免稅，對於與派遣國或使館館長訂立承辦契約者依接受國法律應納之捐稅不適用之。",
+      "content_en": "1. The sending State and the head of the mission shall be exempt from all national, regional or municipal dues and taxes in respect of the premises of the mission, whether owned or leased, other than such as represent payment for specific services rendered.\n2. The exemption from taxation referred to in this article shall not apply to such dues and taxes payable under the law of the receiving State by persons contracting with the sending State or the head of the mission."
+    },
+    {
+      "article": "二十四",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "使館檔案及文件無論何時，亦不論位於何處，均屬不得侵犯。",
+      "content_en": "The archives and documents of the mission shall be inviolable at any time and wherever they may be."
+    },
+    {
+      "article": "二十五",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "接受國應給予使館執行職務之充分便利。",
+      "content_en": "The receiving State shall accord full facilities for the performance of the functions of the mission."
+    },
+    {
+      "article": "二十六",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "除接受國為國家安全設定禁止或限制進入區域另訂法律規章外，接受國應確保所有使館人員在其境內行動及旅行之自由。",
+      "content_en": "Subject to its laws and regulations concerning zones entry into which is prohibited or regulated for reasons of national security, the receiving State shall ensure to all members of the mission freedom of movement and travel in its territory."
+    },
+    {
+      "article": "二十七",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、接受國應允許使館為一切公務目的自由通訊，並予保護。使館與派遣國政府及無論何處之該國其他使館及領事館通訊時，得採用一切適當方法，包括外交信差及明密碼電信在內。但使館非經接受國同意，不得裝置並使用無線電發報機。 \n二、使館之來往公文不得侵犯。來往公文指有關使館及其職務之一切來往文件。 \n三、外交郵袋不得予以開拆或扣留。 \n四、構成外交郵袋之包裹須附有可資識別之外部標記，以裝載外交文件或公務用品為限。 \n五、外交信差應持有官方文件，載明其身分及構成郵袋之包裹件數；其於執行職務時，應受接受國保護。外交信差享有人身不得侵犯權，不受任何方式之逮捕或拘禁。\n六、派遣國或使館得派特別外交信差。遇此情形，本條第五項之規定亦應適用，但特別信差將其所負責攜帶之外交郵袋送交收件人後，即不復享有該項所稱之豁免。\n七、外交郵袋得托交預定在准許入境地點降落之商營飛機機長轉遞。機長應持有官方文件載明構成郵袋之郵包件數，但機長不得視為外交信差。使館得派館員一人徑向飛機機長自由取得外交郵袋。",
+      "content_en": "1. The receiving State shall permit and protect free communication on the part of the mission for all official purposes. In communicating with the Government and the other missions and consulates of the sending State, wherever situated, the mission may employ all appropriate means, including diplomatic couriers and messages in code or cipher. However, the mission may install and use a wireless transmitter only with the consent of the receiving State.\n2. The official correspondence of the mission shall be inviolable. Official correspondence means all correspondence relating to the mission and its functions.\n3. The diplomatic bag shall not be opened or detained.\n4. The packages constituting the diplomatic bag must bear visible external marks of their character and may contain only diplomatic documents or articles intended for official use.\n5. The diplomatic courier, who shall be provided with an official document indicating his status and the number of packages constituting the diplomatic bag, shall be protected by the receiving State in the performance of his functions. He shall enjoy person inviolability and shall not be liable to any form of arrest or detention.\n6. The sending State or the mission may designate diplomatic couriers ad hoc. In such cases the provisions of paragraph 5 of this article shall also apply, except that the immunities therein mentioned shall cease to apply when such a courier has delivered to the consignee the diplomatic bag in his charge.\n7. A diplomatic bag may be entrusted to the captain of a commercial aircraft scheduled to land at an authorized port of entry. He shall be provided with an official document indicating the number of packages constituting the bag but he shall not be considered to be a diplomatic courier. The mission may send one of its members to take possession of the diplomatic bag directly and freely from the captain of the aircraft."
+    },
+    {
+      "article": "二十八",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "使館辦理公務所收之規費及手續費免徵一切捐稅。",
+      "content_en": "The fees and charges levied by the mission in the course of its official duties shall be exempt from all dues and taxes."
+    },
+    {
+      "article": "二十九",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "外交代表人身不得侵犯。外交代表不受任何方式之逮捕或拘禁。接受國對外交代表應特示尊重，並應採取一切適當步驟以防止其人身、自由或尊嚴受有任何侵犯。",
+      "content_en": "The person of a diplomatic agent shall be inviolable. He shall not be liable to any form of arrest or detention. The receiving State shall treat him with due respect and shall take all appropriate steps to prevent any attack on his person, freedom or dignity."
+    },
+    {
+      "article": "三十",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、外交代表之私人寓所一如使館館舍應享有同樣之不得侵犯權及保護。 \n二、外交代表之文書及信件同樣享有不得侵犯權；其財產除第三十一條第三項另有規定外，亦同。",
+      "content_en": "1. The private residence of a diplomatic agent shall enjoy the same inviolability and protection as the premises of the mission.\n2. His papers, correspondence and, except as provided in paragraph 3 of article 31, his property, shall likewise enjoy inviolability."
+    },
+    {
+      "article": "三十一",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、外交代表對接受國之刑事管轄享有豁免。除下列案件外，外交代表對接受國之民事及行政管轄亦享有豁免： （甲）關於接受國境內私有不動產之物權訴訟，但其代表派遣國為使館用途置有之不動產不在此列；（乙）關於外交代表以私人身分並不代表派遣國而為遺囑執行人、遺產管理人、繼承人或受遺贈人之繼承事件之訴訟；（丙）關於外交代表於接受國內在公務範圍以外所從事之專業或商務活動之訴訟。\n二、外交代表無以證人身分作證之義務。\n三、對外交代表不得為執行之處分，但關於本條第一項（甲）、（乙）、（丙）各款所列之案件，而執行處分復無損於其人身或寓所之不得侵犯權者，不在此限。\n四、外交代表不因其對接受國管轄所享之豁免而免除其受派遣國之管轄。",
+      "content_en": "1. A diplomatic agent shall enjoy immunity from the criminal jurisdiction of the receiving State. He shall also enjoy immunity from its civil and administrative jurisdiction, except in the case of:(a) A real action relating to private immovable property situated in the territory of the receiving State, unless he holds it on behalf of the sending State for the purposes of the mission;(b) An action relating to succession in which the diplomatic agent is involved as executor, administrator, heir or legatee as a private person and not on behalf of the sending State;(c) An action relating to any professional or commercial activity exercised by the diplomatic agent in the receiving State outside his official functions.\n2. A diplomatic agent is not obliged to give evidence as a witness.\n3. No measures of execution may be taken in respect of a diplomatic agent except in the cases coming under subparagraphs (a), (b) and (c) of paragraph 1 of this article, and provided that the measures concerned can be taken without infringing the inviolability of his person or of his residence.\n4. The immunity of a diplomatic agent from the jurisdiction of the receiving State does not exempt him from the jurisdiction of the sending State."
+    },
+    {
+      "article": "三十二",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、外交代表及依第三十七條享有豁免之人對管轄之豁免得由派遣國拋棄之。 \n二、豁免之拋棄，概須明示。 \n三、外交代表或依第三十七條享有管轄之豁免之人如主動提起訴訟即不得對與主訴直接相關之反訴主張管轄之豁免。\n四、在民事或行政訴訟程序上管轄豁免之拋棄，不得視為對判決執行之豁免亦默示拋棄，後項拋棄須分別為之。",
+      "content_en": "1. The immunity from jurisdiction of diplomatic agents and of persons enjoying immunity under Article 37 may be waived by the sending State.\n2. Waiver must always be express.\n3. The initiation of proceedings by a diplomatic agent or by a person enjoying immunity from jurisdiction under article 37 shall preclude him from invoking immunity from jurisdiction in respect of any counterclaim directly connected with the principal claim.\n4. Waiver of immunity from jurisdiction in respect of civil or administrative proceedings shall not be held to imply waiver of immunity in respect of the execution of the judgement, for which a separate waiver shall be necessary."
+    },
+    {
+      "article": "三十三",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、除本條第三項另有規定外，外交代表就其對派遣國所為之服務而言，應免適用接受國施行之社會保險辦法。 \n二、專受外交代表雇用之私人僕役亦應享有本條第一項所規定之豁免，但以符合下列條件為限：（甲）非接受國國民且不在該國永久居留者；（乙）受有派遣國或第三國之社會保險辦法保護者。 \n三、外交代表如其所雇人員不得享受本條第二項所規定之豁免，應履行接受國社會保險辦法對雇主所規定之義務。\n四、本條第一項及第二項所規定之豁免不妨礙對於接受國社會保險制度之自願參加，但以接受國許可參加為限。\n五、本條規定不影響前此所訂關於社會保險之雙邊或多邊協定，亦不禁止此類協定之於將來議訂。",
+      "content_en": "1. Subject to the provisions of paragraph 3 of this article, a diplomatic agent shall with respect to services rendered for the sending State be exempt from social security provisions which may be in force in the receiving State.\n2. The exemption provided for in paragraph 1 of this article shall also apply to private servants who are in the sole employ of a diplomatic agent, on condition:(a) That they are not nationals of or permanently resident in the receiving State; and(b) That they are covered by the social security provisions which may be in force in the sending State or a third State.\n3. A diplomatic agent who employs persons to whom the exemption provided for in paragraph 2 of this article does not apply shall observe the obligations which the social security provisions of the receiving State impose upon employers.\n4. The exemption provided for in paragraphs 1 and 2 of this article shall not preclude voluntary participation in the social security system of the receiving State provided that such participation is permitted by that State.\n5. The provisions of this article shall not affect bilateral or multilateral agreements concerning social security concluded previously and shall not prevent the conclusion of such agreements in the future."
+    },
+    {
+      "article": "三十四",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "外交代表免納一切對人或對物課徵之國家、區域、或地方性捐稅，但下列各項，不在此列： （甲）通常計入商品或勞務價格內之間接稅；（乙）對於接受國境內私有不動產課徵之捐稅，但其代表派遣國為使館用途而置有之不動產，不在此列；（丙）接受國課徵之遺產稅、遺產取得稅或繼承稅，但以不抵觸第三十九條第四項之規定為限；（丁）對於自接受國內獲致之私人所得課徵之捐稅，以及對於在接受國內商務事業上所為投資課徵之資本稅；（戊）為供給特定服務所收費用；（己）關於不動產之登記費、法院手續費或記錄費、抵押稅及印花稅；但第二十三條另有規定者，不在此列。",
+      "content_en": "A diplomatic agent shall be exempt from all dues and taxes, personal or real, national, regional or municipal, except:(a) Indirect taxes of a kind which are normally incorporated in the price of goods or services;(b) Dues and taxes on private immovable property situated in the territory of the receiving State, unless he holds it on behalf of the sending State for the purposes of the mission;(c) Estate, succession or inheritance duties levied by the receiving State, subject to the provisions of paragraph 4 of article 39;(d) Dues and taxes on private income having its source in the receiving State and capital taxes on investments made in commercial undertakings in the receiving State;(e) Charges levied for specific services rendered;(f) Registration, court or record fees, mortgage dues and stamp duty, with respect to immovable property, subject to the provisions of article 23."
+    },
+    {
+      "article": "三十五",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "接受國對外交代表應免除一切個人勞務及所有各種公共服務，並應免除關於徵用、軍事募捐及屯宿等之軍事義務。",
+      "content_en": "The receiving State shall exempt diplomatic agents from all personal services, from all public service of any kind whatsoever, and from military obligations such as those connected with requisitioning, military contributions and billeting."
+    },
+    {
+      "article": "三十六",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、接受國應依本國製定之法律規章，准許下列物品入境，並免除一切關稅及貯存、運送及類似服務費用以外之一切其他課徵： （甲）使館公務用品；（乙）外交代表或與其構成同一戶口之家屬之私人用品，包括供其定居之用之物品在內。 \n二、外交代表私人行李免受查驗，但有重大理由推定其中裝有不在本條第一項所稱免稅之列之物品，或接受國法律禁止進出口或有檢疫條例加以管制之物品者，不在此限。遇此情形，查驗須有外交代表或其授權代理人在場，方得為之。",
+      "content_en": "1. The receiving State shall, in accordance with such laws and regulations as it may adopt, permit entry of and grant exemption from all customs duties, taxes, and related charges other than charges for storage, cartage and similar services, on:(a) Articles for the official use of the mission;(b) Articles for the personal use of a diplomatic agent or members of his family forming part of his household, including articles intended for his establishment.\n2. The personal baggage of a diplomatic agent shall be exempt from inspection, unless there are serious grounds for presuming that it contains articles not covered by the exemptions mentioned in paragraph 1 of this article, or articles the import or export of which is prohibited by the law or controlled by the quarantine regulations of the receiving State. Such inspection shall be conducted only in the presence of the diplomatic agent or of his authorized representative."
+    },
+    {
+      "article": "三十七",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、外交代表之與其構成同一戶口之家屬，如非接受國國民，應享有第二十九條至三十六條所規定之特權與豁免。 \n二、使館行政與技術職員暨與其構成同一戶口之家屬，如非接受國國民且不在該國永久居留者，均享有第二十九條至第三十五條所規定之特權與豁免，但第三十一條第一項所規定對接受國民事及行政管轄之豁免不適用於執行職務範圍以外之行為。關於最初定居時所輸入之物品，此等人員亦享有第三十六條第一項所規定之特權。 \n三、使館事務職員如非接受國國民且不在該國永久居留者，就其執行公務之行為享有豁免，其受雇所得酬報免納捐稅，並享有第三十三條所載之豁免。 \n四、使館人員之私人僕役如非接受國國民且不在該國永久居留者，其受雇所得酬報免納捐稅。在其他方面，此等人員僅得在接受國許可範圍內享有特權與豁免。但接受國對此等人員所施之管轄應妥為行使，以免對使館職務之執行有不當之妨礙。",
+      "content_en": "1. The members of the family of a diplomatic agent forming part of his household shall, if they are not nationals of the receiving State, enjoy the privileges and immunities specified in articles 29 to 36.\n2. Members of the administrative and technical staff of the mission, together with members of their families forming part of their respective households, shall, if they are not nationals of or 12 permanently resident in the receiving State, enjoy the privileges and immunities specified in articles 29 to 35, except that the immunity from civil and administrative jurisdiction of the receiving State specified in paragraph 1 of article 31 shall not extend to acts performed outside the course of their duties. They shall also enjoy the privileges specified in article 36, paragraph 1, in respect of articles imported at the time of first installation.\n3. Members of the service staff of the mission who are not nationals of or permanently resident in the receiving State shall enjoy immunity in respect of acts performed in the course of their duties, exemption from dues and taxes on the emoluments they receive by reason of their employment and the exemption contained in article 33.\n4. Private servants of members of the mission shall, if they are not nationals of or permanently resident in the receiving State, be exempt from dues and taxes on the emoluments they receive by reason of their employment. In other respects, they may enjoy privileges and immunities only to the extent admitted by the receiving State. However, the receiving State must exercise its jurisdiction over those persons in such a manner as not to interfere unduly with the performance of the functions of the mission."
+    },
+    {
+      "article": "三十八",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、除接受國特許享受其他特權及豁免外，外交代表為接受國國民或在該國永久居留者，僅就其執行職務之公務行為，享有管轄之豁免及不得侵犯權。 \n二、其他使館館員及私人僕役為接受國國民或在該國永久居留者僅得在接受國許可之範圍內享有特權與豁免。但接受國對此等人員所施之管轄應妥為行使，以免對使館職務之執行有不當之妨礙。",
+      "content_en": "1. Except insofar as additional privileges and immunities may be granted by the receiving State, a diplomatic agent who is a national of or permanently resident in that State shall enjoy only immunity from jurisdiction, and inviolability, in respect of official acts performed in the exercise of his functions.\n2. Other members of the staff of the mission and private servants who are nationals of or permanently resident in the receiving State shall enjoy privileges and immunities only to the extent admitted by the receiving State. However, the receiving State must exercise its jurisdiction over those persons in such a manner as not to interfere unduly with the performance of the functions of the mission."
+    },
+    {
+      "article": "三十九",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、凡享有外交特權與豁免之人，自其進入接受國國境前往就任之時起享有此項特權與豁免，其已在該國境內者，自其委派通知外交部或另經商定之其他部之時開始享有。 \n二、享有特權與豁免人員之職務如已終止，此項特權與豁免通常於該員離境之時或聽任其離境之合理期限終了之時停止，縱有武裝衝突情事，亦應繼續有效至該時為止。但關於其以使館人員資格執行職務之行為，豁免應始終有效。\n三、遇使館人員死亡，其家屬應繼續享有應享之特權與豁免，至聽任其離境之合理期間終了之時為止。\n四、遇非為接受國國民且不在該國永久居留之使館人員或與其構成同一戶口之家屬死亡，接受國應許可亡故者之動產移送出國，但任何財產如係在接受國內取得而在當事人死亡時禁止出口者，不在此列。動產之在接受國純係因亡故者為使館人員或其家屬而在接受國境內所致者，應不課徵遺產稅、遺產取得稅及繼承稅。",
+      "content_en": "1. Every person entitled to privileges and immunities shall enjoy them from the moment he enters the territory of the receiving State on proceeding to take up his post or, if already in its territory, from the moment when his appointment is notified to the Ministry for Foreign Affairs or such other ministry as may be agreed.\n2. When the functions of a person enjoying privileges and immunities have come to an end, such privileges and immunities shall normally cease at the moment when he leaves the country, or on expiry of a reasonable period in which to do so, but shall subsist until that time, even in case of armed conflict. However, with respect to acts performed by such a person in the exercise of his functions as a member of the mission, immunity shall continue to subsist.\n3. In case of the death of a member of the mission, the members of his family shall continue to enjoy the privileges and immunities to which they are entitled until the expiry of a reasonable period in which to leave the country.\n4. In the event of the death of a member of the mission not a national of or permanently resident in the receiving State or a member of his family forming part of his household, the receiving State shall permit the withdrawal of the movable property of the deceased, with the exception of any property acquired in the country the export of which was prohibited at the time of his death. Estate, succession and inheritance duties shall not be levied on movable property the presence of which in the receiving State was due solely to the presence there of the deceased as a member of the mission or as a member of the family of a member of the mission."
+    },
+    {
+      "article": "四十",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、遇外交代表前往就任或返任或返回本國，道經第三國國境或在該國境內，而該國曾發給所需之護照簽證時，第三國應給予不得侵犯權及確保其過境或返回所必須之其他豁免。享有外交特權或豁免之家屬與外交代表同行時，或單獨旅行前往會聚或返回本國時，本項規定同樣適用。 \n二、遇有類似本條第一項所述之情形，第三國不得阻礙使館之行政與技術或事務職員及其家屬經過該國國境。\n三、第三國對於過境之來往公文及其他公務通訊，包括明密碼電信在內，應一如接受國給予同樣之自由及保護。第三國於已發給所需護照簽證之外交信差及外交郵袋過境時，應比照接受國所負之義務，給予同樣之不得侵犯權及保護。\n四、第三國依本條第一項、第二項及第三項規定所負之義務，對於各該項內分別述及之人員與公務通訊及外交郵袋之因不可抗力而在第三國境內者，亦適用之。",
+      "content_en": "1. If a diplomatic agent passes through or is in the territory of a third State, which has granted him a passport visa if such visa was necessary, while proceeding to take up or to return to his post, or when returning to his own country, the third State shall accord him inviolability and such other immunities as may be required to ensure his transit or return. The same shall apply in the case of any members of his family enjoying privileges or immunities who are accompanying the diplomatic agent, or travelling separately to join him or to return to their country.\n2. In circumstances similar to those specified in paragraph 1 of this article, third States shall not hinder the passage of members of the administrative and technical or service staff of a mission, and of members of their families, through their territories.\n3. Third States shall accord to official correspondence and other official communications in transit, including messages in code or cipher, the same freedom and protection as is accorded by the receiving State. They shall accord to diplomatic couriers, who have been granted a passport visa if such visa was necessary, and diplomatic bags in transit, the same inviolability and protection as the receiving State is bound to accord.\n4. The obligations of third States under paragraphs 1, 2 and 3 of this article shall also apply to the persons mentioned respectively in those paragraphs, and to official communications and diplomatic bags, whose presence in the territory of the third State is due to force majeure."
+    },
+    {
+      "article": "四十一",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、在不妨礙外交特權與豁免之情形下，凡享有此項特權與豁免之人員，均負有尊重接受國法律規章之義務。此等人員並負有不干涉該國內政之義務。 \n二、使館承派遣國之命與接受國洽商公務，概應逕與或經由接受國外交部或另經商定之其他部辦理。\n三、使館館舍不得充作與本公約或一般國際法之其他規則、或派遣國與接受國間有效之特別協定所規定之使館職務不相符合之用途。",
+      "content_en": "1. Without prejudice to their privileges and immunities, it is the duty of all persons enjoying such privileges and immunities to respect the laws and regulations of the receiving State. They also have a duty not to interfere in the internal affairs of that State.\n2. All official business with the receiving State entrusted to the mission by the sending State shall be conducted with or through the Ministry for Foreign Affairs of the receiving State or such other ministry as may be agreed.\n3. The premises of the mission must not be used in any manner incompatible with the functions of the mission as laid down in the present Convention or by other rules of general international law or by any special agreements in force between the sending and the receiving State."
+    },
+    {
+      "article": "四十二",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "外交代表不應在接受國內為私人利益從事任何專業或商業活動。",
+      "content_en": "A diplomatic agent shall not in the receiving State practise for personal profit any professional or commercial activity."
+    },
+    {
+      "article": "四十三",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "除其他情形外，外交代表之職務遇有下列情事之一即告終了： （甲）派遣國通知接受國謂外交代表職務業已終了；（乙）接受國通知派遣國謂依第九條第二項之規定該國拒絕承認該外交代表為使館人員。",
+      "content_en": "The function of a diplomatic agent comes to an end, inter alia:(a) On notification by the sending State to the receiving State that the function of the diplomatic agent has come to an end;(b) On notification by the receiving State to the sending State that, in accordance with paragraph 2 of Article 9, it refuses to recognize the diplomatic agent as a member of the mission."
+    },
+    {
+      "article": "四十四",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "接受國對於非為接受國國民之享有特權與豁免人員，以及此等人員之家屬，不論其國籍為何，務須給予便利使能儘早離境，縱有武裝衝突情事，亦應如此辦理。遇必要時，接受國尤須供給其本人及財產所需之交通運輸工具。",
+      "content_en": "The receiving State must, even in case of armed conflict, grant facilities in order to enable persons enjoying privileges and immunities, other than nationals of the receiving State, and members of the families of such persons irrespective of their nationality, to leave at the earliest possible moment. It must, in particular, in case of need, place at their disposal the necessary means of transport for themselves and their property."
+    },
+    {
+      "article": "四十五",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "遇兩國斷絕外交關係，或遇使館長期或暫時撤退時：（甲）接受國務應尊重並保護使館館舍以及使館財產與檔案，縱有武裝衝突情事，亦應如此辦理；（乙）派遣國得將使館館舍以及使館財產與檔案委託接受國認可之第三國保管；（丙）派遣國得委託接受國認可之第三國代為保護派遣國及其國民之利益。",
+      "content_en": "If diplomatic relations are broken off between two States, or if a mission is permanently or temporarily recalled:(a) The receiving State must, even in case of armed conflict, respect and protect the premises of the mission, together with its property and archives;(b) The sending State may entrust the custody of the premises of the mission, together with its property and archives, to a third State acceptable to the receiving State;(c) The sending State may entrust the protection of its interests and those of its nationals to a third State acceptable to the receiving State."
+    },
+    {
+      "article": "四十六",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "派遣國經接受國事先同意，得應未在接受國內派有代表之第三國之請求，負責暫時保護該第三國及其國民之利益。",
+      "content_en": "A sending State may with the prior consent of a receiving State, and at the request of a third State not represented in the receiving State, undertake the temporary protection of the interests of the third State and of its nationals."
+    },
+    {
+      "article": "四十七",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、接受國適用本公約規定時，對各國不得差別待遇。\n二、但下列情形不以差別待遇論： （甲）接受國因派遣國對接受國使館適用本公約任一規定有所限制，對同一規定之適用亦予限制；（乙）各國依慣例或協定、彼此給予較本公約所規定者更為有利之待遇。",
+      "content_en": "1. In the application of the provisions of the present Convention, the receiving State shall not discriminate as between States.\n2. However, discrimination shall not be regarded as taking place:(a) Where the receiving State applies any of the provisions of the present Convention restrictively because of a restrictive application of that provision to its mission in the sending State;(b) Where by custom or agreement States extend to each other more favourable treatment than is required by the provisions of the present Convention."
+    },
+    {
+      "article": "四十八",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "本公約應聽由聯合國或任何專門機關之全體會員國，或國際法院規約當事國，及經聯合國大會邀請成為本公約當事一方之任何其他國家簽署，其辦法如下：至一九六一年十月三十一日止在奧地利聯邦外交部簽署，其後至一九六二年三月三十一日止在紐約聯合國會所簽署。",
+      "content_en": "The present Convention shall be open for signature by all States Members of the United Nations or of any of the specialized agencies Parties to the Statute of the International Court of Justice, and by any other State invited by the General Assembly of the United Nations to become a Party to the Convention, as follows: until 31 October 1961 at the Federal Ministry for Foreign Affairs of Austria and subsequently, until 31 March 1962, at the United Nations Headquarters in New York."
+    },
+    {
+      "article": "四十九",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "本公約須經批准。批准文件應送交聯合國秘書長存放。",
+      "content_en": "The present Convention is subject to ratification. The instruments of ratification shall be deposited with the Secretary-General of the United Nations."
+    },
+    {
+      "article": "五十",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "本公約應聽由屬於第四十八條所稱四類之一之國家加入。加入文件應送交聯合國秘書長存放。",
+      "content_en": "The present Convention shall remain open for accession by any State belonging to any of the four categories mentioned in article 48. The instruments of accession shall be deposited with the Secretary- General of the United Nations."
+    },
+    {
+      "article": "五十一",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "一、本公約應於第二十二件批准或加入文件送交聯合國秘書長存放之日後第三十日起發生效力。 \n二、對於在第二十二件批准或加入文件存放後批准或加入本公約之國家，本公約應於各該國存放批准或加入文件後第三十日起發生效力。",
+      "content_en": "1. The present Convention shall enter into force on the thirtieth day following the date of deposit of the twenty-second instrument of ratification or accession with the Secretary-General of the United Nations.\n2. For each State ratifying or acceding to the Convention after the deposit of the twenty-second instrument of ratification or accession, the Convention shall enter into force on the thirtieth day after deposit by such State of its instrument of ratification or accession."
+    },
+    {
+      "article": "五十二",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "聯合國秘書長應將下列事項通知所有屬於第四十八條所稱四類之一之國家： （甲）依第四十八條，第四十九條及第五十條對本公約所為之簽署及送存之批准或加入文件；（乙）依第五十一條本公約發生效力之日期。",
+      "content_en": "The Secretary-General of the United Nations shall inform all States belonging to any of the four categories mentioned in article 48:(a) Of signatures to the present Convention and of the deposit of instruments of ratification or accession, in accordance with articles 48, 49 and 50;(b) Of the date on which the present Convention will enter into force, in accordance with article 51."
+    },
+    {
+      "article": "五十三",
+      "title_zh": "",
+      "title_en": "",
+      "content_zh": "本公約之原本應交聯合國秘書長存放，其中文、英文、法文、俄文及西班牙文各本同一作準；秘書長應將各文正式副本分送所有屬於第四十八條所稱四類之一之國家。 \n\n為此，下列全權代表，各秉本國政府正式授予簽字之權，謹簽字於本公約，以昭信守。 西元一千九百六十一年四月十八日訂於維也納。",
+      "content_en": "The original of the present Convention, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations, who shall send certified copies thereof to all States belonging to any of the four categories mentioned in Article 48."
+    }
+  ]
+}

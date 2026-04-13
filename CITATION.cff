@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "Open Treaties: Bilingual International Treaty Corpus"
+message: "If you use this dataset, please cite it using the metadata from this file."
+type: dataset
+authors:
+  - name: LawChat
+    email: opensource@lawchat.com.tw
+    website: https://lawchat.com.tw
+repository-code: https://github.com/lawchat-oss/open-treaties
+url: https://lawchat-oss.github.io/open-treaties/
+abstract: >-
+  A structured bilingual (Traditional Chinese and English) dataset of
+  28 international treaties comprising 1,914 articles with full preambles.
+  Covers UN Charter, ICCPR, ICESCR, UNCLOS, Geneva Conventions, Rome Statute,
+  VCLT, UDHR, CEDAW, CRC, CRPD, and more.
+keywords:
+  - international law
+  - treaty
+  - human rights
+  - bilingual
+  - traditional chinese
+  - open data
+  - legal data
+  - mcp
+license: CC0-1.0
+version: 1.0.0
+date-released: "2026-04-13"

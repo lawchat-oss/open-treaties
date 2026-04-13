@@ -1,0 +1,758 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>關於難民地位的公約 — Open Treaties</title>
+<meta name="description" content="關於難民地位的公約（Convention Relating to the Status of Refugees）全文 46 條，中英雙語對照。">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600;700&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+tailwind.config={theme:{extend:{colors:{primary:'#1E40AF','primary-light':'#3B82F6',accent:'#F59E0B',surface:'#F8FAFC','text-heading':'#1E3A8A','text-body':'#334155','text-muted':'#64748B',sidebar:'#F1F5F9','sidebar-hover':'#E2E8F0','sidebar-active':'#DBEAFE'},fontFamily:{heading:['"EB Garamond"','Georgia','serif'],body:['Lato','system-ui','sans-serif']}}}}
+</script>
+<style>
+html{scroll-behavior:smooth}
+.sidebar-scroll::-webkit-scrollbar{width:4px}
+.sidebar-scroll::-webkit-scrollbar-thumb{background:#CBD5E1;border-radius:2px}
+.art-target:target{background:#DBEAFE;border-left:3px solid #1E40AF;margin-left:-3px}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+</style>
+</head>
+<body class="bg-surface text-text-body font-body antialiased">
+
+<!-- Top bar -->
+<header class="sticky top-0 z-40 bg-white/95 backdrop-blur border-b border-gray-200">
+  <div class="max-w-7xl mx-auto flex items-center h-12 px-4">
+    <a href="../" class="font-heading text-sm font-bold text-text-heading hover:text-primary cursor-pointer transition-colors duration-200 mr-4">Open Treaties</a>
+    <svg class="w-3 h-3 text-gray-400 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+    <span class="text-xs text-text-muted mr-2">難民法 Refugee Law</span>
+    <svg class="w-3 h-3 text-gray-400 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+    <span class="text-xs text-text-heading font-medium truncate">關於難民地位的公約</span>
+    <div class="ml-auto flex border border-gray-200 rounded-lg overflow-hidden">
+      <button onclick="setLang('zh')" class="lang-btn px-3 py-1 text-xs bg-primary text-white cursor-pointer transition-colors duration-200" data-l="zh">中文</button>
+      <button onclick="setLang('en')" class="lang-btn px-3 py-1 text-xs bg-white text-text-muted hover:bg-gray-50 cursor-pointer transition-colors duration-200" data-l="en">EN</button>
+      <button onclick="setLang('both')" class="lang-btn px-3 py-1 text-xs bg-white text-text-muted hover:bg-gray-50 cursor-pointer transition-colors duration-200" data-l="both">雙語</button>
+    </div>
+  </div>
+</header>
+
+<div class="max-w-7xl mx-auto flex">
+  <!-- TOC sidebar -->
+  <aside class="hidden lg:block w-56 shrink-0 sticky top-12 h-[calc(100vh-3rem)] border-r border-gray-200 bg-white overflow-y-auto sidebar-scroll py-3 px-2">
+    <div class="text-xs font-bold text-text-muted uppercase tracking-wider px-2 mb-2">條文目錄</div>
+    <a href="#art-一" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第一條 「難民」一詞的定義">第一條 「難民」一詞的定義</a>
+<a href="#art-二" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第二條 一般義務">第二條 一般義務</a>
+<a href="#art-三" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第三條 不受歧視">第三條 不受歧視</a>
+<a href="#art-四" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第四條 宗教">第四條 宗教</a>
+<a href="#art-五" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第五條 與本公約無關的權利">第五條 與本公約無關的權利</a>
+<a href="#art-六" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第六條 「在同樣情況下」一詞的意義">第六條 「在同樣情況下」一詞的意義</a>
+<a href="#art-七" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第七條 相互條件的免除">第七條 相互條件的免除</a>
+<a href="#art-八" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第八條 特殊措施的免除">第八條 特殊措施的免除</a>
+<a href="#art-九" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第九條 臨時措施">第九條 臨時措施</a>
+<a href="#art-十" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第十條 繼續居住">第十條 繼續居住</a>
+<a href="#art-十一" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第十一條 避難海員">第十一條 避難海員</a>
+<a href="#art-十二" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第十二條 個人身分">第十二條 個人身分</a>
+<a href="#art-十三" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第十三條 動產和不動產">第十三條 動產和不動產</a>
+<a href="#art-十四" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第十四條 藝術權利和工業財產">第十四條 藝術權利和工業財產</a>
+<a href="#art-十五" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第十五條 結社的權利">第十五條 結社的權利</a>
+<a href="#art-十六" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第十六條 向法院申訴的權利">第十六條 向法院申訴的權利</a>
+<a href="#art-十七" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第十七條 以工資受償的僱傭">第十七條 以工資受償的僱傭</a>
+<a href="#art-十八" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第十八條 自營職業">第十八條 自營職業</a>
+<a href="#art-十九" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第十九條 自由職業">第十九條 自由職業</a>
+<a href="#art-二十" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第二十條 定額供應">第二十條 定額供應</a>
+<a href="#art-二十一" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第二十一條 房屋">第二十一條 房屋</a>
+<a href="#art-二十二" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第二十二條 公共教育">第二十二條 公共教育</a>
+<a href="#art-二十三" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第二十三條 公共救濟">第二十三條 公共救濟</a>
+<a href="#art-二十四" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第二十四條 勞動立法和社會安全">第二十四條 勞動立法和社會安全</a>
+<a href="#art-二十五" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第二十五條 行政協助">第二十五條 行政協助</a>
+<a href="#art-二十六" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第二十六條 行動自由">第二十六條 行動自由</a>
+<a href="#art-二十七" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第二十七條 身分證件">第二十七條 身分證件</a>
+<a href="#art-二十八" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第二十八條 旅行證件">第二十八條 旅行證件</a>
+<a href="#art-二十九" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第二十九條 財政徵收">第二十九條 財政徵收</a>
+<a href="#art-三十" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第三十條 資產的移轉">第三十條 資產的移轉</a>
+<a href="#art-三十一" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第三十一條 非法留在避難國的難民">第三十一條 非法留在避難國的難民</a>
+<a href="#art-三十二" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第三十二條 驅逐出境">第三十二條 驅逐出境</a>
+<a href="#art-三十三" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第三十三條 禁止驅逐出境或送回(「推回」)">第三十三條 禁止驅逐出境或送回(「推回」)</a>
+<a href="#art-三十四" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第三十四條 入籍">第三十四條 入籍</a>
+<a href="#art-三十五" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第三十五條 國家當局同聯合國的合作">第三十五條 國家當局同聯合國的合作</a>
+<a href="#art-三十六" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第三十六條 關於國內立法的情報">第三十六條 關於國內立法的情報</a>
+<a href="#art-三十七" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第三十七條 對以前公約的關係">第三十七條 對以前公約的關係</a>
+<a href="#art-三十八" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第三十八條 爭端的解決">第三十八條 爭端的解決</a>
+<a href="#art-三十九" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第三十九條 簽字、批准和加入">第三十九條 簽字、批准和加入</a>
+<a href="#art-四十" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第四十條 領土適用條款">第四十條 領土適用條款</a>
+<a href="#art-四十一" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第四十一條 聯邦條款">第四十一條 聯邦條款</a>
+<a href="#art-四十二" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第四十二條 保留">第四十二條 保留</a>
+<a href="#art-四十三" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第四十三條 生效">第四十三條 生效</a>
+<a href="#art-四十四" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第四十四條 退出">第四十四條 退出</a>
+<a href="#art-四十五" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第四十五條 修改">第四十五條 修改</a>
+<a href="#art-四十六" class="block px-2 py-0.5 text-xs text-text-muted hover:text-primary hover:bg-sidebar-hover rounded cursor-pointer transition-colors duration-150 truncate" title="第四十六條 聯合國秘書長的通知">第四十六條 聯合國秘書長的通知</a>
+
+  </aside>
+
+  <!-- Main content -->
+  <main class="flex-1 min-w-0 px-4 sm:px-8 py-6 max-w-3xl">
+    <h1 class="font-heading text-2xl sm:text-3xl font-bold text-text-heading mb-1">關於難民地位的公約</h1>
+    <p class="text-sm text-text-muted mb-1">Convention Relating to the Status of Refugees</p>
+    <p class="text-xs text-text-muted mb-6">46 條條文 Articles</p>
+
+    <details class="mb-6 bg-white rounded-xl border border-gray-200 overflow-hidden" id="preamble">
+  <summary class="px-5 py-3 text-sm font-medium text-text-heading cursor-pointer hover:bg-gray-50 transition-colors duration-150">序言 Preamble</summary>
+  <div class="px-5 py-4 border-t border-gray-100 space-y-4">
+    <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed">締約各方，考慮到聯合國憲章和聯合國大會於一九四八年十二月十日通過的世界人權宣言確認人人享有基本權利和自由不受歧視的原則，
+
+考慮到聯合國在各種場合表示過它對難民的深切關懷，並且竭力保證難民可以最廣泛地行使此項基本權利和自由，考慮到通過一項新的協定來修正和綜合過去關於難民地位的國際協定並擴大此項文件的範圍及其所給予的保護是符合願望的，考慮到庇護權的給予可能使某些國家負荷過分的重擔，並且考慮到聯合國已經認識到這一問題的國際範圍和性質，因此，如果沒有國際合作，就不能對此問題達成滿意的解決，表示希望凡認識到難民問題的社會和人道性質的一切國家，將盡一切努力不使這一問題成爲國家之間緊張的原因，注意到聯合國難民事務高級專員對於規定保護難民的國際公約負有監督的任務，並認識到爲處理這一問題所採取措施的有效協調，將依賴於各國和高級專員的合作，茲議定如下：</div>
+    <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted hidden">The High Contracting Parties,Considering that the Charter of the United Nations and theUniversal Declaration of Human Rights approved on 10 December1948 by the General Assembly have affirmed the principle thathuman beings shall enjoy fundamental rights and freedoms withoutdiscrimination,Considering that the United Nations has, on various occasions,manifested its profound concern for refugees and endeavoured toassure refugees the widest possible exercise of these fundamentalrights and freedoms,Considering that it is desirable to revise and consolidateprevious international agreements relating to the status of refugeesand to extend the scope of and the protection accorded by suchinstruments by means of a new agreement,Considering that the grant of asylum may place unduly heavyburdens on certain countries, and that a satisfactory solutionof a problem of which the United Nations has recognized the international-scope and nature cannot therefore be achieved without internationalco-operation,Expressing the wish that all States, recognizing the socialand humanitarian nature of the problem of refugees, will do everythingwithin their power to prevent this problem from becoming a causeof tension between States,Noting that the United Nations High Commissioner for Refugeesis charged with the task of supervising international conventionsproviding for the protection of refugees, and recognizing thatthe effective co-ordination of measures taken to deal with thisproblem will depend upon the co-operation of States with the HighCommissioner,Have agreed as follows:</div>
+  </div>
+</details>
+
+    <div>
+      <div id="art-一" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-一" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第一條</a>
+    <span class="text-xs text-text-muted">Art. 一</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">「難民」一詞的定義</div><div class="text-sm font-medium text-text-muted en-content hidden">Definition of the term &quot;refugee&quot;</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">（一）本公約所用「難民」一詞適用於下列任何人：
+
+（甲）根據一九二六年五月十二日和一九二八年六月三十日的協議、或根據一九三三年十月二十八日和一九三八年二月十日的公約、以及一九三九年九月十四日的議定書、或國際難民組織約章被認為難民的人；
+
+國際難民組織在其執行職務期間所作關於不合格的決定，不妨礙對符合於本款（乙）項條件的人給予難民的地位。
+
+（乙） 由於一九五一年一月一日以前發生的事情並因有正當理由畏懼由於種族、宗教、國籍、屬於其一社會團體或具有某種政治見解的原因留在其本國之外，並且由於此項畏懼而不能或不願受該國保護的人；或者不具有國籍並由於上述事情留在他以前經常居住國家以外而現在不能或者由於上述畏懼不願返回該國的人。
+
+以於具有不止一國國籍的人，「本國」一詞是指他有國籍的每一國家。如果沒有實在可以發生畏懼的正當理由而不受他國籍所屬國家之一的保護時，不得認其缺乏本國的保護。
+
+（二）（甲）本公約第一條（一）款所用「一九五一年一月一日以前發生的事情」一語，應了解為：（子）「一九五一年一月一日以前在歐洲發生的事情」；或者（丑）「一九五一年一月一日以前在歐洲或其他地方發生的事情」；締約各國應於簽字、批准、或加入時聲明為了承擔本公約的義務，這一用語應作何解釋。
+
+（乙）已經採取上述（子）解釋的任何締約國，可以隨時向聯合國秘書長提出通知，採取（丑）解釋以擴大其義務。
+
+（三）如有下列各項情況，本公約應停止適宜於上述（甲）款所列的任何人：
+
+（甲）該人已自動接受其本國的保護；或者
+
+（乙）該人於喪失國籍後，又自動重新取得國籍；或者
+
+（丙）該人已取得新的國籍，並享受其新國籍國家的保護；或者
+
+（丁）該人已在過去由於畏受迫害而離去或躲開的國家內自動定居下來；或者
+
+（戊）該人由於被認為是難民所依據的情況不復存在而不能繼續拒絕受其本國的保護；
+
+但本項不適用於本條（一）款（甲）項所列的難民，如果他可以援引由於過去曾受迫害的重大理由以拒絕受其本國的保護；
+
+（己）該人本無國籍，由於被認為是難民所依據的情況不復存在而可以回到其以前經常居住的國家內；
+
+但本項不適用於本條（一）款（甲）項所列的難民，如果他可以援引由於過去曾受迫害的重大理由以拒絕受其以前經常居住國家的保護。
+
+（四）本公約不適用於目前從聯合國難民事務高級專員以外的聯合國機關或機構獲得保護或援助的人。
+
+當上述保護或援助由於任何原因停止而這些人的地位還沒有根據聯合國大會所通過的有關決議明確解決時，他們應在事實上享受本公約的利益。
+
+（五）本公約不適用於被其居住地國家主管當局認為具有附着於該國國籍的權利和義務的人。
+
+（六）本公約規定不適用於存在着重大理由足以認為有下列情事的任何人：
+
+（甲）該人犯了國際文件中已作出規定的破壞和平罪、戰爭罪、或危害人類罪；
+
+（乙）該人在以難民身分進入避難國以前，曾在避難國以外犯過嚴重的非政治性罪行；
+
+（丙）該人曾有違反聯合國宗旨和原則的行為並經認為有罪。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">A. For the purposes of the present Convention, the term &quot;refugee,,shall apply to any person who:
+(1) Has been considered a refugee under the Arrangements of12 May 1926 and 30 June 1928 or under the Conventions of 28 October1933 and 10 February 1938, the Protocol of 14 September 1939 orthe Constitution of the International Refugee Organization;Decisions of non-eligibility taken by the International RefugeeOrganization during the period of its activities shall not preventthe status of refugee being accorded to persons who fulfil theconditions of paragraph 2 of this section;
+(2) As a result of events occurring before I January 1951 andowing to well-founded fear of being persecuted for reasons ofrace, religion, nationality, membership of a particular socialgroup or political opinion, is outside the country of his nationalityand is unable, or owing to such fear, is unwilling to avail himselfof the protection of that country; or who, not having a nationalityand being outside the country of his former habitual residenceas a result of such events, is unable or, owing to such fear,is unwilling to return to it.In the case of a person who has more than one nationality,the term &quot;the country of his nationality&quot; shall meaneach of the countries of which he is a national, and a personshall not be deemed to be lacking the protection of the countryof his nationality if, without any valid reason based on well-foundedfear, he has not availed himself of the protection of one of thecountries of which he is a national.
+B. (1) For the purposes of this Convention, the words &quot;eventsoccurring before I January 1951&quot; in article 1, section A,shall be understood to mean either (a) &quot;events occurringin Europe before I January 1951&quot;; or (b) &quot;events occurringin Europe or elsewhere before I January 1951&quot;; and each ContractingState shall make a declaration at the time of signature, ratificationor accession, specifying which of these meanings it applies forthe purpose of its obligations under this Convention.
+(2) Any Contracting State which has adopted alternative (a)may at any time extend its obligations by adopting alternative(b) by means of a notification addressed to the Secretary-Generalof the United Nations.
+C. This Convention shall cease to apply to any person fallingunder the terms of section A if:
+(1) He has voluntarily re-availed himself of the protectionof the country of his nationality; or
+(2) Having lost his nationality, he has voluntarily reacquiredit; or
+(3) He has acquired a new nationality, and enjoys the protectionof the country of his new nationality; or
+(4) He has voluntarily re-established himself in the countrywhich he left or outside which he remained owing to fear of persecution;or
+(5) He can no longer, because the circumstances in connectionwith which he has been recognized as a refugee have ceased toexist, continue to refuse to avail himself of the protection ofthe country of his nationality;Provided that this paragraph shall not apply to a refugee fallingunder section A (I) of this article who is able to invoke compellingreasons arising out of previous persecution for refusing to availhimself of the protection of the country of nationality;
+(6) Being a person who has no nationality he is, because thecircumstances in connection with which he has been recognizedas a refugee have ceased to exist, able to return to the countryof his former habitual residence;Provided that this paragraph shall not apply to a refugee fallingunder section A (I) of this article who is able to invoke compellingreasons arising out of previous persecution for refusing to returnto the country of his former habitual residence.
+D. This Convention shall not apply to persons who are at presentreceiving from organs or agencies of the United Nations otherthan the United Nations High Commissioner for Refugees protectionor assistance.When such protection or assistance has ceased for any reason,without the position of such persons being definitively settledin accordance with the relevant resolutions adopted by the GeneralAssembly of the United Nations, these persons shall ipso factobe entitled to the benefits of this Convention.
+E. This Convention shall not apply to a person who is recognizedby the competent authorities of the country in which he has takenresidence as having the rights and obligations which are attachedto the possession of the nationality of that country.
+F. The provisions of this Convention shall not apply to any person with respectto whom there are serious reasons for considering that:(a) He has committed a crime against peace, a war crime, ora crime against humanity, as defined in the international instrumentsdrawn up to make provision in respect of such crimes;(b) He has committed a serious non-political crime outsidethe country of refuge prior to his admission to that country asa refugee;(c) He has been guilty of acts contrary to the purposes andprinciples of the United Nations.</div>
+</div>
+<div id="art-二" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-二" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第二條</a>
+    <span class="text-xs text-text-muted">Art. 二</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">一般義務</div><div class="text-sm font-medium text-text-muted en-content hidden">General obligations</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">一切難民對其所在國負有責任，此項責任特別要求他們遵守該國的法律和規章以及為維護公共秩序而採取的措施。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">Every refugee has duties to the country in which he finds himself,which require in particular that he conform to its laws and regulationsas well as to measures taken for the maintenance of public order.</div>
+</div>
+<div id="art-三" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-三" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第三條</a>
+    <span class="text-xs text-text-muted">Art. 三</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">不受歧視</div><div class="text-sm font-medium text-text-muted en-content hidden">Non-discrimination</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">締約各國應對難民不分種族、宗教、或國籍，適用本公約的規定。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">The Contracting States shall apply the provisions of this Conventionto refugees without discrimination as to race, religion or countryof origin.</div>
+</div>
+<div id="art-四" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-四" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第四條</a>
+    <span class="text-xs text-text-muted">Art. 四</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">宗教</div><div class="text-sm font-medium text-text-muted en-content hidden">Religion</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">締約各國對在其領土內的難民，關於舉行宗教儀式的自由以及對其子女施加宗教教育的自由方面，應至少給予其本國國民所獲得的待遇。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">The Contracting States shall accord to refugees within theirterritories treatment at least as favourable as that accordedto their nationals with respect to freedom to practise their religionand freedom as regards the religious education of their children.</div>
+</div>
+<div id="art-五" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-五" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第五條</a>
+    <span class="text-xs text-text-muted">Art. 五</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">與本公約無關的權利</div><div class="text-sm font-medium text-text-muted en-content hidden">Rights granted apart from this Convention</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">本公約任何規定不得認為妨礙一個締約國並非由於本公約而給予難民的權利和利益。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">Nothing in this Convention shall be deemed to impair any rightsand benefits granted by a Contracting State to refugees apartfrom this Convention.</div>
+</div>
+<div id="art-六" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-六" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第六條</a>
+    <span class="text-xs text-text-muted">Art. 六</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">「在同樣情況下」一詞的意義</div><div class="text-sm font-medium text-text-muted en-content hidden">The term &quot;in the same circumstances&quot;</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">本公約所用「在同樣情況下」一詞意味着凡是個別的人如果不是難民為了享受有關的權利所必需具備的任何要件(包括關於旅居或居住的期間和條件的要件)，但按照要件的性質，難民不可能具備者，則不在此例。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">For the purposes of this Convention, the term &quot;in the same circumstances&quot;implies that any requirements (including requirements as to length and conditionsof sojourn or residence) which the particular individual would have to fulfilfor the enjoyment of the right in question, if he were not a refugee, must befulfilled by him, with the exception of requirements which by their nature arefugee is incapable of fulfilling.</div>
+</div>
+<div id="art-七" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-七" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第七條</a>
+    <span class="text-xs text-text-muted">Art. 七</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">相互條件的免除</div><div class="text-sm font-medium text-text-muted en-content hidden">Exemption from reciprocity</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">（一）除本公約載有更有利的規定外，締約國應給予難民以一般外國人所獲得的待遇。
+
+（二）一切難民在居住期滿三年以後，應在締約各國領土內享受立法上相互條件的免除。
+
+（三）締約各國應繼續給予難民在本公約對該國生效之日他們無需在相互條件下已經有權享受的權利和利益。
+
+（四）締約各國對無需在相互條件下給予難民根據第（二）、（三）兩款他們有權享受以外的權利和利益，以及對不具備第（二）、（三）兩款所規定條件的難民亦免除相互條件的可能性，應給予有利的考慮。
+
+(五) 第(二)、(三)兩款的規定對本公約第十三、十八、十九、二十一和二十二條所指權利和利益，以及本公約並未規定的權利和利益，均予適用。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">1. Except where this Convention contains more favourable provisions,a Contracting State shall accord to refugees the same treatmentas is accorded to aliens generally.
+2. After a period of three years' residence, all refugees shallenjoy exemption from legislative reciprocity in the territoryof the Contracting States.
+3. Each Contracting State shall continue to accord to refugeesthe rights and benefits to which they were already entitled, inthe absence of reciprocity, at the date of entry into force ofthis Convention for that State.
+4. The Contracting States shall consider favourably the possibilityof according to refugees, in the absence of reciprocity, rightsand benefits beyond those to which they are entitled accordingto paragraphs 2 and 3, and to extending exemption from reciprocityto refugees who do not fulfil the conditions provided for in paragraphs2 and 3.
+5. The provisions of paragraphs 2 and 3 apply both to the rightsand benefits referred to in articles 13, 18, 19, 21 and 22 ofthis Convention and to rights and benefits for which this Conventiondoes not provide.</div>
+</div>
+<div id="art-八" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-八" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第八條</a>
+    <span class="text-xs text-text-muted">Art. 八</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">特殊措施的免除</div><div class="text-sm font-medium text-text-muted en-content hidden">Exemption from exceptional measures</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">關於對一外國國民的人身、財產、或利益所得採取的特殊措施，締約各國不得對形式上為該外國國民的難民僅僅因其所屬國籍而對其適用此項措施。締約各國如根據其國內法不能適用本條所表示的一般原則，應在適當情況下，對此項難民給予免除的優惠。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">With regard to exceptional measures which may be taken againstthe person, property or interests of nationals of a foreign State,the Contracting States shall not apply such measures to a refugeewho is formally a national of the said State solely on accountof such nationality. Contracting States which, under their legislation,are prevented from applying the general principle expressed inthis article, shall, in appropriate cases, grant exemptions infavour of such refugees.</div>
+</div>
+<div id="art-九" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-九" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第九條</a>
+    <span class="text-xs text-text-muted">Art. 九</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">臨時措施</div><div class="text-sm font-medium text-text-muted en-content hidden">Provisional measures</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">本公約的任何規定並不妨礙一締約國在戰時或其他嚴重和特殊情況下對個別的人在該締約國斷定該人確為難民以前，並且認為有必要為了國家安全的利益應對該人繼續採取措施時，對他臨時採取該國所認為對其國家安全是迫切需要的措施。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">Nothing in this Convention shall prevent a Contracting State,in time of war or other grave and exceptional circumstances, fromtaking provisionally measures which it considers to be essentialto the national security in the case of a particular person, pendinga determination by the Contracting State that that person is infact a refugee and that the continuance of such measures is necessaryin his case in the interests of national security.</div>
+</div>
+<div id="art-十" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-十" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第十條</a>
+    <span class="text-xs text-text-muted">Art. 十</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">繼續居住</div><div class="text-sm font-medium text-text-muted en-content hidden">Continuity of residence</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">（一）難民如在第二次世界大戰時被強制放逐並移至締約一國的領土並在其內居住，這種強制留居的時期應被認為在該領土內合法居住期間以內。
+
+（二）難民如在第二次世界大戰時被強制逐出締約一國的領土，而在本公約生效之日以前返回該國準備定居，則在強制放逐以前和以後的居住時期，為了符合於繼續居住這一要求的任何目的，應被認為是一個未經中斷的期間。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">1. Where a refugee has been forcibly displaced during the SecondWorld War and removed to the territory of a Contracting State,and is resident there, the period of such enforced sojourn shallbe considered to have been lawful residence within that territory.
+2. Where a refugee has been forcibly displaced during the SecondWorld War from the territory of a Contracting State and has, priorto the date of entry into force of this Convention, returned therefor the purpose of taking up residence, the period of residencebefore and after such enforced displacement shall be regardedas one uninterrupted period for any purposes for which uninterruptedresidence is required.</div>
+</div>
+<div id="art-十一" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-十一" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第十一條</a>
+    <span class="text-xs text-text-muted">Art. 十一</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">避難海員</div><div class="text-sm font-medium text-text-muted en-content hidden">Refugee seamen</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">對於在懸掛締約一國國旗的船上正常服務的難民，該國對於他們在其領土內定居以及發給他們旅行證件或者暫時接納他們到該國領土內，特別是為了便利他們在另一國家定居的目的，均應給予同情的考慮。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">In the case of refugees regularly serving as crew members onboard a ship flying the flag of a Contracting State, that Stateshall give sympathetic consideration to their establishment onits territory and the issue of travel documents to them or theirtemporary admission to its territory particularly with a viewto facilitating their establishment in another country.CHAPTER IIJURIDICAL STATUS</div>
+</div>
+<div id="art-十二" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-十二" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第十二條</a>
+    <span class="text-xs text-text-muted">Art. 十二</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">個人身分</div><div class="text-sm font-medium text-text-muted en-content hidden">Personal status</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">（一）難民的個人身分，應受其住所地國家的法律支配，如無住所，則受其居住地國家的法律支配。
+
+（二）難民以前由於個人身分而取得的權利，特別是關於婚姻的權利，應受到締約一國的尊重，如必要時應遵守該國法律所要求的儀式，但以如果他不是難民該有關的權利亦被該國法律承認者為限。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">1. The personal status of a refugee shall be governed by thelaw of the country of his domicile or, if he has no domicile,by the law of the country of his residence.
+2. Rights previously acquired by a refugee and dependent onpersonal status, more particularly rights attaching to marriage,shall be respected by a Contracting State, subject to compliance,if this be necessary, with the formalities required by the lawof that State, provided that the right in question is one whichwould have been recognized by the law of that State had he notbecome a refugee.</div>
+</div>
+<div id="art-十三" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-十三" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第十三條</a>
+    <span class="text-xs text-text-muted">Art. 十三</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">動產和不動產</div><div class="text-sm font-medium text-text-muted en-content hidden">Movable and immovable property</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">締約各國在動產和不動產的取得及與此有關的其他權利，以及關於動產和不動產的租賃和其他契約方面，應給予難民儘可能優惠的待遇，無論如何，此項待遇不得低於在同樣情況下給予一般外國人的待遇。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">The Contracting States shall accord to a refugee treatmentas favourable as possible and, in any event, not less favourablethan that accorded to aliens generally in the same circumstances,as regards the acquisition of movable and immovable property andother rights pertaining thereto, and to leases and other contractsrelating to movable and immovable property.</div>
+</div>
+<div id="art-十四" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-十四" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第十四條</a>
+    <span class="text-xs text-text-muted">Art. 十四</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">藝術權利和工業財產</div><div class="text-sm font-medium text-text-muted en-content hidden">Artistic rights and industrial property</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">關於工業財產的保護，例如對發明、設計或模型、商標、商號名稱、以及對文學、藝術、和科學作品的權利，難民在其經常居住的國家內，應給以該國國民所享有的同樣保護。他在任何其他締約國領土內，應給以他經常居住國家的國民所享有的同樣保護。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">In respect of the protection of industrial property, such asinventions, designs or models, trade marks, trade names, and ofrights in literary, artistic and scientific works, a refugee shallbe accorded in the country in which he has his habitual residencethe same protection as is accorded to nationals of that country.In the territory of any other Contracting States, he shall beaccorded the same protection as is accorded in that territoryto nationals of the country in which he has his habitual residence.</div>
+</div>
+<div id="art-十五" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-十五" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第十五條</a>
+    <span class="text-xs text-text-muted">Art. 十五</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">結社的權利</div><div class="text-sm font-medium text-text-muted en-content hidden">Right of association</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">關於非政治性和非營利性的社團以及同業公會組織，締約各國對合法居留在其領土內的難民，應給以一個外國的國民在同樣情況下所享有的最惠國待遇。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">As regards non-political and non-profit-making associationsand trade unions the Contracting States shall accord to refugeeslawfully staying in their territory the most favourable treatmentaccorded to nationals of a foreign country, in the same circumstances.</div>
+</div>
+<div id="art-十六" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-十六" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第十六條</a>
+    <span class="text-xs text-text-muted">Art. 十六</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">向法院申訴的權利</div><div class="text-sm font-medium text-text-muted en-content hidden">Access to courts</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">（一）難民有權自由向所有締約各國領土內的法院申訴。
+
+（二）難民在其經常居住的締約國內，就向法院申訴的事項，包括訴訟救助和免予提供訴訟擔保在內，應享有與本國國民相同的待遇。
+
+（三）難民在其經常居住的國家以外的其他國家內，就第(二)款所述事項，應給以他經常居住國家的國民所享有的待遇。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">1. A refugee shall have free access to the courts of law onthe territory of all Contracting States.
+2. A refugee shall enjoy in the Contracting State in whichhe has his habitual residence the same treatment as a nationalin matters pertaining to access to the courts, including legalassistance and exemption from cautio judicatum solvi.
+3. A refugee shall be accorded in the matters referred to inparagraph 2 in countries other than that in which he has his habitualresidence the treatment granted to a national of the country ofhis habitual residence.CHAPTER IIIGAINFUL EMPLOYMENT</div>
+</div>
+<div id="art-十七" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-十七" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第十七條</a>
+    <span class="text-xs text-text-muted">Art. 十七</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">以工資受償的僱傭</div><div class="text-sm font-medium text-text-muted en-content hidden">Wage-earning employment</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">（一）締約各國對合法在其領土內居留的難民，就從事工作以換取工資的權利方面，應給以在同樣情況下一個外國國民所享有的最惠國待遇。
+
+（二）無論如何，對外國人施加的限制措施或者為了保護國內勞動力市場而對僱傭外國人施加限制的措施，均不得適用於在本公約對有關締約國生效之日已免除此項措施的難民，亦不適用於具備下列條件之一的難民：
+
+（甲）已在該國居住滿三年；
+
+（乙）其配偶具有居住國的國籍，但如難民已與其配偶離異，則不得援引本項規定的利益；
+
+（丙）其子女一人或數人具有居住國的國籍。
+
+（三）關於以工資受償的僱傭問題，締約各國對於使一切難民的權利相同於本國國民的權利方面，應給予同情的考慮，特別是對根據招工計劃或移民入境辦法進入其領土的難民的此項權利。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">1. The Contracting States shall accord to refugees lawfullystaying in their territory the most favourable treatment accordedto nationals of a foreign country in the same circumstances, asregards the right to engage in wage-earning employment.
+2. In any case, restrictive measures imposed on aliens or theemployment of aliens for the protection of the national labourmarket shall not be applied to a refugee who was already exemptfrom them at the date of entry into force of this Convention forthe Contracting State concerned, or who fulfils one of the followingconditions:(a) He has completed three years' residence in the country;(b) He has a spouse possessing the nationality of the countryof residence. A refugee may not invoke the benefit of this provisionif he has abandoned his spouse;(c) He has one or more children possessing the nationalityof the country of residence.
+3. The Contracting States shall give sympathetic considerationto assimilating the rights of all refugees with regard to wage-earningemployment to those of nationals, and in particular of those refugeeswho have entered their territory pursuant to programmes of labourrecruitment or under immigration schemes.</div>
+</div>
+<div id="art-十八" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-十八" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第十八條</a>
+    <span class="text-xs text-text-muted">Art. 十八</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">自營職業</div><div class="text-sm font-medium text-text-muted en-content hidden">Self-employment</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">締約各國對合法在其領土內的難民，就其自己經營農業、工業、手工業、商業以及設立工商業公司方面，應給以儘可能優惠的待遇，無論如何，此項待遇不得低於一般外國人在同樣情況下所享有的待遇。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">The Contracting States shall accord to a refugee lawfully intheir territory treatment as favourable as possible and, in anyevent, not less favourable than that accorded to aliens generallyin the same circumstances, as regards the right to engage on hisown account in agriculture, industry, handicrafts and commerceand to establish commercial and industrial companies.</div>
+</div>
+<div id="art-十九" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-十九" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第十九條</a>
+    <span class="text-xs text-text-muted">Art. 十九</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">自由職業</div><div class="text-sm font-medium text-text-muted en-content hidden">Liberal professions</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">（一）締約各國對合法居留於其領土內的難民，凡持有該國主管當局所承認的文憑並願意從事自由職業者，應給以儘可能優惠的待遇，無論如何，此項待遇不得低於一般外國人在同樣情況下所享有的待遇。
+
+（二）締約各國對在其本土以外而由其負責國際關係的領土內的難民，應在符合其法律和憲法的情況下，盡極大努力使這些難民定居下來。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">1. Each Contracting State shall accord to refugees lawfullystaying in their territory who hold diplomas recognized by thecompetent authorities of that State, and who are desirous of practisinga liberal profession, treatment as favourable as possible and,in any event, not less favourable than that accorded to aliensgenerally in the same circumstances.
+2. The Contracting States shall use their best endeavours consistentlywith their laws and constitutions to secure the settlement ofsuch refugees in the territories, other than the metropolitanterritory, for whose international relations they are responsible.CHAPTER IVWELFARE</div>
+</div>
+<div id="art-二十" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-二十" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第二十條</a>
+    <span class="text-xs text-text-muted">Art. 二十</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">定額供應</div><div class="text-sm font-medium text-text-muted en-content hidden">Rationing</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">如果存在着定額供應制度，而這一制度是適用於一般居民並調整着缺銷產品的總分配，難民應給以本國國民所享有的同樣待遇。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">Where a rationing system exists, which applies to the populationat large and regulates the general distribution of products inshort supply, refugees shall be accorded the same treatment asnationals.</div>
+</div>
+<div id="art-二十一" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-二十一" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第二十一條</a>
+    <span class="text-xs text-text-muted">Art. 二十一</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">房屋</div><div class="text-sm font-medium text-text-muted en-content hidden">Housing</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">締約各國對合法居留於其領土內的難民，就房屋問題方面，如果該問題是由法律或規章調整或者受公共當局管制，應給以儘可能優惠的待遇，無論如何，此項待遇不得低於一般外國人在同樣情況下所享有的待遇。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">As regards housing, the Contracting States, in so far as thematter is regulated by laws or regulations or is subject to thecontrol of public authorities, shall accord to refugees lawfullystaying in their territory treatment as favourable as possibleand, in any event, not less favourable than that accorded to aliensgenerally in the same circumstances.</div>
+</div>
+<div id="art-二十二" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-二十二" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第二十二條</a>
+    <span class="text-xs text-text-muted">Art. 二十二</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">公共教育</div><div class="text-sm font-medium text-text-muted en-content hidden">Public education</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">(一) 締約各國應給予難民凡本國國民在初等教育方面所享有的同樣待遇。
+
+(二) 締約各國就初等教育以外的教育，特別是就獲得研究學術的機會、承認外國學校的證書、文憑、和學位、減免學費、以及發給獎學金方面，應對難民給以儘可能優惠的待遇，無論如何，此項待遇不得低於一般外國人在同樣情況下所享有的待遇。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">1. The Contracting States shall accord to refugees the sametreatment as is accorded to nationals with respect to elementaryeducation.
+2. The Contracting States shall accord to refugees treatmentas favourable as possible, and, in any event, not less favourablethan that accorded to aliens generally in the same circumstances,with respect to education other than elementary education and,in particular, as regards access to studies, the recognition offoreign school certificates, diplomas and degrees, the remissionof fees and charges and the award of scholarships.</div>
+</div>
+<div id="art-二十三" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-二十三" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第二十三條</a>
+    <span class="text-xs text-text-muted">Art. 二十三</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">公共救濟</div><div class="text-sm font-medium text-text-muted en-content hidden">Public relief</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">締約各國對合法居住在其領土內的難民，就公共救濟和援助方面，應給以凡其本國國民所享有的同樣待遇。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">The Contracting States shall accord to refugees lawfully stayingin their territory the same treatment with respect to public reliefand assistance as is accorded to their nationals.</div>
+</div>
+<div id="art-二十四" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-二十四" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第二十四條</a>
+    <span class="text-xs text-text-muted">Art. 二十四</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">勞動立法和社會安全</div><div class="text-sm font-medium text-text-muted en-content hidden">Labour legislation and social security</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">（一）締約各國對合法居留在其領土內的難民，就下列各事項，應給以本國國民所享有的同樣待遇：
+
+（甲）報酬，包括家庭津貼――如此種津貼構成報酬一部分的話、工作時間、加班辦法、假日工資、對帶回家去工作的限制、僱傭最低年齡、學徒和訓練，女工和童工、享受共同交涉的利益，如果這些事項由法律或規章規定，或者受行政當局管制的話；
+
+（乙）社會安全(關於僱傭中所受損害、職業病、生育、疾病、殘廢、年老、死亡、失業、家庭負擔或根據國家法律或規章包括在社會安全計劃之內的任何其他事故的法律規定)，但受以下規定的限制：
+
+（子）對維持既得權利和正在取得的權利可能作出適當安排；
+
+（丑）居住地國的法律或規章可能對全部由公共基金支付利益金或利益金的一部或對不符合於為發給正常退職金所規定資助條件的人發給津貼，制訂特別安排。
+
+（二）難民由於僱傭中所受損害或職業病死亡而獲得的補償權利，不因受益人居住地在締約國領土以外而受影響。
+
+（三）締約各國之間所締結或在將來可能締結的協定，凡涉及社會安全既得權利或正在取得的權利，締約各國應以此項協定所產生的利益給予難民，但以符合對有關協定各簽字國國民適用的條件者為限。
+
+（四）締約各國對以締約國和非締約國之間隨時可能生效的類似協定所產生的利益儘量給予難民一事，將予以同情的考慮。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">1. The Contracting States shall accord to refugees lawfullystaying in their territory the same treatment as is accorded tonationals in respect of the following matters;(a) In so far as such matters are governed by laws or regulationsor are subject to the control of administrative authorities: remuneration,including family allowances where these form part of remuneration,hours of work, overtime arrangements, holidays with pay, restrictionson home work, minimum age of employment, apprenticeship and training,women's work and the work of young persons, and the enjoymentof the benefits of collective bargaining;(b) Social security (legal provisions in respect of employmentinjury, occupational diseases, maternity, sickness, disability,old age, death, unemployment, family responsibilities and anyother contingency which, according to national laws or regulations,is covered by a social security scheme), subject to the followinglimitations:(i) There may be appropriate arrangements for the maintenanceof acquired rights and rights in course of acquisition;(ii) National laws or regulations of the country of residencemay prescribe special arrangements concerning benefits or portionsof benefits which are payable wholly out of public funds, andconcerning allowances paid to persons who do not fulfil the contributionconditions prescribed for the award of a normal pension.
+2. The right to compensation for the death of a refugee resultingfrom employment injury or from occupational disease shall notbe affected by the fact that the residence of the beneficiaryis outside the territory of the Contracting State.
+3. The Contracting States shall extend to refugees the benefitsof agreements concluded between them, or which may be concludedbetween them in the future, concerning the maintenance of acquiredrights and rights in the process of acquisition in regard to socialsecurity, subject only to the conditions which apply to nationalsof the States signatory to the agreements in question.
+4. The Contracting States will give sympathetic considerationto extending to refugees so far as possible the benefits of similaragreements which may at any time be in force between such ContractingStates and non- contracting States.CHAPTER VADMINISTRATIVE MEASURES</div>
+</div>
+<div id="art-二十五" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-二十五" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第二十五條</a>
+    <span class="text-xs text-text-muted">Art. 二十五</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">行政協助</div><div class="text-sm font-medium text-text-muted en-content hidden">Administrative assistance</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">（一）如果難民行使一項權利時正常地需要一個對他不能援助的外國當局的協助，則難民居住地的締約國應安排由該國自己當局或由一個國際當局給予此項協助。
+
+（二）第一款所述當局應將正常地應由難民的本國當局或通過其本國當局給予外國人的文件或證明書給予難民，或者使這種文件或證明書在其監督下給予難民。
+
+（三）如此發給的文件或證書應代替由難民的本國當局或通過其本國當局發給難民的正式文件，並應在沒有相反證據的情況下給予證明的效力。
+
+（四）除對貧苦的人可能給予特殊的待遇外，對上述服務可以徵收費用，但此項費用應有限度，並應相當於為類似服務向本國國民徵收的費用。
+
+（五）本條各項規定對第二十七條和第二十八條並不妨礙。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">1. When the exercise of a right by a refugee would normallyrequire the assistance of authorities of a foreign country towhom he cannot have recourse, the Contracting States in whoseterritory he is residing shall arrange that such assistance beafforded to him by their own authorities or by an internationalauthority.
+2. The authority or authorities mentioned in paragraph 1 shall deliver or causeto be delivered under their supervision to refugees such documents or certificationsas would normally be delivered to aliens by or through their national authorities.
+3. Documents or certifications so delivered shall stand inthe stead of the official instruments delivered to aliens by orthrough their national authorities, and shall be given credencein the absence of proof to the contrary.
+4. Subject to such exceptional treatment as may be grantedto indigent persons, fees may be charged for the services mentionedherein, but such fees shall be moderate and commensurate withthose charged to nationals for similar services.
+5. The provisions of this article shall be without prejudiceto articles 27 and 28.</div>
+</div>
+<div id="art-二十六" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-二十六" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第二十六條</a>
+    <span class="text-xs text-text-muted">Art. 二十六</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">行動自由</div><div class="text-sm font-medium text-text-muted en-content hidden">Freedom of movement</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">締約各國對合法在其領土內的難民，應給予選擇其居住地和在其領土內自由行動的權利，但應受對一般外國人在同樣情況下適用的規章的限制。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">Each Contracting State shall accord to refugees lawfully inits territory the right to choose their place of residence andto move freely within its territory subject to any regulationsapplicable to aliens generally in the same circumstances.</div>
+</div>
+<div id="art-二十七" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-二十七" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第二十七條</a>
+    <span class="text-xs text-text-muted">Art. 二十七</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">身分證件</div><div class="text-sm font-medium text-text-muted en-content hidden">Identity papers</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">締約各國對在其領土內不持有有效旅行證件的任何難民，應發給身分證件。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">The Contracting States shall issue identity papers to any refugeein their territory who does not possess a valid travel document.</div>
+</div>
+<div id="art-二十八" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-二十八" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第二十八條</a>
+    <span class="text-xs text-text-muted">Art. 二十八</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">旅行證件</div><div class="text-sm font-medium text-text-muted en-content hidden">Travel documents</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">（一）締約各國對合法在其領土內居留的難民，除因國家安全或公共秩序的重大原因應另作考慮外，應發給旅行證件，以憑在其領土以外旅行。本公約附件的規定應適用於上述證件。締約各國可以發給在其領土內的任何其他難民上述旅行證件。締約各國特別對於在其領土內而不能向其合法居住地國家取得旅行證件的難民發給上述旅行證件一事，應給予同情的考慮。
+
+（二）根據以前國際協定由此項協定締約各方發給難民的旅行證件，締約各方應予承認，並應當作根據本條發給的旅行證件同樣看待。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">1 . The Contracting States shall issue to refugees lawfullystaying in their territory travel documents for the purpose oftravel outside their territory, unless compelling reasons of nationalsecurity or public order otherwise require, and the provisionsof the</div>
+</div>
+<div id="art-二十九" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-二十九" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第二十九條</a>
+    <span class="text-xs text-text-muted">Art. 二十九</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">財政徵收</div><div class="text-sm font-medium text-text-muted en-content hidden">Fiscal charges</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">（一）締約各國不得對難民徵收其向本國國民在類似情況下徵收以外的或較高於向其本國國民在類似情況下徵收的任何種類捐稅或費用。
+
+（二）前款規定並不妨礙對難民適用關於向外國人發給行政文件包括旅行證件在內的法律和規章。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">1. The Contracting States shall not impose upon refugees duties,charges or taxes, of any description whatsoever, other or higherthan those which are or may be levied on their nationals in similarsituations.
+2. Nothing in the above paragraph shall prevent the applicationto refugees of the laws and regulations concerning charges inrespect of the issue to aliens of administrative documents includingidentity papers.</div>
+</div>
+<div id="art-三十" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-三十" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第三十條</a>
+    <span class="text-xs text-text-muted">Art. 三十</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">資產的移轉</div><div class="text-sm font-medium text-text-muted en-content hidden">Transfer of assets</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">（一）締約國應在符合於其法律和規章的情況下，准許難民將其攜入該國領土內的資產，移轉到難民為重新定居目的而已被准許入境的另一國家。
+
+（二）如果難民申請移轉不論在何地方的並在另一國家重新定居所需要的財產，而且該另一國家已准其入境，則締約國對其申請應給予同情的考慮。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">1. A Contracting State shall, in conformity with its laws andregulations, permit refugees to transfer assets which they havebrought into its territory, to another country where they havebeen admitted for the purposes of resettlement.
+2. A Contracting State shall give sympathetic considerationto the application of refugees for permission to transfer assetswherever they may be and which are necessary for their resettlementin another country to which they have been admitted.</div>
+</div>
+<div id="art-三十一" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-三十一" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第三十一條</a>
+    <span class="text-xs text-text-muted">Art. 三十一</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">非法留在避難國的難民</div><div class="text-sm font-medium text-text-muted en-content hidden">Refugees unlawfully in the country of refuge</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">（一）締約各國對於直接來自生命或自由受到第一條所指威脅的領土未經許可而進入或逗留於該國領土的難民，不得因該難民的非法入境或逗留而加以刑罰，但以該難民毫不遲延地自行投向當局說明其非法入境或逗留的正當原因者為限。
+
+（二）締約各國對上述難民的行動，不得加以除必要以外的限制，此項限制只能於難民在該國的地位正常化或難民獲得另一國入境准許以前適用。締約各國應給予上述難民一個合理的期間以及一切必要的便利，以便獲得另一國入境的許可。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">1. The Contracting States shall not impose penalties, on accountof their illegal entry or presence, on refugees who, coming directlyfrom a territory where their life or freedom was threatened inthe sense of article 1, enter or are present in their territorywithout authorization, provided they present themselves withoutdelay to the authorities and show good cause for their illegalentry or presence.
+2. The Contracting States shall not apply to the movementsof such refugees restrictions other than those which are necessaryand such restrictions shall only be applied until their statusin the country is regularized or they obtain admission into anothercountry. The Contracting States shall allow such refugees a reasonableperiod and all the necessary facilities to obtain admission intoanother country.</div>
+</div>
+<div id="art-三十二" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-三十二" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第三十二條</a>
+    <span class="text-xs text-text-muted">Art. 三十二</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">驅逐出境</div><div class="text-sm font-medium text-text-muted en-content hidden">Expulsion</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">（一）締約各國除因國家安全或公共秩序理由外，不得將合法在其領土內的難民驅逐出境。
+
+（二）驅逐難民出境只能以按照合法程序作出的判決為根據。除因國家安全的重大理由要求另作考慮外，應准許難民提出有利於其自己的證據，向主管當局或向由主管當局特別指定的人員申訴或者為此目的委託代表向上述當局或人員申訴。
+
+（三）締約各國應給予上述難民一個合理的期間，以便取得合法進入另一國家的許可。締約各國保留在這期間內適用它們所認為必要的內部措施的權利。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">1. The Contracting States shall not expel a refugee lawfullyin their territory save on grounds of national security or publicorder.
+2. The expulsion of such a refugee shall be only in pursuanceof a decision reached in accordance with due process of law. Exceptwhere compelling reasons of national security otherwise require,the refugee shall be allowed to submit evidence to clear himself,and to appeal to and be represented for the purpose before competentauthority or a person or persons specially designated by the competentauthority.
+3. The Contracting States shall allow such a refugee a reasonableperiod within which to seek legal admission into another country.The Contracting States reserve the right to apply during thatperiod such internal measures as they may deem necessary.</div>
+</div>
+<div id="art-三十三" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-三十三" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第三十三條</a>
+    <span class="text-xs text-text-muted">Art. 三十三</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">禁止驅逐出境或送回(「推回」)</div><div class="text-sm font-medium text-text-muted en-content hidden">Prohibition of expulsion or return (&quot;refoulement&quot;)</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">（一）任何締約國不得以任何方式將難民驅逐或送回(「推回」)至其生命或自由因為他的種族、宗教、國籍、參加某一社會團體或具有某種政治見解而受威脅的領土邊界。
+
+（二）但如有正當理由認為難民足以危害所在國的安全，或者難民已被確定判決認為犯過特別嚴重罪行從而構成對該國社會的危險，則該難民不得要求本條規定的利益。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">1. No Contracting State shall expel or return (&quot;refouler&quot;)a refugee in any manner whatsoever to the frontiers of territorieswhere his life or freedom would be threatened on account of hisrace, religion, nationality, membership of a particular socialgroup or political opinion.
+2. The benefit of the present provision may not, however, beclaimed by a refugee whom there are reasonable grounds for regardingas a danger to the security of the country in which he is, orwho, having been convicted by a final judgement of a particularlyserious crime, constitutes a danger to the community of that country.</div>
+</div>
+<div id="art-三十四" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-三十四" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第三十四條</a>
+    <span class="text-xs text-text-muted">Art. 三十四</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">入籍</div><div class="text-sm font-medium text-text-muted en-content hidden">Naturalization</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">締約各國應儘可能便利難民的入籍和同化。它們應特別盡力加速辦理入籍程序，並儘可能減低此項程序的費用。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">The Contracting States shall as far as possible facilitatethe assimilation and naturalization of refugees. They shall inparticular make every effort to expedite naturalization proceedingsand to reduce as far as possible the charges and costs of suchproceedings.CHAPTER VIEXECUTORY AND TRANSITORY PROVISIONS</div>
+</div>
+<div id="art-三十五" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-三十五" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第三十五條</a>
+    <span class="text-xs text-text-muted">Art. 三十五</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">國家當局同聯合國的合作</div><div class="text-sm font-medium text-text-muted en-content hidden">Co-operation of the national authorities with the United Nations</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">（一）締約各國保證同聯合國難民事務高級專員辦事處或繼承該辦事處的聯合國任何其他機關在其執行職務時進行合作，並應特別使其在監督適用本公約規定而行使職務時獲得便利。
+
+（二）為了使高級專員辦事處或繼承該辦事處的聯合國任何其他機關向聯合國主管機關作出報告，締約各國保證於此項機關請求時，向它們在適當形式下提供關於下列事項的情報和統計資料：
+
+（甲）難民的情況，
+
+（乙）本公約的執行，以及
+
+（丙）現行有效或日後可能生效的涉及難民的法律、規章和法令。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">1. The Contracting States undertake to co-operate with theOffice of the United Nations High Commissioner for Refugees, orany other agency of the United Nations which may succeed it, inthe exercise of its functions, and shall in particular facilitateits duty of supervising the application of the provisions of thisConvention.
+2. In order to enable the Office of the High Commissioner orany other agency of the United Nations which may succeed it, tomake reports to the competent organs of the United Nations, theContracting States undertake to provide them in the appropriateform with information and statistical data requested concerning:(a) The condition of refugees,(b) The implementation of this Convention, and(c) Laws, regulations and decrees which are, or may hereafterbe, in force relating to refugees.</div>
+</div>
+<div id="art-三十六" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-三十六" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第三十六條</a>
+    <span class="text-xs text-text-muted">Art. 三十六</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">關於國內立法的情報</div><div class="text-sm font-medium text-text-muted en-content hidden">Information on national legislation</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">締約各國應向聯合國秘書長送交它們可能採用為保證執行本公約的法律和規章。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">The Contracting States shall communicate to the Secretary-Generalof the United Nations the laws and regulations which they mayadopt to ensure the application of this Convention.</div>
+</div>
+<div id="art-三十七" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-三十七" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第三十七條</a>
+    <span class="text-xs text-text-muted">Art. 三十七</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">對以前公約的關係</div><div class="text-sm font-medium text-text-muted en-content hidden">Relation to previous conventions</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">在不妨礙本公約第二十八條第二款的情況下，本公約在締約各國之間代替一九二二年七月五日、一九二四年五月三十一日、一九二六年五月十二日、一九二八年六月三十日以及一九三五年七月三十日的協議，一九三三年十月二十八日和一九三八年二月十日的公約，一九三九年九月十四日議定書、和一九四六年十月十五日的協定。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">Without prejudice to article 28, paragraph 2, of this Convention,this Convention replaces, as between Parties to it, the Arrangementsof 5 July 1922, 31 May 1924, 12 May 1926, 30 June 1928 and 30July 1935, the Conventions of 28 October 1933 and 10 February1938, the Protocol of 14 September 1939 and the Agreement of 15October 1946.CHAPTER VIIFINAL CLAUSES</div>
+</div>
+<div id="art-三十八" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-三十八" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第三十八條</a>
+    <span class="text-xs text-text-muted">Art. 三十八</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">爭端的解決</div><div class="text-sm font-medium text-text-muted en-content hidden">Settlement of disputes</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">本公約締約國間關於公約解釋或執行的爭端，如不能以其他方法解決，應依爭端任何一方當事國的請求，提交國際法院。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">Any dispute between Parties to this Convention relating toits interpretation or application, which cannot be settled byother means, shall be referred to the International Court of Justiceat the request of any one of the parties to the dispute.</div>
+</div>
+<div id="art-三十九" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-三十九" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第三十九條</a>
+    <span class="text-xs text-text-muted">Art. 三十九</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">簽字、批准和加入</div><div class="text-sm font-medium text-text-muted en-content hidden">Signature, ratification and accession</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">（一）本公約應於一九五一年七月二十八日在日內瓦開放簽字，此後交存聯合國秘書長。本公約將自一九五一年七月二十八日至八月三十一日止在聯合國駐歐辦事處開放簽字，並將自一九五一年九月十七日至一九五二年十二月三十一日止在聯合國總部重新開放簽字。
+
+（二）本公約將對聯合國所有會員國，並對應邀出席難民和無國籍人地位全權代表會議或由聯合國大會致送簽字邀請的任何其他國家開放簽字。本公約應經批准，批准書應交存聯合國秘書長。
+
+（三）本公約將自一九五一年七月二十八日起對本條（二）款所指國家開放任憑加入。加入經向聯合國秘書長交存加入書後生效。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">1. This Convention shall be opened for signature at Genevaon 28 July 1951 and shall thereafter be deposited with the Secretary-Generalof the United Nations. It shall be open for signature at the EuropeanOffice of the United Nations from 28 July to 31 August 1951 andshall be re-opened for signature at the Headquarters of the UnitedNations from 17 September 1951 to 31 December 1952.
+2. This Convention shall be open for signature on behalf ofall States Members of the United Nations, and also on behalf ofany other State invited to attend the Conference of Plenipotentiarieson the Status of Refugees and Stateless Persons or to which aninvitation to sign will have been addressed by the General Assembly.It shall be ratified and the instruments of ratification shallbe deposited with the Secretary-General of the United Nations.
+3. This Convention shall be open from 28 July 1951 for accessionby the States referred to in paragraph 2 of this article. Accessionshall be effected by the deposit of an instrument of accessionwith the Secretary-General of the United Nations.</div>
+</div>
+<div id="art-四十" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-四十" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第四十條</a>
+    <span class="text-xs text-text-muted">Art. 四十</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">領土適用條款</div><div class="text-sm font-medium text-text-muted en-content hidden">Territorial application clause</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">（一）任何一國得於簽字、批准、或加入時聲明本公約將適用於由其負責國際關係的一切或任何領土。此項聲明將於公約對該有關國家生效時發生效力。
+
+（二）此後任何時候，這種適用於領土的任何聲明應用通知書送達聯合國秘書長，並將從聯合國秘書長收到此項通知書之日後第九十天起或者從公約對該國生效之日起發生效力，以發生在後之日期為準。
+
+（三）關於在簽字、批准、或加入時本公約不適用的領土，各有關國家應考慮採取必要步驟的可能，以便將本公約擴大適用到此項領土，但以此項領土的政府因憲法上需要已同意者為限。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">1. Any State may, at the time of signature, ratification oraccession, declare that this Convention shall extend to all orany of the territories for the international relations of whichit is responsible. Such a declaration shall take effect when theConvention enters into force for the State concerned.
+2. At any time thereafter any such extension shall be madeby notification addressed to the Secretary-General of the UnitedNations and shall take effect as from the ninetieth day afterthe day of receipt by the Secretary- General of the United Nationsof this notification, or as from the date of entry into forceof the Convention for the State concerned, whichever is the later.
+3. With respect to those territories to which this Conventionis not extended at the time of signature, ratification or accession,each State concerned shall consider the possibility of takingthe necessary steps in order to extend the application of thisConvention to such territories, subject, where necessary for constitutionalreasons, to the consent of the Governments of such territories.</div>
+</div>
+<div id="art-四十一" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-四十一" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第四十一條</a>
+    <span class="text-xs text-text-muted">Art. 四十一</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">聯邦條款</div><div class="text-sm font-medium text-text-muted en-content hidden">Federal clause</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">對於聯邦或非單一政體的國家，應適用下述規定：
+
+（一）就本公約中屬於聯邦立法當局的立法管轄範圍內的條款而言，聯邦政府的義務應在此限度內與非聯邦國家的締約國相同；
+
+（二）關於本公約中屬於邦、省、或縣的立法管轄範圍內的條款，如根據聯邦的憲法制度，此項邦、省、或縣不一定要採取立法行動的話，聯邦政府應儘早將此項條款附具贊同的建議，提請此項邦、省、或縣的主管當局注意；
+
+（三）作為本公約締約國的聯邦國家，如經聯合國秘書長轉達任何其他締約國的請求時，應就聯邦及其構成各單位有關本公約任何個別規定的法律和實踐，提供一項聲明，說明此項規定已經立法或其他行動予以實現的程度。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">In the case of a Federal or non-unitary State, the followingprovisions shall apply:(a) With respect to those articles of this Convention thatcome within the legislative jurisdiction of the federal legislativeauthority, the obligations of the Federal Government shall tothis extent be the same as those of parties which are not FederalStates;(b) With respect to those articles of this Convention thatcome within the legislative jurisdiction of constituent States,provinces or cantons which are not, under the constitutional systemof the Federation, bound to take legislative action, the FederalGovernment shall bring such articles with a favourable recommendationto the notice of the appropriate authorities of States, provincesor cantons at the earliest possible moment;(c) A Federal State Party to this Convention shall, at therequest of any other Contracting State transmitted through theSecretary-General of the United Nations, supply a statement ofthe law and practice of the Federation and its constituent unitsin regard to any particular provision of the Convention showingthe extent to which effect has been given to that provision bylegislative or other action.</div>
+</div>
+<div id="art-四十二" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-四十二" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第四十二條</a>
+    <span class="text-xs text-text-muted">Art. 四十二</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">保留</div><div class="text-sm font-medium text-text-muted en-content hidden">Reservations</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">（一）任何國家在簽字、批准、或加入時，可以對公約第一、三、四、十六（一）、三十三、以及三十六至四十六(包括首尾兩條在內)各條以外的規定作出保留。
+
+（二）依本條第（一）款作出保留的任何國家可以隨時通知聯合國秘書長撤回保留。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">1. At the time of signature, ratification or accession, anyState may make reservations to articles of the Convention otherthan to articles 1, 3, 4, 16 (1), 33, 36-46 inclusive.
+2. Any State making a reservation in accordance with paragraphI of this article may at any time withdraw the reservation bya communication to that effect addressed to the Secretary-Generalof the United Nations.</div>
+</div>
+<div id="art-四十三" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-四十三" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第四十三條</a>
+    <span class="text-xs text-text-muted">Art. 四十三</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">生效</div><div class="text-sm font-medium text-text-muted en-content hidden">Entry into force</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">（一）本公約於第六件批准書或加入書交存之日後第九十天生效。
+
+（二）對於在第六件批准書或加入書交存後批准或加入本公約的各國，本公約將於該國交存其批准書或加入書之日後第九十天生效。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">1. This Convention shall come into force on the ninetieth dayfollowing the day of deposit of the sixth instrument of ratificationor accession.
+2. For each State ratifying or acceding to the Convention afterthe deposit of the sixth instrument of ratification or accession,the Convention shall enter into force on the ninetieth day followingthe date of deposit by such State of its instrument of ratificationor accession.</div>
+</div>
+<div id="art-四十四" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-四十四" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第四十四條</a>
+    <span class="text-xs text-text-muted">Art. 四十四</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">退出</div><div class="text-sm font-medium text-text-muted en-content hidden">Denunciation</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">（一）任何締約國可以隨時通知聯合國秘書長退出本公約。
+
+（二）上述退出將於聯合國秘書長收到退出通知之日起一年後對該有關締約國生效。
+
+（三）依第四十條作出聲明或通知的任何國家可以在此以後隨時通知聯合國秘書長，聲明公約將於秘書長收到通知之日後一年停止擴大適用於此項領土。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">1. Any Contracting State may denounce this Convention at anytime by a notification addressed to the Secretary-General of theUnited Nations.
+2. Such denunciation shall take effect for the ContractingState concerned one year from the date upon which it is receivedby the Secretary-General of the United Nations.
+3. Any State which has made a declaration or notification underarticle 40 may, at any time thereafter, by a notification to theSecretary-General of the United Nations, declare that the Conventionshall cease to extend to such territory one year after the dateof receipt of the notification by the Secretary-General.</div>
+</div>
+<div id="art-四十五" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-四十五" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第四十五條</a>
+    <span class="text-xs text-text-muted">Art. 四十五</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">修改</div><div class="text-sm font-medium text-text-muted en-content hidden">Revision</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">（一）任何締約國可以隨時通知聯合國秘書長，請求修改本公約。
+
+（二）聯合國大會應建議對於上述請求所應採取的步驟，如果有這種步驟的話。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">1. Any Contracting State may request revision of this Conventionat any time by a notification addressed to the Secretary-Generalof the United Nations.
+2. The General Assembly of the United Nations shall recommendthe steps, if any, to be taken in respect of such request.</div>
+</div>
+<div id="art-四十六" class="art-target py-4 border-b border-gray-100 scroll-mt-16">
+  <div class="flex items-baseline gap-2 mb-1">
+    <a href="#art-四十六" class="font-heading text-base font-bold text-primary hover:underline cursor-pointer">第四十六條</a>
+    <span class="text-xs text-text-muted">Art. 四十六</span>
+  </div>
+  <div class="text-sm font-medium text-text-heading zh-content">聯合國秘書長的通知</div><div class="text-sm font-medium text-text-muted en-content hidden">Notifications by the Secretary-General of the United Nations</div>
+  <div class="zh-content text-sm whitespace-pre-wrap leading-relaxed mt-1">聯合國秘書長應將下列事項通知聯合國所有會員國以及第三十九條所述非會員國：
+
+（一）根據第一條（二）款所作聲明和通知；
+
+（二）根據第三十九條簽字、批准、和加入；
+
+（三）根據第四十條所作聲明和通知；
+
+（四）根據第四十二條聲明保留和撤回；
+
+（五）根據第四十三條本公約生效的日期；
+
+（六）根據第四十四條聲明退出和通知；
+
+（七）根據第四十五條請求修改。
+
+下列簽署人經正式授權各自代表本國政府在本公約簽字，以昭信守。
+
+一九五一年七月二十八日訂於日內瓦，計一份，其英文本和法文本有同等效力，應交存於聯合國檔案庫，其經證明為真實無誤的副本應交給聯合國所有會員國以及第三十九條所述非會員國。</div>
+  <div class="en-content text-sm whitespace-pre-wrap leading-relaxed text-text-muted mt-2 hidden">The Secretary-General of the United Nations shall inform allMembers of the United Nations and non-member States referred toin article 39:(a) Of declarations and notifications in accordance with sectionB of article 1;(b) Of signatures, ratifications and accessions in accordancewith article 39;(c) Of declarations and notifications in accordance with article40;(d) Of reservations and withdrawals in accordance with article42;(e) Of the date on which this Convention will come into forcein accordance with article 43;(f) Of denunciations and notifications in accordance with article44;(g) Of requests for revision in accordance with article 45.IN FAITH WHEREOF the undersigned, duly authorized, have signedthis Convention on behalf of their respective Governments.DONE at Geneva, this twenty-eighth day of July, one thousandnine hundred and fifty-one, in a single copy, of which the Englishand French texts are equally authentic and which shall remaindeposited in the archives of the United Nations, and certifiedtrue copies of which shall be delivered to all Members of theUnited Nations and to the non-member States referred to in article
+39.</div>
+</div>
+
+    </div>
+
+    <footer class="mt-12 py-6 border-t border-gray-200 text-center text-xs text-text-muted">
+Data: <a href="https://creativecommons.org/publicdomain/zero/1.0/" class="text-primary hover:underline" target="_blank" rel="noopener">CC0 1.0</a> · Code: <a href="https://opensource.org/licenses/MIT" class="text-primary hover:underline" target="_blank" rel="noopener">MIT</a> · <a href="https://github.com/lawchat-oss/open-treaties" class="text-primary hover:underline" target="_blank" rel="noopener">GitHub</a><br>
+Maintained by <a href="https://lawchat.com.tw" class="text-primary hover:underline" target="_blank" rel="noopener">lawchat.com.tw</a>
+</footer>
+  </main>
+</div>
+
+<script>
+function setLang(l){
+  document.querySelectorAll('.lang-btn').forEach(b=>{
+    const a=b.dataset.l===l;
+    b.classList.toggle('bg-primary',a);b.classList.toggle('text-white',a);
+    b.classList.toggle('bg-white',!a);b.classList.toggle('text-text-muted',!a);
+  });
+  document.querySelectorAll('.zh-content').forEach(e=>e.classList.toggle('hidden',l==='en'));
+  document.querySelectorAll('.en-content').forEach(e=>{
+    e.classList.toggle('hidden',l==='zh');
+    if(l==='both')e.classList.add('mt-2');else e.classList.remove('mt-2');
+  });
+}
+</script>
+</body>
+</html>

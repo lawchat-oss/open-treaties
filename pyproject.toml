@@ -1,0 +1,28 @@
+[project]
+name = "open-treaties"
+version = "1.0.0"
+description = "國際法公約中英雙語結構化資料集 — 28 部公約、1,914 條條文"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.10"
+authors = [{ name = "LawChat", email = "opensource@lawchat.com.tw" }]
+dependencies = ["mcp[cli]>=1.0.0"]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Topic :: Scientific/Engineering :: Information Analysis",
+]
+
+[project.urls]
+Homepage = "https://github.com/lawchat-oss/open-treaties"
+Issues = "https://github.com/lawchat-oss/open-treaties/issues"
+Company = "https://lawchat.com.tw"
+
+[tool.hatch.build.targets.wheel]
+packages = ["."]
+only-include = ["server.py", "data"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
